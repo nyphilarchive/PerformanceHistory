@@ -47,7 +47,7 @@ The XML is structured in the following way:
 		<td colspan=2><strong>General Info: Info that applies to entire program</strong></td>
 	</tr>
 	<tr>
-		<td>id</td><td>GUID (`To view program: http://archives.nyphil.org/index.php/artifact/**[GUID]**/fullview`)</td>
+		<td>id</td><td>GUID (To view program: archives.nyphil.org/index.php/artifact/<strong>GUID</strong>/fullview`)</td>
 	</tr>
 	<tr>
 		<td>ProgramID</td><td>Local NYP ID</td>
