@@ -44,7 +44,7 @@ The XML is structured in the following way:
 		<th>Field</th><th>Description</th>
 	</tr>
 	<tr>
-		<td colspan=2>General Info: Info that applies to entire program</td>
+		<td colspan=2><strong>General Info: Info that applies to entire program</strong></td>
 	</tr>
 	<tr>
 		<td>id</td><td>GUID (`To view program: http://archives.nyphil.org/index.php/artifact/**[GUID]**/fullview`)</td>
@@ -59,7 +59,7 @@ The XML is structured in the following way:
 		<td>Season</td><td>Defined as Sep 1 - Aug 31, displayed "1842-43"</td>
 	</tr>
 	<tr>
-		<td colspan=2>Concert Info: Repeated for each individual performance within a program</td>
+		<td colspan=2><strong>Concert Info: Repeated for each individual performance within a program</strong></td>
 	</tr>
 	<tr>
 		<td>eventType</td><td><a href="http://nyphil.org/history/performance-history/help">See term definitions</a></td>
@@ -77,7 +77,7 @@ The XML is structured in the following way:
 		<td>Time</td><td>Actual time of concert, e.g. "8:00PM"</td>
 	</tr>
 	<tr>
-		<td colspan=2>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell who the soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</td>
+		<td colspan=2><strong>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell who the soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</strong></td>
 	</tr>
 	<tr>
 		<td>WorksConductorName</td><td>Last name, first name</td>
