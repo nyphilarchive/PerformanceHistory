@@ -5,30 +5,93 @@ In an effort to make this data available for study, analysis, and reuse, the Phi
 
 The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) licence. Please see the enclosed LICENCE file for more detail.
 
-##Repository Contents
-We offer two data formats: XML and JSON. They both contain the same information.
+##Considerations
+* A **program** is one or more performances close together in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same.
+* At this time, movement names are not included (we're working on it). In cases where several specific movements are performed rather than the complete work, the work title will be repeated in the data.
+* To see detailed information about our internal descriptive standards, please go to http://nyphil.org/history/performance-history/help.
 
-| Field         | Description
-| ------------- |-------------|
-|id			    |Globally Unique Identifier (GUID). To view program: http://archives.nyphil.org/index.php/artifact/**[GUID]**/fullview |
-|ProgramID		|Local New York Philharmonic identifier|
-|SubEventName	|Event type [(learn more)](http://nyphil.org/history/performance-history/help)|
-|LocationName	|Geographic Location (NYP place names used)|
-|VenueName		| |
-|Time			| |
-|OrchestraName	| |
-|Season			| |
-|SortDate		| |
-|ComposerWorksTitle_facet| |
-|WorksComposerNames| |
-|WorksShortTitle| |
-|Encore			| |
-|WorksSoloistNames| |
-|WorksSoloistInstrumentNames| |
-|WorksSoloistFunction| |
-|WorksConductorNames| |
-|WorksTitle		| |
-|timestamp      | |
+##Repository Contents
+The data is currently available as XML only, though we hope to provide JSON in the future.
+In the *Programs* directory, you will find a series of XML files. The file called complete.xml contains every program from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). The other files are named with document ranges, for no other reason than to make it easier to work with the data. Each file contains 1,000 records and is sorted by date ascending.
+
+The XML is structured in the following way:
+
+```
+<programs>
+   <doc>
+      <id/> // GUID
+      <programID/> // NYP Local ID
+      <orchestra/>
+      <season/>  
+      <concertInfo> // A program can have multiple concerts
+         <eventType/>
+         <Location/>
+         <Venue/>
+         <Date/>
+         <Time/>
+      </concertInfo>
+      <worksInfo> // each field below is repeated for each work
+         <worksConductorName/>     
+         <worksComposerTitle/>
+         <worksSoloistName/>
+         <worksSoloistInstrument/>         
+      </worksInfo>
+   </doc>
+</programs>
+```
+<table>
+	<tr>
+		<th>Field</th><th>Description</th>
+	</tr>
+	<tr>
+		<td colspan=2>General Info: Info that applies to entire program</td>
+	</tr>
+	<tr>
+		<td>id</td><td>GUID (`To view program: http://archives.nyphil.org/index.php/artifact/**[GUID]**/fullview`)</td>
+	</tr>
+	<tr>
+		<td>ProgramID</td><td>Local NYP ID</td>
+	</tr>
+	<tr>
+		<td>Orchestra</td><td>Full orchestra name <a href="http://nyphil.org/history/performance-history/help">Learn more...</a></td>
+	</tr>
+	<tr>
+		<td>Season</td><td>Defined as Sep 1 - Aug 31, displayed "1842-43"</td>
+	</tr>
+	<tr>
+		<td colspan=2>Concert Info: Repeated for each individual performance within a program</td>
+	</tr>
+	<tr>
+		<td>eventType</td><td><a href="http://nyphil.org/history/performance-history/help">See term definitions</a></td>
+	</tr>
+	<tr>
+		<td>Location</td><td>Geographic location of concert</td>
+	</tr>
+	<tr>
+		<td>Venue</td><td>Name of hall, theater, or building where the concert took place</td>
+	</tr>
+	<tr>
+		<td>Date</td><td>Full ISO date used, but ignore TIME part (1842-12-07T05:00:00Z = Dec. 7, 1842)</td>
+	</tr>
+	<tr>
+		<td>Time</td><td>Actual time of concert, e.g. "8:00PM"</td>
+	</tr>
+	<tr>
+		<td colspan=2>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell who the soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</td>
+	</tr>
+	<tr>
+		<td>WorksConductorName</td><td>Last name, first name</td>
+	</tr>
+	<tr>
+		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP works titles used)</td>
+	</tr>
+	<tr>
+		<td>worksSoloistName</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
+	</tr>
+	<tr>
+		<td>worksSoloistInstrument</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
+
+</table>
 
 
 ##Usage Guidelines
