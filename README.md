@@ -1,18 +1,18 @@
 # New York Philharmonic Performance History
-Since its first concert on December 7, 1842, the New York Philharmonic has been keeping records of all its performances which now add up to almost 16,000. Each concert has been cataloged in the Philharmonic's [Performance History database](http://archives.nyphil.org/performancehistory) in great detail. The [Leon Levy Digital Archives](http://archives.nyphil.org), provides an additional interface for searching performances alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
+The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This [Performance History database](http://archives.nyphil.org/performancehistory) documents all known concerts of all of these organizations, amounting to more than 20,000 performances. The [New York Philharmonic Leon Levy Digital Archives](http://archives.nyphil.org), provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
 
-In an effort to make this data available for study, analysis, and reuse, the Philharmonic joins organizations like the [Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper Hewitt</a> in making its own contribution to the Open Data movement.
+In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper-Hewitt</a> in making its own contribution to the Open Data movement.
 
 The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) licence. Please see the enclosed LICENCE file for more detail.
 
 ##Considerations
-* A **program** is one or more performances close together in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same.
-* At this time, movement names are not included (we're working on it). In cases where several specific movements are performed rather than the complete work, the work title will be repeated in the data.
+* A **program** is defined as one or more performances or presentations in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, locations may vary within). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
+* Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.
 * To see detailed information about our internal descriptive standards, please go to http://nyphil.org/history/performance-history/help.
 
 ##Repository Contents
 The data is currently available as XML only, though we hope to provide JSON in the future.
-In the *Programs* directory, you will find a series of XML files. The file called complete.xml contains every program from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). The other files are named with document ranges, for no other reason than to make it easier to work with the data. Each file contains 1,000 records and is sorted by date ascending.
+In the *Programs* directory, you will find a series of XML files. The file called complete.xml contains every concert from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). To allow for easier downloading and use, also available are segmented files determined by date ranges (each segment contains about 1,000 records).
 
 The XML is structured in the following way:
 
@@ -34,7 +34,8 @@ The XML is structured in the following way:
          <worksConductorName/>     
          <worksComposerTitle/>
          <worksSoloistName/>
-         <worksSoloistInstrument/>         
+         <worksSoloistInstrument/> 
+		 <worksSoloistRole/>   		 
       </worksInfo>
    </doc>
 </programs>
@@ -65,7 +66,7 @@ The XML is structured in the following way:
 		<td>eventType</td><td><a href="http://nyphil.org/history/performance-history/help">See term definitions</a></td>
 	</tr>
 	<tr>
-		<td>Location</td><td>Geographic location of concert</td>
+		<td>Location</td><td>Geographic location of concert (Countries are identified by their current name. For example, even though the orchestra played in Czechoslovakia, it is now identified in the data as the Czech Republic)</td>
 	</tr>
 	<tr>
 		<td>Venue</td><td>Name of hall, theater, or building where the concert took place</td>
@@ -83,14 +84,17 @@ The XML is structured in the following way:
 		<td>WorksConductorName</td><td>Last name, first name</td>
 	</tr>
 	<tr>
-		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP works titles used)</td>
+		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP short titles used)</td>
 	</tr>
 	<tr>
 		<td>worksSoloistName</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
 	</tr>
 	<tr>
 		<td>worksSoloistInstrument</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
-
+	</tr>
+		<tr>
+		<td>worksSoloistRole</td><td>"S" means "Soloist"; "A" means "Assisting Artist" (if multiple soloists on a single work, delimited by semicolon)</td>
+	</tr>	
 </table>
 
 
