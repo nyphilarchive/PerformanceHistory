@@ -1,5 +1,5 @@
 # New York Philharmonic Performance History
-The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This [Performance History database](http://archives.nyphil.org/performancehistory) documents all known concerts of all of these organizations, amounting to more than 20,000 performances. The [New York Philharmonic Leon Levy Digital Archives](http://archives.nyphil.org), provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
+The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This [Performance History database](http://archives.nyphil.org/performancehistory) documents all known concerts of all of these organizations, amounting to more than 20,000 performances. The [New York Philharmonic Leon Levy Digital Archives](http://archives.nyphil.org) provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
 
 In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper-Hewitt</a> in making its own contribution to the Open Data movement.
 
@@ -78,7 +78,7 @@ The XML is structured in the following way:
 		<td>Time</td><td>Actual time of concert, e.g. "8:00PM"</td>
 	</tr>
 	<tr>
-		<td colspan=2><strong>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell who the soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</strong></td>
+		<td colspan=2><strong>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell which soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</strong></td>
 	</tr>
 	<tr>
 		<td>WorksConductorName</td><td>Last name, first name</td>
