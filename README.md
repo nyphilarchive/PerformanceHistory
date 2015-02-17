@@ -1,7 +1,7 @@
 # New York Philharmonic Performance History
 The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This [Performance History database](http://archives.nyphil.org/performancehistory) documents all known concerts of all of these organizations, amounting to more than 20,000 performances. The [New York Philharmonic Leon Levy Digital Archives](http://archives.nyphil.org) provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
 
-In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper-Hewitt</a> in making its own contribution to the Open Data movement.
+In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper-Hewitt Smithsonian National Design Museum</a> in making its own contribution to the Open Data movement.
 
 The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) licence. Please see the enclosed LICENCE file for more detail.
 
@@ -48,7 +48,7 @@ The XML is structured in the following way:
 		<td colspan=2><strong>General Info: Info that applies to entire program</strong></td>
 	</tr>
 	<tr>
-		<td>id</td><td>GUID (To view program: archives.nyphil.org/index.php/artifact/<strong>GUID</strong>/fullview`)</td>
+		<td>id</td><td>GUID (To view program: archives.nyphil.org/index.php/artifact/<strong>GUID</strong>/fullview)</td>
 	</tr>
 	<tr>
 		<td>ProgramID</td><td>Local NYP ID</td>
@@ -81,7 +81,7 @@ The XML is structured in the following way:
 		<td colspan=2><strong>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell which soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</strong></td>
 	</tr>
 	<tr>
-		<td>WorksConductorName</td><td>Last name, first name</td>
+		<td>worksConductorName</td><td>Last name, first name</td>
 	</tr>
 	<tr>
 		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP short titles used)</td>
@@ -134,6 +134,6 @@ Ensure that your use of the Metadata does not breach any national legislation ba
 
 **Please note that you use the Metadata at your own risk.**
 
-the New York Philharmonic offers the Metadata as-is and makes no representations or warranties of any kind concerning any Metadata published by the New York Philharmonic.
+The New York Philharmonic offers the Metadata as-is and makes no representations or warranties of any kind concerning any Metadata published by the New York Philharmonic.
 
-The writers of these guidelines are deeply indebted to the [Tate](http://www.tate.org.uk), the [Smithsonian Cooper-Hewitt, National Design Museum](http://www.cooperhewitt.org/), and [Europeana](http://europeana.eu/).
+The writers of these guidelines are deeply indebted to the [Tate](http://www.tate.org.uk), the [Cooper-Hewitt Smithsonian National Design Museum](http://www.cooperhewitt.org/), and [Europeana](http://europeana.eu/).
