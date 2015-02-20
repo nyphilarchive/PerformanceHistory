@@ -1,5 +1,6 @@
 #import modules
 from __future__ import division
+from sys import argv
 import re
 from collections import Counter
 from sets import Set
@@ -88,7 +89,7 @@ JOIN Years ON Works.year=Years.year
 WHERE Works.composer='%s'"""
 
 #composer_list = ['Beethoven','Mozart','Wagner','Tchaikovsky','Strauss','Brahms','Mendelssohn','Bach','Berlioz','Dvorak','Gershwin']
-composer_list = ['Beethoven','Wagner']
+composer_list = argv[1:]
 
 for n in composer_list:
     dates = []
