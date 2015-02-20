@@ -4,12 +4,11 @@ import re
 from collections import Counter
 from sets import Set
 import matplotlib.pyplot as plt
-%matplotlib inline
 import xml.etree.ElementTree as ET
 import MySQLdb
 
 #create xml collection of "docs" (i.e., programs in NYPhil's definition)
-tree = ET.parse('PerformanceHistory/Programs/complete.xml')
+tree = ET.parse('../Programs/complete.xml')
 root = tree.getroot()
 concerts = root.findall('doc')
 
