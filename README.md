@@ -18,7 +18,7 @@ The XML is structured in the following way:
 
 ```
 <programs>
-   <doc>
+   <program>
       <id/> // GUID
       <programID/> // NYP Local ID
       <orchestra/>
@@ -30,14 +30,22 @@ The XML is structured in the following way:
          <Date/>
          <Time/>
       </concertInfo>
-      <worksInfo> // each field below is repeated for each work
-         <worksConductorName/>     
-         <worksComposerTitle/>
-         <worksSoloistName/>
-         <worksSoloistInstrument/> 
-		 <worksSoloistRole/>   		 
+      <worksInfo> // a program will usually have multiple works 
+         <work>
+             <composerName/>
+             <workTitle/>
+             <conductorName/>     
+             <soloists> // included only if there are listed soloists
+                <soloist>
+                    <soloistName/>
+                    <soloistInstrument/> 
+                    <soloistRole/>   		 
+                </soloist>
+             </soloists>
+             <interval/> // intermissions are listed among works, but with a distinct interval tag
+         </work>
       </worksInfo>
-   </doc>
+   </program>
 </programs>
 ```
 <table>
