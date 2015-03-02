@@ -37,9 +37,9 @@ for g in files:
     def sortSoloistInfo(soloists,soloist_instruments,soloist_roles):
         if re.search(r';',soloists):
             try:
-                soloists_list = string.split(soloists,";")
-                soloist_instruments_list = string.split(soloist_instruments,";")
-                soloist_roles_list = string.split(soloist_roles,";")
+                soloists_list = str.split(soloists,";")
+                soloist_instruments_list = str.split(soloist_instruments,";")
+                soloist_roles_list = str.split(soloist_roles,";")
                 for x in range(0,len(soloists_list)):
                     f.write("                    <soloist>\n")
                     f.write("                        <soloistName>%s</soloistName>\n"%fixSpaces(soloists_list[x]))
