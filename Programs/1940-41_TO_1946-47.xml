@@ -1545,6 +1545,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>6e99f921-6e20-4feb-8569-6ffa5de828f2</id>
+        <programID>4798</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1940-41</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1940-12-14T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>ABDUCTION FROM THE SERAGLIO, THE: OVERTURE, K.384 (ARR. Unspecified)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Corigliano, John, Sr.</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>KING LEAR: INCIDENTAL MUSIC (ARR. Roger-Ducasse)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>881e7ee6-a5fa-45c2-ab69-2e6964cdb32f</id>
         <programID>2490</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1595,51 +1640,6 @@
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>6e99f921-6e20-4feb-8569-6ffa5de828f2</id>
-        <programID>4798</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1940-41</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1940-12-14T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>ABDUCTION FROM THE SERAGLIO, THE: OVERTURE, K.384 (ARR. Unspecified)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Corigliano, John, Sr.</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>KING LEAR: INCIDENTAL MUSIC (ARR. Roger-Ducasse)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -1754,8 +1754,8 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZES, OP. 333</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZ, OP. 333</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
@@ -3096,7 +3096,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Alwin, Carl</conductorName>
             </work>
@@ -3157,7 +3157,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FRUHLINGSSTIMMEN (VOICES OF SPRING), OP.410</workTitle>
                 <conductorName>Not conducted</conductorName>
                 <soloists>
@@ -3174,7 +3174,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Alwin, Carl</conductorName>
             </work>
@@ -3426,7 +3426,7 @@
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -4672,12 +4672,12 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -4978,7 +4978,7 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>SCHATZ-WALZER (TREASURE WALTZ), OP. 418</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -6660,7 +6660,7 @@
                 <interval>Intermission-Second</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (BALLET - THE BLUE DANUBE) (ARR. Desormiere [Désormière])</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -7197,7 +7197,7 @@
                 <interval>Intermission-Second</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (BALLET - THE BLUE DANUBE) (ARR. Desormiere [Désormière])</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -7592,7 +7592,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp;  FUGUE, C MINOR, BWV 582 (ARR. Boessenroth)</workTitle>
+                <workTitle>PASSACAGLIA &  FUGUE, C MINOR, BWV 582 (ARR. Boessenroth)</workTitle>
                 <conductorName>Goossens, Eugene</conductorName>
             </work>
             <work>
@@ -10127,7 +10127,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
@@ -10456,17 +10456,17 @@
                 <conductorName>Adler, Peter Herman</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>WIENER BLUT WALTZ, OP. 354</workTitle>
                 <conductorName>Adler, Peter Herman</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Adler, Peter Herman</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Adler, Peter Herman</conductorName>
             </work>
@@ -10817,7 +10817,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE) (HARMONICA) (ARR. Adler)</workTitle>
                 <soloists>
                     <soloist>
@@ -11035,7 +11035,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -11896,17 +11896,17 @@
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
@@ -12507,7 +12507,7 @@
         <worksInfo>
             <work>
                 <composerName>Wetzler,  Hermann  Hans</composerName>
-                <workTitle>QUARTET, C MINOR: ADAGIO &amp; FUGUE (ORCH.)</workTitle>
+                <workTitle>QUARTET, C MINOR: ADAGIO & FUGUE (ORCH.)</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work>
@@ -12781,7 +12781,7 @@
         <worksInfo>
             <work>
                 <composerName>Purcell,  Henry</composerName>
-                <workTitle>PRELUDE &amp; DIDO'S LAMENT (ORCHESTRAL) (ARR. Mitropoulos)</workTitle>
+                <workTitle>PRELUDE & DIDO'S LAMENT (ORCHESTRAL) (ARR. Mitropoulos)</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work>
@@ -12876,7 +12876,7 @@
         <worksInfo>
             <work>
                 <composerName>Purcell,  Henry</composerName>
-                <workTitle>PRELUDE &amp; DIDO'S LAMENT (ORCHESTRAL) (ARR. Mitropoulos)</workTitle>
+                <workTitle>PRELUDE & DIDO'S LAMENT (ORCHESTRAL) (ARR. Mitropoulos)</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work>
@@ -14561,46 +14561,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>b367d903-46de-423d-8a4d-8820a32ce3f1</id>
-        <programID>6862</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1941-42</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1942-03-28T04:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>acda0a27-5b7c-4eb9-bd56-76ebb9f09859</id>
         <programID>1020</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -14668,6 +14628,46 @@
                 <composerName>Shostakovich,  Dmitri</composerName>
                 <workTitle>AGE OF GOLD, THE, OP. 22: SUITE</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>b367d903-46de-423d-8a4d-8820a32ce3f1</id>
+        <programID>6862</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1941-42</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1942-03-28T04:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -14760,12 +14760,12 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -14996,7 +14996,7 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -15187,7 +15187,7 @@
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -15424,7 +15424,7 @@
             </work>
             <work>
                 <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, VIOLIN, CELLO &amp; PIANO, OP. 56 (TRIPLE)</workTitle>
+                <workTitle>CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
                 <soloists>
                     <soloist>
@@ -16665,7 +16665,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (BALLET - THE BLUE DANUBE) (ARR. Desormiere [Désormière])</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -17638,7 +17638,7 @@
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
@@ -18038,7 +18038,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (BALLET - THE BLUE DANUBE) (ARR. Desormiere [Désormière])</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -19438,13 +19438,13 @@
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZES, OP. 333</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZ, OP. 333</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
         </worksInfo>
@@ -19948,7 +19948,7 @@
                 <conductorName>Barlow, Howard</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Barlow, Howard</conductorName>
             </work>
@@ -20774,7 +20774,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -22529,7 +22529,7 @@
             </work>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, B MINOR, BWV 869 (ARR. Mitropoulos)</workTitle>
+                <workTitle>PRELUDE & FUGUE, B MINOR, BWV 869 (ARR. Mitropoulos)</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work>
@@ -22630,7 +22630,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, B MINOR, BWV 869 (ARR. Mitropoulos)</workTitle>
+                <workTitle>PRELUDE & FUGUE, B MINOR, BWV 869 (ARR. Mitropoulos)</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work>
@@ -23371,8 +23371,8 @@
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WIENER BLUT WALTZES, OP. 354</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WIENER BLUT WALTZ, OP. 354</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
         </worksInfo>
@@ -23711,6 +23711,61 @@
         </worksInfo>
     </program>
     <program>
+        <id>04ff46e7-bf97-47e9-b4c8-4aaf831979a8</id>
+        <programID>5025</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-02-13T04:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-02-14T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Nicolai,  Otto</composerName>
+                <workTitle>MERRY WIVES OF WINDSOR, THE</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Chasins,  Abram</composerName>
+                <workTitle>PARADE</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Respighi,  Ottorino</composerName>
+                <workTitle>FOUNTAINS OF ROME (FONTANE DI ROMA)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Weinberger,  Jaromir</composerName>
+                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work>
+                <composerName>Weinberger,  Jaromir</composerName>
+                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>a7619835-85d5-4b05-b52e-26e118a1f42a</id>
         <programID>4964</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -23783,64 +23838,9 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>04ff46e7-bf97-47e9-b4c8-4aaf831979a8</id>
-        <programID>5025</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-02-13T04:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-02-14T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Nicolai,  Otto</composerName>
-                <workTitle>MERRY WIVES OF WINDSOR, THE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Franck,  César</composerName>
-                <workTitle>SYMPHONY IN D MINOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Chasins,  Abram</composerName>
-                <workTitle>PARADE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Respighi,  Ottorino</composerName>
-                <workTitle>FOUNTAINS OF ROME (FONTANE DI ROMA)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Weinberger,  Jaromir</composerName>
-                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work>
-                <composerName>Weinberger,  Jaromir</composerName>
-                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -23873,7 +23873,7 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -23936,7 +23936,7 @@
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
@@ -24061,7 +24061,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, C MINOR, BWV 546 (ARR. Gomer)</workTitle>
+                <workTitle>PRELUDE & FUGUE, C MINOR, BWV 546 (ARR. Gomer)</workTitle>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work>
@@ -26596,44 +26596,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5469e52f-da42-43ee-ad6b-925939cc7e05</id>
-        <programID>6378</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-07-04T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Szell, George</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Sousa,  John  Philip</composerName>
-                <workTitle>STARS AND STRIPES FOREVER</workTitle>
-                <conductorName>Szell, George</conductorName>
-            </work>
-            <work>
-                <composerName>Smetana,  Bedrich</composerName>
-                <workTitle>MA VLAST (MY COUNTRY)</workTitle>
-                <conductorName>Szell, George</conductorName>
-            </work>
-            <work>
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <conductorName>Szell, George</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>7d731675-45c8-43af-9eb5-6c3ddf034e91</id>
         <programID>10739</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -26713,6 +26675,44 @@
                 <composerName>Unspecified,</composerName>
                 <workTitle>AMERICAN SALUTE (ARR. Gould)</workTitle>
                 <conductorName>Gould, Morton</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5469e52f-da42-43ee-ad6b-925939cc7e05</id>
+        <programID>6378</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-07-04T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Szell, George</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Sousa,  John  Philip</composerName>
+                <workTitle>STARS AND STRIPES FOREVER</workTitle>
+                <conductorName>Szell, George</conductorName>
+            </work>
+            <work>
+                <composerName>Smetana,  Bedrich</composerName>
+                <workTitle>MA VLAST (MY COUNTRY)</workTitle>
+                <conductorName>Szell, George</conductorName>
+            </work>
+            <work>
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TANNHAUSER, WWV 70</workTitle>
+                <conductorName>Szell, George</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -26872,12 +26872,12 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>NIGHT IN VENICE</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
                 <soloists>
@@ -26913,7 +26913,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -26996,7 +26996,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>STRAUSS GOES TO TOWN (ARR. Stolz)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
                 <soloists>
@@ -27115,44 +27115,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>1dffef57-a937-4f56-9cf3-4379243105e1</id>
-        <programID>10750</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1943-07-11T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Gluck,  Christoph  Willibald</composerName>
-                <workTitle>BALLET SUITE NO. 1 (ARR. Mottl)</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work>
-                <composerName>Dukas,  Paul</composerName>
-                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>c2b8f631-2f64-412d-98e9-d55b32a2a258</id>
         <programID>6384</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -27194,6 +27156,44 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>1dffef57-a937-4f56-9cf3-4379243105e1</id>
+        <programID>10750</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1943-07-11T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Gluck,  Christoph  Willibald</composerName>
+                <workTitle>BALLET SUITE NO. 1 (ARR. Mottl)</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work>
+                <composerName>Dukas,  Paul</composerName>
+                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -27667,6 +27667,41 @@
         </worksInfo>
     </program>
     <program>
+        <id>dfe6641e-010c-443e-9183-4c544f1bbcf8</id>
+        <programID>6389</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-07-18T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 3 IN F MAJOR, OP. 90</workTitle>
+                <conductorName>Steinberg, William</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
+                <conductorName>Steinberg, William</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Busch, Adolf</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>1d25ee17-6014-4b58-ae4b-d8eaa11d0410</id>
         <programID>10756</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -27716,41 +27751,6 @@
                 <composerName>Chabrier,  Emmanuel</composerName>
                 <workTitle>ESPAÑA</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>dfe6641e-010c-443e-9183-4c544f1bbcf8</id>
-        <programID>6389</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-07-18T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 3 IN F MAJOR, OP. 90</workTitle>
-                <conductorName>Steinberg, William</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
-                <conductorName>Steinberg, William</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Busch, Adolf</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -28216,7 +28216,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE: FANTASY (ARR. La Forge)</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
                 <soloists>
@@ -30191,12 +30191,12 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr. &amp; Josef</composerName>
+                <composerName>Strauss,  Johann, Jr. & Josef</composerName>
                 <workTitle>PIZZICATO POLKA</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FRUHLINGSSTIMMEN (VOICES OF SPRING), OP.410</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -31638,17 +31638,17 @@
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -31813,17 +31813,17 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -32787,7 +32787,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Beckett, Wheeler</conductorName>
             </work>
@@ -32999,7 +32999,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
@@ -34111,17 +34111,17 @@
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
@@ -35893,12 +35893,12 @@
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
@@ -36001,7 +36001,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, C MAJOR, BWV 564 (ARR. Weiner)</workTitle>
+                <workTitle>TOCCATA & FUGUE, C MAJOR, BWV 564 (ARR. Weiner)</workTitle>
                 <conductorName>Dorati, Antal</conductorName>
             </work>
             <work>
@@ -36071,7 +36071,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -36152,7 +36152,7 @@
                 <conductorName>Stolz, Robert</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -36179,7 +36179,7 @@
                 <conductorName>Stolz, Robert</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -36569,7 +36569,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>WALTZ FANTASY FOR TWO PIANOS</workTitle>
                 <soloists>
                     <soloist>
@@ -36938,6 +36938,39 @@
         </worksInfo>
     </program>
     <program>
+        <id>9311ea50-bcc8-4599-a679-f2617abdb3a2</id>
+        <programID>10841</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1944-08-06T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>EGMONT, OP.84</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>5cdd3d47-6808-48e4-8234-e3505b44af30</id>
         <programID>5444</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -36974,39 +37007,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>9311ea50-bcc8-4599-a679-f2617abdb3a2</id>
-        <programID>10841</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1944-08-06T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>EGMONT, OP.84</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -37330,7 +37330,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FRUHLINGSSTIMMEN (VOICES OF SPRING), OP.410</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
@@ -37942,7 +37942,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp; FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
+                <workTitle>PASSACAGLIA & FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
@@ -37985,7 +37985,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp; FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
+                <workTitle>PASSACAGLIA & FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
@@ -41060,7 +41060,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -44377,7 +44377,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -45500,7 +45500,7 @@
                 <conductorName>Sevitzky, Fabien</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FRUHLINGSSTIMMEN (VOICES OF SPRING), OP.410</workTitle>
                 <conductorName>Sevitzky, Fabien</conductorName>
             </work>
@@ -45530,7 +45530,7 @@
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Romberg, Sigmund</conductorName>
                 <soloists>
@@ -45910,87 +45910,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>c01c7c03-7a83-4738-ba7f-bfe6f1399f3a</id>
-        <programID>11252</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1945-07-29T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
-                <conductorName>Abravanel, Maurice</conductorName>
-            </work>
-            <work>
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Abravanel, Maurice</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Milhaud,  Darius</composerName>
-                <workTitle>SUITE FRANÇAISE, OP. 248</workTitle>
-                <conductorName>Abravanel, Maurice</conductorName>
-            </work>
-            <work>
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
-                <conductorName>Abravanel, Maurice</conductorName>
-            </work>
-            <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
-                <conductorName>Abravanel, Maurice</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0c767dc5-168b-45c5-a5b0-2da9e8cb83e6</id>
-        <programID>675</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1945-07-29T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA, C MAJOR, BWV 564 (ARR. Ormandy)</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work>
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>5fb30c7d-4367-4f99-8353-909f5a364469</id>
         <programID>11251</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -46162,7 +46081,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>TRITSCH-TRATSCH POLKA, OP. 214</workTitle>
                 <conductorName>Abravanel, Maurice</conductorName>
                 <soloists>
@@ -46291,6 +46210,87 @@
         </worksInfo>
     </program>
     <program>
+        <id>c01c7c03-7a83-4738-ba7f-bfe6f1399f3a</id>
+        <programID>11252</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1945-07-29T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
+                <conductorName>Abravanel, Maurice</conductorName>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DON JUAN, OP. 20</workTitle>
+                <conductorName>Abravanel, Maurice</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Milhaud,  Darius</composerName>
+                <workTitle>SUITE FRANÇAISE, OP. 248</workTitle>
+                <conductorName>Abravanel, Maurice</conductorName>
+            </work>
+            <work>
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
+                <conductorName>Abravanel, Maurice</conductorName>
+            </work>
+            <work>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
+                <conductorName>Abravanel, Maurice</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>0c767dc5-168b-45c5-a5b0-2da9e8cb83e6</id>
+        <programID>675</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1945-07-29T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>TOCCATA, C MAJOR, BWV 564 (ARR. Ormandy)</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work>
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>37742c4e-3024-4a00-a147-fc0a38c8a92d</id>
         <programID>11253</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -46305,7 +46305,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Wood)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Wood)</workTitle>
                 <conductorName>Goossens, Eugene</conductorName>
             </work>
             <work>
@@ -46615,7 +46615,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -46630,7 +46630,7 @@
                 <conductorName>Stolz, Robert</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>COLORATURA WALTZ</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
                 <soloists>
@@ -46727,7 +46727,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ROSEN AUS DEM SUDEN (ROSES FROM THE SOUTH) WALTZES, OP. 388</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -48109,7 +48109,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -49042,7 +49042,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -49558,7 +49558,7 @@
             </work>
             <work>
                 <composerName>Kern,  Jerome</composerName>
-                <workTitle>SHOWBOAT: SCENARIO FOR ORCHESTRA</workTitle>
+                <workTitle>SHOW BOAT: SCENARIO FOR ORCHESTRA</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
         </worksInfo>
@@ -49739,7 +49739,7 @@
             </work>
             <work>
                 <composerName>Kern,  Jerome</composerName>
-                <workTitle>SHOWBOAT: SCENARIO FOR ORCHESTRA</workTitle>
+                <workTitle>SHOW BOAT: SCENARIO FOR ORCHESTRA</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work>
@@ -51180,7 +51180,7 @@
                 <conductorName>Harris, Roy</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -51564,7 +51564,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Hendl, Walter</conductorName>
             </work>
@@ -52035,7 +52035,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
                 <conductorName>Fendler, Edvard</conductorName>
             </work>
@@ -52475,7 +52475,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>WIENER BLUT (OPERA)</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
@@ -52500,7 +52500,7 @@
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
@@ -52544,12 +52544,12 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437 (VOCAL SETTING)</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
                 <soloists>
@@ -52561,12 +52561,12 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
                 <soloists>
@@ -52583,7 +52583,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
                 <soloists>
@@ -52682,7 +52682,7 @@
             </work>
             <work>
                 <composerName>Rodgers,  Richard</composerName>
-                <workTitle>CAROUSEL: THE CAROUSEL WALTZES</workTitle>
+                <workTitle>CAROUSEL: THE CAROUSEL WALTZES (ARR. Walker)</workTitle>
                 <conductorName>Broekman, David</conductorName>
             </work>
             <work>
@@ -52699,7 +52699,7 @@
             </work>
             <work>
                 <composerName>Kern,  Jerome</composerName>
-                <workTitle>SHOWBOAT</workTitle>
+                <workTitle>SHOW BOAT (ARR. Bennett)</workTitle>
                 <conductorName>Broekman, David</conductorName>
                 <soloists>
                     <soloist>
@@ -53281,7 +53281,7 @@
                 <conductorName>Autori, Franco</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Autori, Franco</conductorName>
             </work>
@@ -53528,7 +53528,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Broekman, David</conductorName>
             </work>
@@ -54308,7 +54308,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERPETUUM MOBILE, OP. 257</workTitle>
                 <conductorName>Fendler, Edvard</conductorName>
                 <soloists>
@@ -55077,7 +55077,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Abravanel, Maurice</conductorName>
             </work>
@@ -55127,7 +55127,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>TRITSCH-TRATSCH POLKA, OP. 214</workTitle>
                 <conductorName>Abravanel, Maurice</conductorName>
             </work>
@@ -55593,7 +55593,7 @@
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
                 <soloists>
@@ -55613,8 +55613,8 @@
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WIENER BLUT WALTZES, OP. 354</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WIENER BLUT WALTZ, OP. 354</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
@@ -55643,12 +55643,12 @@
                 <interval>Intermission-Second</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
                 <soloists>
@@ -55660,7 +55660,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>PERSIAN MARCH, OP. 289</workTitle>
                 <conductorName>Bonime, Josef</conductorName>
             </work>
@@ -55768,7 +55768,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FRUHLINGSSTIMMEN (VOICES OF SPRING), OP.410</workTitle>
                 <conductorName>Neuman, Herman</conductorName>
             </work>
@@ -56488,7 +56488,7 @@
             </work>
             <work>
                 <composerName>Rodgers,  Richard</composerName>
-                <workTitle>CAROUSEL: THE CAROUSEL WALTZES</workTitle>
+                <workTitle>CAROUSEL: THE CAROUSEL WALTZES (ARR. Walker)</workTitle>
                 <conductorName>Shefter, Bert</conductorName>
             </work>
             <work>
@@ -57110,7 +57110,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Kreutz, Arthur</conductorName>
                 <soloists>
@@ -57515,8 +57515,8 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WIENER BLUT WALTZES, OP. 354</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WIENER BLUT WALTZ, OP. 354</workTitle>
                 <conductorName>D'Artega, (Alfonso)</conductorName>
             </work>
             <work>
@@ -59149,7 +59149,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp; FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
+                <workTitle>PASSACAGLIA & FUGUE, C MINOR, BWV 582 (ARR. Respighi)</workTitle>
                 <conductorName>Monteux, Pierre</conductorName>
             </work>
             <work>
@@ -59940,7 +59940,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>POLKA (UNSPECIFIED)</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -60334,7 +60334,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>POLKA (UNSPECIFIED)</workTitle>
                 <conductorName>Allers, Franz</conductorName>
                 <soloists>
@@ -60604,7 +60604,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -60665,7 +60665,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -61112,7 +61112,7 @@
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
@@ -63494,7 +63494,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Beckett, Wheeler</conductorName>
             </work>
@@ -63736,7 +63736,7 @@
                 <conductorName>Szell, George</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Szell, George</conductorName>
             </work>
@@ -64436,7 +64436,7 @@
             </work>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp;  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
+                <workTitle>PASSACAGLIA &  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -64581,7 +64581,7 @@
             </work>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &amp;  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
+                <workTitle>PASSACAGLIA &  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -65153,7 +65153,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -65198,7 +65198,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -65458,7 +65458,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -65613,7 +65613,7 @@
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
@@ -66676,7 +66676,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -66805,7 +66805,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -66934,7 +66934,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -67091,7 +67091,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
             <work>
@@ -68120,7 +68120,7 @@
             </work>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work>
@@ -68865,7 +68865,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>FLEDERMAUS, DIE</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -68911,7 +68911,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
                 <soloists>
@@ -68989,7 +68989,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
                 <conductorName>Stolz, Robert</conductorName>
             </work>
@@ -69719,8 +69719,8 @@
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
-                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZES, OP. 333</workTitle>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>WEIN, WEIB UND GESANG! (WINE, WOMEN, AND SONG) WALTZ, OP. 333</workTitle>
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
             <work>
@@ -69730,7 +69730,7 @@
             </work>
             <work>
                 <composerName>Rodgers,  Richard</composerName>
-                <workTitle>CAROUSEL: THE CAROUSEL WALTZES</workTitle>
+                <workTitle>CAROUSEL: THE CAROUSEL WALTZES (ARR. Walker)</workTitle>
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
             <work>
@@ -69795,7 +69795,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ZIGEUNERBARON (GYPSY BARON)</workTitle>
                 <conductorName>Romberg, Sigmund</conductorName>
             </work>
@@ -70970,7 +70970,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Strauss,  Johann, Jr.</composerName>
+                <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>POLKA (UNSPECIFIED)</workTitle>
                 <conductorName>Zeller, Robert</conductorName>
                 <soloists>
