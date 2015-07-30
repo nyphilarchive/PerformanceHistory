@@ -841,7 +841,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2004-05</season>
         <concertInfo>
-            <eventType>Tour - School Day Concert</eventType>
+            <eventType>Tour - Young People's Concerts for Schools</eventType>
             <Location>Tokyo, JAPAN</Location>
             <Venue>Sumida Triphony Hall</Venue>
             <Date>2004-10-23T04:00:00Z</Date>
@@ -1573,6 +1573,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>73800337-b5e9-42a1-be41-22b4f9108115</id>
+        <programID>13715</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2004-05</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>New York Society for Ethical Culture</Venue>
+            <Date>2004-12-01T05:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>edfd88f8-93d2-4ac3-9d1b-cdf9b1b4cee0</id>
         <programID>9311</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1821,21 +1836,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>6aa0f405-ad55-4f65-97fa-9081b3ff652c</id>
-        <programID>7645</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>2004-05</season>
-        <concertInfo>
-            <eventType>Chamber Concert (Private)</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>The Stanley H. Kaplan Penthouse</Venue>
-            <Date>2004-12-06T05:00:00Z</Date>
-            <Time>7:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-        </worksInfo>
-    </program>
-    <program>
         <id>0a352d3b-c42d-46e9-b2f6-bb71037ad4d3</id>
         <programID>9205</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1867,6 +1867,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>6aa0f405-ad55-4f65-97fa-9081b3ff652c</id>
+        <programID>7645</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2004-05</season>
+        <concertInfo>
+            <eventType>Chamber Concert (Private)</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2004-12-06T05:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -1972,57 +1987,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>9c213ff5-8a3d-4e58-be5d-55daa779be5c</id>
-        <programID>9490</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2004-05</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2004-12-11T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>SAGA, A (EN SAGA), OP. 9</workTitle>
-                <conductorName>Davis, Colin</conductorName>
-            </work>
-            <work>
-                <composerName>Janacek [Janácek],  Leoš</composerName>
-                <workTitle>TARAS BULBA</workTitle>
-                <conductorName>Davis, Colin</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
-                <conductorName>Davis, Colin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hahn, Hilary</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>SONATA, VIOLIN, UNACCOMPANIED, NO. 3, C MAJOR, BWV 1005</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hahn, Hilary</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>8b45238f-9226-4b10-b176-764a032e58be</id>
         <programID>9314</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -2084,6 +2048,57 @@
                         <soloistName>Rattazzi, James</soloistName>
                         <soloistInstrument>Video Operator</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>9c213ff5-8a3d-4e58-be5d-55daa779be5c</id>
+        <programID>9490</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2004-05</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2004-12-11T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>SAGA, A (EN SAGA), OP. 9</workTitle>
+                <conductorName>Davis, Colin</conductorName>
+            </work>
+            <work>
+                <composerName>Janacek [Janácek],  Leoš</composerName>
+                <workTitle>TARAS BULBA</workTitle>
+                <conductorName>Davis, Colin</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
+                <conductorName>Davis, Colin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hahn, Hilary</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>SONATA, VIOLIN, UNACCOMPANIED, NO. 3, C MAJOR, BWV 1005</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hahn, Hilary</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -4904,7 +4919,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Dohnanyi,  Ernö</composerName>
+                <composerName>Dohnanyi,  Erno  von</composerName>
                 <workTitle>SEXTET, CLARINET, HORN, PIANO, STRINGS</workTitle>
                 <soloists>
                     <soloist>
@@ -6225,14 +6240,14 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2004-05</season>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2005-05-09T04:00:00Z</Date>
             <Time>10:30AM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2005-05-09T04:00:00Z</Date>
@@ -6993,7 +7008,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work>
@@ -7053,7 +7068,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work>
@@ -7253,7 +7268,7 @@
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work>
-                <composerName>Dohnanyi,  Ernö</composerName>
+                <composerName>Dohnanyi,  Erno  von</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
                 <soloists>
@@ -7313,7 +7328,7 @@
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work>
-                <composerName>Dohnanyi,  Ernö</composerName>
+                <composerName>Dohnanyi,  Erno  von</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
                 <soloists>
@@ -8931,6 +8946,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>6518f61e-810b-4e79-ab63-1d45b3c1b547</id>
+        <programID>13716</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2005-06</season>
+        <concertInfo>
+            <eventType>Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2005-09-28T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>e84ceb30-6f5e-4390-91b7-a1d0d8eebef2</id>
         <programID>9370</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -9009,13 +9039,6 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Runout</eventType>
-            <Location>Greenvale, NY</Location>
-            <Venue>Tilles Center for the Performing Arts (Main)</Venue>
-            <Date>2005-10-07T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <concertInfo>
             <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
@@ -9028,6 +9051,81 @@
             <Venue>Avery Fisher Hall</Venue>
             <Date>2005-10-11T04:00:00Z</Date>
             <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>VALSES NOBLES ET SENTIMENTALES</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR, OP.53</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Chang, Sarah</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Dutoit, Charles</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>94eb3d90-d845-4a85-ab39-d4d458bd6e0a</id>
+        <programID>13564</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2005-06</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Greenvale, NY</Location>
+            <Venue>Tilles Center for the Performing Arts (Main)</Venue>
+            <Date>2005-10-07T04:00:00Z</Date>
+            <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
             <work>
@@ -10675,7 +10773,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Dohnanyi,  Ernö</composerName>
+                <composerName>Dohnanyi,  Erno  von</composerName>
                 <workTitle>QUINTET, PIANO, C MINOR, OP. 1</workTitle>
                 <soloists>
                     <soloist>
@@ -11010,7 +11108,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2005-06</season>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2005-12-08T05:00:00Z</Date>
@@ -11528,7 +11626,7 @@
             </work>
             <work>
                 <composerName>Walton,  William</composerName>
-                <workTitle>SPITFIRE PRELUDE & FUGUE (BRASS ARRANGEMENT) (ARR. Rickard)</workTitle>
+                <workTitle>SPITFIRE PRELUDE &amp; FUGUE (BRASS ARRANGEMENT) (ARR. Rickard)</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>New York Philharmonic Principal Brass Quintet</soloistName>
@@ -12843,17 +12941,45 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Runout</eventType>
-            <Location>Purchase, NY</Location>
-            <Venue>Performing Arts Center</Venue>
-            <Date>2006-01-13T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <concertInfo>
             <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-01-14T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Corigliano,  John, Jr.</composerName>
+                <workTitle>CONCERTO, VIOLIN (RED VIOLIN)</workTitle>
+                <conductorName>Nott, Jonathan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bell, Joshua</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>ALPINE SYMPHONY, OP. 64</workTitle>
+                <conductorName>Nott, Jonathan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>0ed44b85-2a19-444f-af73-97883514ac21</id>
+        <programID>13566</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2005-06</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Purchase, NY</Location>
+            <Venue>Performing Arts Center</Venue>
+            <Date>2006-01-13T05:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
@@ -12885,7 +13011,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2005-06</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-01-17T05:00:00Z</Date>
@@ -13097,6 +13223,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>8c26b61f-6191-4df9-9755-704cc310be89</id>
+        <programID>13717</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2005-06</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2006-01-24T05:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>86c9f2b7-dcb1-40cc-a0e0-e4b45154ef39</id>
         <programID>9455</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -13299,6 +13440,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>7fa8ab17-8589-40d8-a3a4-0eeaf07e8fdf</id>
+        <programID>13718</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2005-06</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2006-02-08T05:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -13734,14 +13890,14 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2005-06</season>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-02-27T05:00:00Z</Date>
             <Time>10:30AM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-02-27T05:00:00Z</Date>
@@ -13783,7 +13939,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2005-06</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-02-28T05:00:00Z</Date>
@@ -14832,6 +14988,51 @@
             <Date>2006-04-07T04:00:00Z</Date>
             <Time>11:00AM</Time>
         </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
+                <conductorName>Tovey, Bramwell</conductorName>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, VIOLIN NO. 3, G MAJOR, K.216</workTitle>
+                <conductorName>Tovey, Bramwell</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dicterow, Glenn</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Zwilich,  Ellen  Taaffe</composerName>
+                <workTitle>AMERICAN CONCERTO</workTitle>
+                <conductorName>Tovey, Bramwell</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Smith, Philip</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <conductorName>Tovey, Bramwell</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>933d036e-f546-46fc-bad1-cb000de5984d</id>
+        <programID>13567</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2005-06</season>
         <concertInfo>
             <eventType>Runout</eventType>
             <Location>Greenvale, NY</Location>
@@ -15471,7 +15672,7 @@
                 <conductorName>Morlot, Ludovic</conductorName>
             </work>
             <work>
-                <composerName>Wong & Xiao,  Patrick & Vincent</composerName>
+                <composerName>Wong &amp; Xiao,  Patrick &amp; Vincent</composerName>
                 <workTitle>CRAZY DEATH OF BARNEY</workTitle>
                 <conductorName>Morlot, Ludovic</conductorName>
             </work>
@@ -15533,7 +15734,7 @@
             </work>
             <work>
                 <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)</workTitle>
+                <workTitle>CONCERTO, VIOLIN, CELLO &amp; PIANO, OP. 56 (TRIPLE)</workTitle>
                 <conductorName>Zinman, David</conductorName>
                 <soloists>
                     <soloist>
@@ -15633,7 +15834,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2005-06</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-05-24T04:00:00Z</Date>
@@ -21085,7 +21286,7 @@
                 <interval>Intermission</interval>
             </work>
             <work>
-                <composerName>Stern,  I. & Moshe</composerName>
+                <composerName>Stern,  I. &amp; Moshe</composerName>
                 <workTitle>B'RACH DODI</workTitle>
                 <conductorName>Sobol, Mordechai;  Lazar, Matthew</conductorName>
                 <soloists>
@@ -23239,7 +23440,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2006-07</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2006-12-13T05:00:00Z</Date>
@@ -25738,7 +25939,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Shand, Terry & Eaton, Jimmy,</composerName>
+                <composerName>Shand, Terry &amp; Eaton, Jimmy,</composerName>
                 <workTitle>RADIO DAYS:  I DOUBLE DARE YOU</workTitle>
                 <conductorName>Sperling, Ted</conductorName>
                 <soloists>
@@ -26263,6 +26464,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>18c51831-2644-4085-8982-f52acc0d6ac6</id>
+        <programID>13719</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2007-01-08T05:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>2cb4ecd9-aa27-4a7b-bd02-a7566a91dc3a</id>
         <programID>9545</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -26336,6 +26552,41 @@
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2007-01-13T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>CONCERTO, CELLO, E MINOR, OP. 85</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Weilerstein, Alisa</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Bruckner,  Anton</composerName>
+                <workTitle>SYMPHONY NO. 7, E MAJOR</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>1255ae82-ba35-4a1c-8000-cb7f58ec2a72</id>
+        <programID>13570</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Philadelphia, PA</Location>
+            <Venue>Verizon Hall at Kimmel Center</Venue>
+            <Date>2007-01-12T05:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
@@ -27146,7 +27397,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2006-07</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2007-02-06T05:00:00Z</Date>
@@ -27509,6 +27760,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>97df00ef-63d9-4b8b-a982-b11eaa4a0fca</id>
+        <programID>13720</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2007-02-19T05:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -27931,7 +28197,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2006-07</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2007-03-14T04:00:00Z</Date>
@@ -27967,7 +28233,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
             </work>
             <work>
@@ -28023,7 +28289,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
             </work>
             <work>
@@ -28068,7 +28334,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Stokowski)</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
             </work>
             <work>
@@ -28609,6 +28875,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>2b17b044-e18a-431e-84d1-9362c4c893b7</id>
+        <programID>13721</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2007-04-09T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -31571,6 +31852,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>79864cc2-5913-45bd-b464-7fa68a645b82</id>
+        <programID>13722</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Hull Room</Venue>
+            <Date>2007-06-06T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>2080d244-5785-4ed7-b2cf-028d0bb8f948</id>
         <programID>9576</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -31962,6 +32258,39 @@
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2007-06-16T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>SEMIRAMIDE</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 3, D MAJOR, D.200</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 5, F MAJOR, OP.76 (OLD NO. 3)</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>4e2a52e7-2432-4b81-a5a1-06321670889c</id>
+        <programID>13569</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Newark, NJ</Location>
+            <Venue>Prudential Hall</Venue>
+            <Date>2007-06-15T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
@@ -32784,7 +33113,7 @@
         <worksInfo>
             <work>
                 <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGEL'S LUSTIGE STREICHE, OP. 28</workTitle>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Davis, Andrew</conductorName>
             </work>
             <work>
@@ -32865,7 +33194,7 @@
             </work>
             <work>
                 <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGEL'S LUSTIGE STREICHE, OP. 28</workTitle>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Davis, Andrew</conductorName>
             </work>
             <work>
@@ -34720,6 +35049,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a1f2fefa-0038-434c-a3e4-7b52cfc49db3</id>
+        <programID>13724</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2007-10-15T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -37132,6 +37476,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>e9f18ed9-27eb-4903-947a-29550cd7e594</id>
+        <programID>13725</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Gerald W. Lynch Theater</Venue>
+            <Date>2007-12-09T05:00:00Z</Date>
+            <Time>1:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>4e54a8fd-913a-45e7-998a-fdc950075d72</id>
         <programID>9674</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -38994,7 +39353,7 @@
             </work>
             <work>
                 <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGEL'S LUSTIGE STREICHE, OP. 28</workTitle>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Gier, Delta David</conductorName>
             </work>
         </worksInfo>
@@ -39303,54 +39662,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>71d87ae6-9246-4498-a890-6ca76337bba8</id>
-        <programID>10036</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>Hear & Now</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2008-01-30T05:00:00Z</Date>
-            <Time>6:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Hear & Now</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2008-01-31T05:00:00Z</Date>
-            <Time>6:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Hear & Now</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2008-02-01T05:00:00Z</Date>
-            <Time>10:00AM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Hear & Now</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2008-02-02T05:00:00Z</Date>
-            <Time>7:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Berio,  Luciano</composerName>
-                <workTitle>O KING</workTitle>
-                <conductorName>Barnard School for Boys Glee Club</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Cairncross, Heather;  Langevin, Robert;  Martinez [Martínez] Forteza, Pascual;  Staples, Sheryl;  Brey, Carter;  Wingreen, Harriet</soloistName>
-                        <soloistInstrument>Mezzo-Soprano; Flute; Clarinet; Violin; Cello; Piano</soloistInstrument>
-                        <soloistRoles>A; A; A; A; A; A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>eeaa5002-6766-46fc-8bc4-2f6dbf1fcc9c</id>
         <programID>9687</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -39499,6 +39810,54 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>71d87ae6-9246-4498-a890-6ca76337bba8</id>
+        <programID>10036</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Hear &amp; Now</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2008-01-30T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Hear &amp; Now</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2008-01-31T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Hear &amp; Now</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2008-02-01T05:00:00Z</Date>
+            <Time>10:00AM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Hear &amp; Now</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2008-02-02T05:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Berio,  Luciano</composerName>
+                <workTitle>O KING</workTitle>
+                <conductorName>Barnard School for Boys Glee Club</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Cairncross, Heather;  Langevin, Robert;  Martinez [Martínez] Forteza, Pascual;  Staples, Sheryl;  Brey, Carter;  Wingreen, Harriet</soloistName>
+                        <soloistInstrument>Mezzo-Soprano; Flute; Clarinet; Violin; Cello; Piano</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -40367,56 +40726,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>58455f78-c2fc-47b2-9c99-c0708186ff11</id>
-        <programID>9698</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Shanghai, CHINA</Location>
-            <Venue>Shanghai Grand Theatre Performing Arts Centre (Lyric)</Venue>
-            <Date>2008-02-21T05:00:00Z</Date>
-            <Time>7:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>SCALA DI SETA, LA (THE SILKEN LADDER)</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Myers, Philip</soloistName>
-                        <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>HUNGARIAN DANCES (ORCH.)</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Bizet,  Georges</composerName>
-                <workTitle>L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>8e4dcd0d-9d95-4b54-850a-1ad103bafde6</id>
         <programID>10107</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -40725,6 +41034,56 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>58455f78-c2fc-47b2-9c99-c0708186ff11</id>
+        <programID>9698</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Shanghai, CHINA</Location>
+            <Venue>Shanghai Grand Theatre Performing Arts Centre (Lyric)</Venue>
+            <Date>2008-02-21T05:00:00Z</Date>
+            <Time>7:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>SCALA DI SETA, LA (THE SILKEN LADDER)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Myers, Philip</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>HUNGARIAN DANCES (ORCH.)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Bizet,  Georges</composerName>
+                <workTitle>L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -41311,14 +41670,14 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2007-08</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-03-13T04:00:00Z</Date>
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-03-15T04:00:00Z</Date>
@@ -41365,14 +41724,14 @@
         <orchestra>Musicians from the New York Philharmonic</orchestra>
         <season>2007-08</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-03-13T04:00:00Z</Date>
             <Time>6:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-03-15T04:00:00Z</Date>
@@ -42023,28 +42382,28 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2007-08</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-04-09T04:00:00Z</Date>
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-04-10T04:00:00Z</Date>
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-04-11T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-04-12T04:00:00Z</Date>
@@ -42580,71 +42939,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>908e3c9c-81e0-4d08-91c4-ffe079ea4b1a</id>
-        <programID>10100</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>School Day Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2008-05-02T04:00:00Z</Date>
-            <Time>10:30AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Herbert,  Rajon</composerName>
-                <workTitle>THE FAIRY MOUNT</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Mannes,  Nathan</composerName>
-                <workTitle>TRAVELING THE NY STREETS</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Pagan,  Abraham</composerName>
-                <workTitle>STORM</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-            <work>
-                <composerName>Ives,  Charles</composerName>
-                <workTitle>VARIATIONS ON "AMERICA" (ARR. Schuman)</workTitle>
-                <conductorName>Gier, Delta David</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>dd8d506d-b6a8-4915-88b1-3e5344db964a</id>
         <programID>10102</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -42700,6 +42994,71 @@
             <work>
                 <composerName>Pichardo,  Edward</composerName>
                 <workTitle>WILD GLISSANDO, THE</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Ives,  Charles</composerName>
+                <workTitle>VARIATIONS ON "AMERICA" (ARR. Schuman)</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>908e3c9c-81e0-4d08-91c4-ffe079ea4b1a</id>
+        <programID>10100</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>School Day Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2008-05-02T04:00:00Z</Date>
+            <Time>10:30AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>WEST SIDE STORY, SYMPHONIC DANCES</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Herbert,  Rajon</composerName>
+                <workTitle>THE FAIRY MOUNT</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Mannes,  Nathan</composerName>
+                <workTitle>TRAVELING THE NY STREETS</workTitle>
+                <conductorName>Gier, Delta David</conductorName>
+            </work>
+            <work>
+                <composerName>Pagan,  Abraham</composerName>
+                <workTitle>STORM</workTitle>
                 <conductorName>Gier, Delta David</conductorName>
             </work>
             <work>
@@ -43399,6 +43758,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>7958acfb-f2d0-4bc9-959a-5b0b4427615a</id>
+        <programID>13726</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2008-05-28T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>403a2081-f843-4d3d-9df9-ef8644594d2c</id>
         <programID>9720</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -43763,6 +44137,26 @@
             <Location>Manhattan, NY</Location>
             <Venue>Carnegie Hall</Venue>
             <Date>2008-06-11T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>RING WITHOUT WORDS (ARR. Maazel)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>7931d4bc-de21-4725-8ddc-f45b9c093939</id>
+        <programID>13572</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Newark, NJ</Location>
+            <Venue>Prudential Hall</Venue>
+            <Date>2008-06-06T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
@@ -46159,6 +46553,68 @@
         </worksInfo>
     </program>
     <program>
+        <id>958be254-94db-4ac0-bd2b-dbcf67d7dc30</id>
+        <programID>9797</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2008-09</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Paris, FRANCE</Location>
+            <Venue>Salle Pleyel</Venue>
+            <Date>2008-09-08T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Stucky,  Steven</composerName>
+                <workTitle>RHAPSODIES</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thibaudet, Jean-Yves</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thibaudet, Jean-Yves</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>SACRE DU PRINTEMPS, LE</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SLAVONIC DANCES, OP. 72</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>LOHENGRIN</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>498feb6f-9b93-43dd-8750-b4850551f8af</id>
         <programID>13320</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -46228,68 +46684,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>958be254-94db-4ac0-bd2b-dbcf67d7dc30</id>
-        <programID>9797</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2008-09</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Paris, FRANCE</Location>
-            <Venue>Salle Pleyel</Venue>
-            <Date>2008-09-08T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Stucky,  Steven</composerName>
-                <workTitle>RHAPSODIES</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Gershwin,  George</composerName>
-                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Thibaudet, Jean-Yves</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Gershwin,  George</composerName>
-                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Thibaudet, Jean-Yves</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>SACRE DU PRINTEMPS, LE</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SLAVONIC DANCES, OP. 72</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>LOHENGRIN</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -46744,7 +47138,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-10-01T04:00:00Z</Date>
@@ -46799,7 +47193,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-10-02T04:00:00Z</Date>
@@ -46859,44 +47253,6 @@
             <Venue>Verizon Hall at Kimmel Center</Venue>
             <Date>2008-10-03T04:00:00Z</Date>
             <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SUITE NO. 3, G MAJOR, OP. 55</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>ad3706d5-b2f4-4525-a7c1-0e70572addc8</id>
-        <programID>13318</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2008-09</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Washington, DC</Location>
-            <Venue>John F. Kennedy Center for the Performing Arts</Venue>
-            <Date>2008-10-04T04:00:00Z</Date>
-            <Time>4:00PM</Time>
         </concertInfo>
         <worksInfo>
             <work>
@@ -47037,6 +47393,44 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>ad3706d5-b2f4-4525-a7c1-0e70572addc8</id>
+        <programID>13318</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2008-09</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Washington, DC</Location>
+            <Venue>John F. Kennedy Center for the Performing Arts</Venue>
+            <Date>2008-10-04T04:00:00Z</Date>
+            <Time>4:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SUITE NO. 3, G MAJOR, OP. 55</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -47390,6 +47784,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>f37067b4-3868-40db-b5bd-768879edf6bb</id>
+        <programID>13723</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2008-10-20T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>b7eeb9a5-6744-4853-a22e-8b958faef5d4</id>
         <programID>9816</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -47650,21 +48059,21 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-10-30T04:00:00Z</Date>
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-10-31T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2008-11-01T04:00:00Z</Date>
@@ -47807,6 +48216,21 @@
                 <workTitle>SYMPHONY NO. 9, D MINOR</workTitle>
                 <conductorName>Eschenbach, Christoph</conductorName>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>9a1874ec-9727-48eb-8658-ce96acc0ef0e</id>
+        <programID>13727</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Home of Paul and Virginia Pellicci</Venue>
+            <Date>2008-11-10T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -48651,6 +49075,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>75860932-8fad-4b6c-b7e1-473d2c930913</id>
+        <programID>13728</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2008-09</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2008-12-07T05:00:00Z</Date>
+            <Time>4:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>9adc6bf3-6eb9-45df-8fb6-5e4e41e7cba4</id>
         <programID>9828</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -49246,7 +49685,7 @@
             </work>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA & FUGUE, D MINOR, BWV 565  (ARR. Mills)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565  (ARR. Mills)</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>New York Philharmonic Principal Brass Quintet</soloistName>
@@ -51688,6 +52127,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>07efdf7d-6dde-4425-bc99-c994cfdae7e0</id>
+        <programID>13729</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2008-09</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2009-02-02T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>d4a35785-ee07-4822-b1b5-2e6e86bf3ebe</id>
         <programID>9839</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -53175,7 +53629,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-03-18T04:00:00Z</Date>
@@ -53232,7 +53686,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-03-19T04:00:00Z</Date>
@@ -53289,7 +53743,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-03-20T04:00:00Z</Date>
@@ -53357,7 +53811,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-03-21T04:00:00Z</Date>
@@ -54463,21 +54917,21 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2008-09</season>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-05-07T04:00:00Z</Date>
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-05-08T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Hear & Now</eventType>
+            <eventType>Hear &amp; Now</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-05-09T04:00:00Z</Date>
@@ -55363,6 +55817,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>c97109a8-ca42-41bb-8ede-45ae5929594e</id>
+        <programID>13730</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2008-09</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2009-06-02T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -57205,7 +57674,7 @@
         <worksInfo>
             <work>
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PASSACAGLIA &  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
+                <workTitle>PASSACAGLIA &amp;  FUGUE, C MINOR, BWV 582 (ARR. Stokowski)</workTitle>
                 <conductorName>Fisch, Asher</conductorName>
             </work>
             <work>
@@ -58421,7 +58890,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58431,17 +58900,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58452,7 +58921,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58462,17 +58931,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58483,7 +58952,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58493,17 +58962,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58514,7 +58983,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58524,17 +58993,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58545,7 +59014,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58555,17 +59024,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58576,7 +59045,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58586,17 +59055,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58607,7 +59076,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58617,17 +59086,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58638,7 +59107,7 @@
                     <soloist>
                         <soloistName>Smith, Philip</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Muckey, Matthew</soloistName>
@@ -58648,17 +59117,17 @@
                     <soloist>
                         <soloistName>Myers, Philip</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Alessi, Joseph</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Baer, Alan</soloistName>
                         <soloistInstrument>Tuba</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -58874,6 +59343,41 @@
         </worksInfo>
     </program>
     <program>
+        <id>8a619192-bcc7-4f6b-bacd-82b7b04dd25d</id>
+        <programID>10442</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Al Ain, UNITED ARAB EMIRATES</Location>
+            <Venue>Al Jahili Fort</Venue>
+            <Date>2009-10-24T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Zimmermann, Frank Peter</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>6c046236-2288-4721-9ab9-b93c71c87a5a</id>
         <programID>10485</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -58922,41 +59426,6 @@
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>SYMPHONY NO. 39, E-FLAT MAJOR, K.543</workTitle>
                 <conductorName>Boico, Daniel</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>8a619192-bcc7-4f6b-bacd-82b7b04dd25d</id>
-        <programID>10442</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Al Ain, UNITED ARAB EMIRATES</Location>
-            <Venue>Al Jahili Fort</Venue>
-            <Date>2009-10-24T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Zimmermann, Frank Peter</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -59077,6 +59546,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>1725f1fb-5c81-474c-9c07-4b76e6d5e4f5</id>
+        <programID>13732</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2009-11-02T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -59583,6 +60067,162 @@
             <Venue>Avery Fisher Hall</Venue>
             <Date>2009-11-24T05:00:00Z</Date>
             <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>IN THE SOUTH (ALASSIO),OP.50</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a980e9ef-f709-4975-9476-bfb5e3dec428</id>
+        <programID>13587</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Philadelphia, PA</Location>
+            <Venue>Verizon Hall at Kimmel Center</Venue>
+            <Date>2009-11-20T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>IN THE SOUTH (ALASSIO),OP.50</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 1, OP. 64BIS</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>ROMEO AND JULIET: SUITE NO. 2, OP. 64TER</workTitle>
+                <conductorName>Muti, Riccardo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>63314c79-335d-48b9-aec4-ef50c171ef79</id>
+        <programID>13588</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Washington, DC</Location>
+            <Venue>John F. Kennedy Center for the Performing Arts</Venue>
+            <Date>2009-11-21T05:00:00Z</Date>
+            <Time>4:00PM</Time>
         </concertInfo>
         <worksInfo>
             <work>
@@ -61448,6 +62088,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>6f4c0dfd-1a44-4712-833b-d5d82640b05f</id>
+        <programID>13734</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Leinsdorf Lecture</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Walter Reade Theater (Furman Gallery)</Venue>
+            <Date>2010-01-11T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>2a0e347d-800e-440d-83aa-4d0a7b4826c8</id>
         <programID>10680</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -63190,6 +63845,90 @@
         </worksInfo>
     </program>
     <program>
+        <id>c6270b67-4798-4b1b-9e5b-76da215a8688</id>
+        <programID>10661</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Soloist Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-03-06T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>VARIATIONS SÉRIEUSES, OP. 54</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SONATA, PIANO, NO. 1 "GROSSE SONATE," OP. 11</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>FANTASIE, F-SHARP MINOR "SONATE ECOSSAISE," OP. 28</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>FANTASIE, C MAJOR, OP. 17</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>PAPILLONS, PIANO, OP. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>c578fe2d-6e0c-415b-afa4-b68990cefbe9</id>
         <programID>10196</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -63285,90 +64024,6 @@
                 <composerName>Falla,  Manuel  de</composerName>
                 <workTitle>VIDA BREVE, LA</workTitle>
                 <conductorName>Boico, Daniel</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>c6270b67-4798-4b1b-9e5b-76da215a8688</id>
-        <programID>10661</programID>
-        <orchestra>NYP Presentation</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Soloist Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-03-06T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>VARIATIONS SÉRIEUSES, OP. 54</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SONATA, PIANO, NO. 1 "GROSSE SONATE," OP. 11</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>FANTASIE, F-SHARP MINOR "SONATE ECOSSAISE," OP. 28</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>FANTASIE, C MAJOR, OP. 17</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>PAPILLONS, PIANO, OP. 2</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -64500,6 +65155,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>cf28ca56-4427-4cdf-a663-c3e272cad93f</id>
+        <programID>13735</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2010-04-05T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>0ec9e3a1-a11f-4977-928b-502f2f67f0f9</id>
         <programID>10188</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -64575,6 +65245,200 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
                 <conductorName>Pappano, Antonio</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>7a01d46e-5bb1-4be7-861f-614822668e5e</id>
+        <programID>11186</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Soloist Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Alice Tully Hall</Venue>
+            <Date>2010-04-11T04:00:00Z</Date>
+            <Time>5:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>DAISIES, THE, OP. 2, NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>WITH RUE MY HEART IS LADEN, OP. 2, NO. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>NIGHT WANDERERS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>NOCTURNE, OP. 13</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>IN THE WILDERNESS, OP. 41, NO. 3</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>SOLITARY HOTEL, OP. 41, NO. 4</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>THREE SONGS, OP. 45</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>THREE SONGS, OP. 10</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>DICHTERLIEBE, OP. 48</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>MYRTHEN, OP. 25</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>FOUR SONGS, OP. 13</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hampson, Thomas</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rieger, Wolfram</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -64787,200 +65651,6 @@
                         <soloistName>Schoevaert, Marion</soloistName>
                         <soloistInstrument>Production Design</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>7a01d46e-5bb1-4be7-861f-614822668e5e</id>
-        <programID>11186</programID>
-        <orchestra>NYP Presentation</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Soloist Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Alice Tully Hall</Venue>
-            <Date>2010-04-11T04:00:00Z</Date>
-            <Time>5:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>DAISIES, THE, OP. 2, NO. 1</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>WITH RUE MY HEART IS LADEN, OP. 2, NO. 2</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>NIGHT WANDERERS</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>NOCTURNE, OP. 13</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>IN THE WILDERNESS, OP. 41, NO. 3</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>SOLITARY HOTEL, OP. 41, NO. 4</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>THREE SONGS, OP. 45</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>THREE SONGS, OP. 10</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>DICHTERLIEBE, OP. 48</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>MYRTHEN, OP. 25</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>FOUR SONGS, OP. 13</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hampson, Thomas</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rieger, Wolfram</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -65792,71 +66462,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>797d7d8e-aac2-4d64-a19f-a36c23411999</id>
-        <programID>11215</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-05-01T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>ORPHEUS, BALLET IN THREE SCENES</workTitle>
-                <conductorName>Gergiev, Valery</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>OEDIPUS REX</workTitle>
-                <conductorName>Gergiev, Valery</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Irons, Jeremy</soloistName>
-                        <soloistInstrument>Narrator</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Meier, Waltraud</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Griffey, Anthony Dean</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Timchenko, Alexander</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Petrenko, Mikhail</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bannik, Ilya</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Chorus of the Mariinsky Theatre</soloistName>
-                        <soloistInstrument>Chorus</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>1ed140ee-36df-41a1-bb38-4322bc36d553</id>
         <programID>11018</programID>
         <orchestra>NYP Presentation</orchestra>
@@ -65921,7 +66526,7 @@
                 <workTitle>SACRE DU PRINTEMPS, LE (TWO PIANOS)</workTitle>
                 <soloists>
                     <soloist>
-                        <soloistName>Anderson & Roe</soloistName>
+                        <soloistName>Anderson &amp; Roe</soloistName>
                         <soloistInstrument>Piano, four hands</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66028,6 +66633,71 @@
                         <soloistName>Odell, Matthew</soloistName>
                         <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>797d7d8e-aac2-4d64-a19f-a36c23411999</id>
+        <programID>11215</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-05-01T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>ORPHEUS, BALLET IN THREE SCENES</workTitle>
+                <conductorName>Gergiev, Valery</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>OEDIPUS REX</workTitle>
+                <conductorName>Gergiev, Valery</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Irons, Jeremy</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Meier, Waltraud</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Griffey, Anthony Dean</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Timchenko, Alexander</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Petrenko, Mikhail</soloistName>
+                        <soloistInstrument>Bass</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bannik, Ilya</soloistName>
+                        <soloistInstrument>Bass</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Chorus of the Mariinsky Theatre</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -66740,6 +67410,21 @@
                     </soloist>
                 </soloists>
             </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8ba0d29b-0585-417e-a91d-929ae88c05de</id>
+        <programID>13736</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2010-05-11T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -69875,6 +70560,63 @@
         </worksInfo>
     </program>
     <program>
+        <id>0fd33171-ab7a-4604-9dd5-8a6f2a27a680</id>
+        <programID>13764</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>None</Location>
+            <Venue>None</Venue>
+            <Date>2010-10-05T04:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Arensky,  Anton  Stepanovich</composerName>
+                <workTitle>TRIO, PIANO AND STRINGS, NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Moon, Eileen</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Goncharova, Tatiana</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>TRIO, PIANO, A MINOR, OP. 50</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Moon, Eileen</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Goncharova, Tatiana</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>da931950-05d3-4b4d-9cd7-a21fc4ed3bca</id>
         <programID>10670</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -70499,7 +71241,7 @@
         <concertInfo>
             <eventType>Tour</eventType>
             <Location>Vilnius, LITHUANIA</Location>
-            <Venue>National Opera & Ballet Theatre</Venue>
+            <Venue>National Opera &amp; Ballet Theatre</Venue>
             <Date>2010-10-30T04:00:00Z</Date>
             <Time>7:00PM</Time>
         </concertInfo>
@@ -74316,6 +75058,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>5609db62-8a5d-4855-8627-bc6ea840b5b6</id>
+        <programID>13738</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2011-01-05T05:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>ffdf9f03-d6cb-4a53-b872-07cceb3fc721</id>
         <programID>10612</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -75263,6 +76020,63 @@
         </worksInfo>
     </program>
     <program>
+        <id>be917467-a22f-41ad-b478-2608e826bb64</id>
+        <programID>11772</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>None</Location>
+            <Venue>None</Venue>
+            <Date>2011-02-03T05:00:00Z</Date>
+            <Time>9:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Kodaly [Kodály],  Zoltán</composerName>
+                <workTitle>SERENADE FOR TWO VIOLINS AND VIOLA, OP. 12</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lee, Hyunju</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Lisa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kamath, Vivek</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>TERZETTO, TWO VIOLINS, VIOLA, OP. 74</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lee, Hyunju</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Lisa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kamath, Vivek</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>7e982e33-8218-409e-b859-d36c3c63ec86</id>
         <programID>11745</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -75517,6 +76331,80 @@
                         <soloistName>Menzel, Idina</soloistName>
                         <soloistInstrument>Singer</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>86e76908-8b5d-4fce-a051-b06aaec5eff2</id>
+        <programID>11773</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>None</Location>
+            <Venue>None</Venue>
+            <Date>2011-02-07T05:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Kreisler,  Fritz</composerName>
+                <workTitle>TEMPO DI MINUETTO IN THE STYLE OF PUGNANI</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Friedman, Donna Weng</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>DAISIES (ARR. Doppmann)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Friedman, Donna Weng</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Brey,  Carter</composerName>
+                <workTitle>TANGO (AFTER PIAZZOLLA)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Grieg,  Edvard</composerName>
+                <workTitle>SONATA, CELLO</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Friedman, Donna Weng</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -76281,7 +77169,7 @@
         <concertInfo>
             <eventType>Chamber Concert (Private)</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Home of Mr. & Mrs. James Buckman</Venue>
+            <Venue>Home of Mr. &amp; Mrs. James Buckman</Venue>
             <Date>2011-03-07T05:00:00Z</Date>
             <Time>7:00PM</Time>
         </concertInfo>
@@ -77127,6 +78015,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>2f7f1fb2-5b0d-40dc-994e-c263400431f6</id>
+        <programID>13739</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2011-03-30T04:00:00Z</Date>
+            <Time>6:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>89a1f38a-c3a4-47ea-97f3-869fc2944846</id>
         <programID>10631</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -77954,6 +78857,145 @@
         </worksInfo>
     </program>
     <program>
+        <id>822b093c-b2d6-4b7e-8ed7-bb7623dd26d9</id>
+        <programID>11777</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Very Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2011-04-11T04:00:00Z</Date>
+            <Time>10:30AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>CHILDREN'S CORNER SUITE: GOLLIWOG'S CAKE WALK (VARIABLE INSTRUMENTATION)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>McDermott, Kerry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tu, Qiang</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Okamoto, Satoshi</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Markey, James</soloistName>
+                        <soloistInstrument>Bass Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CARNIVAL OF THE ANIMALS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Markey, James</soloistName>
+                        <soloistInstrument>Bass Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>McDermott, Kerry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tu, Qiang</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Okamoto, Satoshi</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>QUARTET, STRING, IN G MINOR, OP.10</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>McDermott, Kerry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tu, Qiang</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>QUARTET, STRING, IN G MINOR, OP.10</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>McDermott, Kerry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tu, Qiang</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>20f253ab-25e4-4f03-9893-2522dc89b691</id>
         <programID>11301</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -78100,145 +79142,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>822b093c-b2d6-4b7e-8ed7-bb7623dd26d9</id>
-        <programID>11777</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>2010-11</season>
-        <concertInfo>
-            <eventType>Very Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Merkin Concert Hall</Venue>
-            <Date>2011-04-11T04:00:00Z</Date>
-            <Time>10:30AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>CHILDREN'S CORNER SUITE: GOLLIWOG'S CAKE WALK (VARIABLE INSTRUMENTATION)</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>McDermott, Kerry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rabinova, Anna</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nelson, Judith</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tu, Qiang</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Okamoto, Satoshi</soloistName>
-                        <soloistInstrument>Contrabass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Markey, James</soloistName>
-                        <soloistInstrument>Bass Trombone</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>CARNIVAL OF THE ANIMALS</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Markey, James</soloistName>
-                        <soloistInstrument>Bass Trombone</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>McDermott, Kerry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rabinova, Anna</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nelson, Judith</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tu, Qiang</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Okamoto, Satoshi</soloistName>
-                        <soloistInstrument>Contrabass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>QUARTET, STRING, IN G MINOR, OP.10</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>McDermott, Kerry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rabinova, Anna</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nelson, Judith</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tu, Qiang</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>QUARTET, STRING, IN G MINOR, OP.10</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rabinova, Anna</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>McDermott, Kerry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nelson, Judith</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tu, Qiang</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>0aec8052-7772-4699-ad15-8413f14465af</id>
         <programID>10634</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -78269,6 +79172,51 @@
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2011-04-16T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
+            </work>
+            <work>
+                <composerName>Gubaidulina,  Sofia</composerName>
+                <workTitle>TWO PATHS (TWO VIOLAS)</workTitle>
+                <conductorName>Boico, Daniel</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Young, Rebecca</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>7d03ffd5-b59b-456a-bcba-621f70339459</id>
+        <programID>13574</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Newark, NJ</Location>
+            <Venue>Prudential Hall</Venue>
+            <Date>2011-04-15T04:00:00Z</Date>
             <Time>8:00PM</Time>
         </concertInfo>
         <worksInfo>
@@ -78636,7 +79584,7 @@
             </work>
             <work>
                 <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)</workTitle>
+                <workTitle>CONCERTO, VIOLIN, CELLO &amp; PIANO, OP. 56 (TRIPLE)</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
                 <soloists>
                     <soloist>
@@ -79831,6 +80779,21 @@
             <Venue>St. Regis Hotel</Venue>
             <Date>2011-06-14T04:00:00Z</Date>
             <Time>7:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8c84ddcf-345f-4254-b96f-68832d9d6c53</id>
+        <programID>13740</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Insight Series</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Morgan Library</Venue>
+            <Date>2011-06-14T04:00:00Z</Date>
+            <Time>6:30PM</Time>
         </concertInfo>
         <worksInfo>
         </worksInfo>
