@@ -5189,44 +5189,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>8007347e-d1eb-42fd-a643-61df827f4e87</id>
-        <programID>10944</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1947-48</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1948-07-06T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>CORSAIRE OVERTURE</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Couperin,  Francois [François]</composerName>
-                <workTitle>PRELUDE AND ALLEGRO (ARR. Milhaud)</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work>
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>2ace87fc-f700-4d47-aaf0-41d10483d6dc</id>
         <programID>10943</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -5273,6 +5235,44 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8007347e-d1eb-42fd-a643-61df827f4e87</id>
+        <programID>10944</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1947-48</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1948-07-06T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>CORSAIRE OVERTURE</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Couperin,  Francois [François]</composerName>
+                <workTitle>PRELUDE AND ALLEGRO (ARR. Milhaud)</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -19732,7 +19732,7 @@
         <worksInfo>
             <work>
                 <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP.6, NO.  6, G MINOR</workTitle>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO.  6, G MINOR</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
                 <soloists>
                     <soloist>
@@ -33498,7 +33498,7 @@
         <worksInfo>
             <work>
                 <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP.6, NO.  6, G MINOR</workTitle>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO.  6, G MINOR</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work>
@@ -57515,10 +57515,23 @@
                     </soloist>
                     <soloist>
                         <soloistName>de Ronda, Lola</soloistName>
-                    <soloist>
-                        <soloistName>Amparo, Nila;  de Ronda, Lola;  Olivares, Luis;  Soler, Angel;  Jimenez, Antonio</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
-                        <soloistRoles>A; A; A; A; A</soloistRoles>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Olivares, Luis</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Soler, Angel</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Jimenez, Antonio</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -57534,7 +57547,7 @@
                     </soloist>
                     <soloist>
                         <soloistName>Zurita, Margarita</soloistName>
-                        <soloistInstrument> </soloistInstrument>
+                        <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
@@ -57544,10 +57557,8 @@
                     </soloist>
                     <soloist>
                         <soloistName>Garcia, Miquel</soloistName>
-                    <soloist>
-                        <soloistName>Mancilla, Jose;  Zurita, Margarita;  Blasco, Ricardo;  Garcia, Miquel</soloistName>
-                        <soloistInstrument>; ; Guitar</soloistInstrument>
-                        <soloistRoles>A; A; A; A</soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -57740,7 +57751,7 @@
                     </soloist>
                     <soloist>
                         <soloistName>Zurita, Margarita</soloistName>
-                        <soloistInstrument> </soloistInstrument>
+                        <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
@@ -57750,10 +57761,8 @@
                     </soloist>
                     <soloist>
                         <soloistName>Garcia, Miquel</soloistName>
-                    <soloist>
-                        <soloistName>Mancilla, Jose;  Zurita, Margarita;  Blasco, Ricardo;  Garcia, Miquel</soloistName>
-                        <soloistInstrument>; ; Guitar</soloistInstrument>
-                        <soloistRoles>A; A; A; A</soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -68567,8 +68576,11 @@
                     </soloist>
                     <soloist>
                         <soloistName>Moreno, Victor</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
                     <soloist>
-                        <soloistName>Slavenska, Mia;  Moreno, Victor;  Howard, Alan</soloistName>
+                        <soloistName>Howard, Alan</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -68586,8 +68598,6 @@
                     </soloist>
                     <soloist>
                         <soloistName>Danielian, Leon</soloistName>
-                    <soloist>
-                        <soloistName>Novak, Nina;  Danielian, Leon</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -68603,18 +68613,18 @@
                 <soloists>
                     <soloist>
                         <soloistName>Moreno, Victor</soloistName>
-                        <soloistInstrument></soloistInstrument>
-                        <soloistRoles></soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Borowska, Irina</soloistName>
-                        <soloistInstrument> </soloistInstrument>
-                        <soloistRoles> </soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Howard, Alan</soloistName>
-                        <soloistInstrument> </soloistInstrument>
-                        <soloistRoles> </soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
                         <soloistName>Ballet Russe de Monte Carlo</soloistName>
@@ -68633,8 +68643,28 @@
                 <soloists>
                     <soloist>
                         <soloistName>Chouteau, Yvonne</soloistName>
-                        <soloistInstrument>None</soloistInstrument>
-                        <soloistRoles>None</soloistRoles>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Franklin, Frederic</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tyven, Gertrude</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Danielian, Leon</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Schaffenburg, Fernando</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
