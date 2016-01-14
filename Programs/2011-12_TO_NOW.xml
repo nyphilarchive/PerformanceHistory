@@ -2,6 +2,21 @@
 
 <programs>
     <program>
+        <id>ab54538a-386d-4b80-bf72-c271901d5847</id>
+        <programID>13927</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2016-17</season>
+        <concertInfo>
+            <eventType>None</eventType>
+            <Location>None</Location>
+            <Venue>None</Venue>
+            <Date>1600-01-01T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>633e1a54-ed83-4241-9255-4739306ea7c5</id>
         <programID>11640</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -5318,13 +5333,6 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <concertInfo>
-            <eventType>Runout</eventType>
-            <Location>Newark, NJ</Location>
-            <Venue>Prudential Hall</Venue>
-            <Date>2012-03-09T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <concertInfo>
             <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
@@ -7360,6 +7368,60 @@
         </worksInfo>
     </program>
     <program>
+        <id>899eabad-bb1d-4678-9e3c-e66003e8442e</id>
+        <programID>11721</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2011-12</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2012-05-19T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2012-05-22T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2012-05-26T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>CARNIVAL OVERTURE, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Bartok [Bartók],  Béla</composerName>
+                <workTitle>CONCERTO, VIOLIN, NO. 1, BB 48A</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dicterow, Glenn</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>7c070ebc-dd5e-4add-8a77-1fb22063b533</id>
         <programID>11720</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -7436,60 +7498,6 @@
             <work>
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>CARNIVAL OVERTURE, OP.92</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>899eabad-bb1d-4678-9e3c-e66003e8442e</id>
-        <programID>11721</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2011-12</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2012-05-19T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2012-05-22T04:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2012-05-26T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>CARNIVAL OVERTURE, OP.92</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-            </work>
-            <work>
-                <composerName>Bartok [Bartók],  Béla</composerName>
-                <workTitle>CONCERTO, VIOLIN, NO. 1, BB 48A</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Dicterow, Glenn</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work>
-                <interval>Intermission</interval>
-            </work>
-            <work>
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
             </work>
         </worksInfo>
@@ -8931,7 +8939,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Garland,  Joseph  C. "Joe"</composerName>
+                <composerName>Garland,  Joseph  C.</composerName>
                 <workTitle>IN THE MOOD</workTitle>
                 <conductorName>Keene, Jim</conductorName>
                 <soloists>
@@ -9137,7 +9145,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Garland,  Joseph  C. "Joe"</composerName>
+                <composerName>Garland,  Joseph  C.</composerName>
                 <workTitle>IN THE MOOD</workTitle>
                 <conductorName>Keene, Jim</conductorName>
                 <soloists>
@@ -15373,7 +15381,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Tan,  Dun</composerName>
+                <composerName>Dun,  Tan</composerName>
                 <workTitle>CROUCHING TIGER CONCERTO</workTitle>
                 <conductorName>Weilerstein, Joshua</conductorName>
                 <soloists>
@@ -19146,7 +19154,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>2012-13</season>
         <concertInfo>
-            <eventType>School Day Concert</eventType>
+            <eventType>Young People's Concerts for Schools</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Avery Fisher Hall</Venue>
             <Date>2013-05-24T04:00:00Z</Date>
@@ -19190,7 +19198,7 @@
                 </soloists>
             </work>
             <work>
-                <composerName>Fig,  Aaron  Wolf</composerName>
+                <composerName>Fig,  Aaron  Wolff</composerName>
                 <workTitle>IN THE TOWN AND BY THE OCEAN</workTitle>
                 <conductorName>Scaglione, Case</conductorName>
             </work>
@@ -20132,7 +20140,7 @@
         <orchestra>NYP Presentation</orchestra>
         <season>2012-13</season>
         <concertInfo>
-            <eventType>Soloist Recital</eventType>
+            <eventType>Chamber Concert (Private)</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>St. Regis Hotel</Venue>
             <Date>2013-06-17T04:00:00Z</Date>
@@ -21901,6 +21909,146 @@
         </worksInfo>
     </program>
     <program>
+        <id>36cf05f4-5f24-476b-9911-1d8d37043e6d</id>
+        <programID>13969</programID>
+        <orchestra>Members of NY Philharmonic</orchestra>
+        <season>2012-13</season>
+        <concertInfo>
+            <eventType>Special</eventType>
+            <Location>Seoul, KOREA</Location>
+            <Venue>Myungsung Presbyterian Church</Venue>
+            <Date>2013-09-04T04:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kim, Lisa;  Simon, Fiona;  Rabinova, Anna;  Lachert, Hanna;  Young, Rebecca;  Rinehart, Robert;  Bartlett, Eric;  Yu, Wei;  Son, Yoobin;  Botti, Robert;  Martinez [Martínez] Forteza, Pascual;  Nye, Roger;  Spanjer, R. Allen</soloistName>
+                        <soloistInstrument>Violin; Violin; Violin; Violin; Viola; Viola; Cello; Cello; Flute; Oboe; Clarinet; Bassoon; French Horn</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A; A; A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>QUINTET, PIANO AND WINDS, E-FLAT MAJOR, K.452</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Botti, Robert;  Martinez [Martínez] Forteza, Pascual;  Nye, Roger;  Son, Yoobin;  Spanjer, R. Allen</soloistName>
+                        <soloistInstrument>Oboe; Clarinet; Bassoon; Flute; French Horn</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SEXTET, STRINGS, D MAJOR, OP.70 "SOUVENIR DE FLORENCE"</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Simon, Fiona</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lachert, Hanna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Young, Rebecca</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rinehart, Robert</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bartlett, Eric</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Lisa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yu, Wei</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SEXTET, STRINGS, D MAJOR, OP.70 "SOUVENIR DE FLORENCE"</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Simon, Fiona</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lachert, Hanna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Young, Rebecca</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rinehart, Robert</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bartlett, Eric</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Lisa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yu, Wei</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>APPALACHIAN SPRING SUITE (CHAMBER)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Simon, Fiona;  Rabinova, Anna;  Lachert, Hanna;  Young, Rebecca;  Rinehart, Robert;  Bartlett, Eric;  Yu, Wei;  Son, Yoobin;  Botti, Robert;  Martinez [Martínez] Forteza, Pascual;  Nye, Roger;  Kim, Lisa;  Lee, Keun A</soloistName>
+                        <soloistInstrument>Violin; Violin; Violin; Viola; Viola; Cello; Cello; Flute; Oboe; Clarinet; Bassoon; Violin; Piano</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A; A; A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4ff94e6b-5322-442e-9eff-7d8770639e88</id>
         <programID>12473</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -22606,48 +22754,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a2f241e0-e2bd-4a2c-a771-ccd77cfb5b3c</id>
-        <programID>12022</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2013-14</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2013-10-12T04:00:00Z</Date>
-            <Time>2:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <conductorName>Scaglione, Case</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <conductorName>Scaglione, Case</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <conductorName>Scaglione, Case</conductorName>
-            </work>
-            <work>
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <conductorName>Scaglione, Case</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gonzalez [González], Raquel;  Benter, Lacey Jo;  Melo, Raul;  Allicock, Aubrey;  Manhattan School of Music Symphonic Choir</soloistName>
-                        <soloistInstrument>Soprano; Mezzo-Soprano; Tenor; Bass-Baritone; Chorus</soloistInstrument>
-                        <soloistRoles>S; S; S; S; S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>966c4303-7dc5-4d52-a1ac-e686da39f10e</id>
         <programID>12023</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -22691,6 +22797,48 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SYMPHONY NO. 8, G MAJOR, OP.88 (OLD NO. 4)</workTitle>
                 <conductorName>Weilerstein, Joshua</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a2f241e0-e2bd-4a2c-a771-ccd77cfb5b3c</id>
+        <programID>12022</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2013-14</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2013-10-12T04:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Scaglione, Case</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Scaglione, Case</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Scaglione, Case</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Scaglione, Case</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gonzalez [González], Raquel;  Benter, Lacey Jo;  Melo, Raul;  Allicock, Aubrey;  Manhattan School of Music Symphonic Choir</soloistName>
+                        <soloistInstrument>Soprano; Mezzo-Soprano; Tenor; Bass-Baritone; Chorus</soloistInstrument>
+                        <soloistRoles>S; S; S; S; S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -23483,21 +23631,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>71bf8a49-a4c9-4505-bed5-4f9f7b0af34a</id>
-        <programID>13335</programID>
-        <orchestra>Members of NY Philharmonic</orchestra>
-        <season>2013-14</season>
-        <concertInfo>
-            <eventType>Chamber</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>The Stanley H. Kaplan Penthouse</Venue>
-            <Date>2013-11-18T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-        </worksInfo>
-    </program>
-    <program>
         <id>87c6d7c7-22c3-49e0-8fc0-e5a5847c4eac</id>
         <programID>12495</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -23508,6 +23641,21 @@
             <Venue>The Stanley H. Kaplan Penthouse</Venue>
             <Date>2013-11-18T05:00:00Z</Date>
             <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
+        <id>71bf8a49-a4c9-4505-bed5-4f9f7b0af34a</id>
+        <programID>13335</programID>
+        <orchestra>Members of NY Philharmonic</orchestra>
+        <season>2013-14</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>The Stanley H. Kaplan Penthouse</Venue>
+            <Date>2013-11-18T05:00:00Z</Date>
+            <Time>None</Time>
         </concertInfo>
         <worksInfo>
         </worksInfo>
@@ -23564,7 +23712,7 @@
                     </soloist>
                     <soloist>
                         <soloistName>Cooke, Sasha</soloistName>
-                        <soloistInstrument>Alto</soloistInstrument>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
@@ -27286,7 +27434,7 @@
         </concertInfo>
         <worksInfo>
             <work>
-                <composerName>Tan,  Dun</composerName>
+                <composerName>Dun,  Tan</composerName>
                 <workTitle>TRIPLE RESURRECTION</workTitle>
                 <conductorName>Yu, Long</conductorName>
                 <soloists>
@@ -32641,6 +32789,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>c603440c-3cac-4a12-a7c0-b836e333a53f</id>
+        <programID>12570</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2013-14</season>
+        <concertInfo>
+            <eventType>Reading Rehearsal</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2014-06-03T04:00:00Z</Date>
+            <Time>10:00AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Adolphe,  Julia</composerName>
+                <workTitle>DARK SAND, SIFTING LIGHT</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+            <work>
+                <composerName>Dougherty,  William</composerName>
+                <workTitle>INTO FOCUS</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+            <work>
+                <composerName>Grafe,  Max</composerName>
+                <workTitle>BISMUTH:  VARIATIONS FOR ORCHESTRA</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+            <work>
+                <composerName>Jones,  Jesse</composerName>
+                <workTitle>INNUMERABLE STARS, SCATTERED IN CLUSTERS</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+            <work>
+                <composerName>Wang,  Lu</composerName>
+                <workTitle>SCENES FROM THE BOSCO SACRO</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+            <work>
+                <composerName>McManus,  Andrew</composerName>
+                <workTitle>STROBE</workTitle>
+                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>b07c053b-ba76-4da2-9157-cc7a5acd991c</id>
         <programID>12596</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -32718,51 +32911,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>c603440c-3cac-4a12-a7c0-b836e333a53f</id>
-        <programID>12570</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2013-14</season>
-        <concertInfo>
-            <eventType>Reading Rehearsal</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2014-06-03T04:00:00Z</Date>
-            <Time>10:00AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work>
-                <composerName>Adolphe,  Julia</composerName>
-                <workTitle>DARK SAND, SIFTING LIGHT</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
-            </work>
-            <work>
-                <composerName>Dougherty,  William</composerName>
-                <workTitle>INTO FOCUS</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
-            </work>
-            <work>
-                <composerName>Grafe,  Max</composerName>
-                <workTitle>BISMUTH:  VARIATIONS FOR ORCHESTRA</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
-            </work>
-            <work>
-                <composerName>Jones,  Jesse</composerName>
-                <workTitle>INNUMERABLE STARS, SCATTERED IN CLUSTERS</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
-            </work>
-            <work>
-                <composerName>Wang,  Lu</composerName>
-                <workTitle>SCENES FROM THE BOSCO SACRO</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
-            </work>
-            <work>
-                <composerName>McManus,  Andrew</composerName>
-                <workTitle>STROBE</workTitle>
-                <conductorName>Gilbert, Alan;  Pintscher, Matthias</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -33212,7 +33360,7 @@
         <orchestra>Musicians from the New York Philharmonic</orchestra>
         <season>2013-14</season>
         <concertInfo>
-            <eventType>Private Concert</eventType>
+            <eventType>Chamber Concert (Private)</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>St. Regis Hotel</Venue>
             <Date>2014-06-10T04:00:00Z</Date>
@@ -43275,6 +43423,58 @@
         </worksInfo>
     </program>
     <program>
+        <id>8f43a57a-f6de-44df-8ef0-fe10bdc67d8c</id>
+        <programID>12561</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2014-15</season>
+        <concertInfo>
+            <eventType>Chamber Concert (Private)</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>St. Regis Hotel</Venue>
+            <Date>2015-06-02T04:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>SONATA FOR CELLO AND PIANO</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kahane, Jeffrey</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>TRIO, PIANO, NO. 1, OP. 63</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kahane, Jeffrey</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>be19a4af-8bb9-46f8-afb5-cb3344f358e3</id>
         <programID>12524</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -43533,9 +43733,9 @@
                 <conductorName>Gilbert, Alan</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Bellescize, Come [Côme] de;  Cotillard, Marion;  Genovese [Génovèse], Eric [�Éric];  Gonon, Christian;  Osborne, Simone;  Sherman, Faith;  Blondelle, Thomas;  Humes, Steven;  Knutsen, Charlotte;  Knutsen, Olivia;  Grossman, Dashel;  Beuming, Thijs;  New York Choral Artists;  Brooklyn Youth Chorus</soloistName>
-                        <soloistInstrument>Director; Actor; Actor; Actor; Soprano; Mezzo-Soprano; Tenor; Bass; Child Soprano; Child Soprano; Child Soprano; Actor; Chorus; Children's Chorus</soloistInstrument>
-                        <soloistRoles>S; S; S; S; S; S; S; S; S; S; S; S; S; S</soloistRoles>
+                        <soloistName>Bellescize, Come [Côme] de;  Cotillard, Marion;  Genovese [Génovèse], Eric [�Éric];  Gonon, Christian;  Morley, Erin;  Osborne, Simone;  Sherman, Faith;  Blondelle, Thomas;  Humes, Steven;  Knutsen, Charlotte;  Knutsen, Olivia;  Grossman, Dashel;  Beuming, Thijs;  New York Choral Artists;  Brooklyn Youth Chorus</soloistName>
+                        <soloistInstrument>Director; Actor; Actor; Actor; Soprano; Soprano; Mezzo-Soprano; Tenor; Bass; Child Soprano; Child Soprano; Child Soprano; Actor; Chorus; Children's Chorus</soloistInstrument>
+                        <soloistRoles>S; S; S; S; S; S; S; S; S; S; S; S; S; S; S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -43953,6 +44153,13 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
                 <conductorName>Dutoit, Charles</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ax, Emanuel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
             <work>
                 <composerName>Schumann,  Robert</composerName>
@@ -44317,6 +44524,136 @@
         </worksInfo>
     </program>
     <program>
+        <id>f1c68889-67b3-4fc2-b700-8c9b94f406cf</id>
+        <programID>13979</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2014-15</season>
+        <concertInfo>
+            <eventType>Tour - Chamber</eventType>
+            <Location>Vail, CO</Location>
+            <Venue>De Vink Residence</Venue>
+            <Date>2015-07-27T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>QUARTET, OBOE, F MAJOR, K.386B (OLD K.370)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wang, Liang</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>DIVERTIMENTO, STRING TRIO, E-FLAT MAJOR, K.563</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wang, Liang</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>495dc852-60e4-4521-be62-937198a0bc54</id>
+        <programID>13980</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2014-15</season>
+        <concertInfo>
+            <eventType>Tour - Chamber</eventType>
+            <Location>Vail, CO</Location>
+            <Venue>Donovan Pavilion</Venue>
+            <Date>2015-07-28T04:00:00Z</Date>
+            <Time>6:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SONATA, HORN/PIANO, F MAJOR, OP. 17</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Myers, Philip</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>McDermott, Anne-Marie</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bartok [Bartók],  Béla</composerName>
+                <workTitle>CONTRASTS, VIOLIN, CLARINET, PIANO, SZ 111, BB 116</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>McDermott, Kerry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>McGill, Anthony</soloistName>
+                        <soloistInstrument>Clarinet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>McDermott, Anne-Marie</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Dohnanyi,  Erno  von</composerName>
+                <workTitle>SEXTET, CLARINET, HORN, PIANO, STRINGS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>McDermott, Kerry;  Pelletier, Rémi;  Moon, Eileen;  McGill, Anthony;  Myers, Philip;  McDermott, Anne-Marie</soloistName>
+                        <soloistInstrument>Violin; Viola; Cello; Clarinet; French Horn; Piano</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>71888c75-9d92-4bcb-8331-5c40b218675e</id>
         <programID>12578</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -44599,6 +44936,3438 @@
             </work>
             <work>
                 <interval>Intermission</interval>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>f9ce35ac-2392-4bc2-a485-b499d7b97ba1</id>
+        <programID>12059</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2015-09-21T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rota,  Nino</composerName>
+                <workTitle>GODFATHER, THE (COMPLETE)</workTitle>
+                <conductorName>Freer, Justin</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>1eda262b-acd0-4eb5-919c-61c2dba384ed</id>
+        <programID>13134</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Non-Subscription</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-09-24T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Grieg,  Edvard</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP.16</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lang, Lang</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>9c5012b6-53b9-4a16-863c-8ef4468f372a</id>
+        <programID>13135</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-09-25T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-09-26T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Salonen,  Esa-Pekka</composerName>
+                <workTitle>LA VARIATIONS</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Huang, Frank</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>dfeed30e-9703-4aac-83ec-943fef172d40</id>
+        <programID>13601</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-09-30T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ax, Emanuel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>23b4cb61-a3b0-44ad-b8a2-7ea95aec3aad</id>
+        <programID>13136</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-01T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-03T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>TRAGIC OVERTURE, OP. 81</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Neikrug,  Marc</composerName>
+                <workTitle>CANTA-CONCERTO</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Cooke, Sasha</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ax, Emanuel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a6e2bda5-a487-4073-ace5-792a36ad4d51</id>
+        <programID>13140</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Greenvale, NY</Location>
+            <Venue>Tilles Center for the Performing Arts (Main)</Venue>
+            <Date>2015-10-02T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ax, Emanuel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>121469f5-c7d1-46b9-9f10-c22ce908544b</id>
+        <programID>13106</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Special</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>2015-10-07T04:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Lindberg,  Magnus</composerName>
+                <workTitle>VIVO</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kissin, Evgeny</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>MORCEAUX, 18, OP. 72, PIANO SOLO</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kissin, Evgeny</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>ab05abc6-dad9-49b0-82bd-644fbf5eae7a</id>
+        <programID>13143</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Ann Arbor, MI</Location>
+            <Venue>Hill Auditorium</Venue>
+            <Date>2015-10-09T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Lindberg,  Magnus</composerName>
+                <workTitle>VIVO</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, C MAJOR, OP.15</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Barnatan, Inon</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Elbel,  Louis</composerName>
+                <workTitle>VICTORS, THE (ARR. Raimi)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>afa6a4c8-782b-4289-8b8e-636482e324a3</id>
+        <programID>13145</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Ann Arbor, MI</Location>
+            <Venue>Hill Auditorium</Venue>
+            <Date>2015-10-10T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Salonen,  Esa-Pekka</composerName>
+                <workTitle>LA VARIATIONS</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Huang, Frank</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a532ddf3-1f02-41b0-a9e1-79981cb0a621</id>
+        <programID>13146</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Ann Arbor, MI</Location>
+            <Venue>Hill Auditorium</Venue>
+            <Date>2015-10-11T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>ON THE WATERFRONT (FILM)</workTitle>
+                <conductorName>Newman, David</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>da7d9b71-64e8-4487-80a9-a6a7459dcaa5</id>
+        <programID>13658</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-14T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+            </work>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mahler,  Gustav</composerName>
+                <workTitle>SONGS OF A WAYFARER</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>AVE MARIA (ORCH. WITH VIOLIN OR VOICE) (ARR. Gounod)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>SPIRITUAL: ON MA JOURNEY NOW (ARR. Burleigh)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>SPIRITUAL: EV'RY TIME I FEEL DE SPIRIT (ARR. Dawson)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dorothy Maynor Singers</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>MY GOD IS SO HIGH (ARR. Johnson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>PORGY AND BESS</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>PORGY AND BESS</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>REQUIEM</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Kern,  Jerome</composerName>
+                <workTitle>SHOW BOAT (ARR. Bennett)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>OLD AMERICAN SONGS (VOICE AND ORCH.)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>APPALACHIAN SPRING SUITE (FULL ORCH.)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Dorothy Maynor Singers</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>10a04301-87e8-4feb-a487-4bfcd91f60a8</id>
+        <programID>12560</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-15T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+            </work>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Joplin,  Scott</composerName>
+                <workTitle>TREEMONISHA (ARR. Anderson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mahler,  Gustav</composerName>
+                <workTitle>SONGS OF A WAYFARER</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>AVE MARIA (ORCH. WITH VIOLIN OR VOICE) (ARR. Gounod)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>SPIRITUAL: ON MA JOURNEY NOW (ARR. Burleigh)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>SPIRITUAL: EV'RY TIME I FEEL DE SPIRIT (ARR. Dawson)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dorothy Maynor Singers</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>MY GOD IS SO HIGH (ARR. Johnson)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>PORGY AND BESS</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>PORGY AND BESS</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>REQUIEM</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>OLD AMERICAN SONGS (VOICE AND ORCH.)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>APPALACHIAN SPRING SUITE (FULL ORCH.)</workTitle>
+                <conductorName>Wilkins, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brugger, Janai</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mitchell, Laquita</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nansteel, Deborah</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Thomas, Russell</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Dorothy Maynor Singers</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a8277331-1335-41fb-be7d-951855e2238b</id>
+        <programID>13659</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Non-Subscription</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-16T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>CORSAIRE OVERTURE</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, E MINOR, OP. 11</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Pollini, Maurizio</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>983bafb9-7ca3-40c6-948d-abf9fb2989a2</id>
+        <programID>13142</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-21T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-22T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-23T04:00:00Z</Date>
+            <Time>11:00AM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-24T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Glanert,  Detlev</composerName>
+                <workTitle>BRAHMS-FANTASIE</workTitle>
+                <conductorName>Bychkov, Semyon</conductorName>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, VIOLIN AND CELLO, OP. 102 (DOUBLE)</workTitle>
+                <conductorName>Bychkov, Semyon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Batiashvili, Lisa;  Capucon (Capuçon), Gautier</soloistName>
+                        <soloistInstrument>Violin; Cello</soloistInstrument>
+                        <soloistRoles>S; S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
+                <conductorName>Bychkov, Semyon</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>7bcb05ce-17b2-4b45-ba6e-7d8e3ac3de87</id>
+        <programID>13846</programID>
+        <orchestra>NY Philharmonic Ensembles</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2015-10-25T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Poulenc,  Francis</composerName>
+                <workTitle>BAL MASQUE, LE</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Duncan, Tyler</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Ziskel, Yulia</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Jee, Patrick</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sylar, Sherry</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nuccio, Mark</soloistName>
+                        <soloistInstrument>Clarinet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>LeClair, Judith</soloistName>
+                        <soloistInstrument>Bassoon</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Muckey, Matthew</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Druckman, Daniel</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Feldman, Jonathan</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Amram,  David</composerName>
+                <workTitle>TRIO, HORN, BASSOON, TENOR SAXOPHONE</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Radnofsky, Kenneth</soloistName>
+                        <soloistInstrument>Tenor Saxophone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Laskowski, Kim</soloistName>
+                        <soloistInstrument>Bassoon</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wall, Howard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>TRIO ÉLÉGIAQUE NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kwon, Soohyun</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gonzales, Alexei Yupanqui</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Botkin, Sean</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>PASSAGLIA, VIOLIN AND BASS (ORIGINALLY VIOLA) (ARR. Halvorsen)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Grossman, David J.</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>QUARTET, STRING NO. 1, E-FLAT MAJOR, OP. 12</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Simon, Fiona</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Breslaw, Irene</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tu, Qiang</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>ea88a558-1697-43f3-94e5-f8af3e75ce08</id>
+        <programID>13602</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-29T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-30T04:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-31T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Britten,  Benjamin</composerName>
+                <workTitle>SINFONIA DA REQUIEM, OP. 20</workTitle>
+                <conductorName>Zweden, Jaap van</conductorName>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, PIANO NO. 23, A MAJOR, K.488</workTitle>
+                <conductorName>Zweden, Jaap van</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Barnatan, Inon</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Zweden, Jaap van</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>f718121e-0424-43ee-b9e0-55030e8c6376</id>
+        <programID>13603</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Saturday Matinee</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-10-31T04:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SERENADE NO. 12, C MINOR, K.384A (OLD K.388)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wang, Liang;  Botti, Robert;  McGill, Anthony;  Martinez [Martínez] Forteza, Pascual;  LeClair, Judith;  Nye, Roger;  Myers, Philip;  Spanjer, R. Allen</soloistName>
+                        <soloistInstrument>Oboe; Oboe; Clarinet; Clarinet; Bassoon; Bassoon; French Horn; French Horn</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Britten,  Benjamin</composerName>
+                <workTitle>SINFONIA DA REQUIEM, OP. 20</workTitle>
+                <conductorName>Zweden, Jaap van</conductorName>
+            </work>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Zweden, Jaap van</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>3306e2b4-a228-41fa-ae75-2dd2c531156f</id>
+        <programID>13604</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-04T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-05T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-06T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-07T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>DIVERTIMENTO, D MAJOR, K.125A (OLD K.136)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Myers, Philip</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SERENADE NO. 10, B-FLAT MAJOR, K.370A (OLD K.361), "GRAN PARTITA"</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wang, Liang;  Botti, Robert;  McGill, Anthony;  Martinez [Martínez] Forteza, Pascual;  Rodriguez, Alcides;  Burke, Liam;  LeClair, Judith;  Nye, Roger;  Myers, Philip;  Spanjer, R. Allen;  Sterrett, Leelanee;  Wall, Howard</soloistName>
+                        <soloistInstrument>Oboe; Oboe; Clarinet; Clarinet; Basset Horn; Basset Horn; Bassoon; Bassoon; French Horn; French Horn; French Horn; French Horn</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A; A; A; A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>17ac9edc-98e5-4166-909c-1b93370158a9</id>
+        <programID>13660</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Contact!</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Metropolitan Museum of Art</Venue>
+            <Date>2015-11-06T05:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Contact!</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Metropolitan Museum of Art</Venue>
+            <Date>2015-11-07T05:00:00Z</Date>
+            <Time>7:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Ades [Adès],  Thomas</composerName>
+                <workTitle>CHAMBER SYMPHONY</workTitle>
+                <conductorName>Ridder, Andre [André] de</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Dessner and Parry,  Bryce and Richard Reed</composerName>
+                <workTitle>WAVE MOVEMENTS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gomez, Esteli [Estelí]</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>30d34b8c-6728-4f33-a796-eaf05312e158</id>
+        <programID>13857</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Very Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2015-11-08T05:00:00Z</Date>
+            <Time>12:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Very Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2015-11-08T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Very Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2015-11-09T05:00:00Z</Date>
+            <Time>10:30AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Ponchielli,  Amilcare</composerName>
+                <workTitle>GIOCONDA, LA, DANCE OF THE HOURS (CHAMBER ENSEMBLE) (ARR. Roitstein)</workTitle>
+            </work>
+            <work>
+                <composerName>Pryor,  Arthur</composerName>
+                <workTitle>WHISTLER AND HIS DOG, THE (ARR. Wiprud)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kaufman, Mindy</soloistName>
+                        <soloistInstrument>Piccolo</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Choi, Hannah</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yeh, Ru-Pei</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Zeugner, Max</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>SUITE NO. 2,  B MINOR, BWV 1067</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kaufman, Mindy</soloistName>
+                        <soloistInstrument>Flute/Piccolo</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rabinova, Anna</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Choi, Hannah</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yeh, Ru-Pei</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Zeugner, Max</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gordh, Bill</soloistName>
+                        <soloistInstrument>Storywriter</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Young, Rebecca</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Schoevaert, Marion</soloistName>
+                        <soloistInstrument>Illustrator</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>fa2ce3d3-70d0-4922-97e0-d11c011dec95</id>
+        <programID>12531</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-11T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>RHAPSODY ON A THEME OF PAGANINI, OP. 43</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>FLEDERMAUS, DIE: OVERTURE (TRANSCRIBED FOR PIANO)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d14ea834-53b4-430e-91ac-a6a57293a3a0</id>
+        <programID>13947</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-12T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-14T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>RHAPSODY ON A THEME OF PAGANINI, OP. 43</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>MINUET IN C-SHARP MINOR, D. 600</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d0330d56-fefc-4eed-bb6a-458877101929</id>
+        <programID>13956</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-13T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>RHAPSODY ON A THEME OF PAGANINI, OP. 43</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Medtner,  Nikolai</composerName>
+                <workTitle>FANTASY-IMPRPOVISATIONS, OP. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>980bf3b2-b9aa-4f7c-9c9b-50808764a738</id>
+        <programID>13854</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Contact!</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>National Sawdust</Venue>
+            <Date>2015-11-16T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Mallonee [Mallonée],  Caroline</composerName>
+                <workTitle>UNLESS ACTED UPON</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Son, Yoobin</soloistName>
+                        <soloistInstrument>Flute</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gould, David</soloistName>
+                        <soloistInstrument>Clarinet/Bass Clarinet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Ge, Quan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kudo, Sumire</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Huebner, Eric</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Soper,  Kate</composerName>
+                <workTitle>INTO THAT WORLD INVERTED</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Deane, Richard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Beck, Steven</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Schoenberg,  Adam</composerName>
+                <workTitle>FLEETING</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ge, Quan;  Yeh, Ru-Pei;  Martinez [Martínez] Forteza, Pascual;  Beck, Steven</soloistName>
+                        <soloistInstrument>Violin; Cello; Clarinet; Piano</soloistInstrument>
+                        <soloistRoles>A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Heidelberger,  Nathan</composerName>
+                <workTitle>HALVE TIME</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ham, Hae-Young;  Kudo, Sumire;  Martinez [Martínez] Forteza, Pascual;  Huebner, Eric</soloistName>
+                        <soloistInstrument>Violin; Cello; Clarinet; Piano</soloistInstrument>
+                        <soloistRoles>A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Davidovsky,  Mario</composerName>
+                <workTitle>FLASHBACKS</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Yao, Shanshan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kudo, Sumire</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Son, Yoobin</soloistName>
+                        <soloistInstrument>Flute/Alto Flute/Piccolo</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gould, David</soloistName>
+                        <soloistInstrument>Clarinet/Bass Clarinet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Druckman, Daniel</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Huebner, Eric</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>fe667a5f-b563-4d53-b33f-070c2b0b095c</id>
+        <programID>13966</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-17T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>RHAPSODY ON A THEME OF PAGANINI, OP. 43</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Macelaru, Cristian</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>GRANDES ÉTUDES DE PAGANINI</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Trifonov,  Daniil</composerName>
+                <workTitle>SONATA, PIANO</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>e0b9405b-86c6-4d3e-b0f7-b42608157a45</id>
+        <programID>13606</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-19T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-20T05:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-21T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>MORCEAUX, SIX, OP. 11 [ARR. FOR ORCHESTRA] (ARR. Leytush)</workTitle>
+                <conductorName>Jarvi (Järvi), Neeme</conductorName>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 4, G MINOR, OP. 40</workTitle>
+                <conductorName>Jarvi (Järvi), Neeme</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SLEEPING BEAUTY (ARR. PIANO) (ARR. Pletnev)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 1, D MINOR, OP. 13</workTitle>
+                <conductorName>Jarvi (Järvi), Neeme</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>81d69a05-127a-43ed-b627-768e85281256</id>
+        <programID>13855</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Theresa L. Kaufmann Concert Hall, 92nd St. YMHA</Venue>
+            <Date>2015-11-22T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>QUARTET, STRING, NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>QUARTET, STRING, NO. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>TRIO ÉLÉGIAQUE NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d5ba4b65-3932-418e-8a0d-1b85ebcc33a5</id>
+        <programID>13608</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-24T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-27T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 3, D MINOR, OP. 30</workTitle>
+                <conductorName>Morlot, Ludovic</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Medtner,  Nikolai</composerName>
+                <workTitle>FAIRY TALES, OP. 26</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONIC DANCES, OP. 45</workTitle>
+                <conductorName>Morlot, Ludovic</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8c0bf79b-c7e9-4fc3-a6aa-32aa7fe2add3</id>
+        <programID>13968</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-28T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 3, D MINOR, OP. 30</workTitle>
+                <conductorName>Morlot, Ludovic</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>TRIO ÉLÉGIAQUE NO. 1</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Trifonov, Daniil</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONIC DANCES, OP. 45</workTitle>
+                <conductorName>Morlot, Ludovic</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>cd444b51-41a5-4420-b307-5d0af8b7885d</id>
+        <programID>13609</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Saturday Matinee</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-11-28T05:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>ROYAL FIREWORKS MUSIC: LA REJOUISSANCE (BRASS) (ARR. Seipp)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bensdorf, Ethan</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Cobb, Kevin</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Deane, Richard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Alessi, Joseph</soloistName>
+                        <soloistInstrument>Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Baer, Alan</soloistName>
+                        <soloistInstrument>Tuba</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Albinoni,  Tomaso</composerName>
+                <workTitle>SONATA, SAN MARCO (ARR. Hickman)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bensdorf, Ethan</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Cobb, Kevin</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Deane, Richard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Alessi, Joseph</soloistName>
+                        <soloistInstrument>Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Baer, Alan</soloistName>
+                        <soloistInstrument>Tuba</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Glinka,  Mikhail</composerName>
+                <workTitle>RUSLAND AND LUDMILLA OVERTURE (BRASS) (ARR. Sutherland)</workTitle>
+            </work>
+            <work>
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>ON THE TOWN, SUITE (ARR. DiLorenzo)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bensdorf, Ethan</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Cobb, Kevin</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Deane, Richard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Alessi, Joseph</soloistName>
+                        <soloistInstrument>Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Baer, Alan</soloistName>
+                        <soloistInstrument>Tuba</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Pollack,  Lew</composerName>
+                <workTitle>THAT'S A PLENTY (BRASS QUINTET) (ARR. Cooper)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bensdorf, Ethan</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Cobb, Kevin</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Deane, Richard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Alessi, Joseph</soloistName>
+                        <soloistInstrument>Trombone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Baer, Alan</soloistName>
+                        <soloistInstrument>Tuba</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONIC DANCES, OP. 45</workTitle>
+                <conductorName>Morlot, Ludovic</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>68bbaac9-c810-467f-8f9d-ab58a4db66d1</id>
+        <programID>13610</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Non-Subscription</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-03T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>VARIOUS,</composerName>
+                <workTitle>SINATRA FILM SUITE (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Porter,  Cole</composerName>
+                <workTitle>I'VE GOT YOU UNDER MY SKIN (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Botti, Chris</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Fantasia</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Foster, Sutton</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Porter, Billy</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Peters, Bernadette</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Massey, Kyle Dean</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sting</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Kern,  Jerome</composerName>
+                <workTitle>SONG IS YOU, THE (ARR. May)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Peters, Bernadette</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bloom,  Rube</composerName>
+                <workTitle>DAY IN, DAY OUT (ARR. MacFarlane)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Altman,  Arthur</composerName>
+                <workTitle>ALL OR NOTHING AT ALL (ARR. Costa)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Massey, Kyle Dean</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>McHugh,  Jimmy</composerName>
+                <workTitle>ON THE SUNNY SIDE OF THE STREET (ARR. May)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Fantasia</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Van Heusen,  Jimmy</composerName>
+                <workTitle>NANCY (WITH THE LAUGHING FACE)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Arlen,  Harold</composerName>
+                <workTitle>I'VE GOT THE WORLD ON A STRING (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Styne,  Jule</composerName>
+                <workTitle>I FALL IN LOVE TOO EASILY (ARR. Musiker)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Foster, Sutton</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Coleman,  Cy</composerName>
+                <workTitle>WITCHCRAFT (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Sting</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Van Heusen,  Jimmy</composerName>
+                <workTitle>CALL ME IRRESPONSIBLE (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Porter, Billy</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mercer,  Johnny</composerName>
+                <workTitle>SOMETHING'S GOTTA GIVE (ARR. May)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Foster, Sutton</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Van Heusen,  Jimmy</composerName>
+                <workTitle>ALL THE WAY (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Foster, Sutton</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Silvers,  Dolores Vicki</composerName>
+                <workTitle>LEARNIN' THE BLUES (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Fantasia</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>OH, KAY!: SOMEONE TO WATCH OVER ME (ARR. Lubbock)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Botti, Chris</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rodgers,  Richard</composerName>
+                <workTitle>HIGHER AND HIGHER</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Peters, Bernadette</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Rodgers,  Richard</composerName>
+                <workTitle>BABES IN ARMS</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Porter, Billy</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mann,  David</composerName>
+                <workTitle>IN THE WEE SMALL HOURS OF THE MORNING (ARR. Musiker)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Sting</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Botti, Chris</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Haggart,  Bob</composerName>
+                <workTitle>WHAT'S NEW"? (ARR. Riddle)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Kander,  John</composerName>
+                <workTitle>NEW YORK, NEW YORK (ARR. Costa)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Aguilera, Christina</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Porter,  Cole</composerName>
+                <workTitle>ANYTHING GOES</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Botti, Chris</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Fantasia</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Foster, Sutton</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>MacFarlane, Seth</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Porter, Billy</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Peters, Bernadette</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Massey, Kyle Dean</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sting</soloistName>
+                        <soloistInstrument>Vocalist</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>9888226d-12bc-4c46-ba6f-96bf86c10642</id>
+        <programID>13848</programID>
+        <orchestra>NY Philharmonic Ensembles</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Merkin Concert Hall</Venue>
+            <Date>2015-12-06T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>MUSICAL OFFERING, BWV 1079</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Son, Yoobin</soloistName>
+                        <soloistInstrument>Flute</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yao, Shanshan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Zeugner, Max</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Yang, Yi-Heng</soloistName>
+                        <soloistInstrument>Harpsichord</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>MUSICAL OFFERING, BWV 1079</workTitle>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>MUSICAL OFFERING, BWV 1079</workTitle>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>MUSICAL OFFERING, BWV 1079</workTitle>
+            </work>
+            <work>
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>MUSICAL OFFERING, BWV 1079</workTitle>
+            </work>
+            <work>
+                <composerName>Arensky,  Anton  Stepanovich</composerName>
+                <workTitle>QUARTET, STRING, NO. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ziskel, Yulia;  Pelletier, Rémi;  Kudo, Sumire;  Vickery, Nathan</soloistName>
+                        <soloistInstrument>Violin; Viola; Cello; Cello</soloistInstrument>
+                        <soloistRoles>A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SEXTET, NO. 1, B-FLAT MAJOR, OP. 18</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Yamada, Sharon</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Simon, Fiona</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nelson, Judith</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Greene, Katherine</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bartlett, Eric</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Moon, Eileen</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5666489b-1f09-4ef2-beaa-f488481f12e2</id>
+        <programID>13611</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-10T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-11T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-12T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60</workTitle>
+                <conductorName>Gaffigan, James</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Norman,  Andrew</composerName>
+                <workTitle>SPLIT [PIANO CONCERTO]</workTitle>
+                <conductorName>Gaffigan, James</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kahane, Jeffrey</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Gaffigan, James</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>4cf7a72a-f27d-40eb-9174-9e0918526295</id>
+        <programID>13264</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-12T05:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>PETER AND THE WOLF, OP.67</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gill, Brandon</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Mostel,  Raphael</composerName>
+                <workTitle>TRAVELS OF BABAR, THE</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+            <work>
+                <composerName>Mostel,  Raphael</composerName>
+                <workTitle>TRAVELS OF BABAR, THE</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+            <work>
+                <composerName>Mostel,  Raphael</composerName>
+                <workTitle>TRAVELS OF BABAR, THE</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+            <work>
+                <composerName>Mostel,  Raphael</composerName>
+                <workTitle>TRAVELS OF BABAR, THE</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+            <work>
+                <composerName>Mostel,  Raphael</composerName>
+                <workTitle>TRAVELS OF BABAR, THE</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Gersen, Joshua</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>bdd23839-df84-42a1-bf5b-291aca1631b4</id>
+        <programID>13407</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-15T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-16T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-17T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-18T05:00:00Z</Date>
+            <Time>11:00AM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-19T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>MESSIAH</workTitle>
+                <conductorName>Glover, Jane</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Stober, Heidi</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mead, Tim</soloistName>
+                        <soloistInstrument>Countertenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Appleby, Paul</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Williams, Roderick</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Westminster Symphonic Choir</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bartlett, Eric</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Cobb, Timothy</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bliznik, Karin</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bordignon, Paolo</soloistName>
+                        <soloistInstrument>Harpsichord</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tritle, Kent</soloistName>
+                        <soloistInstrument>Organ</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>3ca2bf8c-55c9-46ba-aa70-0adc22abd544</id>
+        <programID>13612</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Non-Subscription</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-18T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Non-Subscription</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-19T05:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>CAROL: GOOD KING WENCESLAS (ARR. Gould)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>VARIOUS,</composerName>
+                <workTitle>CHRISTMAS A LA VALSE (ARR. Wendel)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Riese,  Mark</composerName>
+                <workTitle>CHRISTMAS TRILOGY</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Kent,  Walter</composerName>
+                <workTitle>I'LL BE HOME FOR CHRISTMAS (ARR. Hayes)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Carey,  Mariah</composerName>
+                <workTitle>ALL I WANT FOR CHRISTMAS IS YOU (ARR. Eldor)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Berlin,  Irving</composerName>
+                <workTitle>HAPPLY HOLIDAY (ARR. Eldor)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Williams,  Pharrell</composerName>
+                <workTitle>HAPPY</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Anderson,  Leroy</composerName>
+                <workTitle>SLEIGH RIDE</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Humperdinck,  Engelbert</composerName>
+                <workTitle>HANSEL AND GRETEL</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Humperdinck,  Engelbert</composerName>
+                <workTitle>HANSEL AND GRETEL</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Wade,  John  Francis</composerName>
+                <workTitle>ADESTE FIDELES (O COME, ALL YE FAITHFUL) (ARR. Gould)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Herbert,  Victor</composerName>
+                <workTitle>BABES IN TOYLAND</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+            <work>
+                <composerName>Hague,  Albert</composerName>
+                <workTitle>YOU'RE A MEAN ONE, MR. GRINCH (ARR. Podanny)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>CHRISTMAS CAROL SING ALONG (ARR. Kitsopoulos)</workTitle>
+                <conductorName>Lewis, Courtney</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>630a7aa2-7f80-4240-b603-065aae6bf61c</id>
+        <programID>13967</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-29T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>LEMMINKAINEN SUITE (LEGENDS), OP. 22</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>SYMPHONY NO. 4, A MINOR, OP. 63</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bell, Joshua</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>FINLANDIA, OP. 26</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Rodgers,  Richard</composerName>
+                <workTitle>OKLAHOMA!</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>DiDonato, Joyce</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>724ee6e1-b75d-4511-b1fb-77623834d44c</id>
+        <programID>13613</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-30T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-02T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>LEMMINKAINEN SUITE (LEGENDS), OP. 22</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>SYMPHONY NO. 4, A MINOR, OP. 63</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bell, Joshua</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>FINLANDIA, OP. 26</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>eb36d340-a823-4778-945a-0fc239c8217b</id>
+        <programID>13614</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>New Year's Eve</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2015-12-31T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>ORPHEUS IN THE UNDERWORLD: OVERTURE (ARR. Binder)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>PÉRICHOLE, LA</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Graham, Susan</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>GRANDE DUCHESSE DE GEROLSTEIN, LA</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Graham, Susan</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CARNIVAL OF THE ANIMALS</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lane, Nathan</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Ozone, Makato</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Barnatan, Inon</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>PAVANE POUR UNE INFANTE DEFUNTE</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ozone, Makato</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Simons,  Moises</composerName>
+                <workTitle>TOI C'EST MOI</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Graham, Susan</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Louiguy,  Louis</composerName>
+                <workTitle>VIE EN ROSE, LA</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Graham, Susan</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>GAITE PARISIENNE (ARR. Rosenthal)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>GAITE PARISIENNE (ARR. Rosenthal)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>GAITE PARISIENNE (ARR. Rosenthal)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Offenbach,  Jacques</composerName>
+                <workTitle>GAITE PARISIENNE (ARR. Rosenthal)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Anthem,</composerName>
+                <workTitle>FRANCE</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Traditional,</composerName>
+                <workTitle>AULD LANG SYNE (ARR. Hochman)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>3916852e-0a10-4c7d-92f1-2833b609126a</id>
+        <programID>13615</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-07T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-08T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-09T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-12T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>SAGA, A (EN SAGA), OP. 9</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>SONGS, FOUR (VIER LIEDER), OP. 27 (ORCHESTRA)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Melton, Heidi</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>SONGS, FOUR (VIER LIEDER), OP. 27 (ORCHESTRA)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Melton, Heidi</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>SONGS, FOUR (VIER LIEDER), OP. 33, (ORCHESTRA)</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>WALKURE, DIE, WWV 86B</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Melton, Heidi</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>WALKURE, DIE, WWV 86B</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Melton, Heidi</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Owens, Eric</soloistName>
+                        <soloistInstrument>Bass-Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>945ba769-bbb9-4f55-8cc4-764a7eda076f</id>
+        <programID>13616</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Saturday Matinee</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>David Geffen Hall</Venue>
+            <Date>2016-01-09T05:00:00Z</Date>
+            <Time>2:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Grieg,  Edvard</composerName>
+                <workTitle>QUARTET, STRING, G MINOR, OP.27</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Huang, Frank</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Staples, Sheryl</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <interval>Intermission</interval>
+            </work>
+            <work>
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>SYMPHONY NO. 4, A MINOR, OP. 63</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>f22a4705-b47b-4f4a-869a-bf200e775510</id>
+        <programID>13899</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2015-16</season>
+        <concertInfo>
+            <eventType>Chamber Concert (Private)</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Morgan Library</Venue>
+            <Date>2016-01-10T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work>
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>SUMMER MUSIC, OP. 31</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Teplitsky, Mark</soloistName>
+                        <soloistInstrument>Flute</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Shryock, Grace</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sparrow, Samuel</soloistName>
+                        <soloistInstrument>Clarinet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Zhu, Naho</soloistName>
+                        <soloistInstrument>Bassoon</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wall, Howard</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Bozza,  Eugene  Joseph</composerName>
+                <workTitle>SONATINE FOR BRASS QUINTET</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bensdorf, Ethan;  Cobb, Kevin;  LaBonte, Nikolette;  Williams, Colin;  Martinez, Jose [José]</soloistName>
+                        <soloistInstrument>Trumpet; Trumpet; French Horn; Trombone; Tuba</soloistInstrument>
+                        <soloistRoles>A; A; A; A; A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work>
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>QUINTET, STRINGS, G MAJOR, OP.77</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hoffman, Benjamin</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Reale, Rebecca</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rinehart, Robert</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kubota, Maki</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Anderson, Carl</soloistName>
+                        <soloistInstrument>Contrabass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
