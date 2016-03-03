@@ -77,12 +77,15 @@ for g in files:
     def sortWorksInfo(works):
         conductors = works.findall('worksConductorName')
         composerAndWork = works.findall('worksComposerTitle')
+        movement = works.findall('worksMovement')
         soloists = works.findall('worksSoloistName')
         soloist_instruments = works.findall('worksSoloistInstrument')
         soloist_roles = works.findall('worksSoloistRole')
+        work_id = works.findall('workID')
+        movement_id = works.findall('movementID')
         for x in range(0,len(conductors)):
             composer_work_separated = separateComposerWork(composerAndWork[x].text)
-            lines.append("            <work>\n")
+            lines.append("            <work ID=\"%s\">\n"%work_id[x].text)
             if re.match(r'Intermission',composer_work_separated[0]):
                 lines.append("                <interval>%s</interval>\n"%composer_work_separated[0][:-1])
             else:
@@ -90,6 +93,8 @@ for g in files:
                     lines.append("                <composerName>%s</composerName>\n"%composer_work_separated[0])
                 if composer_work_separated[1]:
                     lines.append("                <workTitle>%s</workTitle>\n"%composer_work_separated[1])
+                if movement[x].text:
+                    lines.append("                <movement ID=\"%s\">%s</movement>\n"%(movement_id[x].text,movement[x].text))
                 if conductors[x].text:
                     lines.append("                <conductorName>%s</conductorName>\n"%conductors[x].text)
                 try:
