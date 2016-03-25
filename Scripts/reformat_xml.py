@@ -94,7 +94,7 @@ for g in files:
                 if composer_work_separated[1]:
                     lines.append("                <workTitle>%s</workTitle>\n"%composer_work_separated[1])
                 if movement[x].text:
-                    lines.append("                <movement ID=\"%s\">%s</movement>\n"%(movement_id[x].text,movement[x].text))
+                    lines.append("                <movement>%s</movement>\n"%movement[x].text)
                 if conductors[x].text:
                     lines.append("                <conductorName>%s</conductorName>\n"%conductors[x].text)
                 try:
