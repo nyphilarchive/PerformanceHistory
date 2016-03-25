@@ -7,7 +7,7 @@ The metadata here is released under the Creative Commons Public Domain [CC0](htt
 
 ##Considerations
 * A **program** is defined as one or more performances or presentations in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, locations may vary within). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
-* Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.
+* ~~Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.~~ Movements are now included as cataloged by NYP. Keep in mind that we do not necessarily catalog every movement in the work, only movements that we have ever performed.
 * To see detailed information about our internal descriptive standards, please go to http://nyphil.org/history/performance-history/help.
 
 ##Repository Contents
@@ -31,9 +31,10 @@ The XML is structured in the following way:
          <Time/>
       </concertInfo>
       <worksInfo> // a program will usually have multiple works 
-         <work>
+         <work ID=""> // e.g. "1234*1" - first part is the Work ID, second part is the NYP Movement ID
              <composerName/>
              <workTitle/>
+             <movement/>
              <conductorName/>     
              <soloists> // included only if there are listed soloists
                 <soloist>
@@ -93,6 +94,9 @@ The XML is structured in the following way:
 	</tr>
 	<tr>
 		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP short titles used)</td>
+	</tr>
+	<tr>
+		<td>movement</td><td>Movement title as cataloged by NYP</td>
 	</tr>
 	<tr>
 		<td>worksSoloistName</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
