@@ -1,0 +1,16 @@
+{
+  "name": "program-xml-to-json",
+  "version": "0.0.1",
+  "description": "A simple script to convert program data from XML to JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@freethejazz",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.0.3",
+    "jsonfile": "^2.2.3",
+    "xml2js": "^0.4.16"
+  }
+}
