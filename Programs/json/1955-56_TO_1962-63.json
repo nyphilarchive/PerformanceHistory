@@ -1442,6 +1442,69 @@
       ]
     },
     {
+      "id": "83827200-894c-4f54-b8cd-9167ec9a15b0",
+      "programID": "2120",
+      "orchestra": "New York Philharmonic",
+      "season": "1955-56",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Athens, GREECE",
+          "Venue": "Orpheus Hall",
+          "Date": "1955-10-02T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6709*16",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "FREISCHUTZ, DER",
+          "movement": "Overture",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "52581*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 5, D MAJOR, OP.107 (REFORMATION)",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "881*5",
+          "composerName": "Skalkottas,  Nikos",
+          "workTitle": "36 GREEK DANCES",
+          "movement": "Greek Dances [unspecified]",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "51872*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "50767*1",
+          "composerName": "Kabalevsky,  Dmitri",
+          "workTitle": "COLAS BREUGNON",
+          "movement": "Overture",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "881*7",
+          "composerName": "Skalkottas,  Nikos",
+          "workTitle": "36 GREEK DANCES",
+          "movement": "\"Dance No. 5\" [unspecified]",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "fac90fd1-1197-4340-88d1-e588254c161a",
       "programID": "2114",
       "orchestra": "New York Philharmonic",
@@ -1496,69 +1559,6 @@
           "composerName": "Skalkottas,  Nikos",
           "workTitle": "36 GREEK DANCES",
           "movement": "\"Dance No. 4\" [unspecified]",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "881*7",
-          "composerName": "Skalkottas,  Nikos",
-          "workTitle": "36 GREEK DANCES",
-          "movement": "\"Dance No. 5\" [unspecified]",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "83827200-894c-4f54-b8cd-9167ec9a15b0",
-      "programID": "2120",
-      "orchestra": "New York Philharmonic",
-      "season": "1955-56",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Athens, GREECE",
-          "Venue": "Orpheus Hall",
-          "Date": "1955-10-02T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6709*16",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "FREISCHUTZ, DER",
-          "movement": "Overture",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "52581*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 5, D MAJOR, OP.107 (REFORMATION)",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "881*5",
-          "composerName": "Skalkottas,  Nikos",
-          "workTitle": "36 GREEK DANCES",
-          "movement": "Greek Dances [unspecified]",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "51872*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "50767*1",
-          "composerName": "Kabalevsky,  Dmitri",
-          "workTitle": "COLAS BREUGNON",
-          "movement": "Overture",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -20731,29 +20731,9 @@
           "conductorName": "Antonini, Alfredo",
           "soloists": [
             {
-              "soloistName": "Del Rio, Lupe",
-              "soloistInstrument": "",
-              "soloistRoles": ""
-            },
-            {
-              "soloistName": "Ramos, Anita",
-              "soloistInstrument": " ",
-              "soloistRoles": " "
-            },
-            {
-              "soloistName": "Jiminez, Antonio",
-              "soloistInstrument": " ",
-              "soloistRoles": " "
-            },
-            {
-              "soloistName": "Montez, Domingo",
-              "soloistInstrument": " ",
-              "soloistRoles": " "
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Del Rio, Lupe;  Ramos, Anita;  Jiminez, Antonio;  Montez, Domingo;  Molina, Jose (José)",
+              "soloistInstrument": "; ; ; ; Dancer",
+              "soloistRoles": "; ; ; ; A"
             }
           ]
         },
@@ -20906,34 +20886,9 @@
           "conductorName": "Antonini, Alfredo",
           "soloists": [
             {
-              "soloistName": "Ronda, Lola de",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Ramos, Anita",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montez, Domingo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Jiminez, Antonio",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
+              "soloistName": "Ronda, Lola de;  Ramos, Anita;  Molina, Jose (José);  Montez, Domingo;  Jiminez, Antonio;  Greco, Jose",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; S; A; S; S; S"
             }
           ]
         },
@@ -24786,12 +24741,12 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Bailey, Elden",
+              "soloistName": "Bailey, Elden \"Buster\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Lang, Morris",
+              "soloistName": "Lang, Morris \"Arnie\"",
               "soloistInstrument": "Percussion",
               "soloistRoles": "S"
             }
@@ -27907,7 +27862,7 @@
         {
           "ID": "2451*",
           "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -28264,7 +28219,7 @@
         {
           "ID": "51816*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Krenek)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (KRENEK)",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -28429,7 +28384,7 @@
         {
           "ID": "51816*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Krenek)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (KRENEK)",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -33819,64 +33774,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Caro, Rosario",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rio, Lupe Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Angeles, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montes, Tina",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Torres, Juan",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Merida, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Greco, Jose;  Molina, Jose (José);  Caro, Rosario;  Fernandez, Paco;  Rio, Lupe Del;  Angeles, Maria;  Medina, Pablo;  Velez, Ramon;  Carmen, Dolores Del;  Montes, Tina;  Torres, Juan;  Merida, Maria",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; A; A; A; A; A; A; A; A; A; A; A"
             }
           ]
         },
@@ -33918,34 +33818,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rio, Lupe Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montes, Tina",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Carmen, Dolores Del;  Rio, Lupe Del;  Montes, Tina;  Fernandez, Paco;  Medina, Pablo;  Molina, Jose (José)",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "A; A; A; A; A; A"
             }
           ]
         },
@@ -33999,49 +33874,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rio, Lupe Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Angeles, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montes, Tina",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Merida, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Carmen, Dolores Del;  Rio, Lupe Del;  Angeles, Maria;  Montes, Tina;  Molina, Jose (José);  Fernandez, Paco;  Medina, Pablo;  Velez, Ramon;  Merida, Maria",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "A; A; A; A; A; A; A; A; A"
             }
           ]
         },
@@ -34053,29 +33888,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Merida, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Fernandez, Paco;  Velez, Ramon;  Molina, Jose (José);  Medina, Pablo;  Merida, Maria",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "A; A; A; A; A"
             }
           ]
         },
@@ -34099,69 +33914,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Caro, Rosario",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rio, Lupe Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Angeles, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montes, Tina",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Torres, Juan",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Merida, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teresa",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
+              "soloistName": "Greco, Jose;  Molina, Jose (José);  Caro, Rosario;  Fernandez, Paco;  Rio, Lupe Del;  Angeles, Maria;  Medina, Pablo;  Velez, Ramon;  Carmen, Dolores Del;  Montes, Tina;  Torres, Juan;  Merida, Maria;  Teresa",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; A; A; A; A; A; A; A; A; A; A; A; S"
             }
           ]
         },
@@ -34222,34 +33977,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Greco, Jose;  Carmen, Dolores Del;  Fernandez, Paco;  Molina, Jose (José);  Velez, Ramon;  Medina, Pablo",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; A; A; A; A; A"
             }
           ]
         },
@@ -34310,24 +34040,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
+              "soloistName": "Fernandez, Paco;  Molina, Jose (José);  Medina, Pablo;  Greco, Jose",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "A; A; A; S"
             }
           ]
         },
@@ -34338,64 +34053,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Caro, Rosario",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fernandez, Paco",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rio, Lupe Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Angeles, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Medina, Pablo",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carmen, Dolores Del",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montes, Tina",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Torres, Juan",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Merida, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Greco, Jose;  Molina, Jose (José);  Caro, Rosario;  Fernandez, Paco;  Rio, Lupe Del;  Angeles, Maria;  Medina, Pablo;  Velez, Ramon;  Carmen, Dolores Del;  Montes, Tina;  Torres, Juan;  Merida, Maria",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; A; A; A; A; A; A; A; A; A; A; A"
             }
           ]
         }
@@ -38848,7 +38508,7 @@
           "ID": "1930*1",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mars, the Bringer of War (Allegro)",
+          "movement": "Mars, the Bringer of War",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -38856,7 +38516,7 @@
           "ID": "1930*2",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Venus, the Bringer of Peace (Adagio)",
+          "movement": "Venus, the Bringer of Peace",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -38864,7 +38524,7 @@
           "ID": "1930*3",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Mercury, the Winged Messenger (Vivace)",
+          "movement": "Mercury, the Winged Messenger",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -38872,7 +38532,7 @@
           "ID": "1930*6",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Uranus, the Magician (Allegro)",
+          "movement": "Uranus, the Magician",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -38880,7 +38540,7 @@
           "ID": "1930*4",
           "composerName": "Holst,  Gustav",
           "workTitle": "PLANETS, THE, OP. 32",
-          "movement": "Jupiter, the Bringer of Jollity (Allegro giocoso)",
+          "movement": "Jupiter, the Bringer of Jollity",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -39248,68 +38908,6 @@
       ]
     },
     {
-      "id": "bdb9d8b2-c8a0-4731-ae40-547569caa744",
-      "programID": "1617",
-      "orchestra": "New York Philharmonic",
-      "season": "1958-59",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1959-02-08T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "54133*",
-          "composerName": "Harris,  Roy",
-          "workTitle": "WHEN JOHNNY COMES MARCHING HOME",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "51988*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "CONCERTO FOR PIANO AND WIND INSTRUMENTS",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Lipkin, Seymour",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "50731*",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "KONZERTSTUCK IN F MINOR FOR PIANO, OP.79",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Lipkin, Seymour",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "402*",
-          "composerName": "Shostakovich,  Dmitri",
-          "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "12922599-f99d-4916-a93f-71de922bf591",
       "programID": "1619",
       "orchestra": "New York Philharmonic",
@@ -39440,6 +39038,68 @@
           "composerName": "Gershwin,  George",
           "workTitle": "PRELUDE, NO. 2 (ARR. Filippi)",
           "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "bdb9d8b2-c8a0-4731-ae40-547569caa744",
+      "programID": "1617",
+      "orchestra": "New York Philharmonic",
+      "season": "1958-59",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1959-02-08T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "54133*",
+          "composerName": "Harris,  Roy",
+          "workTitle": "WHEN JOHNNY COMES MARCHING HOME",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "51988*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "CONCERTO FOR PIANO AND WIND INSTRUMENTS",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Lipkin, Seymour",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "50731*",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "KONZERTSTUCK IN F MINOR FOR PIANO, OP.79",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Lipkin, Seymour",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "402*",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
+          "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
       ]
@@ -47697,63 +47357,6 @@
       ]
     },
     {
-      "id": "11aa59f9-2629-469a-b20d-315a61c1ed6b",
-      "programID": "5782",
-      "orchestra": "New York Philharmonic",
-      "season": "1959-60",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Moscow, USSR",
-          "Venue": "Tchaikovsky Conservatory Hall",
-          "Date": "1959-09-11T04:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "4380*",
-          "composerName": "Anthem,",
-          "workTitle": "UNION OF SOVIET SOCIALIST REPUBLICS",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52618*",
-          "composerName": "Barber,  Samuel",
-          "workTitle": "ESSAY NO. 2, OP.17",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "402*",
-          "composerName": "Shostakovich,  Dmitri",
-          "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "ea8f9b7e-9e6b-4fd2-b744-67859a1bde54",
       "programID": "10175",
       "orchestra": "New York Philharmonic",
@@ -47846,6 +47449,63 @@
           "composerName": "Shostakovich,  Dmitri",
           "workTitle": "SYMPHONY NO.  7, OP. 60 (LENINGRAD)",
           "movement": "Allegretto",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "11aa59f9-2629-469a-b20d-315a61c1ed6b",
+      "programID": "5782",
+      "orchestra": "New York Philharmonic",
+      "season": "1959-60",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Moscow, USSR",
+          "Venue": "Tchaikovsky Conservatory Hall",
+          "Date": "1959-09-11T04:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "4380*",
+          "composerName": "Anthem,",
+          "workTitle": "UNION OF SOVIET SOCIALIST REPUBLICS",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52618*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "ESSAY NO. 2, OP.17",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "402*",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -51434,91 +51094,7 @@
           "Time": "None"
         }
       ],
-      "works": [
-        {
-          "ID": "53397*",
-          "composerName": "Falla,  Manuel  de",
-          "workTitle": "EL AMOR BRUJO (REV. 1924)",
-          "conductorName": "Bertini, Gary",
-          "soloists": []
-        },
-        {
-          "ID": "8957*8",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
-          "movement": "\"Non pi",
-          "conductorName": "Bertini, Gary",
-          "soloists": [
-            {
-              "soloistName": "London, George",
-              "soloistInstrument": "Bass-Baritone",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2856*7",
-          "composerName": "Gounod,  Charles",
-          "workTitle": "FAUST",
-          "conductorName": "Bertini, Gary",
-          "soloists": [
-            {
-              "soloistName": "London, George",
-              "soloistInstrument": "Bass-Baritone",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "5330*",
-          "composerName": "Seter,",
-          "workTitle": "MIDNIGHT PRAYER RHAPSODY ON YEMENITE THEMES",
-          "movement": "\"Vous qui faites l'endormie,\" Méphistophélès (serenade)",
-          "conductorName": "Bertini, Gary",
-          "soloists": []
-        },
-        {
-          "ID": "836*4",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "SAMSON AND DELILAH",
-          "conductorName": "Bertini, Gary",
-          "soloists": [
-            {
-              "soloistName": "Resnik, Regina",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8847*7",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "CARMEN",
-          "movement": "\"Mon coeur s'ouvre à ta voix,\" Delilah (aria), Act II, scene 3",
-          "conductorName": "Bertini, Gary",
-          "soloists": [
-            {
-              "soloistName": "Resnik, Regina",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2229*",
-          "composerName": "Bruch,  Max",
-          "workTitle": "CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26",
-          "movement": "Excerpts",
-          "conductorName": "Bertini, Gary",
-          "soloists": [
-            {
-              "soloistName": "Stern, Isaac",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
+      "works": []
     },
     {
       "id": "7826dd3e-e732-47ed-ac92-ccab1f6fdf21",
@@ -51615,7 +51191,7 @@
         {
           "ID": "51816*1",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Krenek)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (KRENEK)",
           "movement": "Andante - Adagio",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
@@ -51673,7 +51249,7 @@
         {
           "ID": "51816*1",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (ARR. Krenek)",
+          "workTitle": "SYMPHONY NO. 10 IN F SHARP MAJOR (KRENEK)",
           "movement": "Andante - Adagio",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
@@ -55290,14 +54866,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Del Rio, Lupe",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Del Rio, Lupe;  Molina, Jose (José)",
+              "soloistInstrument": "Dancer; Dancer",
+              "soloistRoles": "S; A"
             }
           ]
         },
@@ -55344,49 +54915,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Del Rio, Lupe",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Angeles, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Del Rocio, Maria",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Dominguez, Carmen",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Rodriguez , Curro",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Montero, Luis",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Esquinta, Juan",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Del Rio, Lupe;  Angeles, Maria;  Del Rocio, Maria;  Dominguez, Carmen;  Rodriguez , Curro;  Velez, Ramon;  Montero, Luis;  Esquinta, Juan;  Molina, Jose (José)",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; A; S; S; S; A; S; S; A"
             }
           ]
         },
@@ -55456,34 +54987,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Arcos, Pepita",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Rodriguez , Curro",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Montero, Luis",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Velez, Ramon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Greco, Jose;  Arcos, Pepita;  Rodriguez , Curro;  Montero, Luis;  Velez, Ramon;  Molina, Jose (José)",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "S; S; S; S; A; A"
             }
           ]
         },
@@ -55558,14 +55064,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "de Ronda, Lola",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "de Ronda, Lola;  Molina, Jose (José)",
+              "soloistInstrument": "Dancer; Dancer",
+              "soloistRoles": "S; A"
             }
           ]
         },
@@ -55612,24 +55113,9 @@
           "conductorName": "Machado, Roger",
           "soloists": [
             {
-              "soloistName": "Molina, Jose (José)",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rodriguez , Curro",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Montero, Luis",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Greco, Jose",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
+              "soloistName": "Molina, Jose (José);  Rodriguez , Curro;  Montero, Luis;  Greco, Jose",
+              "soloistInstrument": "Dancer; Dancer; Dancer; Dancer",
+              "soloistRoles": "A; S; S; S"
             }
           ]
         },
@@ -59073,6 +58559,68 @@
       ]
     },
     {
+      "id": "9d5cdcad-f24c-4900-adc4-5bd96c9931d5",
+      "programID": "6891",
+      "orchestra": "New York Philharmonic",
+      "season": "1959-60",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vancouver, BC, CANADA",
+          "Venue": "The Forum",
+          "Date": "1960-08-16T04:00:00Z",
+          "Time": "11:30AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51710*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52389*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52644*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "9000*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "RIENZI, WWV 49",
+          "movement": "Overture",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "53988435-0cdb-4665-a56e-5ab165ad9de6",
       "programID": "2309",
       "orchestra": "New York Philharmonic",
@@ -59132,68 +58680,6 @@
           "composerName": "Stravinsky,  Igor",
           "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
           "movement": "Infernal Dance of King Kashchei",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "9d5cdcad-f24c-4900-adc4-5bd96c9931d5",
-      "programID": "6891",
-      "orchestra": "New York Philharmonic",
-      "season": "1959-60",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Vancouver, BC, CANADA",
-          "Venue": "The Forum",
-          "Date": "1960-08-16T04:00:00Z",
-          "Time": "11:30AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51710*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "SEMIRAMIDE",
-          "movement": "Overture",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52644*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "9000*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "RIENZI, WWV 49",
-          "movement": "Overture",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "7599*1",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE",
-          "movement": "Overture",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -60041,7 +59527,7 @@
         {
           "ID": "350*",
           "composerName": "Brahms,  Johannes",
-          "workTitle": "HUNGARIAN DANCE NO.  7 (VIOLIN SOLO VERSION)",
+          "workTitle": "HUNGARIAN DANCE NO. 7 (VIOLIN SOLO VERSION)",
           "conductorName": "Bernstein, Leonard",
           "soloists": [
             {
@@ -64853,49 +64339,6 @@
       ]
     },
     {
-      "id": "5996ace3-b1de-4100-8c17-34297abacacf",
-      "programID": "399",
-      "orchestra": "New York Philharmonic",
-      "season": "1960-61",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-03-18T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "417*",
-          "composerName": "Creston,  Paul",
-          "workTitle": "JANUS, OP. 77",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "51644*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "ec45323b-194d-4fa4-be39-3596320d5975",
       "programID": "4812",
       "orchestra": "New York Philharmonic",
@@ -65005,6 +64448,49 @@
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
           "movement": "Presto",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "5996ace3-b1de-4100-8c17-34297abacacf",
+      "programID": "399",
+      "orchestra": "New York Philharmonic",
+      "season": "1960-61",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-03-18T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "417*",
+          "composerName": "Creston,  Paul",
+          "workTitle": "JANUS, OP. 77",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -65160,435 +64646,7 @@
           "Time": "8:45PM"
         }
       ],
-      "works": [
-        {
-          "ID": "5842*",
-          "composerName": "Corelli,  Arcangelo",
-          "workTitle": "SUITE, STRING ORCHESTRA",
-          "conductorName": "Varga, Laszlo",
-          "soloists": [
-            {
-              "soloistName": "Pasquale, Robert de",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greitzer, Sol",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carboni, William",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stutch, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sims, Rudolph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Weiner, Max",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Andreasson, Bjoern",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fishsohn, Louis",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Robbins, Bernard",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Renzulli, Carlo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nowinski, William",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brennand, Robert",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2629*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DIVERTIMENTO, D MAJOR, K.125A (OLD K.136)",
-          "conductorName": "Varga, Laszlo",
-          "soloists": [
-            {
-              "soloistName": "Weiner, Max",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Andreasson, Bjoern",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fishsohn, Louis",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Robbins, Bernard",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Renzulli, Carlo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pasquale, Robert de",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greitzer, Sol",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carboni, William",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stutch, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sims, Rudolph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nowinski, William",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brennand, Robert",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5843*",
-          "composerName": "Duparc,  Henri",
-          "workTitle": "VIE ANTERIEURE, LA (VOICE + PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Lawrence Leighton",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "10511*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "FANTOCHES",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Lawrence Leighton",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5849*",
-          "composerName": "Milhaud,  Darius",
-          "workTitle": "CHANT DE NOURRICE (HEBREW LULLABY)",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Lawrence Leighton",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5825*",
-          "composerName": "Poulenc,  Francis",
-          "workTitle": "VIOLON (VOICE + PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Lawrence Leighton",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5857*",
-          "composerName": "Satie,  Erik",
-          "workTitle": "CHAPELIER, LE (VOICE + PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Lawrence Leighton",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "50318*",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "SERENADE IN E MINOR, OP. 20",
-          "conductorName": "Varga, Laszlo",
-          "soloists": [
-            {
-              "soloistName": "Weiner, Max",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Andreasson, Bjoern",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fishsohn, Louis",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Robbins, Bernard",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Renzulli, Carlo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pasquale, Robert de",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greitzer, Sol",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carboni, William",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stutch, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sims, Rudolph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nowinski, William",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brennand, Robert",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5200*2",
-          "composerName": "Weiner,  Leo",
-          "workTitle": "DIVERTIMENTO NO. 2, A MINOR, OP.24",
-          "movement": "\"Trefalkozas\" (\"Comedy\") : Allegretto scherzando",
-          "conductorName": "Varga, Laszlo",
-          "soloists": [
-            {
-              "soloistName": "Weiner, Max",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Andreasson, Bjoern",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fishsohn, Louis",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Robbins, Bernard",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Renzulli, Carlo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pasquale, Robert de",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greitzer, Sol",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carboni, William",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stutch, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sims, Rudolph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nowinski, William",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brennand, Robert",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5200*4",
-          "composerName": "Weiner,  Leo",
-          "workTitle": "DIVERTIMENTO NO. 2, A MINOR, OP.24",
-          "movement": "\"Kanasz-nota\" (\"Swineherd's Song\") : Allegro; Pi",
-          "conductorName": "Varga, Laszlo",
-          "soloists": [
-            {
-              "soloistName": "Weiner, Max",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Andreasson, Bjoern",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Fishsohn, Louis",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Robbins, Bernard",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Renzulli, Carlo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pasquale, Robert de",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Greitzer, Sol",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Carboni, William",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stutch, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sims, Rudolph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nowinski, William",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brennand, Robert",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
+      "works": []
     },
     {
       "id": "7c844b30-1334-40a9-876a-5c379e785da4",
@@ -67320,6 +66378,43 @@
       ]
     },
     {
+      "id": "143a27f0-41bc-402e-acb2-2f9297d91b24",
+      "programID": "6188",
+      "orchestra": "New York Philharmonic",
+      "season": "1960-61",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-05-16T04:00:00Z",
+          "Time": "2:45PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-05-17T04:00:00Z",
+          "Time": "2:45PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-05-18T04:00:00Z",
+          "Time": "2:45PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-05-19T04:00:00Z",
+          "Time": "2:45PM"
+        }
+      ],
+      "works": []
+    },
+    {
       "id": "03ab6836-e486-44e0-8e74-1449592478e4",
       "programID": "6178",
       "orchestra": "New York Philharmonic",
@@ -67470,82 +66565,6 @@
       ]
     },
     {
-      "id": "143a27f0-41bc-402e-acb2-2f9297d91b24",
-      "programID": "6188",
-      "orchestra": "New York Philharmonic",
-      "season": "1960-61",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-05-16T04:00:00Z",
-          "Time": "2:45PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-05-17T04:00:00Z",
-          "Time": "2:45PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-05-18T04:00:00Z",
-          "Time": "2:45PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-05-19T04:00:00Z",
-          "Time": "2:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8957*1",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
-          "movement": "Overture",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "53732*",
-          "composerName": "Prokofiev,  Sergei",
-          "workTitle": "SYMPHONY NO. 1, OP. 25 (CLASSICAL)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "53116*",
-          "composerName": "Mennin,  Peter",
-          "workTitle": "CONCERTATO (MOBY DICK)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "52638*2",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "NOCTURNES",
-          "movement": "Fêtes (\"Festivals\")",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "51884*4",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "movement": "Allegro energico e passionato – Pi",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "749e1aee-357d-4be0-916f-fd101bedb011",
       "programID": "6184",
       "orchestra": "New York Philharmonic",
@@ -67559,127 +66578,7 @@
           "Time": "1:00PM"
         }
       ],
-      "works": [
-        {
-          "ID": "8856*1",
-          "composerName": "Glinka,  Mikhail",
-          "workTitle": "RUSLAN AND LUDMILA",
-          "movement": "Overture",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*1",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "Theme",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*2",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "I. (C.A.E.)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*4",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "III. (R.B.T.)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*5",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "IV. (W.M.B.)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*8",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "VII. (Troyte)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*11",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "X. (Dorabella) - Intermezzo",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*12",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "XI. (G.R.S.)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*13",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "XII. (B.G.N.)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50296*15",
-          "composerName": "Elgar,  Sir  Edward",
-          "workTitle": "ENIGMA VARIATIONS, OP. 36",
-          "movement": "XIV. (E.D.U.) - Finale",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "52340*4",
-          "composerName": "Copland,  Aaron",
-          "workTitle": "RED PONY, SUITE",
-          "movement": "3. b. Circus Music",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "52340*5",
-          "composerName": "Copland,  Aaron",
-          "workTitle": "RED PONY, SUITE",
-          "movement": "4. Walk to the Bunkhouse",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "52340*7",
-          "composerName": "Copland,  Aaron",
-          "workTitle": "RED PONY, SUITE",
-          "movement": "6. Happy Ending",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "51884*4",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "movement": "Allegro energico e passionato – Pi",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50348*",
-          "composerName": "Gould,  Morton",
-          "workTitle": "AMERICAN SALUTE",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        }
-      ]
+      "works": []
     },
     {
       "id": "ffba3c31-4612-4418-8b37-55a69b946fbb",
@@ -69138,180 +68037,7 @@
           "Time": "8:30PM"
         }
       ],
-      "works": [
-        {
-          "ID": "51306*10",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
-          "movement": "Rakoczy March (Hungarian March)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": []
-        },
-        {
-          "ID": "6827*1",
-          "composerName": "Massenet,  Jules",
-          "workTitle": "WERTHER",
-          "movement": "\"Pourquoi me réveiller,\" Werther (aria)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Verreau, Richard",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "1890*5",
-          "composerName": "Massenet,  Jules",
-          "workTitle": "MANON",
-          "movement": "\"Ah! Fuyez, douce image,\" Des Grieux (aria)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Verreau, Richard",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "4831*1",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "PARYSATIS",
-          "movement": "\"Le Rossignol et la Rose\"",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Pons, Lily",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3547*2",
-          "composerName": "Gounod,  Charles",
-          "workTitle": "MIREILLE",
-          "movement": "\"O légère hirondelle\" (Waltz Song), Mireille (aria)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Pons, Lily",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Brook, Paige",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "4833*",
-          "composerName": "Rabaud,  Henri",
-          "workTitle": "MAROUF: BALLET MUSIC",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50964*1",
-          "composerName": "Lalo,  Edouard",
-          "workTitle": "ROI D'YS, LE",
-          "movement": "Overture",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": []
-        },
-        {
-          "ID": "8847*9",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "CARMEN",
-          "movement": "\"La fleur que tu m'avais jetee\" (Flower Song), Don Jose (aria), Act II",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Verreau, Richard",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3521*3",
-          "composerName": "Meyerbeer,  Giacomo",
-          "workTitle": "DIONARAH (LE PARDON DE PLOËRMEL)",
-          "movement": "\"Ombre légère\" (Shadow Song), Dinorah (aria)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Pons, Lily",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8851*9",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "LAKME (LAKMÉ)",
-          "movement": "Ballet Music",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": []
-        },
-        {
-          "ID": "8851*10",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "LAKME (LAKMÉ)",
-          "movement": "\"Fantaisie aux divins mensonges\" (aria)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Verreau, Richard",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8851*2",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "LAKME (LAKMÉ)",
-          "movement": "\"Ou va la jeune Indoue\" (Bell Song)",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Pons, Lily",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8851*11",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "LAKME (LAKMÉ)",
-          "movement": "\"D'o",
-          "conductorName": "Antonini, Alfredo",
-          "soloists": [
-            {
-              "soloistName": "Pons, Lily",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Verreau, Richard",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
+      "works": []
     },
     {
       "id": "a564d77d-0016-4e2a-8674-896f2aa3518a",
@@ -70015,14 +68741,9 @@
           "conductorName": "Rudel, Julius",
           "soloists": [
             {
-              "soloistName": "Destine, Jean-Léon",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Jean-Léon Destine Dance Company",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "A"
+              "soloistName": "Destine, Jean-Léon;  Jean-Léon Destine Dance Company",
+              "soloistInstrument": "Dancer; Dancer",
+              "soloistRoles": "S; A"
             }
           ]
         }
@@ -74755,14 +73476,9 @@
           "conductorName": "Bernstein, Leonard",
           "soloists": [
             {
-              "soloistName": "Previn, André",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Vacchiano, William",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
+              "soloistName": "Previn, André;  Vacchiano, William",
+              "soloistInstrument": "Piano; Trumpet",
+              "soloistRoles": "S; A"
             }
           ]
         },
@@ -75475,103 +74191,6 @@
       ]
     },
     {
-      "id": "b92260f9-c155-4e5a-b726-c787009bf8f3",
-      "programID": "4116",
-      "orchestra": "New York Philharmonic",
-      "season": "1961-62",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1962-05-08T04:00:00Z",
-          "Time": "1:00PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1962-05-09T04:00:00Z",
-          "Time": "1:00PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1962-05-10T04:00:00Z",
-          "Time": "1:00PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1962-05-11T04:00:00Z",
-          "Time": "1:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52330*",
-          "composerName": "Copland,  Aaron",
-          "workTitle": "OUTDOOR OVERTURE",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50973*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "FUGUE, G MINOR, BWV 578 (ARR. Cailliet)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "53193*",
-          "composerName": "Dukas,  Paul",
-          "workTitle": "SORCERER'S APPRENTICE, THE",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "51442*4",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  7, D MAJOR, K.248B (OLD K.250), \"HAFFNER\"",
-          "movement": "Rondeau: Allegro",
-          "conductorName": "Solomon, Izler",
-          "soloists": [
-            {
-              "soloistName": "Corigliano, John, Sr.",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "1327*9",
-          "composerName": "Milhaud,  Darius",
-          "workTitle": "SUITE PROVENÇALE, OP. 152B",
-          "movement": "Excerpts (unspecified)",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50064*3",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "movement": "Scherzo. Pizzicato ostinato: Allegro",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        },
-        {
-          "ID": "50064*4",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "movement": "Finale: Allegro con fuoco",
-          "conductorName": "Solomon, Izler",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "a7365349-3165-4136-a533-274c3292f392",
       "programID": "4120",
       "orchestra": "New York Philharmonic",
@@ -75667,6 +74286,103 @@
           "composerName": "Shostakovich,  Dmitri",
           "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
           "movement": "Allegro non troppo",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "b92260f9-c155-4e5a-b726-c787009bf8f3",
+      "programID": "4116",
+      "orchestra": "New York Philharmonic",
+      "season": "1961-62",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1962-05-08T04:00:00Z",
+          "Time": "1:00PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1962-05-09T04:00:00Z",
+          "Time": "1:00PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1962-05-10T04:00:00Z",
+          "Time": "1:00PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1962-05-11T04:00:00Z",
+          "Time": "1:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52330*",
+          "composerName": "Copland,  Aaron",
+          "workTitle": "OUTDOOR OVERTURE",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        },
+        {
+          "ID": "50973*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "FUGUE, G MINOR, BWV 578 (ARR. Cailliet)",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        },
+        {
+          "ID": "53193*",
+          "composerName": "Dukas,  Paul",
+          "workTitle": "SORCERER'S APPRENTICE, THE",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        },
+        {
+          "ID": "51442*4",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SERENADE NO.  7, D MAJOR, K.248B (OLD K.250), \"HAFFNER\"",
+          "movement": "Rondeau: Allegro",
+          "conductorName": "Solomon, Izler",
+          "soloists": [
+            {
+              "soloistName": "Corigliano, John, Sr.",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "1327*9",
+          "composerName": "Milhaud,  Darius",
+          "workTitle": "SUITE PROVENÇALE, OP. 152B",
+          "movement": "Excerpts (unspecified)",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        },
+        {
+          "ID": "50064*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "movement": "Scherzo. Pizzicato ostinato: Allegro",
+          "conductorName": "Solomon, Izler",
+          "soloists": []
+        },
+        {
+          "ID": "50064*4",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "movement": "Finale: Allegro con fuoco",
           "conductorName": "Solomon, Izler",
           "soloists": []
         }
@@ -80910,39 +79626,7 @@
           "Time": "12:00PM"
         }
       ],
-      "works": [
-        {
-          "ID": "9004*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Act I: Prelude",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "51664*1",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 40, G MINOR, K.550",
-          "movement": "Molto allegro",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "50097*",
-          "composerName": "Hindemith,  Paul",
-          "workTitle": "CONCERT MUSIC, STRINGS AND BRASS, OP. 50",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "51884*4",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "movement": "Allegro energico e passionato – Pi",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
+      "works": []
     },
     {
       "id": "62a77d7a-25d1-4b42-af26-2e3405593b6a",
@@ -83190,6 +81874,78 @@
       ]
     },
     {
+      "id": "2544880b-1a2a-41ed-ae3c-7f7352e2d85f",
+      "programID": "3673",
+      "orchestra": "New York Philharmonic",
+      "season": "1962-63",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1963-03-26T05:00:00Z",
+          "Time": "1:00PM"
+        },
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1963-03-28T05:00:00Z",
+          "Time": "1:00PM"
+        },
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1963-03-29T05:00:00Z",
+          "Time": "1:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1482*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 23, D MAJOR, K.162B (OLD K.181)",
+          "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        },
+        {
+          "ID": "52644*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+          "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        },
+        {
+          "ID": "715*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "VALSE, LA",
+          "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        },
+        {
+          "ID": "4778*",
+          "composerName": "Villa-Lobos,  Heitor",
+          "workTitle": "MEMORIES OF YOUTH",
+          "conductorName": "Kostelanetz, Andre",
+          "soloists": [
+            {
+              "soloistName": "Thompson, Victoria",
+              "soloistInstrument": "Narrator",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "05da66a1-ede1-4f3e-90a5-174d6f476752",
       "programID": "3676",
       "orchestra": "New York Philharmonic",
@@ -83364,78 +82120,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "2544880b-1a2a-41ed-ae3c-7f7352e2d85f",
-      "programID": "3673",
-      "orchestra": "New York Philharmonic",
-      "season": "1962-63",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1963-03-26T05:00:00Z",
-          "Time": "1:00PM"
-        },
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1963-03-28T05:00:00Z",
-          "Time": "1:00PM"
-        },
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1963-03-29T05:00:00Z",
-          "Time": "1:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1482*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 23, D MAJOR, K.162B (OLD K.181)",
-          "conductorName": "Kostelanetz, Andre",
-          "soloists": []
-        },
-        {
-          "ID": "52644*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
-          "conductorName": "Kostelanetz, Andre",
-          "soloists": []
-        },
-        {
-          "ID": "715*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "VALSE, LA",
-          "conductorName": "Kostelanetz, Andre",
-          "soloists": []
-        },
-        {
-          "ID": "4778*",
-          "composerName": "Villa-Lobos,  Heitor",
-          "workTitle": "MEMORIES OF YOUTH",
-          "conductorName": "Kostelanetz, Andre",
-          "soloists": [
-            {
-              "soloistName": "Thompson, Victoria",
-              "soloistInstrument": "Narrator",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Kostelanetz, Andre",
-          "soloists": []
         }
       ]
     },
@@ -85324,19 +84008,9 @@
           "conductorName": "Previn, André",
           "soloists": [
             {
-              "soloistName": "Previn, André",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Manne, Shelly",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Mitchell, Red",
-              "soloistInstrument": "Contrabass",
-              "soloistRoles": "S"
+              "soloistName": "Previn, André;  Manne, Shelly;  Mitchell, Red",
+              "soloistInstrument": "Piano; Percussion; Contrabass",
+              "soloistRoles": "S; S; S"
             }
           ]
         }
