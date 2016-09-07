@@ -5346,6 +5346,44 @@
         </worksInfo>
     </program>
     <program>
+        <id>8007347e-d1eb-42fd-a643-61df827f4e87</id>
+        <programID>10944</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1947-48</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1948-07-06T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2268*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>CORSAIRE OVERTURE</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52460*">
+                <composerName>Couperin,  Francois [François]</composerName>
+                <workTitle>PRELUDE AND ALLEGRO (ARR. Milhaud)</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+            <work ID="51938*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
+                <conductorName>Monteux, Pierre</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>2ace87fc-f700-4d47-aaf0-41d10483d6dc</id>
         <programID>10943</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -5394,44 +5432,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>8007347e-d1eb-42fd-a643-61df827f4e87</id>
-        <programID>10944</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1947-48</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1948-07-06T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2268*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>CORSAIRE OVERTURE</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52460*">
-                <composerName>Couperin,  Francois [François]</composerName>
-                <workTitle>PRELUDE AND ALLEGRO (ARR. Milhaud)</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
-            </work>
-            <work ID="51938*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
-                <conductorName>Monteux, Pierre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -8530,7 +8530,6 @@
             <work ID="6925*1">
                 <composerName>Copland,  Aaron</composerName>
                 <workTitle>RODEO, BALLET</workTitle>
-                <movement>Excerpts (unspecified)</movement>
                 <conductorName>Hendl, Walter</conductorName>
             </work>
             <work ID="2874*">
@@ -8560,13 +8559,11 @@
             <work ID="53820*8">
                 <composerName>Prokofiev,  Sergei</composerName>
                 <workTitle>A SUMMER DAY (CHILDREN'S SUITE), OP. 65BIS</workTitle>
-                <movement>Excerpts [unspecified]</movement>
                 <conductorName>Hendl, Walter</conductorName>
             </work>
             <work ID="8839*3">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
-                <movement>Overture Finale</movement>
                 <conductorName>Hendl, Walter</conductorName>
             </work>
         </worksInfo>
@@ -10432,7 +10429,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Munch, Charles</conductorName>
             </work>
             <work ID="52581*">
@@ -10465,7 +10462,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Munch, Charles</conductorName>
             </work>
             <work ID="2581*">
@@ -10510,7 +10507,7 @@
         <worksInfo>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Munch, Charles</conductorName>
             </work>
             <work ID="51569*">
@@ -11088,6 +11085,76 @@
         </worksInfo>
     </program>
     <program>
+        <id>d626a02a-4d1f-4901-b426-16c38f6c10cf</id>
+        <programID>5941</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1948-49</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1949-02-06T05:00:00Z</Date>
+            <Time>2:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="4956*2">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
+                <movement>"Mélisande"</movement>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="4956*9">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
+                <movement>"By the Sea"</movement>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="4956*5">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
+                <movement>Pastorale</movement>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="4956*7">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
+                <movement>Entr'acte</movement>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="4956*8">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
+                <movement>"The Death of Mélisande"</movement>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="3062*">
+                <composerName>Walton,  William</composerName>
+                <workTitle>SPITFIRE PRELUDE &amp; FUGUE</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="51055*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, PIANO NO. 21, C MAJOR, K.467</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hess, Myra</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53071*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 2, C MAJOR, OP. 61</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>f24f908a-f25f-4d1f-b9eb-5829e3399364</id>
         <programID>309</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -11296,76 +11363,6 @@
                 <workTitle>GIOCONDA, LA</workTitle>
                 <movement>Dance of the Hours</movement>
                 <conductorName>Leide, Enrico</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d626a02a-4d1f-4901-b426-16c38f6c10cf</id>
-        <programID>5941</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1948-49</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1949-02-06T05:00:00Z</Date>
-            <Time>2:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="4956*2">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
-                <movement>"Mélisande"</movement>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="4956*9">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
-                <movement>"By the Sea"</movement>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="4956*5">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
-                <movement>Pastorale</movement>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="4956*7">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
-                <movement>Entr'acte</movement>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="4956*8">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>PELLEAS AND MELISANDE, OP. 46</workTitle>
-                <movement>"The Death of Mélisande"</movement>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="3062*">
-                <composerName>Walton,  William</composerName>
-                <workTitle>SPITFIRE PRELUDE &amp; FUGUE</workTitle>
-                <conductorName>Stokowski, Leopold</conductorName>
-            </work>
-            <work ID="51055*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, PIANO NO. 21, C MAJOR, K.467</workTitle>
-                <conductorName>Stokowski, Leopold</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hess, Myra</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53071*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 2, C MAJOR, OP. 61</workTitle>
-                <conductorName>Stokowski, Leopold</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -15260,7 +15257,7 @@
             </work>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Boult, Adrian</conductorName>
             </work>
             <work ID="52777*">
@@ -19832,7 +19829,7 @@
             </work>
             <work ID="2451*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048 (ARR. Seiffert)</workTitle>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
             <work ID="1010*">
@@ -27341,25 +27338,21 @@
             <work ID="8839*2">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
-                <movement>Overture</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
             <work ID="6180*3">
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>MA MÈRE L'OYE (MOTHER GOOSE): BALLET</workTitle>
-                <movement>Pavane of the Sleeping Beauty; Interlude</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
             <work ID="6180*6">
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>MA MÈRE L'OYE (MOTHER GOOSE): BALLET</workTitle>
-                <movement>Tom Thumb; Interlude</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
             <work ID="6180*5">
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>MA MÈRE L'OYE (MOTHER GOOSE): BALLET</workTitle>
-                <movement>Conversations of Beauty and the Beast; Interlude</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
             <work ID="1979*">
@@ -27424,13 +27417,11 @@
             <work ID="53758*3">
                 <composerName>Prokofiev,  Sergei</composerName>
                 <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>March</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
             <work ID="53758*4">
                 <composerName>Prokofiev,  Sergei</composerName>
                 <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>Scherzo</movement>
                 <conductorName>Buketoff, Igor</conductorName>
             </work>
         </worksInfo>
@@ -28525,7 +28516,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -28575,6 +28566,7 @@
             <work ID="483*4">
                 <composerName>Smetana,  Bedrich</composerName>
                 <workTitle>MA VLAST (MY COUNTRY)</workTitle>
+                <movement>Z ceskych luhu a háju (From Bohemia's Woods and Fields)</movement>
                 <conductorName>Szell, George</conductorName>
             </work>
             <work ID="52969*">
@@ -28628,7 +28620,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Bailey, Elden</soloistName>
+                        <soloistName>Bailey, Elden "Buster"</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -34178,99 +34170,6 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="52096*">
-                <composerName>Haydn,  Franz  Joseph</composerName>
-                <workTitle>SYMPHONY NO.  93, D MAJOR</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="8955*6">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MAGIC FLUTE, THE, K.620</workTitle>
-                <movement>"In diesen heiligen Hallen," Sarastro, Act II, scene iii</movement>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="8849*13">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>DON GIOVANNI, K.527</workTitle>
-                <movement>"Madamina, il catalogo è questo," Leporello, Act I, scene v</movement>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="8957*8">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
-                <movement>"Non pi</movement>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50018*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>OVERTURE, 1812, OP. 49</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="51944*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="10631*">
-                <composerName>Flegier,  Ange</composerName>
-                <workTitle>COR, LE</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3036*">
-                <composerName>Paisiello,  Giovanni</composerName>
-                <workTitle>NEL COR PIU NON MI SENTO</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51682*4">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pinza, Ezio</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
         </worksInfo>
     </program>
     <program>
@@ -34311,39 +34210,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>899eff31-f46b-41f4-8bd7-454e068ecbe1</id>
-        <programID>99</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1950-51</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Edinburgh, SCOTLAND</Location>
-            <Venue>Usher Hall</Venue>
-            <Date>1951-08-23T04:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52361*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="52440*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53792*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 5, OP. 100</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -36549,25 +36415,21 @@
             <work ID="51306*10">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Rakoczy March (Hungarian March)</movement>
                 <conductorName>Forstat, Milton</conductorName>
             </work>
             <work ID="50014*7">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
-                <movement>Mirlitons (Dance of the Reed Flutes)</movement>
                 <conductorName>Forstat, Milton</conductorName>
             </work>
             <work ID="50014*6">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
-                <movement>Tea (Chinese Dance)</movement>
                 <conductorName>Forstat, Milton</conductorName>
             </work>
             <work ID="51306*9">
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Menuet de Follets (Minuet of the Will-o'-the-Wisps)</movement>
                 <conductorName>Forstat, Milton</conductorName>
             </work>
             <work ID="6608*">
@@ -36590,7 +36452,6 @@
             <work ID="8839*2">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
-                <movement>Overture</movement>
                 <conductorName>Forstat, Milton</conductorName>
             </work>
         </worksInfo>
@@ -46028,118 +45889,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>1edaef58-ab76-4159-8713-c3b25716db8a</id>
-        <programID>5906</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1952-53</season>
-        <concertInfo>
-            <eventType>Special</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Waldorf-Astoria Hotel</Venue>
-            <Date>1952-12-14T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3395*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="3208*1">
-                <composerName>Donizetti,  Gaetano</composerName>
-                <workTitle>L'ELISIR D'AMORE</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tagliavini, Ferruccio</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1890*2">
-                <composerName>Massenet,  Jules</composerName>
-                <workTitle>MANON</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tagliavini, Ferruccio</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1583*">
-                <composerName>Unknown,</composerName>
-                <workTitle>ROUMANIAN FANTASY (ARR. Kostelanetz)</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="642*5">
-                <composerName>Puccini,  Giacomo</composerName>
-                <workTitle>BOHEME, LA</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gueden, Hilde</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1470*3">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>TRAVIATA, LA</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gueden, Hilde</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="642*4">
-                <composerName>Puccini,  Giacomo</composerName>
-                <workTitle>BOHEME, LA</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gueden, Hilde</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Tagliavini, Ferruccio</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2569*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>PETER AND THE WOLF, OP.67</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bolger, Ray</soloistName>
-                        <soloistInstrument>Narrator</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="715*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>VALSE, LA</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>234f32b7-ce7c-409c-9e41-6e4207d034c4</id>
         <programID>5900</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -46182,6 +45931,123 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>ACADEMIC FESTIVAL OVERTURE, OP.80</workTitle>
                 <conductorName>Szell, George</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>1edaef58-ab76-4159-8713-c3b25716db8a</id>
+        <programID>5906</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1952-53</season>
+        <concertInfo>
+            <eventType>Special</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Waldorf-Astoria Hotel</Venue>
+            <Date>1952-12-14T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3395*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="3208*1">
+                <composerName>Donizetti,  Gaetano</composerName>
+                <workTitle>L'ELISIR D'AMORE</workTitle>
+                <movement>"Una furtiva lagrima," Nemorino (aria)</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Tagliavini, Ferruccio</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="1890*2">
+                <composerName>Massenet,  Jules</composerName>
+                <workTitle>MANON</workTitle>
+                <movement>"Le Rêve (En fermant les yeux)," Des Grieux (aria)</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Tagliavini, Ferruccio</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="1583*">
+                <composerName>Unknown,</composerName>
+                <workTitle>ROUMANIAN FANTASY (ARR. Kostelanetz)</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="642*5">
+                <composerName>Puccini,  Giacomo</composerName>
+                <workTitle>BOHEME, LA</workTitle>
+                <movement>"Quando me’n vo’" (Musetta's Waltz), Musetta (aria), Act II</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gueden, Hilde</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="1470*3">
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>TRAVIATA, LA</workTitle>
+                <movement>"È strano!...Ah, fors' è lui...Sempre libera," Violetta, Act I, scene v</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gueden, Hilde</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="642*4">
+                <composerName>Puccini,  Giacomo</composerName>
+                <workTitle>BOHEME, LA</workTitle>
+                <movement>"O soave fanciulla," Mimì, Rodolfo (duet), Act I</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gueden, Hilde</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Tagliavini, Ferruccio</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="2569*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>PETER AND THE WOLF, OP.67</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bolger, Ray</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="715*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>VALSE, LA</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -47564,6 +47430,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>85e20d48-122f-4a33-9b1d-e2ebab7256fa</id>
+        <programID>6576</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1952-53</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1953-02-14T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>8e5f2ffe-db64-4a34-8b41-6c3510178cd4</id>
         <programID>3607</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -47639,73 +47520,6 @@
                 <composerName>Anderson,  Leroy</composerName>
                 <workTitle>PLINK, PLANK, PLUNK</workTitle>
                 <conductorName>Buketoff, Igor</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>85e20d48-122f-4a33-9b1d-e2ebab7256fa</id>
-        <programID>6576</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1952-53</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1953-02-14T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51701*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>ITALIANA IN ALGERI, L'</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Sherman, Alec</conductorName>
-            </work>
-            <work ID="8957*8">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
-                <movement>"Non pi</movement>
-                <conductorName>Sherman, Alec</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Moscona, Nicola</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1810*3">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>ERNANI</workTitle>
-                <conductorName>Sherman, Alec</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Moscona, Nicola</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51642*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
-                <movement>"Infelice! e tuo credevi," Silva, Act I, scene ix</movement>
-                <conductorName>Sherman, Alec</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3548*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
-                <conductorName>Sherman, Alec</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hess, Myra</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -49009,7 +48823,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -55484,7 +55298,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -55571,7 +55385,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>De Intinis, Rainer</soloistName>
+                        <soloistName>De Intinis, Ranier</soloistName>
                         <soloistInstrument>French Horn</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -63681,78 +63495,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>624a06bc-a4e6-466b-acf8-c44a4c1b2c33</id>
-        <programID>3364</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1954-55</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1954-11-27T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52410*1">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CREATURES OF PROMETHEUS, OP. 43</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="2331*">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50210*">
-                <composerName>Toch,  Ernst</composerName>
-                <workTitle>CIRCUS OVERTURE</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="50833*">
-                <composerName>Khachaturian,  Aram</composerName>
-                <workTitle>MASQUERADE SUITE</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="50350*">
-                <composerName>Grofe [Grofé],  Ferde</composerName>
-                <workTitle>MISSISSIPPI SUITE</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="5145*">
-                <composerName>Boccherini,  Luigi</composerName>
-                <workTitle>MENUET (ORCH)</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="50043*4">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SUITE NO. 1, D MINOR, OP.43</workTitle>
-                <movement>4. Marche Miniature: Moderato con moto</movement>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="53758*3">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>March</movement>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="50826*5">
-                <composerName>Khachaturian,  Aram</composerName>
-                <workTitle>GAYANE, SUITE NO. 3, OP. 55</workTitle>
-                <movement>Sabre Dance</movement>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-            <work ID="891*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>NONE BUT THE LONELY HEART, OP. 6 NO. 6 (ARR. ORCHESTRA)</workTitle>
-                <conductorName>Kostelanetz, Andre</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>e6f24a96-f4b4-4a6d-800f-98721d765ccd</id>
         <programID>10055</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -63846,6 +63588,78 @@
                 <composerName>Gillis,  Don</composerName>
                 <workTitle>JANUARY FEBRUARY MARCH</workTitle>
                 <conductorName>Pelletier, Wilfrid</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>624a06bc-a4e6-466b-acf8-c44a4c1b2c33</id>
+        <programID>3364</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1954-55</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1954-11-27T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52410*1">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CREATURES OF PROMETHEUS, OP. 43</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="2331*">
+                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
+                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50210*">
+                <composerName>Toch,  Ernst</composerName>
+                <workTitle>CIRCUS OVERTURE</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="50833*">
+                <composerName>Khachaturian,  Aram</composerName>
+                <workTitle>MASQUERADE SUITE</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="50350*">
+                <composerName>Grofe [Grofé],  Ferde</composerName>
+                <workTitle>MISSISSIPPI SUITE</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="5145*">
+                <composerName>Boccherini,  Luigi</composerName>
+                <workTitle>MENUET (ORCH)</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="50043*4">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SUITE NO. 1, D MINOR, OP.43</workTitle>
+                <movement>4. Marche Miniature: Moderato con moto</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="53758*3">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
+                <movement>March</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="50826*5">
+                <composerName>Khachaturian,  Aram</composerName>
+                <workTitle>GAYANE, SUITE NO. 3, OP. 55</workTitle>
+                <movement>Sabre Dance</movement>
+                <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+            <work ID="891*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NONE BUT THE LONELY HEART, OP. 6 NO. 6 (ARR. ORCHESTRA)</workTitle>
+                <conductorName>Kostelanetz, Andre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -68402,51 +68216,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>798fd1c2-c7ab-441b-94a4-77bc9bd6b00b</id>
-        <programID>1543</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1954-55</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Seattle, WA</Location>
-            <Venue>Unknown Venue</Venue>
-            <Date>1955-05-08T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="6709*16">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>FREISCHUTZ, DER</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="51294*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>VOCALISE</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="51892*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53792*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 5, OP. 100</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="50767*1">
-                <composerName>Kabalevsky,  Dmitri</composerName>
-                <workTitle>COLAS BREUGNON</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>1ab3a881-28f2-4a85-8013-f524e6dd9b77</id>
         <programID>1546</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -68494,6 +68263,51 @@
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
                 <movement>Rakoczy March (Hungarian March)</movement>
                 <conductorName>Cantelli, Guido</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>798fd1c2-c7ab-441b-94a4-77bc9bd6b00b</id>
+        <programID>1543</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1954-55</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Seattle, WA</Location>
+            <Venue>Unknown Venue</Venue>
+            <Date>1955-05-08T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="6709*16">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>FREISCHUTZ, DER</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="51294*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>VOCALISE</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="51892*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53792*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 5, OP. 100</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="50767*1">
+                <composerName>Kabalevsky,  Dmitri</composerName>
+                <workTitle>COLAS BREUGNON</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
