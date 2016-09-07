@@ -6,8 +6,12 @@ import xml.etree.ElementTree as ET
 import os
 import os.path
 
+# KS 20160825: modified to add test for cases when the number of conductors, works, and composers in the input XML is unequal; in that case, it skips the worksInfo section. Will need to consider chamber works
+# os.chdir('C:/Users/schlottmannk/Desktop/pythonDebug/xml') used for debug 
+
 # create xml element
-os.chdir('i:/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs')
+os.chdir('i:/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
+
 files = [g for g in os.listdir('.') if os.path.isfile(g)]
 for g in files:
     tree = ET.parse(g)
@@ -83,28 +87,34 @@ for g in files:
         soloist_roles = works.findall('worksSoloistRole')
         work_id = works.findall('workID')
         movement_id = works.findall('movementID')
-        for x in range(0,len(conductors)):
-            composer_work_separated = separateComposerWork(composerAndWork[x].text)
-            lines.append("            <work ID=\"%s\">\n"%work_id[x].text)
-            if re.match(r'Intermission',composer_work_separated[0]):
-                lines.append("                <interval>%s</interval>\n"%composer_work_separated[0][:-1])
-            else:
-                if composer_work_separated[0]:
-                    lines.append("                <composerName>%s</composerName>\n"%composer_work_separated[0])
-                if composer_work_separated[1]:
-                    lines.append("                <workTitle>%s</workTitle>\n"%composer_work_separated[1])
-                if movement[x].text:
-                    lines.append("                <movement>%s</movement>\n"%movement[x].text)
-                if conductors[x].text:
-                    lines.append("                <conductorName>%s</conductorName>\n"%conductors[x].text)
-                try:
-                    if soloists[x].text:
-                        lines.append("                <soloists>\n")
-                        sortSoloistInfo(soloists[x].text, soloist_instruments[x].text,soloist_roles[x].text)
-                        lines.append("                </soloists>\n")
-                except:
-                    pass
-            lines.append("            </work>\n")
+        #insert test to skip if conductors, composerAndWork, and movement do not add up
+        try:
+            if ((len(conductors) == len(composerAndWork)) and (len(composerAndWork) == len(movement))):
+                for x in range(0,len(conductors)):
+                    composer_work_separated = separateComposerWork(composerAndWork[x].text)
+                    lines.append("            <work ID=\"%s\">\n"%work_id[x].text)
+                    if re.match(r'Intermission',composer_work_separated[0]):
+                        lines.append("                <interval>%s</interval>\n"%composer_work_separated[0][:-1])
+                    else:
+                        if composer_work_separated[0]:
+                            lines.append("                <composerName>%s</composerName>\n"%composer_work_separated[0])
+                        if composer_work_separated[1]:
+                            lines.append("                <workTitle>%s</workTitle>\n"%composer_work_separated[1])
+                        if movement[x].text:
+                            lines.append("                <movement>%s</movement>\n"%movement[x].text)
+                        if conductors[x].text:
+                            lines.append("                <conductorName>%s</conductorName>\n"%conductors[x].text)
+                        try:
+                            if soloists[x].text:
+                                lines.append("                <soloists>\n")
+                                sortSoloistInfo(soloists[x].text, soloist_instruments[x].text,soloist_roles[x].text)
+                                lines.append("                </soloists>\n")
+                        except:
+                            pass
+                    lines.append("            </work>\n")
+                #insert except pass here - output blank worksInfo if test above fails
+        except:
+                pass
 
     # parse xml file and write new output, per functions above
     programs = root.findall('doc')
