@@ -8,6 +8,7 @@ import os.path
 
 # KS 20160825: modified to add test for cases when the number of conductors, works, and composers in the input XML is unequal; in that case, it skips the worksInfo section. Will need to consider chamber works
 # os.chdir('C:/Users/schlottmannk/Desktop/pythonDebug/xml') used for debug 
+# KS 20160909: used re.split instead of str.plit for soloists, as non-ascii characters were not hitting on semincolons for some reason
 
 # create xml element
 os.chdir('i:/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
@@ -40,7 +41,7 @@ for g in files:
     def sortSoloistInfo(soloists,soloist_instruments,soloist_roles):
         if re.search(r';',soloists):
             try:
-                soloists_list = str.split(soloists,";")
+                soloists_list = re.split('; ', soloists)
                 soloist_instruments_list = str.split(soloist_instruments,";")
                 soloist_roles_list = str.split(soloist_roles,";")
                 for x in range(0,len(soloists_list)):
