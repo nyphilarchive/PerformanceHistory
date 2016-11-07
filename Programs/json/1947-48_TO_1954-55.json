@@ -1619,7 +1619,7 @@
         {
           "ID": "51289*1",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "movement": "Allegro",
           "conductorName": "Barzin, Leon",
           "soloists": []
@@ -5671,6 +5671,50 @@
       ]
     },
     {
+      "id": "d186ff0b-8233-43b2-9dfe-074760ba5bd5",
+      "programID": "10934",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1947-48",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1948-06-25T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52410*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
+          "movement": "Overture",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "52440*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "3ae2024f-f252-4a9f-b395-874db90b5158",
       "programID": "10933",
       "orchestra": "Stadium-NY Philharmonic",
@@ -5724,50 +5768,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "d186ff0b-8233-43b2-9dfe-074760ba5bd5",
-      "programID": "10934",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1947-48",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1948-06-25T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52410*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
-          "movement": "Overture",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "52440*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52437*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
         }
       ]
     },
@@ -6447,56 +6447,6 @@
       ]
     },
     {
-      "id": "8007347e-d1eb-42fd-a643-61df827f4e87",
-      "programID": "10944",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1947-48",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1948-07-06T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2268*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "CORSAIRE OVERTURE",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52460*",
-          "composerName": "Couperin,  Francois [François]",
-          "workTitle": "PRELUDE AND ALLEGRO (ARR. Milhaud)",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "51938*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "2ace87fc-f700-4d47-aaf0-41d10483d6dc",
       "programID": "10943",
       "orchestra": "Stadium-NY Philharmonic",
@@ -6558,6 +6508,56 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "8007347e-d1eb-42fd-a643-61df827f4e87",
+      "programID": "10944",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1947-48",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1948-07-06T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2268*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "CORSAIRE OVERTURE",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52460*",
+          "composerName": "Couperin,  Francois [François]",
+          "workTitle": "PRELUDE AND ALLEGRO (ARR. Milhaud)",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "51938*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
         }
       ]
     },
@@ -13352,95 +13352,6 @@
       ]
     },
     {
-      "id": "d626a02a-4d1f-4901-b426-16c38f6c10cf",
-      "programID": "5941",
-      "orchestra": "New York Philharmonic",
-      "season": "1948-49",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1949-02-06T05:00:00Z",
-          "Time": "2:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "4956*2",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
-          "movement": "\"Mélisande\"",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "4956*9",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
-          "movement": "\"By the Sea\"",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "4956*5",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
-          "movement": "Pastorale",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "4956*7",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
-          "movement": "Entr'acte",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "4956*8",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
-          "movement": "\"The Death of Mélisande\"",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "3062*",
-          "composerName": "Walton,  William",
-          "workTitle": "SPITFIRE PRELUDE & FUGUE",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        },
-        {
-          "ID": "51055*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 21, C MAJOR, K.467",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": [
-            {
-              "soloistName": "Hess, Myra",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53071*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
-          "conductorName": "Stokowski, Leopold",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "f24f908a-f25f-4d1f-b9eb-5829e3399364",
       "programID": "309",
       "orchestra": "New York Philharmonic",
@@ -13678,6 +13589,95 @@
           "workTitle": "GIOCONDA, LA",
           "movement": "Dance of the Hours",
           "conductorName": "Leide, Enrico",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "d626a02a-4d1f-4901-b426-16c38f6c10cf",
+      "programID": "5941",
+      "orchestra": "New York Philharmonic",
+      "season": "1948-49",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1949-02-06T05:00:00Z",
+          "Time": "2:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "4956*2",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
+          "movement": "\"Mélisande\"",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "4956*9",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
+          "movement": "\"By the Sea\"",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "4956*5",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
+          "movement": "Pastorale",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "4956*7",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
+          "movement": "Entr'acte",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "4956*8",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "PELLEAS AND MELISANDE, OP. 46",
+          "movement": "\"The Death of Mélisande\"",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "3062*",
+          "composerName": "Walton,  William",
+          "workTitle": "SPITFIRE PRELUDE & FUGUE",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "51055*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 21, C MAJOR, K.467",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": [
+            {
+              "soloistName": "Hess, Myra",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53071*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
+          "conductorName": "Stokowski, Leopold",
           "soloists": []
         }
       ]
@@ -22448,7 +22448,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Stokowski, Leopold",
           "soloists": []
         },
@@ -24595,7 +24595,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Walter, Bruno",
           "soloists": []
         },
@@ -27419,7 +27419,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Kurtz, Efrem",
           "soloists": []
         },
@@ -32653,6 +32653,7 @@
           "ID": "8839*2",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         },
@@ -32660,6 +32661,7 @@
           "ID": "6180*3",
           "composerName": "Ravel,  Maurice",
           "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): BALLET",
+          "movement": "Pavane of the Sleeping Beauty; Interlude",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         },
@@ -32667,6 +32669,7 @@
           "ID": "6180*6",
           "composerName": "Ravel,  Maurice",
           "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): BALLET",
+          "movement": "Tom Thumb; Interlude",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         },
@@ -32674,6 +32677,7 @@
           "ID": "6180*5",
           "composerName": "Ravel,  Maurice",
           "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): BALLET",
+          "movement": "Conversations of Beauty and the Beast; Interlude",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         },
@@ -32742,6 +32746,7 @@
           "ID": "53758*3",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "LOVE FOR THREE ORANGES: SUITE, OP. 33BIS",
+          "movement": "March",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         },
@@ -32749,6 +32754,7 @@
           "ID": "53758*4",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "LOVE FOR THREE ORANGES: SUITE, OP. 33BIS",
+          "movement": "Scherzo",
           "conductorName": "Buketoff, Igor",
           "soloists": []
         }
@@ -54043,7 +54049,7 @@
         {
           "ID": "51289*1",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "movement": "Allegro",
           "conductorName": "Buketoff, Igor",
           "soloists": []
@@ -54319,63 +54325,6 @@
       ]
     },
     {
-      "id": "234f32b7-ce7c-409c-9e41-6e4207d034c4",
-      "programID": "5900",
-      "orchestra": "New York Philharmonic",
-      "season": "1952-53",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1952-12-14T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52410*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
-          "movement": "Overture",
-          "conductorName": "Szell, George",
-          "soloists": []
-        },
-        {
-          "ID": "2819*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
-          "conductorName": "Szell, George",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Szell, George",
-          "soloists": [
-            {
-              "soloistName": "Morini, Erica",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51807*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
-          "conductorName": "Szell, George",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "1edaef58-ab76-4159-8713-c3b25716db8a",
       "programID": "5906",
       "orchestra": "New York Philharmonic",
@@ -54504,6 +54453,63 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "VALSE, LA",
           "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "234f32b7-ce7c-409c-9e41-6e4207d034c4",
+      "programID": "5900",
+      "orchestra": "New York Philharmonic",
+      "season": "1952-53",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1952-12-14T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52410*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
+          "movement": "Overture",
+          "conductorName": "Szell, George",
+          "soloists": []
+        },
+        {
+          "ID": "2819*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
+          "conductorName": "Szell, George",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Szell, George",
+          "soloists": [
+            {
+              "soloistName": "Morini, Erica",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51807*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+          "conductorName": "Szell, George",
           "soloists": []
         }
       ]
@@ -65089,6 +65095,7 @@
           "ID": "52364*1",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "EGMONT, OP.84",
+          "movement": "Overture",
           "conductorName": "Szell, George",
           "soloists": []
         },
@@ -76444,7 +76451,7 @@
           "ID": "2877*1",
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Adagio – Allegro molto",
+          "movement": "Adagio — Allegro molto",
           "conductorName": "Pelletier, Wilfrid",
           "soloists": []
         },
@@ -78157,7 +78164,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Kostelanetz, Andre",
           "soloists": []
         },
@@ -78628,7 +78635,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Kostelanetz, Andre",
           "soloists": []
         },

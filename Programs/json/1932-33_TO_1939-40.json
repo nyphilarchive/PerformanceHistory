@@ -1323,6 +1323,71 @@
       ]
     },
     {
+      "id": "25b63b0d-25f4-40b8-bd89-13bc75bfe917",
+      "programID": "6732",
+      "orchestra": "New York Philharmonic",
+      "season": "1932-33",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1932-12-03T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53935*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO GROSSO, OP. 6, NO. 10, D MINOR",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
+          "soloists": [
+            {
+              "soloistName": "Piastro, Mishel",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bolognini, Remo",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wallenstein, Alfred",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
+          "soloists": [
+            {
+              "soloistName": "Norton, Eunice",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50068*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "92c200ab-1be7-4f25-a33f-27e380e7afc7",
       "programID": "1145",
       "orchestra": "New York Philharmonic",
@@ -1393,71 +1458,6 @@
           "workTitle": "SCHEHERAZADE, OP. 35",
           "movement": "Allegro molto",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "25b63b0d-25f4-40b8-bd89-13bc75bfe917",
-      "programID": "6732",
-      "orchestra": "New York Philharmonic",
-      "season": "1932-33",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1932-12-03T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53935*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO GROSSO, OP. 6, NO. 10, D MINOR",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
-          "soloists": [
-            {
-              "soloistName": "Piastro, Mishel",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bolognini, Remo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Wallenstein, Alfred",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
-          "soloists": [
-            {
-              "soloistName": "Norton, Eunice",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50068*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
           "soloists": []
         }
       ]
@@ -3352,112 +3352,6 @@
       ]
     },
     {
-      "id": "71c47918-56e3-4661-813b-b6da741b5b45",
-      "programID": "1832",
-      "orchestra": "New York Philharmonic",
-      "season": "1932-33",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1933-02-04T05:00:00Z",
-          "Time": "11:00AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6236*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SUITE FOR ORCHESTRA (ARR. Mahler)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "1788*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "INTRODUCTION AND ALLEGRO FOR HARP WITH FL/CL/STRINGS",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Cella, Theodore",
-              "soloistInstrument": "Harp",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2281*",
-          "composerName": "Traditional,",
-          "workTitle": "ALL THROUGH THE NIGHT (WELSH FOLKSONG)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Audience",
-              "soloistInstrument": "Sing-Along",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "51289*4",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
-          "movement": "Rondo: Allegro",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "660*",
-          "composerName": "Schelling,  Ernest",
-          "workTitle": "GAZAL PERSAN",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "666*",
-          "composerName": "Nin,  Joachin",
-          "workTitle": "MURCIA",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Aguilar Lute Quartet",
-              "soloistInstrument": "Ensemble",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Aguilar, Ezequiel",
-              "soloistInstrument": "Lute",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Aguilar, Elisa",
-              "soloistInstrument": "Lute",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Aguilar, Pepe",
-              "soloistInstrument": "Lute",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Aguilar, Paco",
-              "soloistInstrument": "Lute",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2583*6",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "COUPERIN DANCE SUITE",
-          "movement": "Wirbeltanz (Whirling Dance) (Le Turbulent)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "51d1366a-4e93-4155-9007-fb02f5198ad7",
       "programID": "2399",
       "orchestra": "New York Philharmonic",
@@ -3516,6 +3410,112 @@
           "composerName": "Strauss,  Richard",
           "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
           "conductorName": "Walter, Bruno",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "71c47918-56e3-4661-813b-b6da741b5b45",
+      "programID": "1832",
+      "orchestra": "New York Philharmonic",
+      "season": "1932-33",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1933-02-04T05:00:00Z",
+          "Time": "11:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6236*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SUITE FOR ORCHESTRA (ARR. Mahler)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "1788*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "INTRODUCTION AND ALLEGRO FOR HARP WITH FL/CL/STRINGS",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Cella, Theodore",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2281*",
+          "composerName": "Traditional,",
+          "workTitle": "ALL THROUGH THE NIGHT (WELSH FOLKSONG)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Audience",
+              "soloistInstrument": "Sing-Along",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "51289*4",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
+          "movement": "Rondo: Allegro",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "660*",
+          "composerName": "Schelling,  Ernest",
+          "workTitle": "GAZAL PERSAN",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "666*",
+          "composerName": "Nin,  Joachin",
+          "workTitle": "MURCIA",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Aguilar Lute Quartet",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Aguilar, Ezequiel",
+              "soloistInstrument": "Lute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Aguilar, Elisa",
+              "soloistInstrument": "Lute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Aguilar, Pepe",
+              "soloistInstrument": "Lute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Aguilar, Paco",
+              "soloistInstrument": "Lute",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2583*6",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "COUPERIN DANCE SUITE",
+          "movement": "Wirbeltanz (Whirling Dance) (Le Turbulent)",
+          "conductorName": "Schelling, Ernest",
           "soloists": []
         }
       ]
@@ -10413,7 +10413,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -15806,82 +15806,6 @@
       ]
     },
     {
-      "id": "3a56019b-d2b5-44f0-a89d-e2f9f7f3180f",
-      "programID": "994",
-      "orchestra": "New York Philharmonic",
-      "season": "1933-34",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1934-02-15T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1934-02-16T05:00:00Z",
-          "Time": "2:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1934-02-18T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52456*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52461*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 9 IN D MINOR, OP.125",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": [
-            {
-              "soloistName": "Tentoni, Rosa",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Onegin, Sigrid",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Althouse, Paul",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Pinza, Ezio",
-              "soloistInstrument": "Bass",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Schola Cantorum of NY",
-              "soloistInstrument": "Chorus",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ad5e3516-5376-4e71-8e68-e184e4ab791e",
       "programID": "2780",
       "orchestra": "New York Philharmonic",
@@ -16151,7 +16075,7 @@
         {
           "ID": "51438*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\"",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\"",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -16883,7 +16807,7 @@
         {
           "ID": "51438*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\"",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\"",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -17943,7 +17867,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Iturbi, Jose",
           "soloists": []
         },
@@ -18472,7 +18396,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Iturbi, Jose",
           "soloists": []
         },
@@ -30648,7 +30572,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Iturbi, Jose",
           "soloists": []
         },
@@ -38665,6 +38589,7 @@
           "ID": "9007*17",
           "composerName": "Wagner,  Richard",
           "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         },
@@ -38679,6 +38604,7 @@
           "ID": "9004*14",
           "composerName": "Wagner,  Richard",
           "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
           "conductorName": "Toscanini, Arturo",
           "soloists": [
             {
@@ -38692,6 +38618,7 @@
           "ID": "9001*12",
           "composerName": "Wagner,  Richard",
           "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
@@ -39500,7 +39427,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Iturbi, Jose",
           "soloists": []
         },
@@ -41444,6 +41371,7 @@
           "ID": "51570*",
           "composerName": "Ravel,  Maurice",
           "workTitle": "DAPHNIS AND CHLOE",
+          "conductorName": "Smallens, Alexander",
           "soloists": [
             {
               "soloistName": "Philadelphia Ballet Company, The",
@@ -41676,7 +41604,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Iturbi, Jose",
           "soloists": []
         },
@@ -43828,7 +43756,7 @@
         {
           "ID": "9808*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO.  6, D MAJOR, K.239 \"SERENATA NOTTURNA\" (CLARINET ENS.) (ARR. Bellison)",
+          "workTitle": "SERENADE NO.  6, D MAJOR, K.239, \"SERENATA NOTTURNA\" (CLARINET ENS.) (ARR. Bellison)",
           "soloists": [
             {
               "soloistName": "Clarinet Ensemble of NYP",
@@ -44043,7 +43971,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -49717,7 +49645,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Golschmann, Vladimir",
           "soloists": []
         },
@@ -65827,129 +65755,6 @@
       ]
     },
     {
-      "id": "b0c6011c-64d2-4286-99da-0f3b72d75223",
-      "programID": "990",
-      "orchestra": "New York Philharmonic",
-      "season": "1938-39",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1939-01-01T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3453*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "GAZZA LADRA, LA",
-          "movement": "Overture",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "52777*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 5, B FLAT MAJOR, D.485",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "3213*",
-          "composerName": "Glazunov,  Alexander",
-          "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 82",
-          "conductorName": "Barbirolli, John",
-          "soloists": [
-            {
-              "soloistName": "Piastro, Mishel",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "7904*4",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "FLEDERMAUS, DIE",
-          "movement": "Overture, Op. 362",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "5270*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "FREUET EUCH DES LEBENS (ENJOY LIFE), OP. 340",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "6922*1",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "ZIGEUNERBARON (GYPSY BARON)",
-          "movement": "Overture",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "ddb29874-06d3-48d7-9b01-4f1a5132e8c0",
-      "programID": "995",
-      "orchestra": "New York Philharmonic",
-      "season": "1938-39",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1939-01-04T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1939-01-06T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "5170*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "DANCES FOR STRINGS: FIVE DEUTSCHE WITH CODA & SEVEN TRIOS, D.90",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "52775*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 4, C MINOR, D.417 (TRAGIC)",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3969*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 9, C MAJOR, D.944 (GREAT)",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "277d89c1-604d-4743-9549-3b6302b1bb2f",
       "programID": "2767",
       "orchestra": "New York Philharmonic",
@@ -68271,7 +68076,7 @@
         {
           "ID": "51289*1",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "movement": "Allegro",
           "conductorName": "Schelling, Ernest",
           "soloists": [
@@ -68285,7 +68090,7 @@
         {
           "ID": "51289*4",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "movement": "Rondo: Allegro",
           "conductorName": "Schelling, Ernest",
           "soloists": [
@@ -79694,6 +79499,63 @@
       ]
     },
     {
+      "id": "898f366c-faaf-4a88-bf7d-ffee27294ca2",
+      "programID": "2247",
+      "orchestra": "New York Philharmonic",
+      "season": "1939-40",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1940-03-02T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5219*",
+          "composerName": "Kurthy,  Zoltan",
+          "workTitle": "PUSZTA, SYMPHONIC RHAPSODY",
+          "conductorName": "Kurthy, Zoltan",
+          "soloists": []
+        },
+        {
+          "ID": "53078*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51638*",
+          "composerName": "Boccherini,  Luigi",
+          "workTitle": "CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)",
+          "conductorName": "Barbirolli, John",
+          "soloists": [
+            {
+              "soloistName": "Schuster, Joseph",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3196*4",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
+          "movement": "Tema con variazioni (Andante con moto)",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "64b61661-6eab-4bee-a154-b20b62452f99",
       "programID": "6631",
       "orchestra": "New York Philharmonic",
@@ -79779,63 +79641,6 @@
           "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
           "movement": "Finale: Allegro con fuoco",
           "conductorName": "Ganz, Rudolph",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "898f366c-faaf-4a88-bf7d-ffee27294ca2",
-      "programID": "2247",
-      "orchestra": "New York Philharmonic",
-      "season": "1939-40",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1940-03-02T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "5219*",
-          "composerName": "Kurthy,  Zoltan",
-          "workTitle": "PUSZTA, SYMPHONIC RHAPSODY",
-          "conductorName": "Kurthy, Zoltan",
-          "soloists": []
-        },
-        {
-          "ID": "53078*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51638*",
-          "composerName": "Boccherini,  Luigi",
-          "workTitle": "CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)",
-          "conductorName": "Barbirolli, John",
-          "soloists": [
-            {
-              "soloistName": "Schuster, Joseph",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3196*4",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
-          "movement": "Tema con variazioni (Andante con moto)",
-          "conductorName": "Barbirolli, John",
           "soloists": []
         }
       ]
@@ -81061,7 +80866,7 @@
         {
           "ID": "51289*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE, STRINGS, G MAJOR, K.525 \"EINE KLEINE NACHTMUSIK\"",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
           "conductorName": "Barbirolli, John",
           "soloists": []
         },
@@ -81491,6 +81296,86 @@
       ]
     },
     {
+      "id": "e70387ca-b0c5-4c5c-a286-b9017cbd4b79",
+      "programID": "3125",
+      "orchestra": "New York Philharmonic",
+      "season": "1939-40",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1940-05-04T04:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1940-05-05T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9194*1",
+          "composerName": "Smetana,  Bedrich",
+          "workTitle": "BARTERED BRIDE, THE",
+          "movement": "Overture (\"Overture to a Comedy\")",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "1389*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
+          "conductorName": "Barbirolli, John",
+          "soloists": [
+            {
+              "soloistName": "Serkin, Rudolf",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "9004*14",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
+          "conductorName": "Barbirolli, John",
+          "soloists": [
+            {
+              "soloistName": "No Soloist",
+              "soloistInstrument": "Other",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9005*7",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "SIEGFRIED, WWV 86C",
+          "movement": "Waldweben (Forest Murmurs)",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Overture [Dresden]",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "e6cd45c6-a697-49b2-b79a-f0f10a7053be",
       "programID": "584",
       "orchestra": "New York Philharmonic",
@@ -81570,86 +81455,6 @@
           "composerName": "Herbert,  Victor",
           "workTitle": "AMERICA FANTASIA",
           "conductorName": "Ganz, Rudolph",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "e70387ca-b0c5-4c5c-a286-b9017cbd4b79",
-      "programID": "3125",
-      "orchestra": "New York Philharmonic",
-      "season": "1939-40",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1940-05-04T04:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1940-05-05T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9194*1",
-          "composerName": "Smetana,  Bedrich",
-          "workTitle": "BARTERED BRIDE, THE",
-          "movement": "Overture (\"Overture to a Comedy\")",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "1389*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
-          "conductorName": "Barbirolli, John",
-          "soloists": [
-            {
-              "soloistName": "Serkin, Rudolf",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9004*14",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Prelude and Liebestod (with or without soloist)",
-          "conductorName": "Barbirolli, John",
-          "soloists": [
-            {
-              "soloistName": "No Soloist",
-              "soloistInstrument": "Other",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9005*7",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "SIEGFRIED, WWV 86C",
-          "movement": "Waldweben (Forest Murmurs)",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Barbirolli, John",
           "soloists": []
         }
       ]
@@ -85417,7 +85222,7 @@
         {
           "ID": "5758*",
           "composerName": "Debussy,  Claude",
-          "workTitle": "POUR LE PIANO: SARABANDE (ORCH) (ARR. Ravel)",
+          "workTitle": "SARABANDE (FROM POUR LE PIANO) (ORCH) (ARR. Ravel)",
           "conductorName": "Freccia, Massimo",
           "soloists": []
         },
