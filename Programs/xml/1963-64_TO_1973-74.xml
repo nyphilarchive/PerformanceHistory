@@ -161,45 +161,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>837ff4c0-1000-4dbc-a3da-32c5ce3dda1b</id>
-        <programID>6434</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1963-64</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Chicago, IL</Location>
-            <Venue>Opera House</Venue>
-            <Date>1963-09-08T04:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52577*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53624*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
-                <conductorName>Ozawa, Seiji</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="8855*3">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
-                <movement>No. 3 in A-flat major: Poco allegro</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>29810a8f-de70-4b13-9876-978ac3df0ad5</id>
         <programID>6429</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -246,6 +207,45 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
                 <movement>No. 1 in C major: Presto</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>837ff4c0-1000-4dbc-a3da-32c5ce3dda1b</id>
+        <programID>6434</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1963-64</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Chicago, IL</Location>
+            <Venue>Opera House</Venue>
+            <Date>1963-09-08T04:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52577*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
+                <conductorName>Ozawa, Seiji</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="8855*3">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
+                <movement>No. 3 in A-flat major: Poco allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -2956,7 +2956,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Szell, George</conductorName>
             </work>
             <work ID="51876*">
@@ -11131,7 +11131,7 @@
             </work>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="8336*11">
@@ -22705,6 +22705,21 @@
         </worksInfo>
     </program>
     <program>
+        <id>393d2944-1a8a-43a8-945a-9ce3f207734e</id>
+        <programID>10743</programID>
+        <orchestra>Members of NY Philharmonic</orchestra>
+        <season>1966-67</season>
+        <concertInfo>
+            <eventType>Special</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1966-10-22T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+        </worksInfo>
+    </program>
+    <program>
         <id>56a55f13-1540-4218-88a6-5ec4cfd4c6d3</id>
         <programID>5306</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -22748,21 +22763,6 @@
                 <movement>Allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>393d2944-1a8a-43a8-945a-9ce3f207734e</id>
-        <programID>10743</programID>
-        <orchestra>Members of NY Philharmonic</orchestra>
-        <season>1966-67</season>
-        <concertInfo>
-            <eventType>Special</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1966-10-22T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
         </worksInfo>
     </program>
     <program>
@@ -56136,7 +56136,7 @@
             </work>
             <work ID="50902*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>UN BACIO DI MANO, K.541</workTitle>
+                <workTitle>UN BACCIO DI MANO, K.541</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
                 <soloists>
                     <soloist>
@@ -60822,204 +60822,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>9e46617a-ba11-4d4b-8b65-473622cdf0e7</id>
-        <programID>992</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1972-73</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1973-01-18T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1973-01-19T05:00:00Z</Date>
-            <Time>2:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1973-01-20T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1543*">
-                <composerName>Telemann,  Georg  Philipp</composerName>
-                <workTitle>SUITE, FLUTE/ORCH, A MINOR, TWV 55:A2</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Baker, Julius</soloistName>
-                        <soloistInstrument>Flute</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Prince-Joseph, Bruce</soloistName>
-                        <soloistInstrument>Harpsichord</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2088*">
-                <composerName>Crumb,  George</composerName>
-                <workTitle>ANCIENT VOICES OF CHILDREN</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>DeGaetani, Jan</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Ulin, David</soloistName>
-                        <soloistInstrument>Boy Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gomberg, Harold</soloistName>
-                        <soloistInstrument>Oboe</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Finckel, Michael</soloistName>
-                        <soloistInstrument>Mandolin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rosen, Myor</soloistName>
-                        <soloistInstrument>Harp</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Jacobs, Paul</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rosenberger, Walter</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bailey, Elden "Buster"</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Lang, Morris "Arnie"</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="931*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>RAGTIME FOR 11 INSTRUMENTS</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="8587*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>RENARD</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Best, Michael</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Johnson, Robert</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Michalski, Raymond</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Shiesley, Robert</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Koves-Steiner, Toni</soloistName>
-                        <soloistInstrument>Cimbalom</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51965*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>04f2eaa5-2be7-42c3-acee-8b0da2d83133</id>
-        <programID>997</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>1972-73</season>
-        <concertInfo>
-            <eventType>Informal Evening</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Juilliard - Juilliard Theater</Venue>
-            <Date>1973-01-23T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="6774*">
-                <composerName>Webern,  Anton  von</composerName>
-                <workTitle>FIVE MOVEMENTS, STRING QUARTET, OP. 5</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gramercy String Quartet</soloistName>
-                        <soloistInstrument>String Quartet</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Schiller, Allan</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Barbini, William</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Becker, Eugene</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Clement, Paul</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50759*">
-                <composerName>Webern,  Anton  von</composerName>
-                <workTitle>FIVE MOVEMENTS, STRING ORCHESTRA, OP.5</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>c418a846-41db-47c0-8b2d-38762685204a</id>
         <programID>1002</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -61812,7 +61614,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="8901*">
@@ -61864,7 +61666,7 @@
         <worksInfo>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="8901*">
@@ -63004,7 +62806,7 @@
             </work>
             <work ID="51289*1">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <movement>Allegro</movement>
                 <conductorName>Thompson, Leon</conductorName>
                 <soloists>
@@ -63880,7 +63682,7 @@
             </work>
             <work ID="51289*">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE, STRINGS, G MAJOR, K.525 "EINE KLEINE NACHTMUSIK"</workTitle>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="51194*4">
