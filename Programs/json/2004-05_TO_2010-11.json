@@ -644,7 +644,7 @@
           "conductorName": "Maazel, Lorin",
           "soloists": [
             {
-              "soloistName": "Paik, Kun-Woo",
+              "soloistName": "Paik, Kun Woo",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -658,7 +658,7 @@
           "conductorName": "Maazel, Lorin",
           "soloists": [
             {
-              "soloistName": "Paik, Kun-Woo",
+              "soloistName": "Paik, Kun Woo",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
@@ -2629,7 +2629,7 @@
       "season": "2004-05",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2004-12-12T05:00:00Z",
@@ -12793,7 +12793,7 @@
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SYMPHONY NO. 01, E-FLAT MAJOR, K.16",
           "movement": "Excerpts Unspecified",
-          "conductorName": "Fischer, Iván;  Zhang, Xian",
+          "conductorName": "Zhang, Xian",
           "soloists": []
         },
         {
@@ -12801,14 +12801,14 @@
           "composerName": "Rachmaninoff,  Sergei",
           "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
           "movement": "Excerpts Unspecified",
-          "conductorName": "Fischer, Iván;  Zhang, Xian",
+          "conductorName": "Zhang, Xian",
           "soloists": []
         },
         {
           "ID": "53988*",
           "composerName": "Rachmaninoff,  Sergei",
           "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
-          "conductorName": "Fischer, Iván",
+          "conductorName": "Fischer, Ivan [Iván]",
           "soloists": []
         }
       ]
@@ -12839,14 +12839,14 @@
           "ID": "51635*",
           "composerName": "Bartok [Bartók],  Béla",
           "workTitle": "RUMANIAN FOLK DANCES, BB 76",
-          "conductorName": "Fischer, Iván",
+          "conductorName": "Fischer, Ivan [Iván]",
           "soloists": []
         },
         {
           "ID": "8697*",
           "composerName": "Dutilleux,  Henri",
           "workTitle": "CONCERTO, VIOLIN (L'ARBRE DES SONGES)",
-          "conductorName": "Fischer, Iván",
+          "conductorName": "Fischer, Ivan [Iván]",
           "soloists": [
             {
               "soloistName": "Kavakos, Leonidas",
@@ -12864,7 +12864,7 @@
           "ID": "53988*",
           "composerName": "Rachmaninoff,  Sergei",
           "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
-          "conductorName": "Fischer, Iván",
+          "conductorName": "Fischer, Ivan [Iván]",
           "soloists": []
         }
       ]
@@ -13474,7 +13474,7 @@
       "season": "2005-06",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2005-12-11T05:00:00Z",
@@ -14234,6 +14234,76 @@
       ]
     },
     {
+      "id": "9742ea02-9e94-4da6-bbeb-c0a4fdf14673",
+      "programID": "9448",
+      "orchestra": "New York Philharmonic",
+      "season": "2005-06",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2005-12-14T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2005-12-15T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2005-12-16T05:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2005-12-17T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52056*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  83, G MINOR (LA POULE)",
+          "conductorName": "Zacharias, Christian",
+          "soloists": []
+        },
+        {
+          "ID": "50607*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 18, B-FLAT MAJOR, K.456",
+          "conductorName": "Zacharias, Christian",
+          "soloists": [
+            {
+              "soloistName": "Zacharias, Christian",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52069*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  86, D MAJOR",
+          "conductorName": "Zacharias, Christian",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "758c20ee-649b-4154-a855-0a2c7525030c",
       "programID": "9449",
       "orchestra": "New York Philharmonic",
@@ -14331,76 +14401,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "9742ea02-9e94-4da6-bbeb-c0a4fdf14673",
-      "programID": "9448",
-      "orchestra": "New York Philharmonic",
-      "season": "2005-06",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2005-12-14T05:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2005-12-15T05:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2005-12-16T05:00:00Z",
-          "Time": "11:00AM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2005-12-17T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52056*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  83, G MINOR (LA POULE)",
-          "conductorName": "Zacharias, Christian",
-          "soloists": []
-        },
-        {
-          "ID": "50607*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 18, B-FLAT MAJOR, K.456",
-          "conductorName": "Zacharias, Christian",
-          "soloists": [
-            {
-              "soloistName": "Zacharias, Christian",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52069*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  86, D MAJOR",
-          "conductorName": "Zacharias, Christian",
-          "soloists": []
         }
       ]
     },
@@ -25257,7 +25257,7 @@
         },
         {
           "ID": "8290*1",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Overture",
           "soloists": [
@@ -25278,7 +25278,7 @@
         },
         {
           "ID": "8290*2",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Toot Toot Tootie Toot",
           "soloists": [
@@ -25299,7 +25299,7 @@
         },
         {
           "ID": "8290*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Peanut Brittle Brigade",
           "soloists": [
@@ -25320,7 +25320,7 @@
         },
         {
           "ID": "8290*9",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Sugar Rum Cherry",
           "soloists": [
@@ -25341,7 +25341,7 @@
         },
         {
           "ID": "8290*8",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Arabesque Cookie",
           "soloists": [
@@ -25362,7 +25362,7 @@
         },
         {
           "ID": "8290*6",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Chinoiserie",
           "soloists": [
@@ -25383,7 +25383,7 @@
         },
         {
           "ID": "8290*7",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Danse of the Floreadores",
           "soloists": [
@@ -25404,7 +25404,7 @@
         },
         {
           "ID": "8290*5",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "The Volga Vouty",
           "soloists": [
@@ -25417,7 +25417,7 @@
         },
         {
           "ID": "8152*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "C JAM BLUES",
           "conductorName": "Tovey, Bramwell",
           "soloists": [
@@ -25474,7 +25474,7 @@
         },
         {
           "ID": "8290*1",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Overture",
           "soloists": [
@@ -25495,7 +25495,7 @@
         },
         {
           "ID": "8290*2",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Toot Toot Tootie Toot",
           "soloists": [
@@ -25516,7 +25516,7 @@
         },
         {
           "ID": "8290*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Peanut Brittle Brigade",
           "soloists": [
@@ -25537,7 +25537,7 @@
         },
         {
           "ID": "8290*9",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Sugar Rum Cherry",
           "soloists": [
@@ -25558,7 +25558,7 @@
         },
         {
           "ID": "8290*8",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Arabesque Cookie",
           "soloists": [
@@ -25579,7 +25579,7 @@
         },
         {
           "ID": "8290*6",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Chinoiserie",
           "soloists": [
@@ -25600,7 +25600,7 @@
         },
         {
           "ID": "8290*7",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Danse of the Floreadores",
           "soloists": [
@@ -25621,7 +25621,7 @@
         },
         {
           "ID": "8290*5",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "The Volga Vouty",
           "soloists": [
@@ -25647,7 +25647,7 @@
         },
         {
           "ID": "8152*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "C JAM BLUES",
           "conductorName": "Tovey, Bramwell",
           "soloists": [
@@ -25711,7 +25711,7 @@
         },
         {
           "ID": "8290*1",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Overture",
           "soloists": [
@@ -25732,7 +25732,7 @@
         },
         {
           "ID": "8290*2",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Toot Toot Tootie Toot",
           "soloists": [
@@ -25753,7 +25753,7 @@
         },
         {
           "ID": "8290*3",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Peanut Brittle Brigade",
           "soloists": [
@@ -25774,7 +25774,7 @@
         },
         {
           "ID": "8290*9",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Sugar Rum Cherry",
           "soloists": [
@@ -25795,7 +25795,7 @@
         },
         {
           "ID": "8290*8",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Arabesque Cookie",
           "soloists": [
@@ -25816,7 +25816,7 @@
         },
         {
           "ID": "8290*6",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Chinoiserie",
           "soloists": [
@@ -25837,7 +25837,7 @@
         },
         {
           "ID": "8290*7",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "Danse of the Floreadores",
           "soloists": [
@@ -25858,7 +25858,7 @@
         },
         {
           "ID": "8290*5",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "NUTCRACKER SUITE (ARR. Strayhorn)",
           "movement": "The Volga Vouty",
           "soloists": [
@@ -25871,7 +25871,7 @@
         },
         {
           "ID": "8152*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "C JAM BLUES",
           "conductorName": "Tovey, Bramwell",
           "soloists": [
@@ -25891,7 +25891,7 @@
       "season": "2006-07",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2006-12-10T05:00:00Z",
@@ -27455,6 +27455,120 @@
       ]
     },
     {
+      "id": "6c641c90-5fb5-48e3-a6f7-0180cea01390",
+      "programID": "9541",
+      "orchestra": "New York Philharmonic",
+      "season": "2006-07",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2006-12-20T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2006-12-21T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2006-12-22T05:00:00Z",
+          "Time": "2:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2006-12-23T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53415*1",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CANTATA NO.  29",
+          "movement": "Sinfonia",
+          "conductorName": "Labadie, Bernard",
+          "soloists": [
+            {
+              "soloistName": "Pare (Paré), Richard",
+              "soloistInstrument": "Organ",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52431*",
+          "composerName": "Corelli,  Arcangelo",
+          "workTitle": "CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)",
+          "conductorName": "Labadie, Bernard",
+          "soloists": [
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Kim, Lisa",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Brey, Carter",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "53830*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO, ORGAN, OP. 7, NO. 4, D MINOR",
+          "conductorName": "Labadie, Bernard",
+          "soloists": [
+            {
+              "soloistName": "Pare (Paré), Richard",
+              "soloistInstrument": "Organ",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54065*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR",
+          "conductorName": "Labadie, Bernard",
+          "soloists": []
+        },
+        {
+          "ID": "54074*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "WATER MUSIC: SUITE NO. 3 IN G MAJOR",
+          "conductorName": "Labadie, Bernard",
+          "soloists": []
+        },
+        {
+          "ID": "54069*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "WATER MUSIC: SUITE NO. 2 IN D MAJOR",
+          "conductorName": "Labadie, Bernard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "f549e93f-b35f-4824-b0d5-d543953535f8",
       "programID": "9542",
       "orchestra": "New York Philharmonic",
@@ -27494,7 +27608,7 @@
           "ID": "53976*61",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part I: God's Plan to Redeem Mankind",
+          "movement": "Part I",
           "conductorName": "Bicket, Harry",
           "soloists": [
             {
@@ -27572,7 +27686,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "Bicket, Harry",
           "soloists": [
             {
@@ -28501,7 +28615,7 @@
           "ID": "53976*62",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part II: The Redemption",
+          "movement": "Part II",
           "conductorName": "Bicket, Harry",
           "soloists": [
             {
@@ -29215,7 +29329,7 @@
           "ID": "53976*40",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Tenor): Thou shallt break them with a rod",
+          "movement": "Air (Tenor): Thou shallt break them with a rod of iron",
           "conductorName": "Bicket, Harry",
           "soloists": [
             {
@@ -29303,7 +29417,7 @@
           "ID": "53976*63",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part III: An Anthem of Thanksgiving for the Defeat of Death",
+          "movement": "Part III",
           "conductorName": "Bicket, Harry",
           "soloists": [
             {
@@ -29714,120 +29828,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "6c641c90-5fb5-48e3-a6f7-0180cea01390",
-      "programID": "9541",
-      "orchestra": "New York Philharmonic",
-      "season": "2006-07",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2006-12-20T05:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2006-12-21T05:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2006-12-22T05:00:00Z",
-          "Time": "2:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2006-12-23T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53415*1",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "CANTATA NO.  29",
-          "movement": "Sinfonia",
-          "conductorName": "Labadie, Bernard",
-          "soloists": [
-            {
-              "soloistName": "Pare (Paré), Richard",
-              "soloistInstrument": "Organ",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52431*",
-          "composerName": "Corelli,  Arcangelo",
-          "workTitle": "CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)",
-          "conductorName": "Labadie, Bernard",
-          "soloists": [
-            {
-              "soloistName": "Ginsberg, Marc",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Kim, Lisa",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Brey, Carter",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "53830*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO, ORGAN, OP. 7, NO. 4, D MINOR",
-          "conductorName": "Labadie, Bernard",
-          "soloists": [
-            {
-              "soloistName": "Pare (Paré), Richard",
-              "soloistInstrument": "Organ",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "54065*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR",
-          "conductorName": "Labadie, Bernard",
-          "soloists": []
-        },
-        {
-          "ID": "54074*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "WATER MUSIC: SUITE NO. 3 IN G MAJOR",
-          "conductorName": "Labadie, Bernard",
-          "soloists": []
-        },
-        {
-          "ID": "54069*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "WATER MUSIC: SUITE NO. 2 IN D MAJOR",
-          "conductorName": "Labadie, Bernard",
-          "soloists": []
         }
       ]
     },
@@ -30439,6 +30439,7 @@
           "ID": "899*1",
           "composerName": "Dukas,  Paul",
           "workTitle": "LA PERI",
+          "movement": "Fanfare to precede \"La Peri\"",
           "soloists": [
             {
               "soloistName": "Members of the New York Philharmonic Brass",
@@ -30451,6 +30452,7 @@
           "ID": "1092*1",
           "composerName": "Susato,  Tylman",
           "workTitle": "DANSEREYE (DANCE COLLECTION), ARR. FOR BRASS (ARR. Iveson)",
+          "movement": "La Mourisque",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -30464,6 +30466,7 @@
           "ID": "1092*4",
           "composerName": "Susato,  Tylman",
           "workTitle": "DANSEREYE (DANCE COLLECTION), ARR. FOR BRASS (ARR. Iveson)",
+          "movement": "Basse Danse Bergeret",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -30477,6 +30480,7 @@
           "ID": "1092*5",
           "composerName": "Susato,  Tylman",
           "workTitle": "DANSEREYE (DANCE COLLECTION), ARR. FOR BRASS (ARR. Iveson)",
+          "movement": "Ronde: \"Mon Amy\"",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -30490,6 +30494,7 @@
           "ID": "1092*6",
           "composerName": "Susato,  Tylman",
           "workTitle": "DANSEREYE (DANCE COLLECTION), ARR. FOR BRASS (ARR. Iveson)",
+          "movement": "Pavane Battaille",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -38792,7 +38797,7 @@
         },
         {
           "ID": "9754*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IT DON'T MEAN A THING IF IT AIN'T GOT THAT SWING (BRASS) (ARR. Elkjer)",
           "soloists": [
             {
@@ -41578,7 +41583,7 @@
         },
         {
           "ID": "9753*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IT DON'T MEAN A THING IF IT AIN'T GOT THAT SWING (BRASS) (ARR. Kosmyna)",
           "soloists": [
             {
@@ -43393,7 +43398,7 @@
       "season": "2007-08",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2007-12-09T05:00:00Z",
@@ -43746,7 +43751,7 @@
         {
           "ID": "9768*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MAGIC FLUTE, THE: DER HOLLE RACHE (VOICE + BRASS) (ARR. Allen)",
+          "workTitle": "MAGIC FLUTE, THE: DER HOLLE RACHE (TRUMPET + BRASS) (ARR. Allen)",
           "soloists": [
             {
               "soloistName": "New York Philharmonic Principal Brass Quintet",
@@ -44535,7 +44540,7 @@
           "ID": "53976*61",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part I: God's Plan to Redeem Mankind",
+          "movement": "Part I",
           "conductorName": "McGegan, Nicholas",
           "soloists": [
             {
@@ -44607,7 +44612,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "McGegan, Nicholas",
           "soloists": [
             {
@@ -44914,7 +44919,7 @@
           "ID": "53976*62",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part II: The Redemption",
+          "movement": "Part II",
           "conductorName": "McGegan, Nicholas",
           "soloists": [
             {
@@ -45202,7 +45207,7 @@
           "ID": "53976*40",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Tenor): Thou shallt break them with a rod",
+          "movement": "Air (Tenor): Thou shallt break them with a rod of iron",
           "conductorName": "McGegan, Nicholas",
           "soloists": [
             {
@@ -45230,7 +45235,7 @@
           "ID": "53976*63",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part III: An Anthem of Thanksgiving for the Defeat of Death",
+          "movement": "Part III",
           "conductorName": "McGegan, Nicholas",
           "soloists": [
             {
@@ -49122,6 +49127,69 @@
       ]
     },
     {
+      "id": "cf5cff3b-0884-48a4-bb22-c247fcfe90bd",
+      "programID": "9705",
+      "orchestra": "New York Philharmonic",
+      "season": "2007-08",
+      "concerts": [
+        {
+          "eventType": "Hear & Now",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2008-03-13T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Hear & Now",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2008-03-15T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8978*1",
+          "composerName": "Neikrug,  Marc",
+          "workTitle": "QUINTESSENCE:  SYMPHONY NO. 2",
+          "movement": "Excerpts",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Stucky, Steven",
+              "soloistInstrument": "Host",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8978*",
+          "composerName": "Neikrug,  Marc",
+          "workTitle": "QUINTESSENCE:  SYMPHONY NO. 2",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51954*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "HELDENLEBEN, EIN, OP. 40",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7c23e64f-1aef-46ec-af84-b97adb9beda1",
       "programID": "10059",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -49186,69 +49254,6 @@
             {
               "soloistName": "Wingreen, Harriet",
               "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cf5cff3b-0884-48a4-bb22-c247fcfe90bd",
-      "programID": "9705",
-      "orchestra": "New York Philharmonic",
-      "season": "2007-08",
-      "concerts": [
-        {
-          "eventType": "Hear & Now",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2008-03-13T04:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Hear & Now",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2008-03-15T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8978*1",
-          "composerName": "Neikrug,  Marc",
-          "workTitle": "QUINTESSENCE:  SYMPHONY NO. 2",
-          "movement": "Excerpts",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Stucky, Steven",
-              "soloistInstrument": "Host",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8978*",
-          "composerName": "Neikrug,  Marc",
-          "workTitle": "QUINTESSENCE:  SYMPHONY NO. 2",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51954*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "HELDENLEBEN, EIN, OP. 40",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Dicterow, Glenn",
-              "soloistInstrument": "Violin",
               "soloistRoles": "A"
             }
           ]
@@ -52802,7 +52807,7 @@
       "works": [
         {
           "ID": "9754*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IT DON'T MEAN A THING IF IT AIN'T GOT THAT SWING (BRASS) (ARR. Elkjer)",
           "soloists": [
             {
@@ -53639,7 +53644,7 @@
         },
         {
           "ID": "9861*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "CELEBRATION FOR A NEW ERA",
           "soloists": [
             {
@@ -53701,7 +53706,7 @@
         },
         {
           "ID": "9864*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "ARMED FORCES SALUTE (ARR. Richard)",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
@@ -53784,7 +53789,7 @@
         },
         {
           "ID": "9861*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "CELEBRATION FOR A NEW ERA",
           "soloists": [
             {
@@ -53846,7 +53851,7 @@
         },
         {
           "ID": "9864*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "ARMED FORCES SALUTE (ARR. Richard)",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
@@ -57887,6 +57892,74 @@
       ]
     },
     {
+      "id": "48eace8c-1da8-498b-8d09-253e82b7f480",
+      "programID": "9949",
+      "orchestra": "NYP Presentation",
+      "season": "2008-09",
+      "concerts": [
+        {
+          "eventType": "None",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2008-11-24T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51424*",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "SYMPHONY NO. 3, KADDISH",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Juilliard Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Zetlan, Jennifer",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Pisar, Samuel",
+              "soloistInstrument": "Speaker",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Oratorio Society of New York",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Young Peoples's Chorus of New York",
+              "soloistInstrument": "Boys Choir",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Juilliard Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "81c7766b-fa5a-4c9d-bd09-2bb3bb8d4f5b",
       "programID": "9823",
       "orchestra": "New York Philharmonic",
@@ -58670,7 +58743,7 @@
       "season": "2008-09",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2008-12-14T05:00:00Z",
@@ -60020,7 +60093,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "Koopman, Ton",
           "soloists": [
             {
@@ -60544,7 +60617,7 @@
           "ID": "53976*40",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Tenor): Thou shallt break them with a rod",
+          "movement": "Air (Tenor): Thou shallt break them with a rod of iron",
           "conductorName": "Koopman, Ton",
           "soloists": [
             {
@@ -62478,6 +62551,65 @@
       ]
     },
     {
+      "id": "d3a04f8a-b9d1-4269-aa99-0990699e579a",
+      "programID": "9953",
+      "orchestra": "New York Philharmonic",
+      "season": "2008-09",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Atlanta, GA",
+          "Venue": "Donna and Marvin Schwartz Center for the Performing Arts (Emerson Concert Hall)",
+          "Date": "2009-02-21T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "53078*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3196*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8999*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act III: Introduction",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8902*1",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance No. 1",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "817458e4-a017-4853-85dd-034cf65425e8",
       "programID": "13319",
       "orchestra": "New York Philharmonic",
@@ -62532,6 +62664,65 @@
           "composerName": "Bizet,  Georges",
           "workTitle": "L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)",
           "movement": "Farandole",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "8258c052-5b09-4a30-b21f-d1493edfacfd",
+      "programID": "9991",
+      "orchestra": "New York Philharmonic",
+      "season": "2008-09",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Sarasota, FL",
+          "Venue": "Van Wezel Performing Arts Hall",
+          "Date": "2009-02-25T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "53078*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8999*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act III: Introduction",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8902*1",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance No. 1",
           "conductorName": "Maazel, Lorin",
           "soloists": []
         }
@@ -62598,6 +62789,125 @@
           "composerName": "Brahms,  Johannes",
           "workTitle": "HUNGARIAN DANCES (ORCH.)",
           "movement": "Hungarian Dance No. 1",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "bcd1019f-1262-4cd7-8411-faacbb3952c4",
+      "programID": "9995",
+      "orchestra": "New York Philharmonic",
+      "season": "2008-09",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Chapel Hill, NC",
+          "Venue": "University of North Carolina (Memorial Hall)",
+          "Date": "2009-03-03T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5801*1",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "Overture",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "53078*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8999*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act III: Introduction",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8902*5",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance No. 5 (Schmeling)",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "9c5aad6c-3519-4298-8cd8-9bc01b537464",
+      "programID": "9999",
+      "orchestra": "New York Philharmonic",
+      "season": "2008-09",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Ann Arbor, MI",
+          "Venue": "Hill Auditorium",
+          "Date": "2009-03-08T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "3196*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SUITE NO. 3, G MAJOR, OP. 55",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53708*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "SACRE DU PRINTEMPS, LE",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8999*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act III: Introduction",
+          "conductorName": "Maazel, Lorin",
+          "soloists": []
+        },
+        {
+          "ID": "8902*5",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance No. 5 (Schmeling)",
           "conductorName": "Maazel, Lorin",
           "soloists": []
         }
@@ -69134,7 +69444,7 @@
         },
         {
           "ID": "9753*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IT DON'T MEAN A THING IF IT AIN'T GOT THAT SWING (BRASS) (ARR. Kosmyna)",
           "soloists": [
             {
@@ -69450,48 +69760,6 @@
       ]
     },
     {
-      "id": "8a619192-bcc7-4f6b-bacd-82b7b04dd25d",
-      "programID": "10442",
-      "orchestra": "New York Philharmonic",
-      "season": "2009-10",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Al Ain, UNITED ARAB EMIRATES",
-          "Venue": "Al Jahili Fort",
-          "Date": "2009-10-24T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Zimmermann, Frank Peter",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "6c046236-2288-4721-9ab9-b93c71c87a5a",
       "programID": "10485",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -69558,6 +69826,48 @@
           "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
           "movement": "Allegro",
           "conductorName": "Boico, Daniel",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "8a619192-bcc7-4f6b-bacd-82b7b04dd25d",
+      "programID": "10442",
+      "orchestra": "New York Philharmonic",
+      "season": "2009-10",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Al Ain, UNITED ARAB EMIRATES",
+          "Venue": "Al Jahili Fort",
+          "Date": "2009-10-24T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Gilbert, Alan",
           "soloists": []
         }
       ]
@@ -71117,7 +71427,7 @@
       "season": "2009-10",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2009-12-13T05:00:00Z",
@@ -71288,7 +71598,7 @@
         },
         {
           "ID": "1025*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "DO NOTHIN' TIL YOU HEAR FROM ME (ARR. Elkjer)",
           "soloists": [
             {
@@ -71442,7 +71752,7 @@
         {
           "ID": "8784*",
           "composerName": "Traditional,",
-          "workTitle": "CAROL: O COME, O COME EMMANUEL (ARR. Richard)",
+          "workTitle": "CAROL: O COME, O COME EMMANUEL",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
             {
@@ -71574,7 +71884,7 @@
         {
           "ID": "1023*",
           "composerName": "Traditional,",
-          "workTitle": "WINTRY MIX, A (ARR. Richard)",
+          "workTitle": "WINTRY MIX, A",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
             {
@@ -71764,7 +72074,7 @@
           "ID": "53976*61",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part I: God's Plan to Redeem Mankind",
+          "movement": "Part I",
           "conductorName": "Rilling, Helmuth",
           "soloists": [
             {
@@ -71836,7 +72146,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "Rilling, Helmuth",
           "soloists": []
         },
@@ -71964,7 +72274,7 @@
           "ID": "53976*62",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part II: The Redemption",
+          "movement": "Part II",
           "conductorName": "Rilling, Helmuth",
           "soloists": []
         },
@@ -72116,7 +72426,7 @@
           "ID": "53976*40",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Tenor): Thou shallt break them with a rod",
+          "movement": "Air (Tenor): Thou shallt break them with a rod of iron",
           "conductorName": "Rilling, Helmuth",
           "soloists": []
         },
@@ -72132,7 +72442,7 @@
           "ID": "53976*63",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part III: An Anthem of Thanksgiving for the Defeat of Death",
+          "movement": "Part III",
           "conductorName": "Rilling, Helmuth",
           "soloists": []
         },
@@ -77829,6 +78139,78 @@
       ]
     },
     {
+      "id": "797d7d8e-aac2-4d64-a19f-a36c23411999",
+      "programID": "11215",
+      "orchestra": "New York Philharmonic",
+      "season": "2009-10",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2010-05-01T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53680*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "ORPHEUS, BALLET IN THREE SCENES",
+          "conductorName": "Gergiev, Valery",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52004*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "OEDIPUS REX",
+          "conductorName": "Gergiev, Valery",
+          "soloists": [
+            {
+              "soloistName": "Irons, Jeremy",
+              "soloistInstrument": "Narrator",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Meier, Waltraud",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Griffey, Anthony Dean",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Timchenko, Alexander",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Petrenko, Mikhail",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bannik, Ilya",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Chorus of the Mariinsky Theatre",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1ed140ee-36df-41a1-bb38-4322bc36d553",
       "programID": "11018",
       "orchestra": "NYP Presentation",
@@ -78051,78 +78433,6 @@
               "soloistName": "Mangum, John",
               "soloistInstrument": "Host",
               "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "797d7d8e-aac2-4d64-a19f-a36c23411999",
-      "programID": "11215",
-      "orchestra": "New York Philharmonic",
-      "season": "2009-10",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2010-05-01T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53680*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "ORPHEUS, BALLET IN THREE SCENES",
-          "conductorName": "Gergiev, Valery",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52004*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "OEDIPUS REX",
-          "conductorName": "Gergiev, Valery",
-          "soloists": [
-            {
-              "soloistName": "Irons, Jeremy",
-              "soloistInstrument": "Narrator",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Meier, Waltraud",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Griffey, Anthony Dean",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Timchenko, Alexander",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Petrenko, Mikhail",
-              "soloistInstrument": "Bass",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Bannik, Ilya",
-              "soloistInstrument": "Bass",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Chorus of the Mariinsky Theatre",
-              "soloistInstrument": "Chorus",
-              "soloistRoles": "S"
             }
           ]
         }
@@ -79419,70 +79729,6 @@
       ]
     },
     {
-      "id": "ec5e08e4-0aa4-4006-9ad4-eb31b62716dc",
-      "programID": "11150",
-      "orchestra": "New York Philharmonic",
-      "season": "2009-10",
-      "concerts": [
-        {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2010-05-20T04:00:00Z",
-          "Time": "12:00PM"
-        },
-        {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2010-05-21T04:00:00Z",
-          "Time": "12:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1702*7",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (1947 VERSION)",
-          "movement": "Excerpts",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Murray, Melissa",
-              "soloistInstrument": "Actor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Scher, Avichai",
-              "soloistInstrument": "Dancer",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3527*",
-          "composerName": "Nikocevic,  Elmir",
-          "workTitle": "LOST IN THE FOREST",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "3530*",
-          "composerName": "Samerson,  Brooke",
-          "workTitle": "MANIFEST DESTINY",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "3536*",
-          "composerName": "Bernstein,  Adam",
-          "workTitle": "CHANGING SCENES",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "73e02f3b-d46f-4826-9bbd-462526699cb4",
       "programID": "11149",
       "orchestra": "New York Philharmonic",
@@ -79541,6 +79787,70 @@
           "ID": "3535*",
           "composerName": "Durakovic,  Amina",
           "workTitle": "RELATIVE...",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "ec5e08e4-0aa4-4006-9ad4-eb31b62716dc",
+      "programID": "11150",
+      "orchestra": "New York Philharmonic",
+      "season": "2009-10",
+      "concerts": [
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2010-05-20T04:00:00Z",
+          "Time": "12:00PM"
+        },
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2010-05-21T04:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1702*7",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PETRUSHKA (1947 VERSION)",
+          "movement": "Excerpts",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Murray, Melissa",
+              "soloistInstrument": "Actor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Scher, Avichai",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3527*",
+          "composerName": "Nikocevic,  Elmir",
+          "workTitle": "LOST IN THE FOREST",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "3530*",
+          "composerName": "Samerson,  Brooke",
+          "workTitle": "MANIFEST DESTINY",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "3536*",
+          "composerName": "Bernstein,  Adam",
+          "workTitle": "CHANGING SCENES",
           "conductorName": "Gilbert, Alan",
           "soloists": []
         }
@@ -80707,7 +81017,7 @@
         },
         {
           "ID": "9864*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "ARMED FORCES SALUTE (ARR. Richard)",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
@@ -80842,7 +81152,7 @@
         },
         {
           "ID": "9864*",
-          "composerName": "Richard,  Douglas",
+          "composerName": "Richard,  Douglas  A.",
           "workTitle": "ARMED FORCES SALUTE (ARR. Richard)",
           "conductorName": "Holtan, Timothy J.",
           "soloists": [
@@ -82092,7 +82402,7 @@
         },
         {
           "ID": "5302*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "DO NOTHING TIL YOU HEAR FROM ME (ARR. Elkjer)",
           "conductorName": "Boico, Daniel",
           "soloists": []
@@ -84546,6 +84856,7 @@
           "ID": "51429*2",
           "composerName": "Bernstein,  Leonard",
           "workTitle": "ON THE TOWN: THREE DANCE EPISODES",
+          "movement": "Lonely Town: Pas de Deux",
           "conductorName": "Gilbert, Alan",
           "soloists": []
         }
@@ -85782,14 +86093,14 @@
       "season": "2010-11",
       "concerts": [
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2010-12-12T05:00:00Z",
           "Time": "12:00PM"
         },
         {
-          "eventType": "Chamber",
+          "eventType": "Holiday Brass",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "2010-12-12T05:00:00Z",
@@ -85800,7 +86111,7 @@
         {
           "ID": "6257*",
           "composerName": "Pola",
-          "workTitle": "Wyle, / IT'S THE MOST WONDERFUL TIME OF THE YEAR (ARR. Richard)",
+          "workTitle": "Wyle, / IT'S THE MOST WONDERFUL TIME OF THE YEAR",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -85858,7 +86169,7 @@
         {
           "ID": "6258*",
           "composerName": "Traditional,",
-          "workTitle": "CAROL: GOD REST YE MERRY GENTLEMEN [BRASS] (ARR. Richard)",
+          "workTitle": "CAROL: GOD REST YE MERRY GENTLEMEN [BRASS]",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86187,7 +86498,7 @@
         {
           "ID": "6274*",
           "composerName": "Burt,  Alfred  Shaddick",
-          "workTitle": "THIS IS CHRISTMAS (ARR. Richard)",
+          "workTitle": "THIS IS CHRISTMAS",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86245,7 +86556,7 @@
         {
           "ID": "6276*",
           "composerName": "Burt,  Alfred  Shaddick",
-          "workTitle": "CAROLING, CAROLING (ARR. Richard)",
+          "workTitle": "CAROLING, CAROLING",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86303,7 +86614,7 @@
         {
           "ID": "6278*",
           "composerName": "Burt,  Alfred  Shaddick",
-          "workTitle": "COME, DEAR CHILDREN (ARR. Richard)",
+          "workTitle": "COME, DEAR CHILDREN",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86419,7 +86730,7 @@
         {
           "ID": "6282*",
           "composerName": "Burt,  Alfred  Shaddick",
-          "workTitle": "WE'LL DRESS THE HOUSE (ARR. Richard)",
+          "workTitle": "WE'LL DRESS THE HOUSE",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86535,7 +86846,7 @@
         {
           "ID": "6289*",
           "composerName": "Bach, J. S. -Gounod,",
-          "workTitle": "AVE MARIA - BRASS (ARR. Richard)",
+          "workTitle": "AVE MARIA - BRASS",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86593,7 +86904,7 @@
         {
           "ID": "11744*",
           "composerName": "Mendelssohn,  Felix",
-          "workTitle": "HARK! THE HERALD ANGELS SING (BRASS) (ARR. Richard)",
+          "workTitle": "HARK! THE HERALD ANGELS SING (BRASS)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86651,7 +86962,7 @@
         {
           "ID": "11745*",
           "composerName": "Handel,  George  Frideric",
-          "workTitle": "JOY TO THE WORLD (BRASS) (ARR. Richard)",
+          "workTitle": "JOY TO THE WORLD (BRASS)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -86772,7 +87083,7 @@
         {
           "ID": "11747*",
           "composerName": "Traditional,",
-          "workTitle": "HOLIDAY PRESENCE (BRASS) (ARR. Richard)",
+          "workTitle": "HOLIDAY PRESENCE (BRASS)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -87274,7 +87585,7 @@
         {
           "ID": "11752*",
           "composerName": "Rollins,  Walter  E.",
-          "workTitle": "Nelson, Steve / FROSTY THE SNOWMAN (SING ALONG) (ARR. Richard)",
+          "workTitle": "Nelson, Steve / FROSTY THE SNOWMAN (SING ALONG)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -87332,7 +87643,7 @@
         {
           "ID": "11753*",
           "composerName": "Gruber,  Franz  Xaver",
-          "workTitle": "SILENT NIGHT (SING ALONG) (ARR. Richard)",
+          "workTitle": "SILENT NIGHT (SING ALONG)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -87390,7 +87701,7 @@
         {
           "ID": "11754*",
           "composerName": "Pierpont,  James  Lord",
-          "workTitle": "JINGLE BELLS (SING ALONG) (ARR. Richard)",
+          "workTitle": "JINGLE BELLS (SING ALONG)",
           "conductorName": "Keene, Jim",
           "soloists": [
             {
@@ -87494,7 +87805,7 @@
           "ID": "53976*61",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part I: God's Plan to Redeem Mankind",
+          "movement": "Part I",
           "conductorName": "Labadie, Bernard",
           "soloists": [
             {
@@ -87566,7 +87877,7 @@
           "ID": "53976*3",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Tenor): Comfort ye, Comfort ye my people",
+          "movement": "Recitative (Tenor): Comfort ye my people",
           "conductorName": "Labadie, Bernard",
           "soloists": []
         },
@@ -87747,7 +88058,7 @@
           "ID": "53976*62",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part II: The Redemption",
+          "movement": "Part II",
           "conductorName": "Labadie, Bernard",
           "soloists": []
         },
@@ -87883,7 +88194,7 @@
           "ID": "53976*40",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Tenor): Thou shallt break them with a rod",
+          "movement": "Air (Tenor): Thou shallt break them with a rod of iron",
           "conductorName": "Labadie, Bernard",
           "soloists": []
         },
@@ -87899,7 +88210,7 @@
           "ID": "53976*63",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Part III: An Anthem of Thanksgiving for the Defeat of Death",
+          "movement": "Part III",
           "conductorName": "Labadie, Bernard",
           "soloists": []
         },
@@ -93715,7 +94026,7 @@
         },
         {
           "ID": "5681*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IN MY SOLITUDE (ARR. Hochman)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -93728,7 +94039,7 @@
         },
         {
           "ID": "5683*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "ON A TURQUOISE CLOUD (ARR. Hochman)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -93741,7 +94052,7 @@
         },
         {
           "ID": "5682*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "SOPHISTICATED LADY (ARR. Hochman)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -93754,7 +94065,7 @@
         },
         {
           "ID": "5684*",
-          "composerName": "Ellington,  Edward  Kennedy \"Duke\"",
+          "composerName": "Ellington,  Duke",
           "workTitle": "IT DON'T MEAN A THING IF IT AIN'T GOT THAT SWING (ARR. Hochman)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
