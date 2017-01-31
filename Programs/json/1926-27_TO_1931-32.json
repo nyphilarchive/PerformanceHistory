@@ -6492,64 +6492,6 @@
       ]
     },
     {
-      "id": "75a23e36-2d0f-4cb0-a485-ca345d300abb",
-      "programID": "8858",
-      "orchestra": "New York Symphony",
-      "season": "1926-27",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-02-24T05:00:00Z",
-          "Time": "3:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1927-02-27T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3167*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "KING STEPHEN, OP. 117",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "2068*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
-          "conductorName": "Klemperer, Otto",
-          "soloists": [
-            {
-              "soloistName": "Szigeti, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2005*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "IMAGES: IBÉRIA, NO. 2",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "1264*4",
-          "composerName": "Verdi,  Giuseppe",
-          "workTitle": "OTELLO",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "729341d8-6ef2-434e-8b27-0ebe446c1f03",
       "programID": "3379",
       "orchestra": "New York Philharmonic",
@@ -6603,6 +6545,66 @@
           "workTitle": "TANNHAUSER, WWV 70",
           "movement": "Overture [Dresden]",
           "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "75a23e36-2d0f-4cb0-a485-ca345d300abb",
+      "programID": "8858",
+      "orchestra": "New York Symphony",
+      "season": "1926-27",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-02-24T05:00:00Z",
+          "Time": "3:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Mecca Auditorium",
+          "Date": "1927-02-27T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3167*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "KING STEPHEN, OP. 117",
+          "movement": "Overture",
+          "conductorName": "Klemperer, Otto",
+          "soloists": []
+        },
+        {
+          "ID": "2068*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "conductorName": "Klemperer, Otto",
+          "soloists": [
+            {
+              "soloistName": "Szigeti, Joseph",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2005*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "IMAGES: IBÉRIA, NO. 2",
+          "conductorName": "Klemperer, Otto",
+          "soloists": []
+        },
+        {
+          "ID": "1264*4",
+          "composerName": "Verdi,  Giuseppe",
+          "workTitle": "OTELLO",
+          "movement": "Ballabili (ballet): Act III",
+          "conductorName": "Klemperer, Otto",
           "soloists": []
         }
       ]
@@ -7457,51 +7459,6 @@
       ]
     },
     {
-      "id": "6e2cb84d-a169-4e57-8e59-0b4817af933f",
-      "programID": "8860",
-      "orchestra": "New York Symphony",
-      "season": "1926-27",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-03-10T05:00:00Z",
-          "Time": "3:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1927-03-13T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Busch, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "52867*",
-          "composerName": "Reger,  Max",
-          "workTitle": "VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132",
-          "conductorName": "Busch, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "50064*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Busch, Fritz",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "814142be-18eb-4afc-a6dc-926bfd4c54cd",
       "programID": "13458",
       "orchestra": "New York Philharmonic",
@@ -7548,6 +7505,51 @@
           "composerName": "Brahms,  Johannes",
           "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
           "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "6e2cb84d-a169-4e57-8e59-0b4817af933f",
+      "programID": "8860",
+      "orchestra": "New York Symphony",
+      "season": "1926-27",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-03-10T05:00:00Z",
+          "Time": "3:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Mecca Auditorium",
+          "Date": "1927-03-13T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52389*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+          "conductorName": "Busch, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "52867*",
+          "composerName": "Reger,  Max",
+          "workTitle": "VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132",
+          "conductorName": "Busch, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Busch, Fritz",
           "soloists": []
         }
       ]
@@ -7809,49 +7811,6 @@
       ]
     },
     {
-      "id": "3a717a30-a1a3-43ab-8252-ccacf65a07de",
-      "programID": "3781",
-      "orchestra": "New York Philharmonic",
-      "season": "1926-27",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-03-19T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2451*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
-          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "50105*",
-          "composerName": "Hindemith,  Paul",
-          "workTitle": "CONCERTO, ORCHESTRA, OP. 38",
-          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50064*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "09f72cc8-441f-45e1-a3ab-00761bcae65f",
       "programID": "5687",
       "orchestra": "New York Philharmonic",
@@ -7932,17 +7891,17 @@
       ]
     },
     {
-      "id": "c7a1ce9f-9a89-415b-825c-8084e84bc115",
-      "programID": "3787",
+      "id": "3a717a30-a1a3-43ab-8252-ccacf65a07de",
+      "programID": "3781",
       "orchestra": "New York Philharmonic",
       "season": "1926-27",
       "concerts": [
         {
-          "eventType": "Subscription Season",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Carnegie Hall",
-          "Date": "1927-03-20T05:00:00Z",
-          "Time": "3:00PM"
+          "Date": "1927-03-19T05:00:00Z",
+          "Time": "8:30PM"
         }
       ],
       "works": [
@@ -7954,17 +7913,11 @@
           "soloists": []
         },
         {
-          "ID": "2043*",
-          "composerName": "Schelling,  Ernest",
-          "workTitle": "SUITE FANTASTIQUE, OP. 7",
+          "ID": "50105*",
+          "composerName": "Hindemith,  Paul",
+          "workTitle": "CONCERTO, ORCHESTRA, OP. 38",
           "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
-          "soloists": [
-            {
-              "soloistName": "Schelling, Ernest",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
+          "soloists": []
         },
         {
           "ID": "0*",
@@ -8029,6 +7982,55 @@
           "composerName": "Brahms,  Johannes",
           "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
           "conductorName": "Busch, Fritz",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "c7a1ce9f-9a89-415b-825c-8084e84bc115",
+      "programID": "3787",
+      "orchestra": "New York Philharmonic",
+      "season": "1926-27",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-03-20T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2451*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
+          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
+          "soloists": []
+        },
+        {
+          "ID": "2043*",
+          "composerName": "Schelling,  Ernest",
+          "workTitle": "SUITE FANTASTIQUE, OP. 7",
+          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
+          "soloists": [
+            {
+              "soloistName": "Schelling, Ernest",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Furtwaengler [Furtwängler], Wilhelm",
           "soloists": []
         }
       ]
@@ -17142,6 +17144,63 @@
       ]
     },
     {
+      "id": "7671a32b-bf66-4ae1-b169-54d491616e9b",
+      "programID": "6306",
+      "orchestra": "New York Philharmonic",
+      "season": "1927-28",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-12-15T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-12-16T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50858*",
+          "composerName": "Kodaly [Kodály],  Zoltán",
+          "workTitle": "HARY JANOS: SUITE",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "1795*",
+          "composerName": "Brucken Fock,  Gerardus Hubertus Galenus  von",
+          "workTitle": "IMPRESSIONS DU MIDI",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "715*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "VALSE, LA",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "3211fd06-4c14-45fe-81ee-0758cddc6180",
       "programID": "8878",
       "orchestra": "New York Symphony",
@@ -17257,63 +17316,6 @@
           "workTitle": "TANNHAUSER, WWV 70",
           "movement": "Overture [Dresden]",
           "conductorName": "Busch, Fritz",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "7671a32b-bf66-4ae1-b169-54d491616e9b",
-      "programID": "6306",
-      "orchestra": "New York Philharmonic",
-      "season": "1927-28",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-12-15T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-12-16T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50858*",
-          "composerName": "Kodaly [Kodály],  Zoltán",
-          "workTitle": "HARY JANOS: SUITE",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "1795*",
-          "composerName": "Brucken Fock,  Gerardus Hubertus Galenus  von",
-          "workTitle": "IMPRESSIONS DU MIDI",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "715*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "VALSE, LA",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -17972,6 +17974,62 @@
       ]
     },
     {
+      "id": "10c11de4-684a-4bb2-90e1-f7db3dd327c2",
+      "programID": "1096",
+      "orchestra": "New York Philharmonic",
+      "season": "1927-28",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1927-12-31T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8834*3",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "OBERON",
+          "movement": "Overture",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "52502*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Wade-Smith, Catherine",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51954*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "HELDENLEBEN, EIN, OP. 40",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Guidi, Scipione",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "118e6a76-e3f5-49a9-868f-1cdb5de8081c",
       "programID": "10248",
       "orchestra": "New York Symphony",
@@ -18106,62 +18164,6 @@
           "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
           "conductorName": "Damrosch, Walter",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "10c11de4-684a-4bb2-90e1-f7db3dd327c2",
-      "programID": "1096",
-      "orchestra": "New York Philharmonic",
-      "season": "1927-28",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1927-12-31T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8834*3",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "OBERON",
-          "movement": "Overture",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "52502*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Wade-Smith, Catherine",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51954*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "HELDENLEBEN, EIN, OP. 40",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Guidi, Scipione",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -19280,6 +19282,7 @@
           "ID": "52638*2",
           "composerName": "Debussy,  Claude",
           "workTitle": "NOCTURNES",
+          "movement": "Fêtes (\"Festivals\")",
           "conductorName": "Molinari, Bernardino",
           "soloists": []
         },
@@ -19287,6 +19290,7 @@
           "ID": "51710*1",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
           "conductorName": "Molinari, Bernardino",
           "soloists": []
         }
@@ -19354,85 +19358,6 @@
       ]
     },
     {
-      "id": "892a5d7b-6914-4f8b-80f9-54241fd8bf96",
-      "programID": "3438",
-      "orchestra": "New York Philharmonic",
-      "season": "1927-28",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1928-01-21T05:00:00Z",
-          "Time": "11:00AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8957*1",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "53905*1",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO GROSSO, OP. 6, NO.  5, D MAJOR (ARR. Kogel)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "53905*3",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO GROSSO, OP. 6, NO.  5, D MAJOR (ARR. Kogel)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "52431*6",
-          "composerName": "Corelli,  Arcangelo",
-          "workTitle": "CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "50064*3",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "2842*3",
-          "composerName": "Rimsky-Korsakov,  Nikolai",
-          "workTitle": "TALE OF TSAR SALTAN, THE, OP. 57: SUITE (REV. W/ FLT OF BUMBLE-BEE)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "1157*",
-          "composerName": "Traditional,",
-          "workTitle": "MINSTREL BOY, THE (ARR. Fisher)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Audience",
-              "soloistInstrument": "Sing-Along",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "2c13179f-4a22-4021-8128-bf04b1d4300c",
       "programID": "10250",
       "orchestra": "New York Symphony",
@@ -19473,6 +19398,92 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "892a5d7b-6914-4f8b-80f9-54241fd8bf96",
+      "programID": "3438",
+      "orchestra": "New York Philharmonic",
+      "season": "1927-28",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1928-01-21T05:00:00Z",
+          "Time": "11:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8957*1",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "MARRIAGE OF FIGARO, THE, K.492",
+          "movement": "Overture",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "53905*1",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO GROSSO, OP. 6, NO.  5, D MAJOR (ARR. Kogel)",
+          "movement": "Larghetto e staccato",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "53905*3",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO GROSSO, OP. 6, NO.  5, D MAJOR (ARR. Kogel)",
+          "movement": "Presto",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "52431*6",
+          "composerName": "Corelli,  Arcangelo",
+          "workTitle": "CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)",
+          "movement": "Largo (Pastorale)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "50064*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "movement": "Scherzo. Pizzicato ostinato: Allegro",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "2842*3",
+          "composerName": "Rimsky-Korsakov,  Nikolai",
+          "workTitle": "TALE OF TSAR SALTAN, THE, OP. 57: SUITE (REV. W/ FLT OF BUMBLE-BEE)",
+          "movement": "The Flight of the Bumble-Bee",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "1157*",
+          "composerName": "Traditional,",
+          "workTitle": "MINSTREL BOY, THE (ARR. Fisher)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Audience",
+              "soloistInstrument": "Sing-Along",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
         }
       ]
     },
@@ -20909,6 +20920,71 @@
       ]
     },
     {
+      "id": "0ab7fd22-fd36-419c-8ab7-16282a950cc7",
+      "programID": "2378",
+      "orchestra": "New York Philharmonic",
+      "season": "1927-28",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1928-03-01T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1928-03-02T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51682*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)",
+          "movement": "Overture",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "52449*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53397*",
+          "composerName": "Falla,  Manuel  de",
+          "workTitle": "EL AMOR BRUJO (REV. 1924)",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": [
+            {
+              "soloistName": "Braslau, Sophie",
+              "soloistInstrument": "Contralto",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Overture [Dresden]",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "44cf25d6-e0b5-471d-8d17-123b9a78e407",
       "programID": "8992",
       "orchestra": "New York Symphony",
@@ -21005,71 +21081,6 @@
           "workTitle": "MEISTERSINGER, DIE, WWV 96",
           "movement": "Prelude to Act I",
           "conductorName": "Rodzinski, Artur",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "0ab7fd22-fd36-419c-8ab7-16282a950cc7",
-      "programID": "2378",
-      "orchestra": "New York Philharmonic",
-      "season": "1927-28",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1928-03-01T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1928-03-02T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51682*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)",
-          "movement": "Overture",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "52449*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53397*",
-          "composerName": "Falla,  Manuel  de",
-          "workTitle": "EL AMOR BRUJO (REV. 1924)",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": [
-            {
-              "soloistName": "Braslau, Sophie",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
       ]
@@ -37873,6 +37884,7 @@
           "ID": "8839*2",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -37887,6 +37899,7 @@
           "ID": "7249*1",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "SERSE",
+          "movement": "\"Frondi tenere ... Ombra mai fu\"",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -38604,6 +38617,71 @@
       ]
     },
     {
+      "id": "e2b93779-fcb8-47e1-9d29-d15a44e0338f",
+      "programID": "3084",
+      "orchestra": "New York Philharmonic",
+      "season": "1929-30",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1929-11-02T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51328*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "HAROLD IN ITALY, OP.16",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": [
+            {
+              "soloistName": "Pollain, Rene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51288*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "1021*",
+          "composerName": "Tommasini,  Vincenzo",
+          "workTitle": "IL CARNEVALE DI VENEZIA",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "9006*15",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Dawn",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "9006*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Siegfried's Rhine Journey",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "c35de2d7-846c-4110-8a11-b57ed5e4feab",
       "programID": "4449",
       "orchestra": "New York Philharmonic",
@@ -38674,71 +38752,6 @@
           "workTitle": "BARTERED BRIDE, THE",
           "movement": "Overture (\"Overture to a Comedy\")",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "e2b93779-fcb8-47e1-9d29-d15a44e0338f",
-      "programID": "3084",
-      "orchestra": "New York Philharmonic",
-      "season": "1929-30",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1929-11-02T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51328*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "HAROLD IN ITALY, OP.16",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": [
-            {
-              "soloistName": "Pollain, Rene",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51288*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "1021*",
-          "composerName": "Tommasini,  Vincenzo",
-          "workTitle": "IL CARNEVALE DI VENEZIA",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "9006*15",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "PROLOGUE: Dawn",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "9006*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "PROLOGUE: Siegfried's Rhine Journey",
-          "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
       ]
@@ -43283,6 +43296,79 @@
       ]
     },
     {
+      "id": "1a143511-65cf-49b8-ba6a-a3d4213593cb",
+      "programID": "41",
+      "orchestra": "New York Philharmonic",
+      "season": "1929-30",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1930-04-12T05:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1930-04-13T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51872*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1424*",
+          "composerName": "Castelnuovo-Tedesco,  Mario",
+          "workTitle": "SYMPHONIC VARIATIONS FOR VIOLIN",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": [
+            {
+              "soloistName": "Guidi, Scipione",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "5801*8",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "7. Nocturne: Andante tranquillo",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "5801*2",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "1. Scherzo: Allegro vivace",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "483*2",
+          "composerName": "Smetana,  Bedrich",
+          "workTitle": "MA VLAST (MY COUNTRY)",
+          "movement": "Vltava (The Moldau)",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "e55fc702-97aa-4f1b-ae1a-d653c0f77c9c",
       "programID": "3468",
       "orchestra": "New York Philharmonic",
@@ -43362,79 +43448,6 @@
           "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
           "movement": "Excerpts [unspecified]",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "1a143511-65cf-49b8-ba6a-a3d4213593cb",
-      "programID": "41",
-      "orchestra": "New York Philharmonic",
-      "season": "1929-30",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1930-04-12T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1930-04-13T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51872*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1424*",
-          "composerName": "Castelnuovo-Tedesco,  Mario",
-          "workTitle": "SYMPHONIC VARIATIONS FOR VIOLIN",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": [
-            {
-              "soloistName": "Guidi, Scipione",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "5801*8",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
-          "movement": "7. Nocturne: Andante tranquillo",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "5801*2",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
-          "movement": "1. Scherzo: Allegro vivace",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "483*2",
-          "composerName": "Smetana,  Bedrich",
-          "workTitle": "MA VLAST (MY COUNTRY)",
-          "movement": "Vltava (The Moldau)",
-          "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
       ]
@@ -50731,6 +50744,7 @@
           "ID": "2068*1",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "movement": "Allegro ma non troppo",
           "conductorName": "Schelling, Ernest",
           "soloists": [
             {
@@ -53505,6 +53519,71 @@
       ]
     },
     {
+      "id": "cc52fc46-31a4-409f-922f-81ee7fbf20fb",
+      "programID": "5176",
+      "orchestra": "New York Philharmonic",
+      "season": "1930-31",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1931-02-07T05:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1931-02-08T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51688*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "CENERENTOLA, LA",
+          "movement": "Overture",
+          "conductorName": "Molinari, Bernardino",
+          "soloists": []
+        },
+        {
+          "ID": "51933*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "BOURGEOIS GENTILHOMME, LE, OP. 60: ORCHESTRAL SUITE",
+          "conductorName": "Molinari, Bernardino",
+          "soloists": []
+        },
+        {
+          "ID": "51809*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "DANSE MACABRE, OP. 40",
+          "conductorName": "Molinari, Bernardino",
+          "soloists": []
+        },
+        {
+          "ID": "50596*",
+          "composerName": "Honegger,  Arthur",
+          "workTitle": "PACIFIC 231 (MOUVEMENT SYMPHONIQUE NO. 1)",
+          "conductorName": "Molinari, Bernardino",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Molinari, Bernardino",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "86cd8eb9-d401-4ecb-8121-6d0b417cfcd1",
       "programID": "3017",
       "orchestra": "New York Philharmonic",
@@ -53576,71 +53655,6 @@
           "composerName": "Rimsky-Korsakov,  Nikolai",
           "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "cc52fc46-31a4-409f-922f-81ee7fbf20fb",
-      "programID": "5176",
-      "orchestra": "New York Philharmonic",
-      "season": "1930-31",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1931-02-07T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1931-02-08T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51688*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "CENERENTOLA, LA",
-          "movement": "Overture",
-          "conductorName": "Molinari, Bernardino",
-          "soloists": []
-        },
-        {
-          "ID": "51933*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "BOURGEOIS GENTILHOMME, LE, OP. 60: ORCHESTRAL SUITE",
-          "conductorName": "Molinari, Bernardino",
-          "soloists": []
-        },
-        {
-          "ID": "51809*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "DANSE MACABRE, OP. 40",
-          "conductorName": "Molinari, Bernardino",
-          "soloists": []
-        },
-        {
-          "ID": "50596*",
-          "composerName": "Honegger,  Arthur",
-          "workTitle": "PACIFIC 231 (MOUVEMENT SYMPHONIQUE NO. 1)",
-          "conductorName": "Molinari, Bernardino",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Molinari, Bernardino",
           "soloists": []
         }
       ]
@@ -60466,6 +60480,7 @@
           "ID": "8868*1",
           "composerName": "Wagner,  Richard",
           "workTitle": "FLIEGENDE HOLLANDER [HOLLÄNDER], DER",
+          "movement": "Overture",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
@@ -61259,6 +61274,7 @@
           "ID": "8868*1",
           "composerName": "Wagner,  Richard",
           "workTitle": "FLIEGENDE HOLLANDER [HOLLÄNDER], DER",
+          "movement": "Overture",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
@@ -61328,6 +61344,7 @@
           "ID": "8868*1",
           "composerName": "Wagner,  Richard",
           "workTitle": "FLIEGENDE HOLLANDER [HOLLÄNDER], DER",
+          "movement": "Overture",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
@@ -61397,6 +61414,7 @@
           "ID": "8868*1",
           "composerName": "Wagner,  Richard",
           "workTitle": "FLIEGENDE HOLLANDER [HOLLÄNDER], DER",
+          "movement": "Overture",
           "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
@@ -63558,182 +63576,6 @@
       ]
     },
     {
-      "id": "eb609461-f0c3-45b2-8e8f-bda42b64f3d0",
-      "programID": "10116",
-      "orchestra": "NYP Presentation",
-      "season": "1931-32",
-      "concerts": [
-        {
-          "eventType": "Private Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Sullivan Residence",
-          "Date": "1932-03-09T05:00:00Z",
-          "Time": "9:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9799*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "QUARTET, STRINGS, NO. 14, G MAJOR, K.387",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "10555*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "CON., HARPSICHORD, NO. 5, F MINOR (HRPD + DBL STR QUARTET) (ARR. Unspecified)",
-          "soloists": [
-            {
-              "soloistName": "Samuel, Harold",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "East Blue Hill Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Klein, Evelyn",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kalims, Milton",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Elitzik, Harold",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Koch, David",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9800*",
-          "composerName": "Traditional,",
-          "workTitle": "LONDONDERRY AIR, THE (IRISH) (ARR. Bridge)",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "50822*1",
-          "composerName": "Wolf,  Hugo",
-          "workTitle": "ITALIAN SERENADE",
-          "movement": "[string quartet version]",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8998d681-3306-4ac7-8a18-08f75cf2bcc1",
       "programID": "13496",
       "orchestra": "New York Philharmonic",
@@ -64061,155 +63903,6 @@
           "workTitle": "ROMAN FESTIVALS (FESTE ROMANE)",
           "conductorName": "Respighi, Ottorino",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "2bf964fa-ced9-4a02-84c0-e627280533e4",
-      "programID": "10117",
-      "orchestra": "NYP Presentation",
-      "season": "1931-32",
-      "concerts": [
-        {
-          "eventType": "Private Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Sullivan Residence",
-          "Date": "1932-03-23T05:00:00Z",
-          "Time": "9:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "7044*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "QUARTET, STRING, OP.  18, NO. 5, A MAJOR",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5510*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "VON EWIGER LIEBE, OP. 43, NO. 1",
-          "soloists": [
-            {
-              "soloistName": "Matzenauer, Margarete",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Stimer, David",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "745*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SAPPHISCHE ODE (SAPPHIC ODE)",
-          "soloists": [
-            {
-              "soloistName": "Matzenauer, Margarete",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Stimer, David",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "582*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "IMMER LEISER WIRD MEIN SCHLUMMER",
-          "soloists": [
-            {
-              "soloistName": "Matzenauer, Margarete",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Stimer, David",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5964*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "MEINE LIEBE IST GRUN",
-          "soloists": [
-            {
-              "soloistName": "Matzenauer, Margarete",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Stimer, David",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "3804*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "QUARTET, STRING, IN G MINOR, OP.10",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -64621,92 +64314,6 @@
           "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
           "conductorName": "Beecham, Thomas",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "308047b5-d559-4bd3-98f7-d80d476ea1a8",
-      "programID": "10118",
-      "orchestra": "NYP Presentation",
-      "season": "1931-32",
-      "concerts": [
-        {
-          "eventType": "Private Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Sullivan Residence",
-          "Date": "1932-04-07T05:00:00Z",
-          "Time": "9:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9834*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "QUARTET, STRING, OP.  59, NO. 3, C MAJOR",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2462*",
-          "composerName": "Franck,  César",
-          "workTitle": "QUINTET, PIANO AND STRINGS, F MINOR, OP. 10",
-          "soloists": [
-            {
-              "soloistName": "Friedberg, Carl",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -65260,313 +64867,6 @@
               "soloistName": "Pinza, Ezio",
               "soloistInstrument": "Bass",
               "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "57c545fb-7af3-4890-b1cf-e21ad063196b",
-      "programID": "10115",
-      "orchestra": "NYP Presentation",
-      "season": "1931-32",
-      "concerts": [
-        {
-          "eventType": "Runout",
-          "Location": "Yonkers, NY",
-          "Venue": "Greystone Greek Gardens",
-          "Date": "1932-05-28T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9206*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "QUARTET, STRING, OP. 20, NO. 4, NO. 27, D MAJOR, H.III.34",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "8951*8",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "IDOMENEO, K.366",
-          "movement": "\"Zeffiretti lusinghieri,\" Ilia, Act III, scene i",
-          "soloists": [
-            {
-              "soloistName": "Low, Rosa",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9315*",
-          "composerName": "Densmore,  John  Hopkins",
-          "workTitle": "A SPRING FANCY",
-          "soloists": [
-            {
-              "soloistName": "Low, Rosa",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9798*",
-          "composerName": "Brediceanu,  Tiberiu",
-          "workTitle": "ROUMANIAN FOLK SONG (FLOARE FUI FLOARE TRECIU)",
-          "soloists": [
-            {
-              "soloistName": "Low, Rosa",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "50822*1",
-          "composerName": "Wolf,  Hugo",
-          "workTitle": "ITALIAN SERENADE",
-          "movement": "[string quartet version]",
-          "soloists": [
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9980*1",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "CONCERTO, VIOLIN (ARR. THEREMIN + STR. QUARTET) (ARR. Unspecified)",
-          "movement": "Air",
-          "soloists": [
-            {
-              "soloistName": "Rockmore, Clara",
-              "soloistInstrument": "Theremin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9981*1",
-          "composerName": "Wieniawski,  Henri",
-          "workTitle": "CONCERTO, VIOLIN, NO. 2 (ARR. THEREMIN + STR. QUARTET) (ARR. Unspecified)",
-          "movement": "Romance - Andante non troppo",
-          "soloists": [
-            {
-              "soloistName": "Rockmore, Clara",
-              "soloistInstrument": "Theremin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9982*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "ETUDE, E MAJOR (ARR. THEREMIN + STR. QUARTET) (ARR. Unspecified)",
-          "soloists": [
-            {
-              "soloistName": "Rockmore, Clara",
-              "soloistInstrument": "Theremin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Phil-Sym Scholarship Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Reilich, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hersh, Ralph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Katz, David",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Teicholz, Martin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
             }
           ]
         }
