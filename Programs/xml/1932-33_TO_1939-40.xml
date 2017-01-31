@@ -1086,63 +1086,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>25b63b0d-25f4-40b8-bd89-13bc75bfe917</id>
-        <programID>6732</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1932-12-03T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53935*">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bolognini, Remo</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Wallenstein, Alfred</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Norton, Eunice</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>92c200ab-1be7-4f25-a33f-27e380e7afc7</id>
         <programID>1145</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1202,6 +1145,63 @@
                 <workTitle>SCHEHERAZADE, OP. 35</workTitle>
                 <movement>Allegro molto</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>25b63b0d-25f4-40b8-bd89-13bc75bfe917</id>
+        <programID>6732</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1932-12-03T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53935*">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bolognini, Remo</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wallenstein, Alfred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Norton, Eunice</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -62619,11 +62619,13 @@
             <work ID="8864*7">
                 <composerName>Musorgsky,  Modest</composerName>
                 <workTitle>KHOVANSHCHINA (ARR. Rimsky-Korsakov)</workTitle>
+                <movement>Dance of the Persian Maidens, Act IV, scene i</movement>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="8839*2">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
         </worksInfo>
