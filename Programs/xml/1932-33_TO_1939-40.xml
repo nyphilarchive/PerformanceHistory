@@ -13093,6 +13093,75 @@
         </worksInfo>
     </program>
     <program>
+        <id>3a56019b-d2b5-44f0-a89d-e2f9f7f3180f</id>
+        <programID>994</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1933-34</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1934-02-15T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1934-02-16T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1934-02-18T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52456*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 8 IN F MAJOR, OP.93</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52461*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Tentoni, Rosa</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Onegin, Sigrid</soloistName>
+                        <soloistInstrument>Contralto</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Althouse, Paul</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Pinza, Ezio</soloistName>
+                        <soloistInstrument>Bass</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Schola Cantorum of NY</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ad5e3516-5376-4e71-8e68-e184e4ab791e</id>
         <programID>2780</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -55836,7 +55905,7 @@
             <work ID="3793*2">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SEXTET, STRINGS, D MAJOR, OP.70 "SOUVENIR DE FLORENCE"</workTitle>
-                <movement>Adagio cantabile e con moto - Moderato - Tempo I</movement>
+                <movement>Adagio cantabile e con moto</movement>
                 <conductorName>Barbirolli, John</conductorName>
             </work>
             <work ID="3793*4">
@@ -66707,52 +66776,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>898f366c-faaf-4a88-bf7d-ffee27294ca2</id>
-        <programID>2247</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1939-40</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1940-03-02T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="5219*">
-                <composerName>Kurthy,  Zoltan</composerName>
-                <workTitle>PUSZTA, SYMPHONIC RHAPSODY</workTitle>
-                <conductorName>Kurthy, Zoltan</conductorName>
-            </work>
-            <work ID="53078*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51638*">
-                <composerName>Boccherini,  Luigi</composerName>
-                <workTitle>CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schuster, Joseph</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3196*4">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SUITE NO. 3, G MAJOR, OP. 55</workTitle>
-                <movement>Tema con variazioni (Andante con moto)</movement>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>64b61661-6eab-4bee-a154-b20b62452f99</id>
         <programID>6631</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -66825,6 +66848,52 @@
                 <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
                 <movement>Finale: Allegro con fuoco</movement>
                 <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>898f366c-faaf-4a88-bf7d-ffee27294ca2</id>
+        <programID>2247</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1939-40</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1940-03-02T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="5219*">
+                <composerName>Kurthy,  Zoltan</composerName>
+                <workTitle>PUSZTA, SYMPHONIC RHAPSODY</workTitle>
+                <conductorName>Kurthy, Zoltan</conductorName>
+            </work>
+            <work ID="53078*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51638*">
+                <composerName>Boccherini,  Luigi</composerName>
+                <workTitle>CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schuster, Joseph</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3196*4">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SUITE NO. 3, G MAJOR, OP. 55</workTitle>
+                <movement>Tema con variazioni (Andante con moto)</movement>
+                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -71132,7 +71201,7 @@
             <work ID="8965*12">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SLEEPING BEAUTY, OP. 66</workTitle>
-                <movement>"Blue Bird" pas de deux, Variations and Coda</movement>
+                <movement>Act III, No. 25, Variation II and Coda: "Blue Bird" pas de deux</movement>
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>

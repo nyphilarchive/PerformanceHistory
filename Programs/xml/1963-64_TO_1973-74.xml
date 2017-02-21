@@ -161,6 +161,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>837ff4c0-1000-4dbc-a3da-32c5ce3dda1b</id>
+        <programID>6434</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1963-64</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Chicago, IL</Location>
+            <Venue>Opera House</Venue>
+            <Date>1963-09-08T04:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52577*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
+                <conductorName>Ozawa, Seiji</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="8855*3">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
+                <movement>No. 3 in A-flat major: Poco allegro</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>29810a8f-de70-4b13-9876-978ac3df0ad5</id>
         <programID>6429</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -207,45 +246,6 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
                 <movement>No. 1 in C major: Presto</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>837ff4c0-1000-4dbc-a3da-32c5ce3dda1b</id>
-        <programID>6434</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1963-64</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Chicago, IL</Location>
-            <Venue>Opera House</Venue>
-            <Date>1963-09-08T04:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52577*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53624*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
-                <conductorName>Ozawa, Seiji</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="8855*3">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
-                <movement>No. 3 in A-flat major: Poco allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -21371,59 +21371,7 @@
             <work ID="6163*">
                 <composerName>Stravinsky,  Igor</composerName>
                 <workTitle>L'HISTOIRE DU SOLDAT (COMPLETE)</workTitle>
-                <conductorName>Foss, Lukas</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Copland, Aaron</soloistName>
-                        <soloistInstrument>Narrator</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Cage, John</soloistName>
-                        <soloistInstrument>Speaker</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Carter, Elliott</soloistName>
-                        <soloistInstrument>Speaker</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Laredo, Jaime</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Russo, Charles</soloistName>
-                        <soloistInstrument>Clarinet</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nakagawa, Ryohei</soloistName>
-                        <soloistInstrument>Bassoon</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Crisara, Raymond</soloistName>
-                        <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Small, Charles</soloistName>
-                        <soloistInstrument>Trombone</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Neidlinger, Buell</soloistName>
-                        <soloistInstrument>Contrabass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Desroches, Raymond</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
+                <conductorName>Dufallo, Richard (John);  Foss, Lukas</conductorName>
             </work>
         </worksInfo>
     </program>
