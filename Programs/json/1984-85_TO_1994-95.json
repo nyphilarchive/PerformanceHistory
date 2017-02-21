@@ -22052,7 +22052,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Kruglikov, Felix",
           "soloists": []
         }
@@ -24886,7 +24886,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -25396,7 +25396,7 @@
           "ID": "50068*4",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "movement": "Finale: Andante maestoso – Allegro vivace – Moderato assai e molto maestoso",
+          "movement": "Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -78241,30 +78241,44 @@
       ]
     },
     {
-      "id": "dc10f6a2-d7eb-4e3d-b825-0ea3ce244f6d",
-      "programID": "7742",
+      "id": "7f4e8b9f-db97-4ecb-becb-27f70d5b0f51",
+      "programID": "7691",
       "orchestra": "New York Philharmonic",
       "season": "1994-95",
       "concerts": [
         {
-          "eventType": "Subscription Season",
+          "eventType": "Saturday Matinee",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1994-11-26T05:00:00Z",
-          "Time": "8:00PM"
+          "Time": "2:00PM"
         }
       ],
       "works": [
         {
-          "ID": "54106*",
+          "ID": "6756*",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
-          "conductorName": "Masur, Kurt",
+          "workTitle": "QUARTET, STRING  NO. 1, D MAJOR, OP. 11",
           "soloists": [
             {
-              "soloistName": "Leonskaja, Elisabeth",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
+              "soloistName": "Rex, Charles",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tsypin, Vladimir",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Munroe, Lorne",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
             }
           ]
         },
@@ -78343,44 +78357,30 @@
       ]
     },
     {
-      "id": "7f4e8b9f-db97-4ecb-becb-27f70d5b0f51",
-      "programID": "7691",
+      "id": "dc10f6a2-d7eb-4e3d-b825-0ea3ce244f6d",
+      "programID": "7742",
       "orchestra": "New York Philharmonic",
       "season": "1994-95",
       "concerts": [
         {
-          "eventType": "Saturday Matinee",
+          "eventType": "Subscription Season",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1994-11-26T05:00:00Z",
-          "Time": "2:00PM"
+          "Time": "8:00PM"
         }
       ],
       "works": [
         {
-          "ID": "6756*",
+          "ID": "54106*",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "QUARTET, STRING  NO. 1, D MAJOR, OP. 11",
+          "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
+          "conductorName": "Masur, Kurt",
           "soloists": [
             {
-              "soloistName": "Rex, Charles",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Tsypin, Vladimir",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rence, Dorian",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Munroe, Lorne",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
+              "soloistName": "Leonskaja, Elisabeth",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
             }
           ]
         },
@@ -83521,6 +83521,7 @@
           "ID": "7904*4",
           "composerName": "Strauss,  Johann, II",
           "workTitle": "FLEDERMAUS, DIE",
+          "movement": "Overture, Op. 362",
           "conductorName": "McFerrin, Bobby",
           "soloists": []
         },
@@ -83549,6 +83550,7 @@
           "ID": "8839*3",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "WILLIAM TELL",
+          "movement": "Overture Finale",
           "conductorName": "McFerrin, Bobby",
           "soloists": []
         }

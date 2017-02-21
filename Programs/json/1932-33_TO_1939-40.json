@@ -1323,71 +1323,6 @@
       ]
     },
     {
-      "id": "25b63b0d-25f4-40b8-bd89-13bc75bfe917",
-      "programID": "6732",
-      "orchestra": "New York Philharmonic",
-      "season": "1932-33",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1932-12-03T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53935*",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO GROSSO, OP. 6, NO. 10, D MINOR",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
-          "soloists": [
-            {
-              "soloistName": "Piastro, Mishel",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bolognini, Remo",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Wallenstein, Alfred",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
-          "soloists": [
-            {
-              "soloistName": "Norton, Eunice",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50068*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "92c200ab-1be7-4f25-a33f-27e380e7afc7",
       "programID": "1145",
       "orchestra": "New York Philharmonic",
@@ -1458,6 +1393,71 @@
           "workTitle": "SCHEHERAZADE, OP. 35",
           "movement": "Allegro molto",
           "conductorName": "Schelling, Ernest",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "25b63b0d-25f4-40b8-bd89-13bc75bfe917",
+      "programID": "6732",
+      "orchestra": "New York Philharmonic",
+      "season": "1932-33",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1932-12-03T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53935*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO GROSSO, OP. 6, NO. 10, D MINOR",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
+          "soloists": [
+            {
+              "soloistName": "Piastro, Mishel",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bolognini, Remo",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wallenstein, Alfred",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
+          "soloists": [
+            {
+              "soloistName": "Norton, Eunice",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50068*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "conductorName": "Dobroven [Dobrowen], Issay Alexandrovich",
           "soloists": []
         }
       ]
@@ -65290,6 +65290,79 @@
       ]
     },
     {
+      "id": "b0c6011c-64d2-4286-99da-0f3b72d75223",
+      "programID": "990",
+      "orchestra": "New York Philharmonic",
+      "season": "1938-39",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1939-01-01T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3453*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "GAZZA LADRA, LA",
+          "movement": "Overture",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "52777*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SYMPHONY NO. 5, B FLAT MAJOR, D.485",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "3213*",
+          "composerName": "Glazunov,  Alexander",
+          "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 82",
+          "conductorName": "Barbirolli, John",
+          "soloists": [
+            {
+              "soloistName": "Piastro, Mishel",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "7904*4",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "FLEDERMAUS, DIE",
+          "movement": "Overture, Op. 362",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "5270*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "FREUET EUCH DES LEBENS (ENJOY LIFE), OP. 340",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "6922*1",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "ZIGEUNERBARON (GYPSY BARON)",
+          "movement": "Overture",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "ddb29874-06d3-48d7-9b01-4f1a5132e8c0",
       "programID": "995",
       "orchestra": "New York Philharmonic",
@@ -69528,7 +69601,7 @@
         {
           "ID": "5524*",
           "composerName": "Adam,  Adolphe  Charles",
-          "workTitle": "VARIATIONS ON \"AH VOUS DIRAIS-JE, MAMAN\"",
+          "workTitle": "VARIATIONS ON \"AH VOUS DIRAIS-JE, MAMAN\" (ARR. Westphal)",
           "conductorName": "Marx, Burle",
           "soloists": [
             {
@@ -74034,6 +74107,7 @@
           "ID": "8864*7",
           "composerName": "Musorgsky,  Modest",
           "workTitle": "KHOVANSHCHINA (ARR. Rimsky-Korsakov)",
+          "movement": "Dance of the Persian Maidens, Act IV, scene i",
           "conductorName": "Smallens, Alexander",
           "soloists": []
         },
@@ -74041,6 +74115,7 @@
           "ID": "8839*2",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
           "conductorName": "Smallens, Alexander",
           "soloists": []
         }
