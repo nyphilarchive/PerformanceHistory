@@ -1492,6 +1492,7 @@
           "ID": "2451*1",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048",
+          "movement": "[Allegro]",
           "conductorName": "Weilerstein, Joshua",
           "soloists": []
         },
@@ -1499,6 +1500,7 @@
           "ID": "7099*1",
           "composerName": "Bach,  Carl  Philipp Emanuel",
           "workTitle": "SYMPHONY IN G MAJOR, W.182, NO. 1",
+          "movement": "Allegro di molto",
           "conductorName": "Weilerstein, Joshua",
           "soloists": []
         },
@@ -1513,6 +1515,7 @@
           "ID": "7100*3",
           "composerName": "Moravec,  Paul",
           "workTitle": "BRANDENBURG GATE",
+          "movement": "3. Fast",
           "conductorName": "Weilerstein, Joshua",
           "soloists": [
             {
@@ -1526,6 +1529,7 @@
           "ID": "743*1",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
+          "movement": "Vivace",
           "conductorName": "Weilerstein, Joshua",
           "soloists": [
             {
@@ -1544,6 +1548,7 @@
           "ID": "50152*35",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "MASS IN B MINOR, BWV 232",
+          "movement": "Dona nobis pacem",
           "conductorName": "Weilerstein, Joshua",
           "soloists": [
             {
@@ -4629,6 +4634,104 @@
       ]
     },
     {
+      "id": "97540b51-bc92-443a-b6ef-b2ba510b7d55",
+      "programID": "11689",
+      "orchestra": "NYP Presentation",
+      "season": "2011-12",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2012-01-22T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9090*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SCHERZO, C MINOR (SONATENSATZ), VIOLIN, PIANO FROM FAE SONATA",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pace, Enrico",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2669*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "TRIO, VIOLIN, HORN, AND PIANO, E FLAT MAJOR, OP. 40",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pace, Enrico",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "6739*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SEXTET, NO. 1, B-FLAT MAJOR, OP. 18",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Staples, Sheryl",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Phelps, Cynthia",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gilbert, Alan",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brey, Carter",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Moon, Eileen",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3b21b5e9-21c2-4b94-9a2c-a86986098e1f",
       "programID": "11989",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -4771,104 +4874,6 @@
             {
               "soloistName": "Schoevaert, Marion",
               "soloistInstrument": "Production Design",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "97540b51-bc92-443a-b6ef-b2ba510b7d55",
-      "programID": "11689",
-      "orchestra": "NYP Presentation",
-      "season": "2011-12",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2012-01-22T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9090*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SCHERZO, C MINOR (SONATENSATZ), VIOLIN, PIANO FROM FAE SONATA",
-          "soloists": [
-            {
-              "soloistName": "Zimmermann, Frank Peter",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pace, Enrico",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2669*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "TRIO, VIOLIN, HORN, AND PIANO, E FLAT MAJOR, OP. 40",
-          "soloists": [
-            {
-              "soloistName": "Zimmermann, Frank Peter",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Myers, Philip",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pace, Enrico",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "6739*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SEXTET, NO. 1, B-FLAT MAJOR, OP. 18",
-          "soloists": [
-            {
-              "soloistName": "Zimmermann, Frank Peter",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Staples, Sheryl",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Phelps, Cynthia",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gilbert, Alan",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brey, Carter",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Moon, Eileen",
-              "soloistInstrument": "Cello",
               "soloistRoles": "A"
             }
           ]
@@ -7011,7 +7016,7 @@
           "ID": "10376*5",
           "composerName": "Loesser,  Frank",
           "workTitle": "GUYS AND DOLLS (ARR. Bassman, George and Royal, Ted)",
-          "movement": "\"I I Were a Bell\"",
+          "movement": "\"If I Were a Bell\"",
           "conductorName": "Sperling, Ted",
           "soloists": [
             {
@@ -7588,6 +7593,22 @@
       ]
     },
     {
+      "id": "b171a400-a9ca-458c-9481-31f89f5d834c",
+      "programID": "11708",
+      "orchestra": "New York Philharmonic",
+      "season": "2011-12",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2012-04-14T04:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": []
+    },
+    {
       "id": "32c6a8f2-2157-4b19-a2e4-951f3a560a42",
       "programID": "11998",
       "orchestra": "New York Philharmonic",
@@ -7652,22 +7673,6 @@
           "soloists": []
         }
       ]
-    },
-    {
-      "id": "b171a400-a9ca-458c-9481-31f89f5d834c",
-      "programID": "11708",
-      "orchestra": "New York Philharmonic",
-      "season": "2011-12",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2012-04-14T04:00:00Z",
-          "Time": "2:00PM"
-        }
-      ],
-      "works": []
     },
     {
       "id": "ff4d6c86-eb61-4fad-b6b5-a8553212f752",
@@ -21714,7 +21719,7 @@
         {
           "ID": "9822*2",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SONATA, A MAJOR, D.664, OP. POSTH. 120",
+          "workTitle": "SONATA, PIANO, A MAJOR, D.664, OP. POSTH. 120",
           "movement": "Andante",
           "soloists": []
         },
@@ -25799,7 +25804,7 @@
           "ID": "3793*2",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
-          "movement": "Adagio cantabile e con moto - Moderato - Tempo I",
+          "movement": "Adagio cantabile e con moto",
           "soloists": [
             {
               "soloistName": "Simon, Fiona",
@@ -26845,22 +26850,6 @@
       ]
     },
     {
-      "id": "82350bd2-3491-4381-b22c-7cf0642af4cb",
-      "programID": "13749",
-      "orchestra": "NYP Presentation",
-      "season": "2013-14",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "The Empire Hotel",
-          "Date": "2013-10-07T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": []
-    },
-    {
       "id": "7ae51e2c-2321-49b9-a267-3238fbabaebf",
       "programID": "12475",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -26903,6 +26892,22 @@
           ]
         }
       ]
+    },
+    {
+      "id": "82350bd2-3491-4381-b22c-7cf0642af4cb",
+      "programID": "13749",
+      "orchestra": "NYP Presentation",
+      "season": "2013-14",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "The Empire Hotel",
+          "Date": "2013-10-07T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": []
     },
     {
       "id": "a2f241e0-e2bd-4a2c-a771-ccd77cfb5b3c",
@@ -28004,50 +28009,6 @@
           "Venue": "The Stanley H. Kaplan Penthouse",
           "Date": "2013-11-18T05:00:00Z",
           "Time": "7:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11189*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "QUARTET, STRINGS, NO. 17, B-FLAT MAJOR, K.458, \"HUNT\"",
-          "soloists": [
-            {
-              "soloistName": "Kim, Lisa",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Lee, Hyunju",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kamath, Vivek",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kudo, Sumire",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "71bf8a49-a4c9-4505-bed5-4f9f7b0af34a",
-      "programID": "13335",
-      "orchestra": "Members of NY Philharmonic",
-      "season": "2013-14",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "The Stanley H. Kaplan Penthouse",
-          "Date": "2013-11-18T05:00:00Z",
-          "Time": "None"
         }
       ],
       "works": [
@@ -32163,86 +32124,6 @@
       ]
     },
     {
-      "id": "9967a57f-9d5f-4913-af68-fd2372cd434b",
-      "programID": "12049",
-      "orchestra": "New York Philharmonic",
-      "season": "2013-14",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2014-02-01T05:00:00Z",
-          "Time": "2:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8846*3",
-          "composerName": "Britten,  Benjamin",
-          "workTitle": "PETER GRIMES, FOUR SEA INTERLUDES, OP. 33A",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "8846*5",
-          "composerName": "Britten,  Benjamin",
-          "workTitle": "PETER GRIMES, FOUR SEA INTERLUDES, OP. 33A",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11238*",
-          "composerName": "Utagawa,  Karin",
-          "workTitle": "WAVE",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11214*",
-          "composerName": "Arancio,  Julia",
-          "workTitle": "UNITY",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11239*",
-          "composerName": "Iwamoto,  Yuki",
-          "workTitle": "FLOWERS OF FOUR SEASONS",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11216*",
-          "composerName": "Celestin,  Austin",
-          "workTitle": "CITY LIFE",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11240*",
-          "composerName": "Iwamoto,  Hiroaki",
-          "workTitle": "HAPPY LIFE",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "11218*",
-          "composerName": "O'Brien,  Jake",
-          "workTitle": "TRAFFIC LIGHTS",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "52019*",
-          "composerName": "Britten,  Benjamin",
-          "workTitle": "YOUNG PERSON'S GUIDE TO THE ORCHESTRA, OP. 34",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "9ace8e7e-934d-4c47-b8e2-0b2316630bcc",
       "programID": "12050",
       "orchestra": "New York Philharmonic",
@@ -32382,6 +32263,86 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "9967a57f-9d5f-4913-af68-fd2372cd434b",
+      "programID": "12049",
+      "orchestra": "New York Philharmonic",
+      "season": "2013-14",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2014-02-01T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8846*3",
+          "composerName": "Britten,  Benjamin",
+          "workTitle": "PETER GRIMES, FOUR SEA INTERLUDES, OP. 33A",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "8846*5",
+          "composerName": "Britten,  Benjamin",
+          "workTitle": "PETER GRIMES, FOUR SEA INTERLUDES, OP. 33A",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11238*",
+          "composerName": "Utagawa,  Karin",
+          "workTitle": "WAVE",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11214*",
+          "composerName": "Arancio,  Julia",
+          "workTitle": "UNITY",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11239*",
+          "composerName": "Iwamoto,  Yuki",
+          "workTitle": "FLOWERS OF FOUR SEASONS",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11216*",
+          "composerName": "Celestin,  Austin",
+          "workTitle": "CITY LIFE",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11240*",
+          "composerName": "Iwamoto,  Hiroaki",
+          "workTitle": "HAPPY LIFE",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "11218*",
+          "composerName": "O'Brien,  Jake",
+          "workTitle": "TRAFFIC LIGHTS",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "52019*",
+          "composerName": "Britten,  Benjamin",
+          "workTitle": "YOUNG PERSON'S GUIDE TO THE ORCHESTRA, OP. 34",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
         }
       ]
     },
@@ -36236,7 +36197,7 @@
           "ID": "2893*",
           "composerName": "Szymanowski,  Karol",
           "workTitle": "CONCERTO, VIOLIN, NO. 1, OP. 35",
-          "conductorName": "Haitink, Bernard",
+          "conductorName": "Jurowski, Vladimir",
           "soloists": [
             {
               "soloistName": "Benedetti, Nicola",
@@ -41669,7 +41630,7 @@
           "ID": "10376*5",
           "composerName": "Loesser,  Frank",
           "workTitle": "GUYS AND DOLLS (ARR. Bassman, George and Royal, Ted)",
-          "movement": "\"I I Were a Bell\"",
+          "movement": "\"If I Were a Bell\"",
           "conductorName": "Sperling, Ted",
           "soloists": [
             {
@@ -48334,6 +48295,109 @@
       ]
     },
     {
+      "id": "f3cac86b-3805-4102-afed-157b1b11f29a",
+      "programID": "12592",
+      "orchestra": "NY Philharmonic Ensembles",
+      "season": "2014-15",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Merkin Concert Hall",
+          "Date": "2015-02-15T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7018*",
+          "composerName": "Penderecki,  Krzysztof",
+          "workTitle": "TRIO, STRINGS",
+          "soloists": [
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hannay, Dawn",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Vickery, Nathan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "8623*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "QUARTET, STRING, D MINOR, OP. 56",
+          "soloists": [
+            {
+              "soloistName": "Rabinova, Anna",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lee, Hyunju",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Breslaw, Irene",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tu, Qiang",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "11326*",
+          "composerName": "Giannini,  Vittorio",
+          "workTitle": "QUINTET, PIANO, STRINGS",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yao, Shanshan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Vickery, Nathan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lee, Keun A",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "6a6e6617-2708-45a5-946b-10fef9ef8a96",
       "programID": "13991",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -48457,109 +48521,6 @@
             {
               "soloistName": "Kaufman, Mindy",
               "soloistInstrument": "Flute",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f3cac86b-3805-4102-afed-157b1b11f29a",
-      "programID": "12592",
-      "orchestra": "NY Philharmonic Ensembles",
-      "season": "2014-15",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
-          "Date": "2015-02-15T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "7018*",
-          "composerName": "Penderecki,  Krzysztof",
-          "workTitle": "TRIO, STRINGS",
-          "soloists": [
-            {
-              "soloistName": "Ge, Quan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hannay, Dawn",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Vickery, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "8623*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "QUARTET, STRING, D MINOR, OP. 56",
-          "soloists": [
-            {
-              "soloistName": "Rabinova, Anna",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Lee, Hyunju",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Breslaw, Irene",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Tu, Qiang",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "11326*",
-          "composerName": "Giannini,  Vittorio",
-          "workTitle": "QUINTET, PIANO, STRINGS",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Yao, Shanshan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pelletier, Rémi",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Vickery, Nathan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Lee, Keun A",
-              "soloistInstrument": "Piano",
               "soloistRoles": "A"
             }
           ]
@@ -50561,7 +50522,7 @@
         {
           "ID": "12007*",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SONATA, VIOLIN, A MAJOR, D. 574",
+          "workTitle": "SONATA, VIOLIN, (GRAND DUO), A MAJOR, OP. POSTH. 162D. 574",
           "soloists": [
             {
               "soloistName": "Batiashvili, Lisa",
@@ -56180,6 +56141,22 @@
       ]
     },
     {
+      "id": "628c0971-904b-41f8-97f2-1c30a02e3062",
+      "programID": "14170",
+      "orchestra": "NYP Presentation",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Three West Club",
+          "Date": "2015-11-04T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": []
+    },
+    {
       "id": "17ac9edc-98e5-4166-909c-1b93370158a9",
       "programID": "13660",
       "orchestra": "New York Philharmonic",
@@ -60229,65 +60206,6 @@
       ]
     },
     {
-      "id": "18193a01-c788-4e64-90bd-79e9a61e3210",
-      "programID": "13618",
-      "orchestra": "New York Philharmonic",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
-          "Date": "2016-01-20T05:00:00Z",
-          "Time": "10:30AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8867*4",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "LEMMINKAINEN SUITE (LEGENDS), OP. 22",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "53248*1",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "SAGA, A (EN SAGA), OP. 9",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "12098*",
-          "composerName": "Harris,  Gavin",
-          "workTitle": "RUDE AWAKENING",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "12096*",
-          "composerName": "Villegas,  Mondriana",
-          "workTitle": "LIGHTNING, SEAS AND DECEASED",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "12101*",
-          "composerName": "Egan,  Elizabeth",
-          "workTitle": "WANDERLOST",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "53204*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "FINLANDIA, OP. 26",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "b744e568-94e1-43fb-91ae-bbe93dcd92c9",
       "programID": "13934",
       "orchestra": "New York Philharmonic",
@@ -60338,6 +60256,65 @@
           "ID": "12100*",
           "composerName": "Paunio,  Pyry",
           "workTitle": "VIRRAN YLITYS – CROSSING THE RIVER TUONELA",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "53204*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "FINLANDIA, OP. 26",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "18193a01-c788-4e64-90bd-79e9a61e3210",
+      "programID": "13618",
+      "orchestra": "New York Philharmonic",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2016-01-20T05:00:00Z",
+          "Time": "10:30AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8867*4",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "LEMMINKAINEN SUITE (LEGENDS), OP. 22",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "53248*1",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "SAGA, A (EN SAGA), OP. 9",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12098*",
+          "composerName": "Harris,  Gavin",
+          "workTitle": "RUDE AWAKENING",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12096*",
+          "composerName": "Villegas,  Mondriana",
+          "workTitle": "LIGHTNING, SEAS AND DECEASED",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12101*",
+          "composerName": "Egan,  Elizabeth",
+          "workTitle": "WANDERLOST",
           "conductorName": "Gersen, Joshua",
           "soloists": []
         },
@@ -62897,6 +62874,29 @@
       ]
     },
     {
+      "id": "103da791-08dd-4112-a57a-784a1b2dd678",
+      "programID": "14065",
+      "orchestra": "NYP Presentation",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "Chamber Concert (Private)",
+          "Location": "Manhattan, NY",
+          "Venue": "Michele and Marty Cohen Residence",
+          "Date": "2016-03-09T05:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "11812*",
+          "composerName": "Discussion,",
+          "workTitle": "DISCUSSION",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "0722edf1-9eb4-43de-8e05-238c3985f2f7",
       "programID": "14035",
       "orchestra": "NYP Presentation",
@@ -62985,29 +62985,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "103da791-08dd-4112-a57a-784a1b2dd678",
-      "programID": "14065",
-      "orchestra": "NYP Presentation",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "Chamber Concert (Private)",
-          "Location": "Manhattan, NY",
-          "Venue": "Michele and Marty Cohen Residence",
-          "Date": "2016-03-09T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11812*",
-          "composerName": "Discussion,",
-          "workTitle": "DISCUSSION",
-          "soloists": []
         }
       ]
     },
@@ -64700,6 +64677,35 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "e2334165-6563-473a-a59b-c40ca42f70fc",
+      "programID": "14171",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "The Stanley H. Kaplan Penthouse",
+          "Date": "2016-04-04T04:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2223*",
+          "composerName": "Poulenc,  Francis",
+          "workTitle": "TRIO FOR PIANO, OBOE AND BASSOON",
+          "soloists": []
+        },
+        {
+          "ID": "1586*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "QUINTET, WOODWINDS, PIANO, OP.16",
+          "soloists": []
         }
       ]
     },
@@ -73500,68 +73506,6 @@
       ]
     },
     {
-      "id": "3b1ec33d-3d07-4e7e-81f9-c3636d8ae9d1",
-      "programID": "14103",
-      "orchestra": "New York Philharmonic",
-      "season": "2016-17",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
-          "Date": "2016-12-10T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "12069*",
-          "composerName": "Janacek [Janácek],  Leoš",
-          "workTitle": "FROM THE HOUSE OF THE DEAD, OVERTURE (ARR. Mackerras)",
-          "conductorName": "Belohlavek, Jiri",
-          "soloists": []
-        },
-        {
-          "ID": "1847*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
-          "conductorName": "Belohlavek, Jiri",
-          "soloists": [
-            {
-              "soloistName": "Paik, Kun Woo",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12579*3",
-          "composerName": "Faure [Fauré],  Gabriel-Urbain",
-          "workTitle": "ROMANCES WITHOUT WORDS, OP.17",
-          "movement": "No. 3 in A-flat minor",
-          "soloists": [
-            {
-              "soloistName": "Paik, Kun Woo",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53338*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
-          "conductorName": "Belohlavek, Jiri",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "0c4635a3-22cd-40cc-9946-940f830abbdf",
       "programID": "13977",
       "orchestra": "New York Philharmonic",
@@ -73689,6 +73633,68 @@
               "soloistName": "Martin, Christopher",
               "soloistInstrument": "Trumpet",
               "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53338*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
+          "conductorName": "Belohlavek, Jiri",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "3b1ec33d-3d07-4e7e-81f9-c3636d8ae9d1",
+      "programID": "14103",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2016-12-10T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12069*",
+          "composerName": "Janacek [Janácek],  Leoš",
+          "workTitle": "FROM THE HOUSE OF THE DEAD, OVERTURE (ARR. Mackerras)",
+          "conductorName": "Belohlavek, Jiri",
+          "soloists": []
+        },
+        {
+          "ID": "1847*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+          "conductorName": "Belohlavek, Jiri",
+          "soloists": [
+            {
+              "soloistName": "Paik, Kun Woo",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12579*3",
+          "composerName": "Faure [Fauré],  Gabriel-Urbain",
+          "workTitle": "ROMANCES WITHOUT WORDS, OP.17",
+          "movement": "No. 3 in A-flat minor",
+          "soloists": [
+            {
+              "soloistName": "Paik, Kun Woo",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
             }
           ]
         },
@@ -74708,6 +74714,69 @@
       ]
     },
     {
+      "id": "d67228c9-9a9f-49ad-84ad-5f36b4347931",
+      "programID": "13896",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-01-18T05:00:00Z",
+          "Time": "10:30AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2877*5",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. I, Excerpt",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "2877*6",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. II, Excerpt",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "2877*10",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. III, Excerpt",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12588*",
+          "composerName": "Rabiu,  Isai",
+          "workTitle": "AYE NI ILU",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12589*",
+          "composerName": "Araujo,  Benjamin",
+          "workTitle": "POSTCARD FROM NEW YORK CITY, A",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "2877*4",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Allegro con fuoco",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "4f0fff57-205e-4855-af8d-b4802b109ba6",
       "programID": "14158",
       "orchestra": "New York Philharmonic",
@@ -74778,65 +74847,267 @@
       ]
     },
     {
-      "id": "d67228c9-9a9f-49ad-84ad-5f36b4347931",
-      "programID": "13896",
-      "orchestra": "New York Philharmonic",
+      "id": "151bf491-ee96-4f7e-81fc-bcf43ada65c3",
+      "programID": "14172",
+      "orchestra": "Musicians from the New York Philharmonic",
       "season": "2016-17",
       "concerts": [
         {
-          "eventType": "Young People's Concerts for Schools",
+          "eventType": "Chamber Concert (Private)",
           "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
+          "Venue": "Home of Neil Westreich and Michael O'Keefe",
           "Date": "2017-01-18T05:00:00Z",
-          "Time": "10:30AM"
+          "Time": "None"
         }
       ],
       "works": [
         {
-          "ID": "2877*5",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. I, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "12600*1",
+          "composerName": "Piazzolla,  Astor",
+          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
+          "movement": "Primavera portena",
           "soloists": []
         },
         {
-          "ID": "2877*6",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. II, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "12600*4",
+          "composerName": "Piazzolla,  Astor",
+          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
+          "movement": "Invierno porteno",
           "soloists": []
         },
         {
-          "ID": "2877*10",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. III, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "5647*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "TRIO FOR VIOLIN, CELLO AND PIANO",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "a33de996-05aa-4818-a60c-f2fc9738b6c3",
+      "programID": "14165",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Off the Grid",
+          "Location": "Brooklyn, NY",
+          "Venue": "Bell House, The",
+          "Date": "2017-01-19T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3793*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
+          "movement": "Allegretto moderato",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Young, Rebecca",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "12292*4",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "PIECES, FIVE, FOR TWO VIOLINS AND PIANO (ARR. Atovmayan)",
+          "movement": "Waltzes",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beck, Steven",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "12292*5",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "PIECES, FIVE, FOR TWO VIOLINS AND PIANO (ARR. Atovmayan)",
+          "movement": "Polka (No. 4 from Ballet Suite No. 1)",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beck, Steven",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "6883*2",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "TRIO, PIANO, A MINOR, OP. 50",
+          "movement": "Tema con variazioni: Andante con moto—Variazione finale e coda: Allegro risoluto e con fuoco—Andante con moto",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beck, Steven",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
           "soloists": []
         },
         {
-          "ID": "12588*",
-          "composerName": "Rabiu,  Isai",
-          "workTitle": "AYE NI ILU",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
+          "ID": "12596*1",
+          "composerName": "Arensky,  Anton  Stepanovich",
+          "workTitle": "QUINTET, PIANO AND STRINGS, D MAJOR, OP. 51",
+          "movement": "Allegro moderato",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beck, Steven",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
-          "ID": "12589*",
-          "composerName": "Araujo,  Benjamin",
-          "workTitle": "POSTCARD FROM NEW YORK CITY, A",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
+          "ID": "9615*3",
+          "composerName": "Borodin,  Alexander",
+          "workTitle": "QUARTET, STRING, NO. 2",
+          "movement": "Notturno: Andante",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
-          "ID": "2877*4",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Allegro con fuoco",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
+          "ID": "3793*4",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
+          "movement": "Allegro vivace",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rossano, Marié",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Young, Rebecca",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -74981,230 +75252,72 @@
       ]
     },
     {
-      "id": "a33de996-05aa-4818-a60c-f2fc9738b6c3",
-      "programID": "14165",
-      "orchestra": "Musicians from the New York Philharmonic",
+      "id": "5d8fdc27-9b76-48a7-b4fc-517fe356fa43",
+      "programID": "14162",
+      "orchestra": "New York Philharmonic",
       "season": "2016-17",
       "concerts": [
         {
-          "eventType": "Off the Grid",
-          "Location": "Brooklyn, NY",
-          "Venue": "Bell House, The",
-          "Date": "2017-01-19T05:00:00Z",
-          "Time": "8:00PM"
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-01-20T05:00:00Z",
+          "Time": "12:30PM"
         }
       ],
       "works": [
         {
-          "ID": "3793*3",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
-          "movement": "Allegretto moderato",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Young, Rebecca",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pelletier, Rémi",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gonzales, Alexei Yupanqui",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "12292*4",
-          "composerName": "Shostakovich,  Dmitri",
-          "workTitle": "PIECES, FIVE, FOR TWO VIOLINS AND PIANO (ARR. Atovmayan)",
-          "movement": "Waltzes",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beck, Steven",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "12292*5",
-          "composerName": "Shostakovich,  Dmitri",
-          "workTitle": "PIECES, FIVE, FOR TWO VIOLINS AND PIANO (ARR. Atovmayan)",
-          "movement": "Polka (No. 4 from Ballet Suite No. 1)",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beck, Steven",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "6883*2",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "TRIO, PIANO, A MINOR, OP. 50",
-          "movement": "Tema con Variazioni: Andante con moto / Variazione finale e Coda: Allegro risoluto e con fuoco -- Andante con moto",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beck, Steven",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
+          "ID": "2877*5",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. I, Excerpt",
+          "conductorName": "Gersen, Joshua",
           "soloists": []
         },
         {
-          "ID": "12596*1",
-          "composerName": "Arensky,  Anton  Stepanovich",
-          "workTitle": "QUINTET, PIANO AND STRINGS, D MAJOR, OP. 51",
-          "movement": "Allegro moderato",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pelletier, Rémi",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gonzales, Alexei Yupanqui",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beck, Steven",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
+          "ID": "2877*6",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. II, Excerpt",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
         },
         {
-          "ID": "9615*3",
-          "composerName": "Borodin,  Alexander",
-          "workTitle": "QUARTET, STRING, NO. 2",
-          "movement": "Notturno: Andante",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pelletier, Rémi",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gonzales, Alexei Yupanqui",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
+          "ID": "2877*10",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Mvt. III, Excerpt",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
         },
         {
-          "ID": "3793*4",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
-          "movement": "Allegro vivace",
-          "soloists": [
-            {
-              "soloistName": "Ziskel, Yulia",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rossano, Marié",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Young, Rebecca",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Pelletier, Rémi",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gonzales, Alexei Yupanqui",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
+          "ID": "12592*",
+          "composerName": "Gontarcyk,  Nikita",
+          "workTitle": "9:20AM EASTERN TIME",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12594*",
+          "composerName": "Malin and Cordero,  Leslie and Percaiz",
+          "workTitle": "COCO MANGO CHERRY",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "12593*",
+          "composerName": "Estrella,  Marisol",
+          "workTitle": "LEJANIA",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "2877*4",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "movement": "Allegro con fuoco",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
         }
       ]
     },
@@ -75272,71 +75385,42 @@
       ]
     },
     {
-      "id": "5d8fdc27-9b76-48a7-b4fc-517fe356fa43",
-      "programID": "14162",
-      "orchestra": "New York Philharmonic",
+      "id": "73e25365-431c-41f8-9741-14bcddc51797",
+      "programID": "14173",
+      "orchestra": "Musicians from the New York Philharmonic",
       "season": "2016-17",
       "concerts": [
         {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
+          "eventType": "Residency",
+          "Location": "Interlochen, MI",
+          "Venue": "Interlochen Arts Center",
           "Date": "2017-01-20T05:00:00Z",
-          "Time": "12:30PM"
+          "Time": "7:30PM"
         }
       ],
       "works": [
         {
-          "ID": "2877*5",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. I, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "7560*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "SUMMER MUSIC, OP. 31",
           "soloists": []
         },
         {
-          "ID": "2877*6",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. II, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "4079*",
+          "composerName": "Franck,  César",
+          "workTitle": "SONATA FOR VIOLIN AND PIANO, A MAJOR",
           "soloists": []
         },
         {
-          "ID": "2877*10",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Mvt. III, Excerpt",
-          "conductorName": "Gersen, Joshua",
+          "ID": "12601*",
+          "composerName": "Hurlstone,  William",
+          "workTitle": "SONATA IN F MAJOR FOR BASSOON AND PIANO",
           "soloists": []
         },
         {
-          "ID": "12592*",
-          "composerName": "Gontarcyk,  Nikita",
-          "workTitle": "9:20AM EASTERN TIME",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "12594*",
-          "composerName": "Malin and Cordero,  Leslie and Percaiz",
-          "workTitle": "COCO MANGO CHERRY",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "12593*",
-          "composerName": "Estrella,  Marisol",
-          "workTitle": "LEJANIA",
-          "conductorName": "Gersen, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "2877*4",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "movement": "Allegro con fuoco",
-          "conductorName": "Gersen, Joshua",
+          "ID": "12602*",
+          "composerName": "Muhly,  Nico",
+          "workTitle": "BY ALL MEANS",
           "soloists": []
         }
       ]
@@ -75627,6 +75711,2101 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
           "conductorName": "Bychkov, Semyon",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "02d622c2-215a-4f67-857e-6f426d18f72b",
+      "programID": "14166",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Theresa L. Kaufmann Concert Hall, 92nd St. YMHA",
+          "Date": "2017-01-29T05:00:00Z",
+          "Time": "1:50PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8990*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEASONS, THE, OP. 37A",
+          "movement": "January: At the Firesdie [Moderato semplice ma espressiv[",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "8990*4",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEASONS, THE, OP. 37A",
+          "movement": "February: Carnival [Allegro giusto]",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "8990*2",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEASONS, THE, OP. 37A",
+          "movement": "October: Autumn Song [Andante doloroso e molto cantabile]",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "8990*11",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEASONS, THE, OP. 37A",
+          "movement": "November: Troika [Allegro moderato]",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "6883*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "TRIO, PIANO, A MINOR, OP. 50",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huang, Frank",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brey, Carter",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3793*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SEXTET, STRINGS, D MAJOR, OP.70 \"SOUVENIR DE FLORENCE\"",
+          "soloists": [
+            {
+              "soloistName": "Huang, Frank",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Staples, Sheryl",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Phelps, Cynthia",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Young, Rebecca",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brey, Carter",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Moon, Eileen",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd6f58ca-a5d6-46a1-a3b6-5a0cdfcdfc48",
+      "programID": "13902",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Non-Subscription",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-01-31T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7341*",
+          "composerName": "Li,  Huanzhi",
+          "workTitle": "SPRING FESTIVAL OVERTURE",
+          "conductorName": "Yu, Long",
+          "soloists": []
+        },
+        {
+          "ID": "12595*",
+          "composerName": "Traditional,",
+          "workTitle": "LITTLE PATH (CHINESE FOLK SONG)",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Jo, Sumi",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "5524*",
+          "composerName": "Adam,  Adolphe  Charles",
+          "workTitle": "VARIATIONS ON \"AH VOUS DIRAIS-JE, MAMAN\" (ARR. Westphal)",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Jo, Sumi",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Langevin, Robert",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52680*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "INTRODUCTION AND RONDO CAPRICCIOSO, OP. 28",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Huang, Frank",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12517*",
+          "composerName": "Chen,  Qigang",
+          "workTitle": "JOIE ETERNELLE",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Balsom, Alison",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12522*",
+          "composerName": "Tzu,  Huang",
+          "workTitle": "THREE ROSE WISHES (ARR. Bao)",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Jo, Sumi",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1664*1",
+          "composerName": "Puccini,  Giacomo",
+          "workTitle": "TURANDOT",
+          "movement": "\"Signore, ascolta!\" Liu (aria), Act I",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Jo, Sumi",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8773*",
+          "composerName": "Traditional,",
+          "workTitle": "I LIVE BESIDE THE YANGTZE RIVER",
+          "conductorName": "Yu, Long",
+          "soloists": [
+            {
+              "soloistName": "Jo, Sumi",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2316*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "BOLERO [BOLÉRO]",
+          "conductorName": "Yu, Long",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "2119d79e-d3a3-41e8-9551-79bd11f948de",
+      "programID": "13900",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-02T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-03T05:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-04T05:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-07T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "54106*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
+          "conductorName": "Bychkov, Semyon",
+          "soloists": [
+            {
+              "soloistName": "Gerstein, Kirill",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50002*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY, MANFRED, OP. 58",
+          "conductorName": "Bychkov, Semyon",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "f27a00d5-3f3f-4b1c-a907-a16a480a41f7",
+      "programID": "14135",
+      "orchestra": "NYP Presentation",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Artist in Residence recital",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-08T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12550*",
+          "composerName": "Janacek [Janácek],  Leoš",
+          "workTitle": "SONATA, VIOLIN",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wang, Yuja",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12551*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "FANTASY, VIOLIN AND PIANO, D. 934",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wang, Yuja",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "6388*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "SONATA FOR VIOLIN AND PIANO",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wang, Yuja",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3328*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "SONATA NO. 1, VIOLIN AND PIANO, BB 84",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wang, Yuja",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12007*3",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SONATA, VIOLIN, (GRAND DUO), A MAJOR, OP. POSTH. 162D. 574",
+          "movement": "Andantino",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wang, Yuja",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d8ea941-a58a-4a9f-9f7f-b65d787f2085",
+      "programID": "14168",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-09T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-10T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "54130*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "FRANCESCA DA RIMINI, OP. 32",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "72bb4c0a-2872-4ac1-929d-149ece3c3d03",
+      "programID": "13901",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-11T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "54130*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "FRANCESCA DA RIMINI, OP. 32",
+          "conductorName": "Gersen, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Bychkov, Semyon",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "ee254111-9a52-4a30-8f7d-41160717cc22",
+      "programID": "13903",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-15T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-16T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-18T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2417*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 1, C MAJOR, OP.15",
+          "conductorName": "Honeck, Manfred",
+          "soloists": [
+            {
+              "soloistName": "Barnatan, Inon",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12599*3",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SONATA, PIANO, NO.  6, F MAJOR, OP. 10, NO. 2",
+          "movement": "Presto",
+          "soloists": [
+            {
+              "soloistName": "Barnatan, Inon",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52826*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "conductorName": "Honeck, Manfred",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "71bf8a49-a4c9-4505-bed5-4f9f7b0af34a",
+      "programID": "13335",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-17T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2417*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 1, C MAJOR, OP.15",
+          "conductorName": "Honeck, Manfred",
+          "soloists": [
+            {
+              "soloistName": "Barnatan, Inon",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52826*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "conductorName": "Honeck, Manfred",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "a98cedb8-833e-4a21-b235-d542f6e133fe",
+      "programID": "13904",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-22T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-24T05:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-25T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52456*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+          "conductorName": "Blomstedt, Herbert",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Blomstedt, Herbert",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "f5d08da5-2f5a-496c-8a5e-5c037f0a361d",
+      "programID": "13905",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Pension Fund Benefit Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-02-23T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "743*1",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
+          "movement": "Vivace",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Huang, Frank",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Frank, Pamela",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bordignon, Paolo",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "743*2",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
+          "movement": "Largo ma non tanto",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Bell, Joshua",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Frank, Pamela",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bordignon, Paolo",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "743*3",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
+          "movement": "Allegro",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Batiashvili, Lisa",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Huang, Frank",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bordignon, Paolo",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2579*3",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83",
+          "movement": "Andante",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Ax, Emanuel",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1847*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+          "movement": "Allegro con brio",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "2229*3",
+          "composerName": "Bruch,  Max",
+          "workTitle": "CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26",
+          "movement": "Finale: Allegro energico",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Bell, Joshua",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3254*3",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "SONGS, FOUR (VIER LIEDER), OP. 27 (ORCHESTRA)",
+          "movement": "\"Morgen\"",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bell, Joshua",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2843*1",
+          "composerName": "Korngold,  Erich",
+          "workTitle": "DIE TOTE STADT",
+          "movement": "Marietta's Lied, Marietta (aria)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12580*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "GOIN' HOME (VIOLIN + ORCHESTRA) (ARR. Kreisler)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Batiashvili, Lisa",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "50387*",
+          "composerName": "Gershwin,  George",
+          "workTitle": "AMERICAN IN PARIS, AN",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "2813*",
+          "composerName": "Hill,  Patty  and Mildred",
+          "workTitle": "HAPPY BIRTHDAY",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "24ba8cbc-310c-48f1-9466-d8b22bd36bb2",
+      "programID": "14020",
+      "orchestra": "NY Philharmonic Ensembles",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Merkin Concert Hall",
+          "Date": "2017-02-26T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12295*",
+          "composerName": "Menotti,  Gian  Carlo",
+          "workTitle": "TRIO, CLARINET, VIOLIN, PIANO",
+          "soloists": [
+            {
+              "soloistName": "Martinez [Martínez] Forteza, Pascual",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lee, Hyunju",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brown, Michael",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2369*",
+          "composerName": "Schoenberg,  Arnold",
+          "workTitle": "VERKLAERTE NACHT (TRANSFIGURED NIGHT), OP. 4",
+          "soloists": [
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kim, Lisa GiHae",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kamath, Vivek",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Pelletier, Rémi",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yeh, Ru-Pei",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "7164*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "TRIO, PIANO, NO. 3, OP. 110",
+          "soloists": [
+            {
+              "soloistName": "Sun, Na",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tu, Qiang",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jeanney, Helene (Hélène)",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52c707cc-9ddd-4e1b-b8e5-d3fb753c7678",
+      "programID": "13906",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-01T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-02T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-03T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12077*",
+          "composerName": "Auerbach,  Lera",
+          "workTitle": "CONCERTO, VIOLIN, NO. 4",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Kavakos, Leonidas",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e4c6239-f058-4c7a-b8df-642fe06ef5e0",
+      "programID": "13940",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-04T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52611*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "ADAGIO FOR STRINGS",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "1778*2",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, FLUTE AND HARP IN C, K.297C (OLD K.299)",
+          "movement": "Andantino",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Langevin, Robert",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Allen, Nancy",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "7052*2",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "DUO, VIOLIN/VIOLA, B-FLAT MAJOR, K.424",
+          "movement": "Andante cantabile",
+          "soloists": [
+            {
+              "soloistName": "McDermott, Kerry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Neubauer, Paul",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "1471*3",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "DUOS, FORTY-FOUR, TWO VIOLINS: SELECTIONS",
+          "movement": "No. 28, \"Sorrow,\" Lento, poco rubato",
+          "soloists": [
+            {
+              "soloistName": "Neubauer, Oliver",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Neubauer, Clara",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "3890*",
+          "composerName": "Popper,  David",
+          "workTitle": "REQUIEM",
+          "soloists": [
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huebner, Eric",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9770*",
+          "composerName": "Humperdinck,  Engelbert",
+          "workTitle": "HANSEL AND GRETEL: EVENING PRAYER (HORNS) (ARR. Kirschen)",
+          "soloists": [
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Spanjer, R. Allen",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sterrett, Leelanee",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wall, Howard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Vegeter, Alana",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Primis, Theodore",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yarbrough, Chad",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14fcdd2f-e5c3-4a0d-8436-75f45b92f7aa",
+      "programID": "13907",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-04T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e5601c1-7832-4a06-a539-c344b80689e9",
+      "programID": "13913",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-09T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-10T05:00:00Z",
+          "Time": "2:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-11T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12160*",
+          "composerName": "Adams,  John",
+          "workTitle": "ABSOLUTE JEST",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic String Quartet",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1973*",
+          "composerName": "Adams,  John",
+          "workTitle": "HARMONIELEHRE",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "66c022db-a1e7-4cba-90d3-fd636432ec62",
+      "programID": "13914",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-11T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*1",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "movement": "excerpt",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "1867*4",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SUITE NO. 3, D MAJOR, BWV 1068",
+          "movement": "Bourrée",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "53696*1",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PULCINELLA: SUITE",
+          "movement": "Sinfonia (Overture)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "383*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "QUARTET, STRING, OP. 135, F MAJOR",
+          "movement": "Vivace",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic String Quartet",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12160*1",
+          "composerName": "Adams,  John",
+          "workTitle": "ABSOLUTE JEST",
+          "movement": "selection",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic String Quartet",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1973*4",
+          "composerName": "Adams,  John",
+          "workTitle": "HARMONIELEHRE",
+          "movement": "Selections from Part I and Part III",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "747048fa-f332-4326-bd76-16643993bc58",
+      "programID": "13915",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-15T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-16T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-17T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-18T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "12089*",
+          "composerName": "Salonen,  Esa-Pekka",
+          "workTitle": "CONCERTO, CELLO",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Ma, Yo-Yo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "81b42185-38e3-4748-b44a-e876f30d59ce",
+      "programID": "13916",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Antwerp, BELGIUM",
+          "Venue": "Queen Elisabeth Hall",
+          "Date": "2017-03-23T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "1346*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "CONCERTO, VIOLIN, NO. 1, OP. 19, D MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51306*10",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
+          "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "3712e71f-c92e-4be3-b10c-8b846f516a58",
+      "programID": "13917",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Luxembourg, LUXEMBOURG",
+          "Venue": "Philharmonie Luxembourg (Joséphine-Charlotte)",
+          "Date": "2017-03-24T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "8113*4",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SONATA, VIOLIN, UNACCOMPANIED, NO. 2, A MINOR, BWV 1003",
+          "movement": "Allegro",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1346*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "CONCERTO, VIOLIN, NO. 1, OP. 19, D MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51306*10",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
+          "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "4085965a-8111-4e6f-a93b-f03182483d2e",
+      "programID": "13946",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Dusseldorf, GERMANY",
+          "Venue": "Tonhalle",
+          "Date": "2017-03-25T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "1346*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "CONCERTO, VIOLIN, NO. 1, OP. 19, D MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8113*4",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SONATA, VIOLIN, UNACCOMPANIED, NO. 2, A MINOR, BWV 1003",
+          "movement": "Allegro",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51306*10",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
+          "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "750c3730-722f-4698-89cf-07cdc7e8a8f4",
+      "programID": "13908",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Essen, GERMANY",
+          "Venue": "Philharmonie (Alfried-Krupp Hall)",
+          "Date": "2017-03-26T04:00:00Z",
+          "Time": "5:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30263948-84ae-4c98-8294-11cb9e47a032",
+      "programID": "13909",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Budapest, HUNGARY",
+          "Venue": "Mupa (Bela Bartók National Concert Hall)",
+          "Date": "2017-03-28T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52760*6",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "ROSAMUNDE: INCIDENTAL MUSIC, D.797",
+          "movement": "V. Entr'acte after Act III; Andantino (B-flat major)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "de1acc84-fc16-47f7-87b8-65cfe4749a36",
+      "programID": "13911",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vienna, AUSTRIA",
+          "Venue": "Wiener Konzerthaus (Grosser Saal)",
+          "Date": "2017-03-29T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a70b9604-7bf8-46e2-aea9-d8a2173c946b",
+      "programID": "13910",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "London, ENGLAND",
+          "Venue": "Barbican Centre",
+          "Date": "2017-03-31T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b31c7dd-3d49-416e-8867-fe839080a114",
+      "programID": "13919",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "London, ENGLAND",
+          "Venue": "Barbican Centre",
+          "Date": "2017-04-01T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12160*",
+          "composerName": "Adams,  John",
+          "workTitle": "ABSOLUTE JEST",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic String Quartet",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51306*10",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
+          "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "a05f497b-93b5-4cef-894d-934c88e4f7ba",
+      "programID": "13920",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "London, ENGLAND",
+          "Venue": "Barbican Centre",
+          "Date": "2017-04-02T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8244*",
+          "composerName": "Adams,  John",
+          "workTitle": "CHAIRMAN DANCES, FOXTROT FOR ORCHESTRA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "12089*",
+          "composerName": "Salonen,  Esa-Pekka",
+          "workTitle": "CONCERTO, CELLO",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Ma, Yo-Yo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1973*",
+          "composerName": "Adams,  John",
+          "workTitle": "HARMONIELEHRE",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "bdc7e564-5db9-4fe2-8aa5-a096a872233c",
+      "programID": "13921",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Hamburg, GERMANY",
+          "Venue": "Elbphilharmonie",
+          "Date": "2017-04-03T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12089*",
+          "composerName": "Salonen,  Esa-Pekka",
+          "workTitle": "CONCERTO, CELLO",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Ma, Yo-Yo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3b90976-a60a-4c20-8cba-7b470de2e606",
+      "programID": "13943",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Hamburg, GERMANY",
+          "Venue": "Elbphilharmonie",
+          "Date": "2017-04-04T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12160*",
+          "composerName": "Adams,  John",
+          "workTitle": "ABSOLUTE JEST",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic String Quartet",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1973*",
+          "composerName": "Adams,  John",
+          "workTitle": "HARMONIELEHRE",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "68339273-af4f-49d4-bec3-8f48d507751d",
+      "programID": "13912",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Copenhagen, DENMARK",
+          "Venue": "Koncertuset",
+          "Date": "2017-04-06T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd0a95e6-e9b8-4fc6-a650-9f7f87b23ca7",
+      "programID": "13918",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Copenhagen, DENMARK",
+          "Venue": "Koncertuset",
+          "Date": "2017-04-07T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1346*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "CONCERTO, VIOLIN, NO. 1, OP. 19, D MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2490*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "PRELUDE, OP. 23,  NO. 5, G MINOR [VIOLIN SOLO] (ARR. Schliephake)",
+          "soloists": [
+            {
+              "soloistName": "Zimmermann, Frank Peter",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51306*10",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
+          "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Gilbert, Alan",
           "soloists": []
         }
       ]
