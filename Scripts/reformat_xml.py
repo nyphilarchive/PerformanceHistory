@@ -11,7 +11,7 @@ import os.path
 # KS 20160909: used re.split instead of str.plit for soloists, as non-ascii characters were not hitting on semincolons for some reason
 
 # create xml element
-os.chdir('i:/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
+os.chdir('q:/Archives/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
 
 files = [g for g in os.listdir('.') if os.path.isfile(g)]
 for g in files:
