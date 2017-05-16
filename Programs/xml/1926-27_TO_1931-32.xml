@@ -4627,68 +4627,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>435d0ec3-85cf-4707-90e5-e16d640559e0</id>
-        <programID>3344</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-02-05T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-02-06T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52429*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52461*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schola Cantorum of NY</soloistName>
-                        <soloistInstrument>Chorus</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Rethberg, Elisabeth</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Homer, Louise</soloistName>
-                        <soloistInstrument>Contralto</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Crooks, Richard</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gange, Fraser</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>49b0bc3e-6dd8-4c72-b1de-15225a984ab4</id>
         <programID>5250</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -4747,6 +4685,68 @@
                 <workTitle>PRINCE IGOR</workTitle>
                 <movement>Polovtsian Dances [Nos. 8 &amp; 17 in opera]</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>435d0ec3-85cf-4707-90e5-e16d640559e0</id>
+        <programID>3344</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-02-05T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-02-06T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52429*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52461*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schola Cantorum of NY</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Rethberg, Elisabeth</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Homer, Louise</soloistName>
+                        <soloistInstrument>Contralto</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Crooks, Richard</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gange, Fraser</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -18970,7 +18970,7 @@
             <work ID="52461*3">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
-                <movement>Adagio molto e cantabile – Andante moderato</movement>
+                <movement>Adagio molto e cantabile — Andante moderato</movement>
                 <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
@@ -43808,6 +43808,44 @@
         </worksInfo>
     </program>
     <program>
+        <id>be06a915-d54c-4803-8e8a-b5f36157c2e7</id>
+        <programID>4766</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1930-31</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1931-01-24T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52431*">
+                <composerName>Corelli,  Arcangelo</composerName>
+                <workTitle>CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)</workTitle>
+                <conductorName>Molinari, Bernardino</conductorName>
+            </work>
+            <work ID="2877*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
+                <conductorName>Molinari, Bernardino</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
+                <conductorName>Molinari, Bernardino</conductorName>
+            </work>
+            <work ID="52891*">
+                <composerName>Respighi,  Ottorino</composerName>
+                <workTitle>ROSSINIANA</workTitle>
+                <conductorName>Molinari, Bernardino</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>916dde87-5850-43c8-ab0e-7034299a6002</id>
         <programID>6052</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -43871,44 +43909,6 @@
                 <workTitle>SYMPHONY NO. 9 IN D MINOR, OP.125</workTitle>
                 <movement>Excerpts from Mvt. II: Molto vivace</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>be06a915-d54c-4803-8e8a-b5f36157c2e7</id>
-        <programID>4766</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1930-31</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1931-01-24T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52431*">
-                <composerName>Corelli,  Arcangelo</composerName>
-                <workTitle>CONCERTO GROSSO, OP.6, NO.8, G MINOR (CHRISTMAS)</workTitle>
-                <conductorName>Molinari, Bernardino</conductorName>
-            </work>
-            <work ID="2877*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
-                <conductorName>Molinari, Bernardino</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53624*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
-                <conductorName>Molinari, Bernardino</conductorName>
-            </work>
-            <work ID="52891*">
-                <composerName>Respighi,  Ottorino</composerName>
-                <workTitle>ROSSINIANA</workTitle>
-                <conductorName>Molinari, Bernardino</conductorName>
             </work>
         </worksInfo>
     </program>
