@@ -25297,6 +25297,7 @@
           "ID": "52364*1",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "EGMONT, OP.84",
+          "movement": "Overture",
           "conductorName": "Walter, Bruno",
           "soloists": []
         },
@@ -25304,6 +25305,7 @@
           "ID": "642*2",
           "composerName": "Puccini,  Giacomo",
           "workTitle": "BOHEME, LA",
+          "movement": "\"Che gelida manina,\" Rodolfo (aria), Act I",
           "conductorName": "Antonini, Alfredo",
           "soloists": [
             {
@@ -25330,6 +25332,7 @@
           "ID": "8839*2",
           "composerName": "Rossini,  Gioachino",
           "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
           "conductorName": "Walter, Bruno",
           "soloists": []
         }
@@ -28383,6 +28386,80 @@
       ]
     },
     {
+      "id": "04ff46e7-bf97-47e9-b4c8-4aaf831979a8",
+      "programID": "5025",
+      "orchestra": "New York Philharmonic",
+      "season": "1942-43",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1943-02-13T04:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1943-02-14T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "50335*",
+          "composerName": "Franck,  César",
+          "workTitle": "SYMPHONY IN D MINOR",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "4285*",
+          "composerName": "Chasins,  Abram",
+          "workTitle": "PARADE",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "51641*",
+          "composerName": "Respighi,  Ottorino",
+          "workTitle": "FOUNTAINS OF ROME (FONTANE DI ROMA)",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "9172*1",
+          "composerName": "Weinberger,  Jaromir",
+          "workTitle": "SVANDA DUDAK (SCHWANDA THE BAGPIPER)",
+          "movement": "Polka",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        },
+        {
+          "ID": "9172*2",
+          "composerName": "Weinberger,  Jaromir",
+          "workTitle": "SVANDA DUDAK (SCHWANDA THE BAGPIPER)",
+          "movement": "Fugue",
+          "conductorName": "Barbirolli, John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "a7619835-85d5-4b05-b52e-26e118a1f42a",
       "programID": "4964",
       "orchestra": "New York Philharmonic",
@@ -28481,80 +28558,6 @@
           "composerName": "Strauss,  Johann, II",
           "workTitle": "KAISER-WALZER (EMPEROR WALTZ), OP. 437",
           "conductorName": "Ganz, Rudolph",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "04ff46e7-bf97-47e9-b4c8-4aaf831979a8",
-      "programID": "5025",
-      "orchestra": "New York Philharmonic",
-      "season": "1942-43",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1943-02-13T04:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1943-02-14T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
-          "movement": "Overture",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "50335*",
-          "composerName": "Franck,  César",
-          "workTitle": "SYMPHONY IN D MINOR",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "4285*",
-          "composerName": "Chasins,  Abram",
-          "workTitle": "PARADE",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "51641*",
-          "composerName": "Respighi,  Ottorino",
-          "workTitle": "FOUNTAINS OF ROME (FONTANE DI ROMA)",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "9172*1",
-          "composerName": "Weinberger,  Jaromir",
-          "workTitle": "SVANDA DUDAK (SCHWANDA THE BAGPIPER)",
-          "movement": "Polka",
-          "conductorName": "Barbirolli, John",
-          "soloists": []
-        },
-        {
-          "ID": "9172*2",
-          "composerName": "Weinberger,  Jaromir",
-          "workTitle": "SVANDA DUDAK (SCHWANDA THE BAGPIPER)",
-          "movement": "Fugue",
-          "conductorName": "Barbirolli, John",
           "soloists": []
         }
       ]
@@ -34921,7 +34924,7 @@
         {
           "ID": "1965*1",
           "composerName": "Cherubini,  Luigi",
-          "workTitle": "ANACRÉON, OU L’AMOUR FUGITIF",
+          "workTitle": "ANACRÉON, OU L'AMOUR FUGITIF",
           "movement": "Overture",
           "conductorName": "Smallens, Alexander",
           "soloists": []
@@ -48764,7 +48767,7 @@
         {
           "ID": "1965*1",
           "composerName": "Cherubini,  Luigi",
-          "workTitle": "ANACRÉON, OU L’AMOUR FUGITIF",
+          "workTitle": "ANACRÉON, OU L'AMOUR FUGITIF",
           "movement": "Overture",
           "conductorName": "Rodzinski, Artur",
           "soloists": []
@@ -52977,7 +52980,7 @@
         {
           "ID": "1965*1",
           "composerName": "Cherubini,  Luigi",
-          "workTitle": "ANACRÉON, OU L’AMOUR FUGITIF",
+          "workTitle": "ANACRÉON, OU L'AMOUR FUGITIF",
           "movement": "Overture",
           "conductorName": "Smallens, Alexander",
           "soloists": []
@@ -68292,7 +68295,7 @@
           "ID": "642*5",
           "composerName": "Puccini,  Giacomo",
           "workTitle": "BOHEME, LA",
-          "movement": "\"Quando me’n vo’\" (Musetta's Waltz), Musetta (aria), Act II",
+          "movement": "\"Quando me'n vo'\" (Musetta's Waltz), Musetta (aria), Act II",
           "conductorName": "Katims, Milton",
           "soloists": [
             {
@@ -71390,7 +71393,7 @@
           "ID": "5237*7",
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "RIGOLETTO",
-          "movement": "\"Bella figlia dell’amore,\" Gilda/Maddalena/Duke/Rigoletto (quartet), Act III",
+          "movement": "\"Bella figlia dell'amore,\" Gilda/Maddalena/Duke/Rigoletto (quartet), Act III",
           "conductorName": "Smallens, Alexander",
           "soloists": [
             {
@@ -80890,6 +80893,63 @@
           "ID": "53410*",
           "composerName": "Still,  William  Grant",
           "workTitle": "FESTIVE OVERTURE",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "e5d64163-a1c0-4c90-936f-a3feeeb60ad9-0.1",
+      "programID": "993",
+      "orchestra": "New York Philharmonic",
+      "season": "1946-47",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1947-04-10T05:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1947-04-11T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53324*",
+          "composerName": "Musorgsky,  Modest",
+          "workTitle": "NIGHT ON BALD MOUNTAIN (ARR. Rimsky-Korsakov)",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "1531*",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "SYMPHONY NO.  6, OP. 54",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53790*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "SCYTHIAN SUITE (ALA ET LOLLI), OP. 20",
+          "conductorName": "Stokowski, Leopold",
+          "soloists": []
+        },
+        {
+          "ID": "53624*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
           "conductorName": "Stokowski, Leopold",
           "soloists": []
         }

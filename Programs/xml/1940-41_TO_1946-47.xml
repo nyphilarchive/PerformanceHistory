@@ -21773,11 +21773,13 @@
             <work ID="52364*1">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>EGMONT, OP.84</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work ID="642*2">
                 <composerName>Puccini,  Giacomo</composerName>
                 <workTitle>BOHEME, LA</workTitle>
+                <movement>"Che gelida manina," Rodolfo (aria), Act I</movement>
                 <conductorName>Antonini, Alfredo</conductorName>
                 <soloists>
                     <soloist>
@@ -21802,6 +21804,7 @@
             <work ID="8839*2">
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>WILLIAM TELL</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
@@ -24299,6 +24302,64 @@
         </worksInfo>
     </program>
     <program>
+        <id>04ff46e7-bf97-47e9-b4c8-4aaf831979a8</id>
+        <programID>5025</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-02-13T04:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-02-14T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53354*1">
+                <composerName>Nicolai,  Otto</composerName>
+                <workTitle>MERRY WIVES OF WINDSOR, THE</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="50335*">
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="4285*">
+                <composerName>Chasins,  Abram</composerName>
+                <workTitle>PARADE</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="51641*">
+                <composerName>Respighi,  Ottorino</composerName>
+                <workTitle>FOUNTAINS OF ROME (FONTANE DI ROMA)</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="9172*1">
+                <composerName>Weinberger,  Jaromir</composerName>
+                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
+                <movement>Polka</movement>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="9172*2">
+                <composerName>Weinberger,  Jaromir</composerName>
+                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
+                <movement>Fugue</movement>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>a7619835-85d5-4b05-b52e-26e118a1f42a</id>
         <programID>4964</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -24378,64 +24439,6 @@
                 <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>04ff46e7-bf97-47e9-b4c8-4aaf831979a8</id>
-        <programID>5025</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-02-13T04:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-02-14T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53354*1">
-                <composerName>Nicolai,  Otto</composerName>
-                <workTitle>MERRY WIVES OF WINDSOR, THE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="50335*">
-                <composerName>Franck,  César</composerName>
-                <workTitle>SYMPHONY IN D MINOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="4285*">
-                <composerName>Chasins,  Abram</composerName>
-                <workTitle>PARADE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="51641*">
-                <composerName>Respighi,  Ottorino</composerName>
-                <workTitle>FOUNTAINS OF ROME (FONTANE DI ROMA)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="9172*1">
-                <composerName>Weinberger,  Jaromir</composerName>
-                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
-                <movement>Polka</movement>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="9172*2">
-                <composerName>Weinberger,  Jaromir</composerName>
-                <workTitle>SVANDA DUDAK (SCHWANDA THE BAGPIPER)</workTitle>
-                <movement>Fugue</movement>
-                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -29716,7 +29719,7 @@
         <worksInfo>
             <work ID="1965*1">
                 <composerName>Cherubini,  Luigi</composerName>
-                <workTitle>ANACRÉON, OU L’AMOUR FUGITIF</workTitle>
+                <workTitle>ANACRÉON, OU L'AMOUR FUGITIF</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
@@ -41097,7 +41100,7 @@
         <worksInfo>
             <work ID="1965*1">
                 <composerName>Cherubini,  Luigi</composerName>
-                <workTitle>ANACRÉON, OU L’AMOUR FUGITIF</workTitle>
+                <workTitle>ANACRÉON, OU L'AMOUR FUGITIF</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -44643,7 +44646,7 @@
         <worksInfo>
             <work ID="1965*1">
                 <composerName>Cherubini,  Luigi</composerName>
-                <workTitle>ANACRÉON, OU L’AMOUR FUGITIF</workTitle>
+                <workTitle>ANACRÉON, OU L'AMOUR FUGITIF</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
@@ -57552,7 +57555,7 @@
             <work ID="642*5">
                 <composerName>Puccini,  Giacomo</composerName>
                 <workTitle>BOHEME, LA</workTitle>
-                <movement>"Quando me’n vo’" (Musetta's Waltz), Musetta (aria), Act II</movement>
+                <movement>"Quando me'n vo'" (Musetta's Waltz), Musetta (aria), Act II</movement>
                 <conductorName>Katims, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -60197,7 +60200,7 @@
             <work ID="5237*7">
                 <composerName>Verdi,  Giuseppe</composerName>
                 <workTitle>RIGOLETTO</workTitle>
-                <movement>"Bella figlia dell’amore," Gilda/Maddalena/Duke/Rigoletto (quartet), Act III</movement>
+                <movement>"Bella figlia dell'amore," Gilda/Maddalena/Duke/Rigoletto (quartet), Act III</movement>
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
@@ -68142,6 +68145,51 @@
             <work ID="53410*">
                 <composerName>Still,  William  Grant</composerName>
                 <workTitle>FESTIVE OVERTURE</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>e5d64163-a1c0-4c90-936f-a3feeeb60ad9-0.1</id>
+        <programID>993</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1946-47</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1947-04-10T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1947-04-11T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53324*">
+                <composerName>Musorgsky,  Modest</composerName>
+                <workTitle>NIGHT ON BALD MOUNTAIN (ARR. Rimsky-Korsakov)</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="1531*">
+                <composerName>Shostakovich,  Dmitri</composerName>
+                <workTitle>SYMPHONY NO.  6, OP. 54</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53790*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>SCYTHIAN SUITE (ALA ET LOLLI), OP. 20</workTitle>
+                <conductorName>Stokowski, Leopold</conductorName>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
                 <conductorName>Stokowski, Leopold</conductorName>
             </work>
         </worksInfo>
