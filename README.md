@@ -8,7 +8,7 @@ The metadata here is released under the Creative Commons Public Domain [CC0](htt
 ##Considerations
 * A **program** is defined as one or more performances or presentations in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, locations may vary within). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
 * ~~Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.~~ Movements are now included as cataloged by NYP. Keep in mind that we do not necessarily catalog every movement in the work, only movements that we have ever performed.
-* To see detailed information about our internal descriptive standards, please go to http://nyphil.org/history/performance-history/help.
+* To see detailed information about our internal descriptive standards, please go to http://archives.nyphil.org/index.php/help-performancehistory.
 
 ##Repository Contents
 The data is currently available as both XML and JSON.  In the *Programs* directory, you will find two directories, `xml` and `json`, each with a series of XML. The file called complete.xml (and complete.json) contains every concert from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). To allow for easier downloading and use, also available are segmented files determined by date ranges (each segment contains about 1,000 records).
@@ -114,7 +114,7 @@ naming:
 		<td>ProgramID</td><td>Local NYP ID</td>
 	</tr>
 	<tr>
-		<td>Orchestra</td><td>Full orchestra name <a href="http://nyphil.org/history/performance-history/help">Learn more...</a></td>
+		<td>Orchestra</td><td>Full orchestra name <a href="http://archives.nyphil.org/index.php/help-performancehistory">Learn more...</a></td>
 	</tr>
 	<tr>
 		<td>Season</td><td>Defined as Sep 1 - Aug 31, displayed "1842-43"</td>
@@ -123,7 +123,7 @@ naming:
 		<td colspan=2><strong>Concert Info: Repeated for each individual performance within a program</strong></td>
 	</tr>
 	<tr>
-		<td>eventType</td><td><a href="http://nyphil.org/history/performance-history/help">See term definitions</a></td>
+		<td>eventType</td><td><a href="http://archives.nyphil.org/index.php/help-performancehistory">See term definitions</a></td>
 	</tr>
 	<tr>
 		<td>Location</td><td>Geographic location of concert (Countries are identified by their current name. For example, even though the orchestra played in Czechoslovakia, it is now identified in the data as the Czech Republic)</td>
