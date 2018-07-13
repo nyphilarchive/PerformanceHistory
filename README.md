@@ -5,13 +5,13 @@ In an effort to make this data available for study, analysis, and reuse, the New
 
 The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) licence. Please see the enclosed LICENCE file for more detail.
 
-##Considerations
+## Considerations
 * A **program** is defined as one or more performances or presentations in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, locations may vary within). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
 * ~~Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.~~ Movements are now included as cataloged by NYP. Keep in mind that we do not necessarily catalog every movement in the work, only movements that we have ever performed.
 * To see detailed information about our internal descriptive standards, please go to http://archives.nyphil.org/index.php/help-performancehistory.
 
-##Repository Contents
-The data is currently available as both XML and JSON.  In the *Programs* directory, you will find two directories, `xml` and `json`, each with a series of XML. The file called complete.xml (and complete.json) contains every concert from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). To allow for easier downloading and use, also available are segmented files determined by date ranges (each segment contains about 1,000 records).
+## Repository Contents
+The data is currently available as both XML and JSON.  In the *Programs* directory, you will find two directories, `xml` and `json`, each with a series of XML. The file called `complete.xml` (and `complete.json) contains every concert from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). To allow for easier downloading and use, also available are segmented files determined by date ranges (each segment contains about 1,000 records).
 
 The XML is structured in the following way:
 
@@ -161,7 +161,7 @@ naming:
 </table>
 
 
-##Usage Guidelines
+## Usage Guidelines
 
 These usage guidelines are based on goodwill, they are not a legal contract but the New York Philharmonic requests that you follow these guidelines if you use Metadata from our Performance History dataset.
 
@@ -181,7 +181,7 @@ If for technical or other reasons you cannot include all the links to all source
 
 **Metadata is dynamic**
 
-When working with Metadata obtained from the New York Philharmonic be aware that this Metadata is not static, it changes. the New York Philharmonic continuously updates its Metadata in order to correct mistakes and include new and additional information. As performances take place, the New York Philharmonic will aim to update its Performance History Metadata at regular intervals.
+When working with Metadata obtained from the New York Philharmonic be aware that this Metadata is not static, it changes. The New York Philharmonic continuously updates its Metadata in order to correct mistakes and include new and additional information. As performances take place, the New York Philharmonic will aim to update its Performance History Metadata at regular intervals.
 
 **Mention your modifications of the Metadata and contribute your modified Metadata back.**
 
