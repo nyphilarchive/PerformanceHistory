@@ -35,9 +35,9 @@
             <Time>3:00PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="73*">
+            <work ID="50983*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, E FLAT MAJOR, BWV 876 (ARR. Schoenberg)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, E-FLAT MAJOR, BWV 552 (ARR. Schoenberg)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
             <work ID="51880*">
@@ -293,9 +293,9 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="73*">
+            <work ID="50983*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, E FLAT MAJOR, BWV 876 (ARR. Schoenberg)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, E-FLAT MAJOR, BWV 552 (ARR. Schoenberg)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
             <work ID="51880*">
@@ -680,7 +680,7 @@
             <work ID="50027*4">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SERENADE FOR STRINGS, OP.48</workTitle>
-                <movement>Finale: Andante; Allegro con spirito</movement>
+                <movement>Finale: Andante — Allegro con spirito</movement>
                 <conductorName>Schelling, Ernest</conductorName>
             </work>
         </worksInfo>
@@ -1086,63 +1086,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
-        <programID>6732</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1932-12-03T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53935*">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bolognini, Remo</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Wallenstein, Alfred</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Norton, Eunice</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>e41a6cdb-e19c-49ec-af51-6dc665783cf2-0.1</id>
         <programID>1145</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1202,6 +1145,63 @@
                 <workTitle>SCHEHERAZADE, OP. 35</workTitle>
                 <movement>Allegro molto</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
+        <programID>6732</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1932-12-03T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53935*">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bolognini, Remo</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wallenstein, Alfred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Norton, Eunice</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -1616,7 +1616,7 @@
                 </soloists>
             </work>
             <work ID="717*">
-                <composerName>Nin,  Joachin</composerName>
+                <composerName>Nin,  Joaquín</composerName>
                 <workTitle>TONADA DE LA NIÑA PERDIDA</workTitle>
                 <conductorName>Schelling, Ernest</conductorName>
                 <soloists>
@@ -1628,7 +1628,7 @@
                 </soloists>
             </work>
             <work ID="722*">
-                <composerName>Nin,  Joachin</composerName>
+                <composerName>Nin,  Joaquín</composerName>
                 <workTitle>VITO, EL</workTitle>
                 <conductorName>Schelling, Ernest</conductorName>
                 <soloists>
@@ -2228,6 +2228,40 @@
         </worksInfo>
     </program>
     <program>
+        <id>557d6680-94b4-461c-84cb-f70197759e59-0.1</id>
+        <programID>2001</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-01-21T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="558*1">
+                <composerName>Pfitzner,  Hans</composerName>
+                <workTitle>KAETHCHEN VON HEILBRONN</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="536*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>GAMBLER, THE: FOUR PORTRAITS AND DÉNOUEMENT, OP. 49</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51870*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>81d5cda3-f6d6-447a-af99-bd2aa1cbab3c-0.1</id>
         <programID>4878</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -2331,40 +2365,6 @@
                 <workTitle>HUNGARIAN DANCES (ORCH.)</workTitle>
                 <movement>Hungarian Dance No. 6 (Parlow)</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>557d6680-94b4-461c-84cb-f70197759e59-0.1</id>
-        <programID>2001</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-01-21T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="558*1">
-                <composerName>Pfitzner,  Hans</composerName>
-                <workTitle>KAETHCHEN VON HEILBRONN</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="536*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>GAMBLER, THE: FOUR PORTRAITS AND DÉNOUEMENT, OP. 49</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51870*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -2779,6 +2779,58 @@
         </worksInfo>
     </program>
     <program>
+        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
+        <programID>2399</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-04T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-05T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51642*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="2005*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="2246*">
+                <composerName>Goldmark,  Karl</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Milstein, Nathan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51965*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4a5f9bcb-3944-4e00-b5f0-f933cd6645c4-0.1</id>
         <programID>1832</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -2832,7 +2884,7 @@
                 <conductorName>Schelling, Ernest</conductorName>
             </work>
             <work ID="666*">
-                <composerName>Nin,  Joachin</composerName>
+                <composerName>Nin,  Joaquín</composerName>
                 <workTitle>MURCIA</workTitle>
                 <conductorName>Schelling, Ernest</conductorName>
                 <soloists>
@@ -2868,58 +2920,6 @@
                 <workTitle>COUPERIN DANCE SUITE</workTitle>
                 <movement>Wirbeltanz (Whirling Dance) (Le Turbulent)</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
-        <programID>2399</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-04T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-05T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51642*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="2005*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2246*">
-                <composerName>Goldmark,  Karl</composerName>
-                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Milstein, Nathan</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51965*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -4140,6 +4140,44 @@
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>61a692fc-9ec7-4d05-a36a-f0496bdd6a5b-0.1</id>
+        <programID>14300</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Festival</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Madison Square Garden</Venue>
+            <Date>1933-04-03T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="8834*3">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>OBERON</workTitle>
+                <movement>Overture</movement>
+            </work>
+            <work ID="2068*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.61</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="7312*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>HUNGARIAN RHAPSODY NO. 14</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="1108*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -18263,9 +18301,9 @@
             <Time>3:00PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="73*">
+            <work ID="50983*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, E FLAT MAJOR, BWV 876 (ARR. Schoenberg)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, E-FLAT MAJOR, BWV 552 (ARR. Schoenberg)</workTitle>
                 <conductorName>Klemperer, Otto</conductorName>
             </work>
             <work ID="50128*">
@@ -18296,9 +18334,9 @@
             <Time>8:45PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="73*">
+            <work ID="50983*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, E FLAT MAJOR, BWV 876 (ARR. Schoenberg)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, E-FLAT MAJOR, BWV 552 (ARR. Schoenberg)</workTitle>
                 <conductorName>Klemperer, Otto</conductorName>
             </work>
             <work ID="50128*">
@@ -20126,7 +20164,7 @@
             <work ID="52760*6">
                 <composerName>Schubert,  Franz</composerName>
                 <workTitle>ROSAMUNDE: INCIDENTAL MUSIC, D.797</workTitle>
-                <movement>V. Entr'acte after Act III; Andantino (B-flat major)</movement>
+                <movement>V. Entr'acte for Act III; Andantino (B-flat major)</movement>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work ID="52760*2">
@@ -20427,7 +20465,7 @@
             </work>
             <work ID="655*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
@@ -20461,7 +20499,7 @@
             </work>
             <work ID="655*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
@@ -35473,7 +35511,7 @@
             </work>
             <work ID="7889*1">
                 <composerName>Strauss,  Richard</composerName>
-                <workTitle>SONGS, EIGHT (ACHT LIEDER AUS LETZTE BLÄTTER), OP. 10, SOPRANO AND ORCHESTRA</workTitle>
+                <workTitle>SONGS, EIGHT (ACHT LIEDER AUS LETZTE BLÄTTER), OP. 10, VOICE AND ORCHESTRA (ARR. Heger)</workTitle>
                 <movement>"Zueignung"</movement>
                 <conductorName>Hoogstraten, Willem van</conductorName>
                 <soloists>
@@ -36969,6 +37007,73 @@
         </worksInfo>
     </program>
     <program>
+        <id>5413fad6-ecee-462f-bd30-3a955b090fbe-0.1</id>
+        <programID>796</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1936-37</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1936-11-23T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50296*10">
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>ENIGMA VARIATIONS, OP. 36</workTitle>
+                <movement>IX. (Nimrod)</movement>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="51872*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51289*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="955*">
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>CON., HARPSICHORDS, (FOUR), BWV 1065, A MINOR</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Levitzki, Mischa</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>List, Eugene</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Sheridan, Frank</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Webster, Beveridge</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9007*17">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
+                <movement>Prelude to Act I</movement>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>3943dba7-1f19-4ebc-b5c6-1da4bd9c6faa-0.1</id>
         <programID>10124</programID>
         <orchestra>NYP Presentation</orchestra>
@@ -37166,73 +37271,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>5413fad6-ecee-462f-bd30-3a955b090fbe-0.1</id>
-        <programID>796</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1936-37</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1936-11-23T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50296*10">
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>ENIGMA VARIATIONS, OP. 36</workTitle>
-                <movement>IX. (Nimrod)</movement>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="51872*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51289*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="955*">
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>CON., HARPSICHORDS, (FOUR), BWV 1065, A MINOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Levitzki, Mischa</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>List, Eugene</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Sheridan, Frank</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Webster, Beveridge</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -40678,6 +40716,145 @@
         </worksInfo>
     </program>
     <program>
+        <id>e0228764-1e1a-452c-a95b-3ac4db6a2d09-0.1</id>
+        <programID>14430</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>1936-37</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1937-03-02T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="12940*">
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>AIR FROM <em>SUITE IN D MAJOR</em> (ARR. CLARINET ENS.) (ARR. Bellison)</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="12941*">
+                <composerName>Haydn,  Franz  Joseph</composerName>
+                <workTitle>ANDANTE FROM <em>SURPRISE SYMPHONY</em> (ARR. CLARINET ENS.) (ARR. Bellison)</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Clarinet Ensemble of NYP</soloistName>
+                        <soloistInstrument>Ensemble</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9831*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>GERMAN DANCES (ARR. CLARINET ENSEMBLE), WOO. 8 (ARR. Bellison)</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Clarinet Ensemble of NYP</soloistName>
+                        <soloistInstrument>Ensemble</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="12942*">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>VARIATIONS, OP.33 FOR CLARINET AND PIANO</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="9273*7">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>PRELUDES, OP. 28</workTitle>
+                <movement>No. 7, Andantino in A major</movement>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Clarinet Ensemble of NYP</soloistName>
+                        <soloistInstrument>Ensemble</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9012*5">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>POLONAISES</workTitle>
+                <movement>Polonaise Militaire in A major, Op.40, No. 1</movement>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Clarinet Ensemble of NYP</soloistName>
+                        <soloistInstrument>Ensemble</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="12943*">
+                <composerName>Tournier,  Marcel</composerName>
+                <workTitle>FÉERIE, PRELUDE ET DANSE</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rosen, Myor</soloistName>
+                        <soloistInstrument>Harp</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="12944*">
+                <composerName>Bellison,  Simeon</composerName>
+                <workTitle>LOVE SONG</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="1519*">
+                <composerName>Kreisler,  Fritz</composerName>
+                <workTitle>LIEBESLEID (ARR. Kreisler)</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schneiderman, Bill</soloistName>
+                        <soloistInstrument>Xylophone</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50787*">
+                <composerName>Kalinnikov,  Vassili</composerName>
+                <workTitle>CHANSON TRISTE</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="12945*">
+                <composerName>Glantz,  Harry</composerName>
+                <workTitle>CAPRICE GERALDINE</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="12946*">
+                <composerName>Gillet,  Ernest</composerName>
+                <workTitle>LOIN DU BAL (INTERMEZZO) (ARR. CLARINET ENS.) (ARR. Bellison)</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="12947*">
+                <composerName>Gargiulo,</composerName>
+                <workTitle>ROMANZA</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+            </work>
+            <work ID="12833*">
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>NEUE PIZZICATO POLKA</workTitle>
+                <conductorName>Bellison, Simeon</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Clarinet Ensemble of NYP;  Crost, Rosalind</soloistName>
+                        <soloistInstrument>Ensemble; Piano</soloistInstrument>
+                        <soloistRoles>None</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>0d4c3abc-084c-4b30-ada2-be56b0413390-0.1</id>
         <programID>4647</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -42843,6 +43020,42 @@
         </worksInfo>
     </program>
     <program>
+        <id>6ebd26fe-1726-4658-9731-8d423f0da844-0.1</id>
+        <programID>12184</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1936-37</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Great Hall - City College</Venue>
+            <Date>1937-07-11T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="8834*3">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>OBERON</workTitle>
+                <movement>Overture</movement>
+            </work>
+            <work ID="52437*2">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
+                <movement>Marcia funebre: Adagio assai</movement>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50679*">
+                <composerName>Walton,  William</composerName>
+                <workTitle>FACADE (FAÇADE): SUITE NO. 1</workTitle>
+            </work>
+            <work ID="51581*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>464a2c62-14f3-4f87-8592-de5aa45f0938-0.1</id>
         <programID>12183</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -42879,42 +43092,6 @@
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>6ebd26fe-1726-4658-9731-8d423f0da844-0.1</id>
-        <programID>12184</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1936-37</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Great Hall - City College</Venue>
-            <Date>1937-07-11T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="8834*3">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>OBERON</workTitle>
-                <movement>Overture</movement>
-            </work>
-            <work ID="52437*2">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
-                <movement>Marcia funebre: Adagio assai</movement>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50679*">
-                <composerName>Walton,  William</composerName>
-                <workTitle>FACADE (FAÇADE): SUITE NO. 1</workTitle>
-            </work>
-            <work ID="51581*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
             </work>
         </worksInfo>
     </program>
@@ -43119,7 +43296,7 @@
             </work>
             <work ID="655*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE &amp; FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
+                <workTitle>PRELUDE AND FUGUE, D MAJOR, BWV 532 (ARR. Respighi)</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
             <work ID="51870*">
@@ -44497,7 +44674,7 @@
             <work ID="52760*1">
                 <composerName>Schubert,  Franz</composerName>
                 <workTitle>ROSAMUNDE: INCIDENTAL MUSIC, D.797</workTitle>
-                <movement>I. Entr'acte after Act I; Allegro molto moderato</movement>
+                <movement>I. Entr'acte for Act I; Allegro molto moderato</movement>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
             <work ID="8999*1">
@@ -50244,8 +50421,8 @@
             </work>
             <work ID="53758*3">
                 <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>March</movement>
+                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33 A</workTitle>
+                <movement>March (Tempo di Marcia)</movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
             <work ID="53624*">
@@ -50995,7 +51172,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="10934*">
-                <composerName>Biber,  Heinrich von</composerName>
+                <composerName>Biber,  Heinrich  Von</composerName>
                 <workTitle>PARTITA, C MINOR (ORCH) (ARR. Thaulow)</workTitle>
                 <conductorName>Marrow, Macklin</conductorName>
             </work>
@@ -52924,7 +53101,7 @@
             </work>
             <work ID="2034*">
                 <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>PRELUDE IN C SHARP MINOR</workTitle>
+                <workTitle>PRELUDE IN C SHARP MINOR (SEE CINQ MORCEAUX, NO. 2)</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>Hofmann, Josef</soloistName>
@@ -59367,7 +59544,7 @@
             <work ID="51581*3">
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
-                <movement>General Dance</movement>
+                <movement>Danse générale (General Dance)</movement>
                 <conductorName>Boult, Adrian</conductorName>
             </work>
         </worksInfo>
@@ -63857,6 +64034,53 @@
         </worksInfo>
     </program>
     <program>
+        <id>37395462-ffbb-473f-8eed-93fc1c63ea68-0.1</id>
+        <programID>5736</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1939-40</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1939-11-18T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1939-11-19T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50353*">
+                <composerName>Foote,  Arthur</composerName>
+                <workTitle>SUITE, E MAJOR, OP. 63</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+            <work ID="2881*">
+                <composerName>Paganini,  Nicolò</composerName>
+                <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Francescatti, Zino</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51872*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
+                <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>08c53c6f-086e-4829-9a5f-6dd68ee67c22-0.1</id>
         <programID>4596</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -63929,53 +64153,6 @@
                 <workTitle>SYMPHONY NO. 41, C MAJOR, K.551, "JUPITER"</workTitle>
                 <movement>Allegro vivace</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>37395462-ffbb-473f-8eed-93fc1c63ea68-0.1</id>
-        <programID>5736</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1939-40</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1939-11-18T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1939-11-19T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50353*">
-                <composerName>Foote,  Arthur</composerName>
-                <workTitle>SUITE, E MAJOR, OP. 63</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-            </work>
-            <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
-                <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Francescatti, Zino</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51872*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -68198,73 +68375,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>6aa1d3f4-e75c-4ea2-ba6e-36b223245505-0.1</id>
-        <programID>584</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1939-40</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1940-05-04T04:00:00Z</Date>
-            <Time>11:00AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2819*1">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
-                <movement>Allegro moderato</movement>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="51668*4">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 41, C MAJOR, K.551, "JUPITER"</workTitle>
-                <movement>Molto allegro</movement>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="5076*5">
-                <composerName>White,  Paul</composerName>
-                <workTitle>FIVE MINIATURES FOR ORCHESTRA</workTitle>
-                <movement>V. Mosquito Dance</movement>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="2085*">
-                <composerName>Strauss,  Johann, II</composerName>
-                <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="1435*">
-                <composerName>Traditional,</composerName>
-                <workTitle>FRERE JACQUES</workTitle>
-                <conductorName>Ganz, Rudolph</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Audience</soloistName>
-                        <soloistInstrument>Sing-Along</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="5770*4">
-                <composerName>Schelling,  Ernest</composerName>
-                <workTitle>SUITE VARIEE</workTitle>
-                <movement>"Tarantella"</movement>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="5770*3">
-                <composerName>Schelling,  Ernest</composerName>
-                <workTitle>SUITE VARIEE</workTitle>
-                <movement>"Berceuse pour un enfant malade"</movement>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-            <work ID="5386*">
-                <composerName>Herbert,  Victor</composerName>
-                <workTitle>AMERICA FANTASIA</workTitle>
-                <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>c2180528-12ce-4e63-b744-f1e7b0df98bf-0.1</id>
         <programID>3125</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -68329,6 +68439,73 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture [Dresden]</movement>
                 <conductorName>Barbirolli, John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>6aa1d3f4-e75c-4ea2-ba6e-36b223245505-0.1</id>
+        <programID>584</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1939-40</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1940-05-04T04:00:00Z</Date>
+            <Time>11:00AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2819*1">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
+                <movement>Allegro moderato</movement>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="51668*4">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 41, C MAJOR, K.551, "JUPITER"</workTitle>
+                <movement>Molto allegro</movement>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="5076*5">
+                <composerName>White,  Paul</composerName>
+                <workTitle>FIVE MINIATURES FOR ORCHESTRA</workTitle>
+                <movement>V. Mosquito Dance</movement>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="2085*">
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>KUENSTLERLEBEN (ARTIST'S LIFE) WALTZ, OP. 316</workTitle>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="1435*">
+                <composerName>Traditional,</composerName>
+                <workTitle>FRERE JACQUES</workTitle>
+                <conductorName>Ganz, Rudolph</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Audience</soloistName>
+                        <soloistInstrument>Sing-Along</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="5770*4">
+                <composerName>Schelling,  Ernest</composerName>
+                <workTitle>SUITE VARIEE</workTitle>
+                <movement>"Tarantella"</movement>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="5770*3">
+                <composerName>Schelling,  Ernest</composerName>
+                <workTitle>SUITE VARIEE</workTitle>
+                <movement>"Berceuse pour un enfant malade"</movement>
+                <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+            <work ID="5386*">
+                <composerName>Herbert,  Victor</composerName>
+                <workTitle>AMERICA FANTASIA</workTitle>
+                <conductorName>Ganz, Rudolph</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -71295,6 +71472,93 @@
         </worksInfo>
     </program>
     <program>
+        <id>6fcaa718-10d1-4aa0-8619-1548a95ec6f1-0.1</id>
+        <programID>11657</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1939-40</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1940-08-05T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Steinberg, William</conductorName>
+            </work>
+            <work ID="50064*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
+                <conductorName>Steinberg, William</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="3548*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
+                <conductorName>Steinberg, William</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hofmann, Josef</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9012*5">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>POLONAISES</workTitle>
+                <movement>Polonaise Militaire in A major, Op.40, No. 1</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hofmann, Josef</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="5752*2">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>FANTASIAS OR CAPRICES, THREE [TROIS FANTAISIES OU CAPRICES]</workTitle>
+                <movement>Scherzo: Presto (E minor)</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hofmann, Josef</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9026*13">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>WALTZES (ALL SOLO PIANO)</workTitle>
+                <movement>Waltz in D-flat major, Op. 64, No. 1 (Minute)</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hofmann, Josef</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="5755*">
+                <composerName>Rubinstein,  Anton</composerName>
+                <workTitle>MELODY IN F MAJOR, OP. 3, NO. 1 (SOLO PIANO)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hofmann, Josef</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>c01d635a-8fc0-4bc3-8073-3b54766cc81e-0.1</id>
         <programID>11657</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -71383,93 +71647,6 @@
     </program>
     <program>
         <id>e5a2ad02-dc61-44cf-8f10-9ba6e6a9257a-0.1</id>
-        <programID>11657</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1939-40</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1940-08-05T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Steinberg, William</conductorName>
-            </work>
-            <work ID="50064*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
-                <conductorName>Steinberg, William</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3548*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
-                <conductorName>Steinberg, William</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hofmann, Josef</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="9012*5">
-                <composerName>Chopin,  Frédéric</composerName>
-                <workTitle>POLONAISES</workTitle>
-                <movement>Polonaise Militaire in A major, Op.40, No. 1</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hofmann, Josef</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="5752*2">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>FANTASIAS OR CAPRICES, THREE [TROIS FANTAISIES OU CAPRICES]</workTitle>
-                <movement>Scherzo: Presto (E minor)</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hofmann, Josef</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="9026*13">
-                <composerName>Chopin,  Frédéric</composerName>
-                <workTitle>WALTZES (ALL SOLO PIANO)</workTitle>
-                <movement>Waltz in D-flat major, Op. 64, No. 1 (Minute)</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hofmann, Josef</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="5755*">
-                <composerName>Rubinstein,  Anton</composerName>
-                <workTitle>MELODY IN F MAJOR, OP. 3, NO. 1 (SOLO PIANO)</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hofmann, Josef</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>6fcaa718-10d1-4aa0-8619-1548a95ec6f1-0.1</id>
         <programID>11657</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
         <season>1939-40</season>
@@ -71916,14 +72093,14 @@
             </work>
             <work ID="53758*3">
                 <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>March</movement>
+                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33 A</workTitle>
+                <movement>March (Tempo di Marcia)</movement>
                 <conductorName>Freccia, Massimo</conductorName>
             </work>
             <work ID="53758*4">
                 <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33BIS</workTitle>
-                <movement>Scherzo</movement>
+                <workTitle>LOVE FOR THREE ORANGES: SUITE, OP. 33 A</workTitle>
+                <movement>Scherzo (Allegro con brio)</movement>
                 <conductorName>Freccia, Massimo</conductorName>
             </work>
         </worksInfo>
