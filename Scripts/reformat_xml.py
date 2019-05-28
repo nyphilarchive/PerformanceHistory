@@ -9,9 +9,10 @@ import os.path
 # KS 20160825: modified to add test for cases when the number of conductors, works, and composers in the input XML is unequal; in that case, it skips the worksInfo section. Will need to consider chamber works
 # os.chdir('C:/Users/schlottmannk/Desktop/pythonDebug/xml') used for debug 
 # KS 20160909: used re.split instead of str.plit for soloists, as non-ascii characters were not hitting on semincolons for some reason
+# BL 20190528: added some error handling to deal with bad soloist data; changed the xml directory for running with Python 3 in Ubuntu app for Windows
 
 # create xml element
-os.chdir('q:/Archives/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
+os.chdir('/mnt/q/Archives/Archives Digitization Project/PerformanceHistoryRepo/PerformanceHistory/Programs/xml')
 
 files = [g for g in os.listdir('.') if os.path.isfile(g)]
 for g in files:
@@ -40,17 +41,35 @@ for g in files:
     # separate soloist lists into separate individuals (and instruments and roles)
     def sortSoloistInfo(soloists,soloist_instruments,soloist_roles):
         if re.search(r';',soloists):
+
+            # add better error handling for soloists without instruments or roles
             try:
-                soloists_list = re.split('; ', soloists)
-                soloist_instruments_list = str.split(soloist_instruments,";")
-                soloist_roles_list = str.split(soloist_roles,";")
+                soloists_list = re.split(';', soloists)
+
+                try:
+                    soloist_instruments_list = soloist_instruments.split(';')
+                except:
+                    soloist_instruments_list = []
+
+                try:
+                    soloist_roles_list = soloist_roles.split(';')
+                except:
+                    soloist_roles_list = []
+
                 for x in range(0,len(soloists_list)):
                     lines.append("                    <soloist>\n")
                     lines.append("                        <soloistName>%s</soloistName>\n"%fixSpaces(soloists_list[x]))
-                    lines.append("                        <soloistInstrument>%s</soloistInstrument>\n"%fixSpaces(soloist_instruments_list[x]))
-                    lines.append("                        <soloistRoles>%s</soloistRoles>\n"%fixSpaces(soloist_roles_list[x]))
+                    try:
+                        lines.append("                        <soloistInstrument>%s</soloistInstrument>\n"%fixSpaces(soloist_instruments_list[x]))
+                    except:
+                        lines.append("                        <soloistInstrument></soloistInstrument>\n")
+
+                    try:    
+                        lines.append("                        <soloistRoles>%s</soloistRoles>\n"%fixSpaces(soloist_roles_list[x]))
+                    except:
+                        lines.append("                        <soloistRoles></soloistRoles>\n")
                     lines.append("                    </soloist>\n")
-            except:
+            except Exception as e:
                 lines.append("                    <soloist>\n")
                 lines.append("                        <soloistName>%s</soloistName>\n"%soloists)
                 lines.append("                        <soloistInstrument>%s</soloistInstrument>\n"%soloist_instruments)
@@ -108,7 +127,11 @@ for g in files:
                         try:
                             if soloists[x].text:
                                 lines.append("                <soloists>\n")
-                                sortSoloistInfo(soloists[x].text, soloist_instruments[x].text,soloist_roles[x].text)
+                                # add error handling for soloist mistakes in CARLOS data
+                                try:
+                                    sortSoloistInfo(soloists[x].text, soloist_instruments[x].text,soloist_roles[x].text)
+                                except:
+                                    pass
                                 lines.append("                </soloists>\n")
                         except:
                             pass
@@ -142,4 +165,7 @@ for g in files:
     for l in lines:
         l = re.sub(r'&', r'&amp;', l)
         f.write(l)
+    print("Finished writing ", g)
     f.close()
+
+print("All done!")
