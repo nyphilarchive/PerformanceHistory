@@ -14717,7 +14717,7 @@
         {
           "eventType": "Chamber",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "1997-02-23T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -19579,6 +19579,50 @@
       ]
     },
     {
+      "id": "f30d56c3-a5bf-4568-927b-4c0f973c39d8-0.1",
+      "programID": "8100",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1997-98",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1997-09-18T04:00:00Z",
+          "Time": "6:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6474*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "QUARTET, PIANO AND STRINGS, NO. 3, C MINOR, OP. 60",
+          "soloists": [
+            {
+              "soloistName": "McDermott, Kerry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rinehart, Robert",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Stepansky, Alan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McDermott, Anne-Marie",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "0160e82d-e1f8-4a10-a7fa-bce860f7fec9-0.1",
       "programID": "7902",
       "orchestra": "New York Philharmonic",
@@ -19638,50 +19682,6 @@
           "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
           "conductorName": "Masur, Kurt",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "f30d56c3-a5bf-4568-927b-4c0f973c39d8-0.1",
-      "programID": "8100",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1997-98",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1997-09-18T04:00:00Z",
-          "Time": "6:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6474*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "QUARTET, PIANO AND STRINGS, NO. 3, C MINOR, OP. 60",
-          "soloists": [
-            {
-              "soloistName": "McDermott, Kerry",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rinehart, Robert",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Stepansky, Alan",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "McDermott, Anne-Marie",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -44425,7 +44425,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Barron, Farrid",
+              "soloistName": "Barron, Farid",
               "soloistInstrument": "Piano",
               "soloistRoles": "A"
             }
@@ -54186,7 +54186,7 @@
         {
           "eventType": "Chamber",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2001-04-01T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -79768,7 +79768,7 @@
           "ID": "51581*2",
           "composerName": "Ravel,  Maurice",
           "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "movement": "Pantomime",
+          "movement": "Pantomime (Pantomime)",
           "conductorName": "Neale, Alasdair",
           "soloists": []
         },
@@ -79776,7 +79776,7 @@
           "ID": "51581*3",
           "composerName": "Ravel,  Maurice",
           "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "movement": "General Dance",
+          "movement": "Danse générale (General Dance)",
           "conductorName": "Neale, Alasdair",
           "soloists": []
         }
@@ -88393,7 +88393,7 @@
         },
         {
           "ID": "8654*",
-          "composerName": "Cohan,  George  Michael",
+          "composerName": "Cohan,  George  M.",
           "workTitle": "MEDLEY (BRASS) (ARR. Frackenpohl)",
           "soloists": [
             {
