@@ -36566,12 +36566,12 @@
             {
               "soloistName": "Rence, Dorian",
               "soloistInstrument": "Writer/Narrator",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Schoevaert, Marion",
               "soloistInstrument": "Illustrator",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         }
@@ -51285,7 +51285,7 @@
             {
               "soloistName": "Young, Rebecca",
               "soloistInstrument": "Narrator",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -51322,12 +51322,12 @@
             {
               "soloistName": "Young, Rebecca",
               "soloistInstrument": "Narrator",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Schoevaert, Marion",
               "soloistInstrument": "Illustrator",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         }
@@ -74945,7 +74945,7 @@
             },
             {
               "soloistName": "China Philharmonic Orchestra",
-              "soloistInstrument": "",
+              "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
             }
           ]
@@ -74963,7 +74963,7 @@
           "soloists": [
             {
               "soloistName": "China Philharmonic Orchestra",
-              "soloistInstrument": "None",
+              "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
             }
           ]
@@ -90080,7 +90080,7 @@
             {
               "soloistName": "Cossin, David",
               "soloistInstrument": "Percussion",
-              "soloistRoles": ""
+              "soloistRoles": "S"
             }
           ]
         },
@@ -95408,7 +95408,11 @@
           "workTitle": "THERE WILL BE BLOOD",
           "conductorName": "Brunt, Hugh",
           "soloists": [
-            null
+            {
+              "soloistName": "Kim, Michelle",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
           ]
         }
       ]
@@ -96341,28 +96345,28 @@
       "season": "2018-19",
       "concerts": [
         {
-          "eventType": "MUTED",
+          "eventType": "Chamber",
           "Location": "Brooklyn, NY",
           "Venue": "National Sawdust",
           "Date": "2018-10-08T04:00:00Z",
           "Time": "7:00PM"
         },
         {
-          "eventType": "MUTED",
+          "eventType": "Chamber",
           "Location": "Brooklyn, NY",
           "Venue": "National Sawdust",
           "Date": "2018-10-08T04:00:00Z",
           "Time": "9:00PM"
         },
         {
-          "eventType": "MUTED",
+          "eventType": "Chamber",
           "Location": "Brooklyn, NY",
           "Venue": "National Sawdust",
           "Date": "2018-10-09T04:00:00Z",
           "Time": "7:00PM"
         },
         {
-          "eventType": "MUTED",
+          "eventType": "Chamber",
           "Location": "Brooklyn, NY",
           "Venue": "National Sawdust",
           "Date": "2018-10-09T04:00:00Z",
@@ -96375,7 +96379,31 @@
           "composerName": "VARIOUS,",
           "workTitle": "MUTED",
           "soloists": [
-            null
+            {
+              "soloistName": "Germino, Monica",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Germino, Monica",
+              "soloistInstrument": "Voice",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ganzevoort, Florian",
+              "soloistInstrument": "Theatermachine",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ganzevoort, Florian",
+              "soloistInstrument": "Stage design",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ganzevoort, Florian",
+              "soloistInstrument": "Lighting Designer",
+              "soloistRoles": "A"
+            }
           ]
         }
       ]
@@ -103582,6 +103610,30 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "ed637531-abb2-41f3-83a2-94494f5f716e-0.1",
+      "programID": "14250",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "St. John the Divine",
+          "Location": "Manhattan, NY",
+          "Venue": "The Cathedral Church of Saint John the Divine",
+          "Date": "2019-05-27T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1551*",
+          "composerName": "Bruckner,  Anton",
+          "workTitle": "SYMPHONY NO. 8, C MINOR",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
         }
       ]
     }
