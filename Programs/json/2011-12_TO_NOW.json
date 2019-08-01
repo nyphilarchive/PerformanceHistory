@@ -2452,7 +2452,7 @@
         {
           "eventType": "Chamber",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2011-11-20T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -10474,7 +10474,7 @@
         {
           "eventType": "Chamber",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2012-06-17T04:00:00Z",
           "Time": "3:00PM"
         }
@@ -10497,7 +10497,7 @@
             },
             {
               "soloistName": "Okamoto, Satoshi",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             },
             {
@@ -10519,7 +10519,7 @@
             },
             {
               "soloistName": "Grossman, David J.",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             }
           ]
@@ -15259,7 +15259,7 @@
         {
           "eventType": "Chamber",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2012-11-18T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -50318,6 +50318,130 @@
       ]
     },
     {
+      "id": "906fd10a-843e-4f47-9c8e-d9a6a1274904-0.1",
+      "programID": "13770",
+      "orchestra": "New York Philharmonic",
+      "season": "2014-15",
+      "concerts": [
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2015-03-06T05:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5801*1",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "Overture",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "5801*2",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "1. Scherzo: Allegro vivace",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "5801*4",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": {
+            "_": "No. 3: Song with Chorus",
+            "em": "Come, now a roundel, and a fairy song,"
+          },
+          "conductorName": "Lewis, Courtney",
+          "soloists": [
+            {
+              "soloistName": "Price, Christine",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Verrez, Virginie",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Brooklyn Youth Chorus",
+              "soloistInstrument": "Children's Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "5801*18",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "Elfin (Fairy) March (excerpt from No. 2)",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "5801*12",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "11. A Dance of Clowns",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "11846*",
+          "composerName": "Kravath,  Lilly",
+          "workTitle": "SUNSET - SUNRISE",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "11840*",
+          "composerName": "Lubetsky,  Maya",
+          "workTitle": "NIGHT SKY",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "11845*",
+          "composerName": "Siguencia,  Marvin",
+          "workTitle": "HOUSE AT THE END OF THE ABANDONED STREET, THE",
+          "conductorName": "Lewis, Courtney",
+          "soloists": []
+        },
+        {
+          "ID": "5801*14",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": {
+            "_": "No. 13: Finale",
+            "em": "Through this house give glimmering light,"
+          },
+          "conductorName": "Lewis, Courtney",
+          "soloists": [
+            {
+              "soloistName": "Price, Christine",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Verrez, Virginie",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Brooklyn Youth Chorus",
+              "soloistInstrument": "Children's Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e9fc795b-0b3f-4b8a-af11-9a464bc211e2-0.1",
       "programID": "13769",
       "orchestra": "New York Philharmonic",
@@ -50440,22 +50564,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "906fd10a-843e-4f47-9c8e-d9a6a1274904-0.1",
-      "programID": "13770",
-      "orchestra": "New York Philharmonic",
-      "season": "2014-15",
-      "concerts": [
-        {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2015-03-06T05:00:00Z",
-          "Time": "12:00PM"
-        }
-      ],
-      "works": []
     },
     {
       "id": "19eee015-834a-4323-8263-840e8bba8f72-0.1",
@@ -57037,21 +57145,21 @@
         {
           "eventType": "Very Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2015-11-08T05:00:00Z",
           "Time": "12:30PM"
         },
         {
           "eventType": "Very Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2015-11-08T05:00:00Z",
           "Time": "3:00PM"
         },
         {
           "eventType": "Very Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Merkin Concert Hall",
+          "Venue": "Merkin Hall",
           "Date": "2015-11-09T05:00:00Z",
           "Time": "10:30AM"
         }
@@ -57095,7 +57203,7 @@
             },
             {
               "soloistName": "Zeugner, Max",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             }
           ]
@@ -57132,7 +57240,7 @@
             },
             {
               "soloistName": "Zeugner, Max",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             },
             {
@@ -57415,7 +57523,7 @@
             },
             {
               "soloistName": "Zeugner, Max",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             }
           ]
@@ -57452,7 +57560,7 @@
             },
             {
               "soloistName": "Zeugner, Max",
-              "soloistInstrument": "Contrabass",
+              "soloistInstrument": "Double Bass",
               "soloistRoles": "A"
             },
             {
@@ -68442,115 +68550,6 @@
       ]
     },
     {
-      "id": "c85ca43f-fdbe-4ac3-8df3-dfce16d8cb05-0.1",
-      "programID": "13647",
-      "orchestra": "New York Philharmonic",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Rose Theater",
-          "Date": "2016-06-02T04:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Rose Theater",
-          "Date": "2016-06-03T04:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Rose Theater",
-          "Date": "2016-06-04T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11782*",
-          "composerName": "Barry,  Gerald",
-          "workTitle": "IMPORTANCE OF BEING EARNEST, THE",
-          "conductorName": "Volkov, Ilan",
-          "soloists": [
-            {
-              "soloistName": "Wilding, Simon",
-              "soloistInstrument": "Bass",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Nelson, Benedict",
-              "soloistInstrument": "Baritone",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Curievici, Paul",
-              "soloistInstrument": "Tenor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Marshall, Stephanie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Ewing, Alan",
-              "soloistInstrument": "Bass",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Summers, Hilary",
-              "soloistInstrument": "Contralto",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Boyle, Claudia",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "West, Kevin",
-              "soloistInstrument": "Actor",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Gray, Ramin",
-              "soloistInstrument": "Director",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Clark, Ben",
-              "soloistInstrument": "Associate Set Design",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Cunningham, Christina",
-              "soloistInstrument": "Costume Designer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "David, Franz Peter",
-              "soloistInstrument": "Lighting Designer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Baugh, Leon",
-              "soloistInstrument": "Movement Director",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "ca84d8ae-3788-4d51-a68d-55f62fa969b8-0.1",
       "programID": "13646",
       "orchestra": "New York Philharmonic",
@@ -68715,6 +68714,115 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "c85ca43f-fdbe-4ac3-8df3-dfce16d8cb05-0.1",
+      "programID": "13647",
+      "orchestra": "New York Philharmonic",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Rose Theater",
+          "Date": "2016-06-02T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Rose Theater",
+          "Date": "2016-06-03T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Rose Theater",
+          "Date": "2016-06-04T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "11782*",
+          "composerName": "Barry,  Gerald",
+          "workTitle": "IMPORTANCE OF BEING EARNEST, THE",
+          "conductorName": "Volkov, Ilan",
+          "soloists": [
+            {
+              "soloistName": "Wilding, Simon",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Nelson, Benedict",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Curievici, Paul",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Marshall, Stephanie",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Ewing, Alan",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Summers, Hilary",
+              "soloistInstrument": "Contralto",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Boyle, Claudia",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "West, Kevin",
+              "soloistInstrument": "Actor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gray, Ramin",
+              "soloistInstrument": "Director",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Clark, Ben",
+              "soloistInstrument": "Associate Set Design",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Cunningham, Christina",
+              "soloistInstrument": "Costume Designer",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "David, Franz Peter",
+              "soloistInstrument": "Lighting Design",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Baugh, Leon",
+              "soloistInstrument": "Movement Director",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
         }
       ]
     },
@@ -69498,6 +69606,169 @@
       ]
     },
     {
+      "id": "35a48910-02b6-4038-98ae-d4a5ba1fbda4-0.1",
+      "programID": "14044",
+      "orchestra": "NYP Presentation",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2016-06-05T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12394*",
+          "composerName": "Higdon,  Jennifer",
+          "workTitle": "MACHINE",
+          "conductorName": "Rountree, Christopher",
+          "soloists": [
+            {
+              "soloistName": "Interlochen Arts Academy Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12395*",
+          "composerName": "Lash,  Hannah",
+          "workTitle": "CHACONNES",
+          "conductorName": "Rountree, Christopher",
+          "soloists": [
+            {
+              "soloistName": "Interlochen Arts Academy Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12396*",
+          "composerName": "Fure,  Ashley",
+          "workTitle": "BOUND TO THE BOW, ORCHESTRA AND ELECTRONICS",
+          "conductorName": "Rountree, Christopher",
+          "soloists": [
+            {
+              "soloistName": "Interlochen Arts Academy Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12397*",
+          "composerName": "Muhly,  Nico",
+          "workTitle": "SO FAR SO GOOD",
+          "conductorName": "Rountree, Christopher",
+          "soloists": [
+            {
+              "soloistName": "Interlochen Arts Academy Dance Company",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Interlochen Arts Academy Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Williams, Christopher",
+              "soloistInstrument": "Choreographer",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12398*",
+          "composerName": "Muhly,  Nico",
+          "workTitle": "THE GOOD SO FAR",
+          "conductorName": "Rountree, Christopher",
+          "soloists": [
+            {
+              "soloistName": "Interlochen Arts Academy Dance Company",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Williams, Christopher",
+              "soloistInstrument": "Choreographer",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Interlochen Arts Academy Orchestra",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30f5da29-fce8-4388-8862-47bc25545546-0.1",
+      "programID": "14042",
+      "orchestra": "NYP Presentation",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Metropolitan Museum of Art",
+          "Date": "2016-06-05T04:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12389*",
+          "composerName": "Grisey,  Gerard",
+          "workTitle": "TALEA",
+          "conductorName": "Fulmer, David",
+          "soloists": [
+            {
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12390*",
+          "composerName": "Zorn,  John",
+          "workTitle": "REMEDY OF FORTUNE",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Mivos Quartet",
+              "soloistInstrument": "String Quartet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8743*",
+          "composerName": "Ligeti,  György",
+          "workTitle": "CONCERTO, VIOLIN",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Kuusisto, Pekka",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5a420032-3de1-4f56-bb93-55ab282d7691-0.1",
       "programID": "14050",
       "orchestra": "NYP Presentation",
@@ -69740,169 +70011,6 @@
             {
               "soloistName": "Arnone, Francesca",
               "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "35a48910-02b6-4038-98ae-d4a5ba1fbda4-0.1",
-      "programID": "14044",
-      "orchestra": "NYP Presentation",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
-          "Date": "2016-06-05T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "12394*",
-          "composerName": "Higdon,  Jennifer",
-          "workTitle": "MACHINE",
-          "conductorName": "Rountree, Christopher",
-          "soloists": [
-            {
-              "soloistName": "Interlochen Arts Academy Orchestra",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12395*",
-          "composerName": "Lash,  Hannah",
-          "workTitle": "CHACONNES",
-          "conductorName": "Rountree, Christopher",
-          "soloists": [
-            {
-              "soloistName": "Interlochen Arts Academy Orchestra",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12396*",
-          "composerName": "Fure,  Ashley",
-          "workTitle": "BOUND TO THE BOW, ORCHESTRA AND ELECTRONICS",
-          "conductorName": "Rountree, Christopher",
-          "soloists": [
-            {
-              "soloistName": "Interlochen Arts Academy Orchestra",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12397*",
-          "composerName": "Muhly,  Nico",
-          "workTitle": "SO FAR SO GOOD",
-          "conductorName": "Rountree, Christopher",
-          "soloists": [
-            {
-              "soloistName": "Interlochen Arts Academy Dance Company",
-              "soloistInstrument": "Ensemble",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Interlochen Arts Academy Orchestra",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Williams, Christopher",
-              "soloistInstrument": "Choreographer",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12398*",
-          "composerName": "Muhly,  Nico",
-          "workTitle": "THE GOOD SO FAR",
-          "conductorName": "Rountree, Christopher",
-          "soloists": [
-            {
-              "soloistName": "Interlochen Arts Academy Dance Company",
-              "soloistInstrument": "Ensemble",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Williams, Christopher",
-              "soloistInstrument": "Choreographer",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Interlochen Arts Academy Orchestra",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "30f5da29-fce8-4388-8862-47bc25545546-0.1",
-      "programID": "14042",
-      "orchestra": "NYP Presentation",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Museum of Art",
-          "Date": "2016-06-05T04:00:00Z",
-          "Time": "2:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "12389*",
-          "composerName": "Grisey,  Gerard",
-          "workTitle": "TALEA",
-          "conductorName": "Fulmer, David",
-          "soloists": [
-            {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12390*",
-          "composerName": "Zorn,  John",
-          "workTitle": "REMEDY OF FORTUNE",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Mivos Quartet",
-              "soloistInstrument": "String Quartet",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8743*",
-          "composerName": "Ligeti,  György",
-          "workTitle": "CONCERTO, VIOLIN",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Kuusisto, Pekka",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
             }
           ]
@@ -105539,6 +105647,19 @@
           ]
         },
         {
+          "ID": "9680*2",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "PIANO PIECES, SIX, OP. 118",
+          "movement": "No. 2 Intermezzo in A major",
+          "soloists": [
+            {
+              "soloistName": "Cho, Seong-Jin",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
           "ID": "0*",
           "interval": "Intermission",
           "soloists": []
@@ -105547,6 +105668,14 @@
           "ID": "51870*",
           "composerName": "Brahms,  Johannes",
           "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "8902*20",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance No. 5 (Parlow)",
           "conductorName": "van Zweden, Jaap",
           "soloists": []
         }
@@ -105584,6 +105713,672 @@
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
           "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "d7bfa9d2-a412-41f5-9033-827b56302f73-0.1",
+      "programID": "14460",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "East Hampton, NY",
+          "Venue": "Guild Hall",
+          "Date": "2019-07-13T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5866*",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "PASSACAGLIA FOR VIOLIN AND VIOLA (OR CELLO) (ARR. Halvorsen)",
+          "soloists": []
+        },
+        {
+          "ID": "11792*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "DUETTO, D MAJOR, FOR CELLO AND BASS",
+          "movement": "Andante Molto",
+          "soloists": []
+        },
+        {
+          "ID": "11792*3",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "DUETTO, D MAJOR, FOR CELLO AND BASS",
+          "movement": "Allegro",
+          "soloists": []
+        },
+        {
+          "ID": "13056*",
+          "composerName": "Paganini,  Nicolò",
+          "workTitle": "CANTABILE FOR VIOLIN AND PIANO",
+          "soloists": []
+        },
+        {
+          "ID": "8432*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM: SCHERZO (ARR. Rachmaninoff)",
+          "soloists": []
+        },
+        {
+          "ID": "13057*",
+          "composerName": "Bottesini,  Giovanni",
+          "workTitle": "GRAN DUO FOR CLARINET AND DOUBLE BASS",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3807*2",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "QUINTET, CLARINET, STRING QUARTET, B MINOR, OP.115",
+          "movement": "Adagio",
+          "soloists": []
+        },
+        {
+          "ID": "8509*1",
+          "composerName": "Glinka,  Mikhail",
+          "workTitle": "SEXTET, E-FLAT MAJOR",
+          "movement": "Allegro",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "42dfff40-8df9-4a6e-9dda-25ef905d99e4-0.1",
+      "programID": "14144",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-17T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "12535*",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "CHAMBER SYMPHONY (AFTER STRING QUARTET NO. 8), OP. 110A (ARR. Barshai)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "1809*24",
+          "composerName": "To Be Announced,",
+          "workTitle": " ",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "ec07ce2a-ca56-4fbb-a859-c434397166ee-0.1",
+      "programID": "14269",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-18T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9001*12",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "7320*5",
+          "composerName": "Korngold,  Erich",
+          "workTitle": "ADVENTURES OF ROBIN HOOD, SUITE",
+          "movement": "Fanfare from Old England, The Poor People",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "7320*3",
+          "composerName": "Korngold,  Erich",
+          "workTitle": "ADVENTURES OF ROBIN HOOD, SUITE",
+          "movement": "Love Scene",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "12931*",
+          "composerName": "Herrmann,  Bernard",
+          "workTitle": "VERTIGO SUITE",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "50387*",
+          "composerName": "Gershwin,  George",
+          "workTitle": "AMERICAN IN PARIS, AN",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12932*1",
+          "composerName": "Jarre,  Maurice",
+          "workTitle": "LAWRENCE OF ARABIA",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "50296*10",
+          "composerName": "Elgar,  Sir  Edward",
+          "workTitle": "ENIGMA VARIATIONS, OP. 36",
+          "movement": "IX. (Nimrod)",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "12933*",
+          "composerName": "Waxman,  Franz",
+          "workTitle": "SUNSET BOULEVARD SUITE",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "9148*",
+          "composerName": "Williams,  John",
+          "workTitle": "SUPERMAN, MARCH",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "12271*2",
+          "composerName": "Williams,  John",
+          "workTitle": "FORCE AWAKENS, THE",
+          "movement": "Rey's Theme",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "9177*1",
+          "composerName": "Williams,  John",
+          "workTitle": "RAIDERS OF THE LOST ARK",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "6406*5",
+          "composerName": "Williams,  John",
+          "workTitle": "STAR WARS SUITE",
+          "movement": "Throne Room and End Title",
+          "conductorName": "Joel, Alexander",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "dffa6ebb-4411-431c-9f48-b5c9feec37f2-0.1",
+      "programID": "14284",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-19T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51924*",
+          "composerName": "Britten,  Benjamin",
+          "workTitle": "CONCERTO, VIOLIN, OP. 15",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Hadelich, Augustin",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "None"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53988*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "1809*24",
+          "composerName": "To Be Announced,",
+          "workTitle": " ",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "971a2d0c-d686-4fec-adaa-62b8867194c6-0.1",
+      "programID": "14285",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-20T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3441*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.19",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Tao, Conrad",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51870*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "1809*24",
+          "composerName": "To Be Announced,",
+          "workTitle": " ",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "743c2388-b452-4839-8df3-65eec83fec5f-0.1",
+      "programID": "14286",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-23T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13000*",
+          "composerName": "Porter,  Cole",
+          "workTitle": "PORTER'S OVERTURE A",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": []
+        },
+        {
+          "ID": "13001*1",
+          "composerName": "Porter,  Cole",
+          "workTitle": "PARIS",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3915*1",
+          "composerName": "Porter,  Cole",
+          "workTitle": "SILK STOCKINGS",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Gilfry, Rod",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10869*5",
+          "composerName": "Porter,  Cole",
+          "workTitle": "CAN-CAN",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Johnson Cano, Jennifer",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Tovey, Bramwell",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10869*2",
+          "composerName": "Porter,  Cole",
+          "workTitle": "CAN-CAN",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": []
+        },
+        {
+          "ID": "10870*6",
+          "composerName": "Porter,  Cole",
+          "workTitle": "ANYTHING GOES",
+          "movement": "\"I Get a Kick Out of You\"",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10870*7",
+          "composerName": "Porter,  Cole",
+          "workTitle": "ANYTHING GOES",
+          "movement": "\"You're the Top\" (arr. Bennett)",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10870*4",
+          "composerName": "Porter,  Cole",
+          "workTitle": "ANYTHING GOES",
+          "movement": "Blow, Gabriel, Blow (arr. Bennett)",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Johnson Cano, Jennifer",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10872*1",
+          "composerName": "Porter,  Cole",
+          "workTitle": "JUBILEE",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Gilfry, Rod",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Johnson Cano, Jennifer",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13002*",
+          "composerName": "Porter,  Cole",
+          "workTitle": "PORTER'S OVERTURE B (ARR. Bennett)",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": []
+        },
+        {
+          "ID": "10871*8",
+          "composerName": "Porter,  Cole",
+          "workTitle": "KISS ME KATE",
+          "movement": "\"So in Love\" (arr. Bennett)",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10871*6",
+          "composerName": "Porter,  Cole",
+          "workTitle": "KISS ME KATE",
+          "movement": "\"Were Thine That Special Face\"",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10871*4",
+          "composerName": "Porter,  Cole",
+          "workTitle": "KISS ME KATE",
+          "movement": "\"Wunderbar\"",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gilfry, Rod",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10871*10",
+          "composerName": "Porter,  Cole",
+          "workTitle": "KISS ME KATE",
+          "movement": "\"Why Can't You Behave\"",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Johnson Cano, Jennifer",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Tovey, Bramwell",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10871*9",
+          "composerName": "Porter,  Cole",
+          "workTitle": "KISS ME KATE",
+          "movement": "\"Too Darn Hot\" (arr. Lang)",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gilfry, Rod",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8795*1",
+          "composerName": "Porter,  Cole",
+          "workTitle": "GAY DIVORCE",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Cabell, Nicole",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Johnson Cano, Jennifer",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Bliss, Ben",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gilfry, Rod",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "183e999c-59f8-45fb-ae8e-68ecc0a6c83d-0.1",
+      "programID": "14287",
+      "orchestra": "New York Philharmonic",
+      "season": "2018-19",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vail, CO",
+          "Venue": "Gerald R. Ford Amphitheater",
+          "Date": "2019-07-24T04:00:00Z",
+          "Time": "6:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5801*10",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "9. Wedding March: Allegro vivace",
+          "conductorName": "Browning, Doe",
+          "soloists": []
+        },
+        {
+          "ID": "2214*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "CONCERTO, PIANO, NO. 3, D MINOR, OP. 30",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "None"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Tovey, Bramwell",
+          "soloists": []
+        },
+        {
+          "ID": "1809*24",
+          "composerName": "To Be Announced,",
+          "workTitle": " ",
+          "conductorName": "Tovey, Bramwell",
           "soloists": []
         }
       ]
