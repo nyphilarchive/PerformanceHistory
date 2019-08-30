@@ -3894,6 +3894,46 @@
         </worksInfo>
     </program>
     <program>
+        <id>ce0dcee3-5b31-4c60-a81b-eb2a726a2f7c-0.1</id>
+        <programID>4907</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1955-56</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1956-01-28T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="9181*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>IDOMENEO, K.366: SUITE (ARR. Busoni)</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="51107*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, VIOLIN NO. 7, D MAJOR, K.271I (OLD K.271A)</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bagarotti, Giovanni</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53071*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 2, C MAJOR, OP. 61</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>c3df8042-58ee-4f26-906c-8f018241f706-0.1</id>
         <programID>1935</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -4084,46 +4124,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>ce0dcee3-5b31-4c60-a81b-eb2a726a2f7c-0.1</id>
-        <programID>4907</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1955-56</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1956-01-28T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="9181*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>IDOMENEO, K.366: SUITE (ARR. Busoni)</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="51107*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, VIOLIN NO. 7, D MAJOR, K.271I (OLD K.271A)</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bagarotti, Giovanni</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53071*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 2, C MAJOR, OP. 61</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -7999,7 +7999,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="5418*">
@@ -8966,7 +8966,7 @@
             <work ID="10871*5">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>KISS ME KATE</workTitle>
-                <movement>"Another Openin', Another Show"</movement>
+                <movement>"Another Op'nin', Another Show"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9073,7 +9073,7 @@
             <work ID="10870*3">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>ANYTHING GOES</workTitle>
-                <movement>I Get a Kick Out of You</movement>
+                <movement>"I Get a Kick Out of You"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9086,7 +9086,7 @@
             <work ID="10870*4">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>ANYTHING GOES</workTitle>
-                <movement>Blow, Gabriel, Blow (arr. Bennett)</movement>
+                <movement>"Blow, Gabriel, Blow" (arr. Bennett)</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9104,6 +9104,7 @@
             <work ID="10872*1">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>JUBILEE</workTitle>
+                <movement>"Begin the Beguine"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9136,6 +9137,7 @@
             <work ID="10872*2">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>JUBILEE</workTitle>
+                <movement>Just One of Those Things</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
             </work>
             <work ID="3882*1">
@@ -9172,6 +9174,7 @@
             <work ID="3915*1">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>SILK STOCKINGS</workTitle>
+                <movement>"All of You"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9197,11 +9200,13 @@
             <work ID="10869*2">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>CAN-CAN</workTitle>
+                <movement>"Can-Can"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
             </work>
             <work ID="10869*3">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>CAN-CAN</workTitle>
+                <movement>"It's All Right with Me"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9214,6 +9219,7 @@
             <work ID="10869*4">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>CAN-CAN</workTitle>
+                <movement>"Allez-vous-en"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9226,6 +9232,7 @@
             <work ID="10869*5">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>CAN-CAN</workTitle>
+                <movement>"I Love Paris"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -9287,6 +9294,7 @@
             <work ID="8795*1">
                 <composerName>Porter,  Cole</composerName>
                 <workTitle>GAY DIVORCE</workTitle>
+                <movement>"Night and Day"</movement>
                 <conductorName>Rosenstock, Milton</conductorName>
                 <soloists>
                     <soloist>
@@ -11607,7 +11615,7 @@
         <worksInfo>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="2569*">
@@ -16092,7 +16100,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="52127*">
@@ -21342,7 +21350,7 @@
             </work>
             <work ID="8948*6">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>COSÌ FAN TUTTE, K.588</workTitle>
+                <workTitle>COSI FAN TUTTE, K.588</workTitle>
                 <movement>"Per Pieta," Fiordiligi, Act II, scene vii</movement>
                 <conductorName>Previtali, Fernando</conductorName>
                 <soloists>
@@ -21398,7 +21406,7 @@
             </work>
             <work ID="8948*6">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>COSÌ FAN TUTTE, K.588</workTitle>
+                <workTitle>COSI FAN TUTTE, K.588</workTitle>
                 <movement>"Per Pieta," Fiordiligi, Act II, scene vii</movement>
                 <conductorName>Previtali, Fernando</conductorName>
                 <soloists>
@@ -22551,7 +22559,7 @@
         <worksInfo>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="2877*">
@@ -25029,7 +25037,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="4759*">
@@ -25054,7 +25062,7 @@
         <worksInfo>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
             </work>
             <work ID="2143*">
@@ -25297,7 +25305,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -25393,7 +25401,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -25493,7 +25501,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="0*">
@@ -25544,7 +25552,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -25653,7 +25661,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -25854,7 +25862,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -25945,7 +25953,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -26081,7 +26089,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="50064*">
@@ -26129,7 +26137,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -26320,7 +26328,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="715*">
@@ -26979,7 +26987,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="0*">
@@ -27022,7 +27030,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="0*">
@@ -27107,7 +27115,7 @@
             <work ID="5328*">
                 <composerName>Yoder,  Paul  V.</composerName>
                 <workTitle>PARADE OF THE CHAMPIONS</workTitle>
-                <conductorName>Celebre, John</conductorName>
+                <conductorName>Celebre, John W</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>New York City Department of Sanitation Band</soloistName>
@@ -27119,7 +27127,7 @@
             <work ID="3965*">
                 <composerName>Anthem,</composerName>
                 <workTitle>UNITED STATES</workTitle>
-                <conductorName>Celebre, John</conductorName>
+                <conductorName>Celebre, John W</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>New York City Department of Sanitation Band</soloistName>
@@ -28091,7 +28099,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="52127*">
@@ -32571,7 +32579,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="52127*">
@@ -32675,7 +32683,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="52127*">
@@ -32916,7 +32924,7 @@
             <work ID="50312*">
                 <composerName>Elgar,  Sir  Edward</composerName>
                 <workTitle>INTRODUCTION AND ALLEGRO, OP. 47</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Corigliano, John, Sr.</soloistName>
@@ -32943,7 +32951,7 @@
             <work ID="2579*">
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Bachauer, Gina</soloistName>
@@ -32958,7 +32966,7 @@
             <work ID="50331*">
                 <composerName>Vaughan Williams,  Ralph</composerName>
                 <workTitle>SYMPHONY NO. 8, D MINOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -32978,12 +32986,12 @@
             <work ID="50566*">
                 <composerName>Arnold,  Sir  Malcolm</composerName>
                 <workTitle>TAM O'SHANTER OVERTURE, OP. 51</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="2579*">
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 2, B FLAT MAJOR, OP.83</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Bachauer, Gina</soloistName>
@@ -32998,7 +33006,7 @@
             <work ID="53344*">
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SYMPHONY NO. 8, G MAJOR, OP.88 (OLD NO. 4)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -33032,12 +33040,12 @@
             <work ID="51075*">
                 <composerName>Barbirolli,  John</composerName>
                 <workTitle>ELIZABETHAN SUITE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="52076*">
                 <composerName>Haydn,  Franz  Joseph</composerName>
                 <workTitle>SYMPHONY NO.  88, G MAJOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="0*">
                 <interval>Intermission</interval>
@@ -33045,7 +33053,7 @@
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -33065,12 +33073,12 @@
             <work ID="51075*">
                 <composerName>Barbirolli,  John</composerName>
                 <workTitle>ELIZABETHAN SUITE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="52098*">
                 <composerName>Walton,  William</composerName>
                 <workTitle>CONCERTO, VIOLIN</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Corigliano, John, Sr.</soloistName>
@@ -33085,7 +33093,7 @@
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -33127,37 +33135,37 @@
                 <composerName>Weber,  Carl  Maria Von</composerName>
                 <workTitle>FREISCHUTZ, DER</workTitle>
                 <movement>Overture</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="1930*1">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
                 <movement>Mars, the Bringer of War</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="1930*2">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
                 <movement>Venus, the Bringer of Peace</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="1930*3">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
                 <movement>Mercury, the Winged Messenger</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="1930*6">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
                 <movement>Uranus, the Magician</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="1930*4">
                 <composerName>Holst,  Gustav</composerName>
                 <workTitle>PLANETS, THE, OP. 32</workTitle>
                 <movement>Jupiter, the Bringer of Jollity</movement>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="0*">
                 <interval>Intermission</interval>
@@ -33165,7 +33173,7 @@
             <work ID="3685*">
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Senofsky, Berl</soloistName>
@@ -33213,7 +33221,7 @@
             <work ID="53380*">
                 <composerName>Elgar,  Sir  Edward</composerName>
                 <workTitle>DREAM OF GERONTIUS, OP.38</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Forrester, Maureen</soloistName>
@@ -33481,58 +33489,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>cc194de0-e3fc-40da-9708-6b79a0824dfb-0.1</id>
-        <programID>1617</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1958-59</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1959-02-08T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="54133*">
-                <composerName>Harris,  Roy</composerName>
-                <workTitle>WHEN JOHNNY COMES MARCHING HOME</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="51988*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>CONCERTO FOR PIANO AND WIND INSTRUMENTS</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Lipkin, Seymour</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50731*">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>KONZERTSTUCK IN F MINOR FOR PIANO, OP.79</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Lipkin, Seymour</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="402*">
-                <composerName>Shostakovich,  Dmitri</composerName>
-                <workTitle>SYMPHONY NO.  5, D MINOR, OP. 47</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>b116d35c-be66-452c-9c7c-f7e8129245a0-0.1</id>
         <programID>1619</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -33633,6 +33589,58 @@
                 <composerName>Gershwin,  George</composerName>
                 <workTitle>PRELUDE, NO. 2 (ARR. Filippi)</workTitle>
                 <conductorName>Kostelanetz, Andre</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>cc194de0-e3fc-40da-9708-6b79a0824dfb-0.1</id>
+        <programID>1617</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1958-59</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1959-02-08T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="54133*">
+                <composerName>Harris,  Roy</composerName>
+                <workTitle>WHEN JOHNNY COMES MARCHING HOME</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="51988*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>CONCERTO FOR PIANO AND WIND INSTRUMENTS</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lipkin, Seymour</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50731*">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>KONZERTSTUCK IN F MINOR FOR PIANO, OP.79</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Lipkin, Seymour</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="402*">
+                <composerName>Shostakovich,  Dmitri</composerName>
+                <workTitle>SYMPHONY NO.  5, D MINOR, OP. 47</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -33980,7 +33988,7 @@
             </work>
             <work ID="50387*1">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <movement>Excerpt</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
@@ -37861,7 +37869,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="52127*">
@@ -46998,7 +47006,7 @@
             </work>
             <work ID="8948*6">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>COSÌ FAN TUTTE, K.588</workTitle>
+                <workTitle>COSI FAN TUTTE, K.588</workTitle>
                 <movement>"Per Pieta," Fiordiligi, Act II, scene vii</movement>
                 <conductorName>Jenkins, Newell</conductorName>
                 <soloists>
@@ -47210,7 +47218,7 @@
                 <conductorName>Machado, Roger</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -47333,7 +47341,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -47613,7 +47621,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="52134*">
@@ -50555,54 +50563,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a4c46af2-e05e-49db-bc66-af9496a4297c-0.1</id>
-        <programID>6891</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1959-60</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Vancouver, BC, CANADA</Location>
-            <Venue>The Forum</Venue>
-            <Date>1960-08-16T04:00:00Z</Date>
-            <Time>11:30AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51710*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>SEMIRAMIDE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52389*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="3395*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52644*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
-                <conductorName>Stanger, Russell</conductorName>
-            </work>
-            <work ID="9000*1">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>RIENZI, WWV 49</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Stanger, Russell</conductorName>
-            </work>
-            <work ID="7599*1">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>CANDIDE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>10beb999-8c99-47fe-b543-e006f003187c-0.1</id>
         <programID>2309</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -50650,6 +50610,54 @@
                 <composerName>Stravinsky,  Igor</composerName>
                 <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
                 <movement>Infernal Dance of King Kashchei</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a4c46af2-e05e-49db-bc66-af9496a4297c-0.1</id>
+        <programID>6891</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1959-60</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Vancouver, BC, CANADA</Location>
+            <Venue>The Forum</Venue>
+            <Date>1960-08-16T04:00:00Z</Date>
+            <Time>11:30AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51710*1">
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>SEMIRAMIDE</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52389*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="3395*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52644*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
+                <conductorName>Stanger, Russell</conductorName>
+            </work>
+            <work ID="9000*1">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>RIENZI, WWV 49</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Stanger, Russell</conductorName>
+            </work>
+            <work ID="7599*1">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>CANDIDE</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -51485,48 +51493,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>996ee8e6-0e76-4486-b743-b5776f2ea3b0-0.1</id>
-        <programID>6226</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1960-61</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Chicago, IL</Location>
-            <Venue>Opera House</Venue>
-            <Date>1960-09-10T04:00:00Z</Date>
-            <Time>1:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51710*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>SEMIRAMIDE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52389*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="3395*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52644*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
-                <conductorName>Stanger, Russell</conductorName>
-            </work>
-            <work ID="7599*1">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>CANDIDE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>11ec490a-3f11-4fce-8ae7-26000f6b06fc-0.1</id>
         <programID>6667</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -51568,6 +51534,48 @@
                 <composerName>Stravinsky,  Igor</composerName>
                 <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
                 <movement>Infernal Dance of King Kashchei</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>996ee8e6-0e76-4486-b743-b5776f2ea3b0-0.1</id>
+        <programID>6226</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1960-61</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Chicago, IL</Location>
+            <Venue>Opera House</Venue>
+            <Date>1960-09-10T04:00:00Z</Date>
+            <Time>1:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51710*1">
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>SEMIRAMIDE</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52389*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="3395*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52644*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
+                <conductorName>Stanger, Russell</conductorName>
+            </work>
+            <work ID="7599*1">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>CANDIDE</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -56053,6 +56061,60 @@
         </worksInfo>
     </program>
     <program>
+        <id>3ff87cf8-3e6a-4511-bf78-81c343e09fe4-0.1</id>
+        <programID>4773</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1960-61</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1961-04-08T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1961-04-09T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>Brooklyn Academy of Music</Venue>
+            <Date>1961-04-15T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52335*">
+                <composerName>Chavez [Chávez],  Carlos</composerName>
+                <workTitle>SYMPHONY NO. 2 (SINFONIA INDIA)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="50814*">
+                <composerName>Khachaturian,  Aram</composerName>
+                <workTitle>CONCERTO, PIANO</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hollander, Lorin</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53792*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 5, OP. 100</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>7b5215b8-2f06-4477-9a75-2bd9da341176-0.1</id>
         <programID>1767</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -56104,60 +56166,6 @@
                 <composerName>Ives,  Charles</composerName>
                 <workTitle>SYMPHONY NO. 2</workTitle>
                 <movement>Allegro molto vivace</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>3ff87cf8-3e6a-4511-bf78-81c343e09fe4-0.1</id>
-        <programID>4773</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1960-61</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1961-04-08T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1961-04-09T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Brooklyn, NY</Location>
-            <Venue>Brooklyn Academy of Music</Venue>
-            <Date>1961-04-15T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52335*">
-                <composerName>Chavez [Chávez],  Carlos</composerName>
-                <workTitle>SYMPHONY NO. 2 (SINFONIA INDIA)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="50814*">
-                <composerName>Khachaturian,  Aram</composerName>
-                <workTitle>CONCERTO, PIANO</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hollander, Lorin</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53792*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 5, OP. 100</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -57226,68 +57234,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>26c404d3-6a9a-45d2-a6cf-d8f6ac349997-0.1</id>
-        <programID>3991</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1960-61</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Toronto, CANADA</Location>
-            <Venue>O'Keefe Centre</Venue>
-            <Date>1961-05-13T04:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="436*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED KINGDOM (GOD SAVE THE QUEEN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="7599*1">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>CANDIDE</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="1490*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>SHEHERAZADE</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Tourel, Jennie</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="54130*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>FRANCESCA DA RIMINI, OP. 32</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="51581*3">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
-                <movement>Danse générale (General Dance)</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>aa5e7332-4b3f-44a1-ba11-d4361492179d-0.1</id>
         <programID>1589</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -57362,6 +57308,68 @@
                 <composerName>Copland,  Aaron</composerName>
                 <workTitle>RODEO, FOUR DANCE EPISODES</workTitle>
                 <movement>Hoe-Down</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>26c404d3-6a9a-45d2-a6cf-d8f6ac349997-0.1</id>
+        <programID>3991</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1960-61</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Toronto, CANADA</Location>
+            <Venue>O'Keefe Centre</Venue>
+            <Date>1961-05-13T04:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="436*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED KINGDOM (GOD SAVE THE QUEEN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="7599*1">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>CANDIDE</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="1490*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>SHEHERAZADE</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Tourel, Jennie</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="54130*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>FRANCESCA DA RIMINI, OP. 32</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="51581*3">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
+                <movement>Danse générale (General Dance)</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -61422,7 +61430,7 @@
         <worksInfo>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="51583*">
@@ -63704,58 +63712,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>f0aceef2-0b55-4f5f-a6c3-37facf4462eb-0.1</id>
-        <programID>2708</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1961-62</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1962-04-07T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Newark, NJ</Location>
-            <Venue>Mosque Theatre</Venue>
-            <Date>1962-04-10T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52056*">
-                <composerName>Haydn,  Franz  Joseph</composerName>
-                <workTitle>SYMPHONY NO.  83, G MINOR (LA POULE)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53141*">
-                <composerName>Shostakovich,  Dmitri</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, OP.35</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Previn, André</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Vacchiano, William</soloistName>
-                        <soloistInstrument>Trumpet</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51870*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>3adbc876-c95d-4068-80a5-5ba4cc045a52-0.1</id>
         <programID>7137</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -63843,6 +63799,58 @@
         </worksInfo>
     </program>
     <program>
+        <id>f0aceef2-0b55-4f5f-a6c3-37facf4462eb-0.1</id>
+        <programID>2708</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1961-62</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1962-04-07T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Newark, NJ</Location>
+            <Venue>Mosque Theatre</Venue>
+            <Date>1962-04-10T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52056*">
+                <composerName>Haydn,  Franz  Joseph</composerName>
+                <workTitle>SYMPHONY NO.  83, G MINOR (LA POULE)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="53141*">
+                <composerName>Shostakovich,  Dmitri</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, OP.35</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Previn, André</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Vacchiano, William</soloistName>
+                        <soloistInstrument>Trumpet</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51870*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>f13ace94-2afc-43a6-b852-f39651eb3b51-0.1</id>
         <programID>11748</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -63866,7 +63874,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Ceci, Jesse</soloistName>
+                        <soloistName>Ceci, Jesse Arthur</soloistName>
                         <soloistInstrument>Flute</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -63898,7 +63906,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Ceci, Jesse</soloistName>
+                        <soloistName>Ceci, Jesse Arthur</soloistName>
                         <soloistInstrument>Flute</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -63930,7 +63938,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Ceci, Jesse</soloistName>
+                        <soloistName>Ceci, Jesse Arthur</soloistName>
                         <soloistInstrument>Flute</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -63962,7 +63970,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Ceci, Jesse</soloistName>
+                        <soloistName>Ceci, Jesse Arthur</soloistName>
                         <soloistInstrument>Flute</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -64081,7 +64089,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Ceci, Jesse</soloistName>
+                        <soloistName>Ceci, Jesse Arthur</soloistName>
                         <soloistInstrument>Flute</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -65011,8 +65019,8 @@
         </worksInfo>
     </program>
     <program>
-        <id>cc2fa67b-3308-4859-9cbc-4dbca79e04b4-0.1</id>
-        <programID>5496</programID>
+        <id>0a727dc9-c5a4-42a0-8a83-636eeae5f848-0.1</id>
+        <programID>11395</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
         <season>1961-62</season>
         <concertInfo>
@@ -65933,7 +65941,7 @@
                 <conductorName>Machado, Roger</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66025,7 +66033,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66145,7 +66153,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66197,7 +66205,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66381,7 +66389,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Arcos, Pepita</soloistName>
+                        <soloistName>de Arcos, Pepita</soloistName>
                         <soloistInstrument>Dancer</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -66441,7 +66449,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Allers, Franz</conductorName>
             </work>
             <work ID="52127*">
@@ -69499,17 +69507,17 @@
             <work ID="52846*">
                 <composerName>Milhaud,  Darius</composerName>
                 <workTitle>OVERTURE PHILHARMONIQUE</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="130*">
                 <composerName>Delius,  Frederick</composerName>
                 <workTitle>INTERMEZZO FROM FENNIMORE AND GERDA</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="3163*">
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 4, G MAJOR, OP. 58</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Bachauer, Gina</soloistName>
@@ -69524,7 +69532,7 @@
             <work ID="51872*">
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -69565,7 +69573,7 @@
             <work ID="52228*">
                 <composerName>Haydn,  Franz  Joseph</composerName>
                 <workTitle>CONCERTO, CELLO, D MAJOR, H.VIIB:2</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Parisot, Aldo</soloistName>
@@ -69580,7 +69588,7 @@
             <work ID="52882*">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  9 IN D MAJOR</workTitle>
-                <conductorName>Barbirolli, John</conductorName>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -73109,7 +73117,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Previn, André</conductorName>
             </work>
         </worksInfo>
@@ -73672,7 +73680,7 @@
             </work>
             <work ID="50387*">
                 <composerName>Gershwin,  George</composerName>
-                <workTitle>AMERICAN IN PARIS, AN</workTitle>
+                <workTitle>AMERICAN IN PARIS, AN (TRADITIONAL VERSION) (ARR. Campbell-Watson)</workTitle>
                 <conductorName>Allers, Franz</conductorName>
             </work>
             <work ID="52127*">
