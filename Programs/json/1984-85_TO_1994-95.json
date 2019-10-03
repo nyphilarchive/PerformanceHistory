@@ -14081,7 +14081,7 @@
           "ID": "53780*4",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
-          "movement": "Dance",
+          "movement": "Dance of the Five Couples",
           "conductorName": "Conlon, James",
           "soloists": []
         },
@@ -14211,7 +14211,7 @@
           "ID": "53780*4",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
-          "movement": "Dance",
+          "movement": "Dance of the Five Couples",
           "conductorName": "Conlon, James",
           "soloists": []
         },
@@ -48971,6 +48971,77 @@
       ]
     },
     {
+      "id": "4c3c8095-38e2-4a8b-9f7f-15f9183cebb9-0.1",
+      "programID": "7387",
+      "orchestra": "New York Philharmonic",
+      "season": "1989-90",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Lenox, MA",
+          "Venue": "Tanglewood",
+          "Date": "1990-08-24T04:00:00Z",
+          "Time": "9:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52908*",
+          "composerName": "Schuman,  William",
+          "workTitle": "AMERICAN FESTIVAL OVERTURE",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "50951*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, CLARINET, A MAJOR, K.622",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Drucker, Stanley",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53254*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "SYMPHONY NO. 2, D MAJOR, OP. 43",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "52164*4",
+          "composerName": "Puccini,  Giacomo",
+          "workTitle": "MANON LESCAUT",
+          "movement": "Intermezzo (Prelude to Act III)",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "53474*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "6396*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "TRITSCH-TRATSCH POLKA, OP. 214",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "a1a66277-8f9e-492b-921e-f6730329cba1-0.1",
       "programID": "7381",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -49060,77 +49131,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "4c3c8095-38e2-4a8b-9f7f-15f9183cebb9-0.1",
-      "programID": "7387",
-      "orchestra": "New York Philharmonic",
-      "season": "1989-90",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Lenox, MA",
-          "Venue": "Tanglewood",
-          "Date": "1990-08-24T04:00:00Z",
-          "Time": "9:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52908*",
-          "composerName": "Schuman,  William",
-          "workTitle": "AMERICAN FESTIVAL OVERTURE",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "50951*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, CLARINET, A MAJOR, K.622",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Drucker, Stanley",
-              "soloistInstrument": "Clarinet",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53254*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "SYMPHONY NO. 2, D MAJOR, OP. 43",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "52164*4",
-          "composerName": "Puccini,  Giacomo",
-          "workTitle": "MANON LESCAUT",
-          "movement": "Intermezzo (Prelude to Act III)",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "53474*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "6396*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "TRITSCH-TRATSCH POLKA, OP. 214",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
         }
       ]
     },
@@ -54678,6 +54678,29 @@
       ]
     },
     {
+      "id": "aa788fd5-f2ea-4d79-8e87-e6d9175f5b33-0.1",
+      "programID": "12100",
+      "orchestra": "NY Philharmonic Ensembles",
+      "season": "1990-91",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1991-03-21T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1287*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUARTET, PIANO, NO. 2, E-FLAT MAJOR, K.493",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "59542949-cd77-4f13-a069-ed8608b5bd2c-0.1",
       "programID": "6727",
       "orchestra": "New York Philharmonic",
@@ -54736,29 +54759,6 @@
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SYMPHONY NO. 38, D MAJOR, K.504, \"PRAGUE\"",
           "conductorName": "Berglund, Paavo",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "aa788fd5-f2ea-4d79-8e87-e6d9175f5b33-0.1",
-      "programID": "12100",
-      "orchestra": "NY Philharmonic Ensembles",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1991-03-21T05:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1287*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "QUARTET, PIANO, NO. 2, E-FLAT MAJOR, K.493",
           "soloists": []
         }
       ]
@@ -57048,6 +57048,62 @@
       ]
     },
     {
+      "id": "1f331d0a-6fa8-4005-afd6-59823d44a3ac-0.1",
+      "programID": "7459",
+      "orchestra": "New York Philharmonic",
+      "season": "1990-91",
+      "concerts": [
+        {
+          "eventType": "Festival",
+          "Location": "Greenvale, NY",
+          "Venue": "Tilles Center for the Performing Arts (Main)",
+          "Date": "1991-07-07T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51658*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        },
+        {
+          "ID": "51072*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 26, D MAJOR, K.537 \"CORONATION\"",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51288*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        },
+        {
+          "ID": "51648*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
+          "conductorName": "Leinsdorf, Erich",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "46f04638-300e-460d-a6a5-47e91f637559-0.1",
       "programID": "10089",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -57142,62 +57198,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1f331d0a-6fa8-4005-afd6-59823d44a3ac-0.1",
-      "programID": "7459",
-      "orchestra": "New York Philharmonic",
-      "season": "1990-91",
-      "concerts": [
-        {
-          "eventType": "Festival",
-          "Location": "Greenvale, NY",
-          "Venue": "Tilles Center for the Performing Arts (Main)",
-          "Date": "1991-07-07T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51658*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
-        },
-        {
-          "ID": "51072*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 26, D MAJOR, K.537 \"CORONATION\"",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": [
-            {
-              "soloistName": "Bronfman, Yefim",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51288*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "ADAGIO AND FUGUE, STRING QUARTET, C MIN, K.546 (QUART./STR. ORCH.)",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
-        },
-        {
-          "ID": "51648*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
-          "conductorName": "Leinsdorf, Erich",
-          "soloists": []
         }
       ]
     },
@@ -57321,7 +57321,7 @@
           "ID": "53780*6",
           "composerName": "Prokofiev,  Sergei",
           "workTitle": "ROMEO AND JULIET: SUITE NO. 2, OP. 64TER",
-          "movement": "Dance of the Girls with Lilies (the Antilles Girls)",
+          "movement": "Dance of the Girls with Lilies",
           "conductorName": "Wong, Samuel",
           "soloists": []
         },
@@ -63132,6 +63132,62 @@
       ]
     },
     {
+      "id": "a0acf363-6f7d-491e-bb27-4f788613c957-0.1",
+      "programID": "7529",
+      "orchestra": "New York Philharmonic",
+      "season": "1991-92",
+      "concerts": [
+        {
+          "eventType": "Festival",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1992-07-08T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Festival",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1992-07-09T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "54103*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "CAPRICCIO ITALIEN, OP.45",
+          "conductorName": "Masur, Kurt",
+          "soloists": []
+        },
+        {
+          "ID": "4073*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
+          "conductorName": "Masur, Kurt",
+          "soloists": [
+            {
+              "soloistName": "Midori",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Masur, Kurt",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "34968f67-18ca-4ec9-bba9-47f2c0320c48-0.1",
       "programID": "7545",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -63189,62 +63245,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "a0acf363-6f7d-491e-bb27-4f788613c957-0.1",
-      "programID": "7529",
-      "orchestra": "New York Philharmonic",
-      "season": "1991-92",
-      "concerts": [
-        {
-          "eventType": "Festival",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1992-07-08T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Festival",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1992-07-09T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "54103*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CAPRICCIO ITALIEN, OP.45",
-          "conductorName": "Masur, Kurt",
-          "soloists": []
-        },
-        {
-          "ID": "4073*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
-          "conductorName": "Masur, Kurt",
-          "soloists": [
-            {
-              "soloistName": "Midori",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50064*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Masur, Kurt",
-          "soloists": []
         }
       ]
     },
@@ -70348,6 +70348,62 @@
       ]
     },
     {
+      "id": "bbcf0c3a-61e3-4c0b-92ee-6debaafa5e79-0.1",
+      "programID": "7643",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1992-93",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1993-07-21T04:00:00Z",
+          "Time": "6:45PM"
+        },
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1993-07-22T04:00:00Z",
+          "Time": "6:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6297*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "QUINTET, PIANO/STRINGS, E-FLAT MAJOR, OP.44",
+          "soloists": [
+            {
+              "soloistName": "Levinson, Gary",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yamada, Sharon",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Benedetti, Evangeline",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Feldman, Jonathan",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "74646384-b92f-459a-bf67-e9f3e4c0dd79-0.1",
       "programID": "7631",
       "orchestra": "New York Philharmonic",
@@ -70401,62 +70457,6 @@
           "movement": "Hungarian Dance No. 10",
           "conductorName": "Masur, Kurt",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "bbcf0c3a-61e3-4c0b-92ee-6debaafa5e79-0.1",
-      "programID": "7643",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1992-93",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1993-07-21T04:00:00Z",
-          "Time": "6:45PM"
-        },
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1993-07-22T04:00:00Z",
-          "Time": "6:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6297*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "QUINTET, PIANO/STRINGS, E-FLAT MAJOR, OP.44",
-          "soloists": [
-            {
-              "soloistName": "Levinson, Gary",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Yamada, Sharon",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rence, Dorian",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Benedetti, Evangeline",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Feldman, Jonathan",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -70814,6 +70814,103 @@
       ]
     },
     {
+      "id": "9fb735ed-b324-449a-a8c4-235aa23cae76-0.1",
+      "programID": "7576",
+      "orchestra": "New York Philharmonic",
+      "season": "1993-94",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-14T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-15T04:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-16T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1993-10-19T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51710*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
+          "conductorName": "Macal, Zdenek",
+          "soloists": []
+        },
+        {
+          "ID": "50954*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, FLUTE NO. 1, G MAJOR, K.285C (OLD K.313)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "6848*",
+          "composerName": "Traditional,",
+          "workTitle": "BRIAN BORU MARCH (ARR. Figueroa)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "6849*",
+          "composerName": "Traditional,",
+          "workTitle": "DANNY BOY (ARR. Overton)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Galway, James",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53338*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
+          "conductorName": "Macal, Zdenek",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "745d0928-b7d4-4921-b4bb-1c0803d8b025-0.1",
       "programID": "10092",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -70951,103 +71048,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "9fb735ed-b324-449a-a8c4-235aa23cae76-0.1",
-      "programID": "7576",
-      "orchestra": "New York Philharmonic",
-      "season": "1993-94",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-14T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-15T04:00:00Z",
-          "Time": "11:00AM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-16T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1993-10-19T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51710*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "SEMIRAMIDE",
-          "movement": "Overture",
-          "conductorName": "Macal, Zdenek",
-          "soloists": []
-        },
-        {
-          "ID": "50954*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, FLUTE NO. 1, G MAJOR, K.285C (OLD K.313)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "6848*",
-          "composerName": "Traditional,",
-          "workTitle": "BRIAN BORU MARCH (ARR. Figueroa)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "6849*",
-          "composerName": "Traditional,",
-          "workTitle": "DANNY BOY (ARR. Overton)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Galway, James",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53338*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 6, D MAJOR, OP.60 (OLD NO. 1)",
-          "conductorName": "Macal, Zdenek",
-          "soloists": []
         }
       ]
     },
@@ -78390,44 +78390,30 @@
       ]
     },
     {
-      "id": "cb2bc9db-a9c1-42db-91cb-3320b4e725c0-0.1",
-      "programID": "7691",
+      "id": "af42c332-a99a-4d0d-b0f6-6aea85e72fa9-0.1",
+      "programID": "7742",
       "orchestra": "New York Philharmonic",
       "season": "1994-95",
       "concerts": [
         {
-          "eventType": "Saturday Matinee",
+          "eventType": "Subscription Season",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1994-11-26T05:00:00Z",
-          "Time": "2:00PM"
+          "Time": "8:00PM"
         }
       ],
       "works": [
         {
-          "ID": "6756*",
+          "ID": "54106*",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "QUARTET, STRING  NO. 1, D MAJOR, OP. 11",
+          "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
+          "conductorName": "Masur, Kurt",
           "soloists": [
             {
-              "soloistName": "Rex, Charles",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Tsypin, Vladimir",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Rence, Dorian",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Munroe, Lorne",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
+              "soloistName": "Leonskaja, Elisabeth",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
             }
           ]
         },
@@ -78506,30 +78492,44 @@
       ]
     },
     {
-      "id": "af42c332-a99a-4d0d-b0f6-6aea85e72fa9-0.1",
-      "programID": "7742",
+      "id": "cb2bc9db-a9c1-42db-91cb-3320b4e725c0-0.1",
+      "programID": "7691",
       "orchestra": "New York Philharmonic",
       "season": "1994-95",
       "concerts": [
         {
-          "eventType": "Subscription Season",
+          "eventType": "Saturday Matinee",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1994-11-26T05:00:00Z",
-          "Time": "8:00PM"
+          "Time": "2:00PM"
         }
       ],
       "works": [
         {
-          "ID": "54106*",
+          "ID": "6756*",
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23",
-          "conductorName": "Masur, Kurt",
+          "workTitle": "QUARTET, STRING  NO. 1, D MAJOR, OP. 11",
           "soloists": [
             {
-              "soloistName": "Leonskaja, Elisabeth",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
+              "soloistName": "Rex, Charles",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tsypin, Vladimir",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rence, Dorian",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Munroe, Lorne",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
             }
           ]
         },
