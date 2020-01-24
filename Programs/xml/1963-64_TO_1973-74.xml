@@ -8897,6 +8897,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>7935e27c-2613-479b-9a8b-45d38479578c-0.1</id>
+        <programID>7109</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1964-65</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1965-01-23T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52626*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>SCHOOL FOR SCANDAL OVERTURE</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+            <work ID="52618*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>ESSAY NO. 2, OP.17</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+            <work ID="3181*">
+                <composerName>Chopin,  Frédéric</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, F MINOR, OP. 21</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Watts, Andre (André)</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52440*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60</workTitle>
+                <conductorName>Schippers, Thomas</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>46dc28b2-484d-43b2-8d9a-90a209b3594f-0.1</id>
         <programID>4129</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -8946,51 +8991,6 @@
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>7935e27c-2613-479b-9a8b-45d38479578c-0.1</id>
-        <programID>7109</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1964-65</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1965-01-23T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52626*">
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>SCHOOL FOR SCANDAL OVERTURE</workTitle>
-                <conductorName>Schippers, Thomas</conductorName>
-            </work>
-            <work ID="52618*">
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>ESSAY NO. 2, OP.17</workTitle>
-                <conductorName>Schippers, Thomas</conductorName>
-            </work>
-            <work ID="3181*">
-                <composerName>Chopin,  Frédéric</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 2, F MINOR, OP. 21</workTitle>
-                <conductorName>Schippers, Thomas</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Watts, Andre (André)</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52440*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60</workTitle>
-                <conductorName>Schippers, Thomas</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -68023,7 +68023,7 @@
             <work ID="54074*2">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR (HWV 350)</workTitle>
-                <movement>2igaudons I and II</movement>
+                <movement>Rigaudons I and II</movement>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
             <work ID="54069*4">
@@ -68355,7 +68355,7 @@
             <work ID="54074*2">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>WATER MUSIC: SUITE NO. 3 IN G MAJOR (HWV 350)</workTitle>
-                <movement>2igaudons I and II</movement>
+                <movement>Rigaudons I and II</movement>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
             <work ID="54069*4">
