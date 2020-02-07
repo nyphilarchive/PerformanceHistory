@@ -19133,50 +19133,6 @@
       ]
     },
     {
-      "id": "4a211023-fbb6-4d7e-ad62-ea69ecb2df9c-0.1",
-      "programID": "8884",
-      "orchestra": "New York Symphony",
-      "season": "1927-28",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1928-01-15T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52644*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
-          "conductorName": "Pollain, Rene",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Pollain, Rene",
-          "soloists": [
-            {
-              "soloistName": "Gieseking, Walter",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "53988*",
-          "composerName": "Rachmaninoff,  Sergei",
-          "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
-          "conductorName": "Pollain, Rene",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "d8cbbd5b-05d2-470f-9dde-992fd0194a05-0.1",
       "programID": "1495",
       "orchestra": "New York Philharmonic",
@@ -19245,6 +19201,50 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "4a211023-fbb6-4d7e-ad62-ea69ecb2df9c-0.1",
+      "programID": "8884",
+      "orchestra": "New York Symphony",
+      "season": "1927-28",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Mecca Auditorium",
+          "Date": "1928-01-15T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52644*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+          "conductorName": "Pollain, Rene",
+          "soloists": []
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Pollain, Rene",
+          "soloists": [
+            {
+              "soloistName": "Gieseking, Walter",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "53988*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
+          "conductorName": "Pollain, Rene",
+          "soloists": []
         }
       ]
     },
@@ -31848,7 +31848,7 @@
             },
             {
               "soloistName": "Casadesus, Lucette",
-              "soloistInstrument": "Viola da Gamba",
+              "soloistInstrument": "Viola da gamba",
               "soloistRoles": "A"
             },
             {
@@ -32942,6 +32942,64 @@
       ]
     },
     {
+      "id": "b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1",
+      "programID": "961",
+      "orchestra": "New York Philharmonic",
+      "season": "1928-29",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1929-03-16T05:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Brooklyn, NY",
+          "Venue": "Brooklyn Academy of Music",
+          "Date": "1929-03-24T05:00:00Z",
+          "Time": "3:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2956*1",
+          "composerName": "Gluck,  Christoph  Willibald",
+          "workTitle": "IPHIGENIE IN AULIS",
+          "movement": "Overture",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "874*",
+          "composerName": "Pizzetti,  Ilderbando",
+          "workTitle": "CONCERTO DELL' ESTATE",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "53193*",
+          "composerName": "Dukas,  Paul",
+          "workTitle": "SORCERER'S APPRENTICE, THE",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52434*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP.36",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "59c3c5a6-5d3a-4868-99aa-9293d20cf190-0.1",
       "programID": "2920",
       "orchestra": "New York Philharmonic",
@@ -33021,64 +33079,6 @@
           "workTitle": "TANNHAUSER, WWV 70",
           "movement": "Overture [Dresden]",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1",
-      "programID": "961",
-      "orchestra": "New York Philharmonic",
-      "season": "1928-29",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1929-03-16T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Brooklyn, NY",
-          "Venue": "Brooklyn Academy of Music",
-          "Date": "1929-03-24T05:00:00Z",
-          "Time": "3:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2956*1",
-          "composerName": "Gluck,  Christoph  Willibald",
-          "workTitle": "IPHIGENIE IN AULIS",
-          "movement": "Overture",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "874*",
-          "composerName": "Pizzetti,  Ilderbando",
-          "workTitle": "CONCERTO DELL' ESTATE",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "53193*",
-          "composerName": "Dukas,  Paul",
-          "workTitle": "SORCERER'S APPRENTICE, THE",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52434*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP.36",
-          "conductorName": "Toscanini, Arturo",
           "soloists": []
         }
       ]

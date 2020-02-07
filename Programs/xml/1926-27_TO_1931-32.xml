@@ -15953,43 +15953,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>4a211023-fbb6-4d7e-ad62-ea69ecb2df9c-0.1</id>
-        <programID>8884</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Mecca Auditorium</Venue>
-            <Date>1928-01-15T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52644*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
-                <conductorName>Pollain, Rene</conductorName>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Pollain, Rene</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gieseking, Walter</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="53988*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
-                <conductorName>Pollain, Rene</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>d8cbbd5b-05d2-470f-9dde-992fd0194a05-0.1</id>
         <programID>1495</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -16043,6 +16006,43 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>4a211023-fbb6-4d7e-ad62-ea69ecb2df9c-0.1</id>
+        <programID>8884</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Mecca Auditorium</Venue>
+            <Date>1928-01-15T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52644*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
+                <conductorName>Pollain, Rene</conductorName>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Pollain, Rene</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gieseking, Walter</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="53988*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
+                <conductorName>Pollain, Rene</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -26369,7 +26369,7 @@
                     </soloist>
                     <soloist>
                         <soloistName>Casadesus, Lucette</soloistName>
-                        <soloistInstrument>Viola da Gamba</soloistInstrument>
+                        <soloistInstrument>Viola da gamba</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
@@ -27256,6 +27256,52 @@
         </worksInfo>
     </program>
     <program>
+        <id>b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1</id>
+        <programID>961</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1928-29</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1929-03-16T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>Brooklyn Academy of Music</Venue>
+            <Date>1929-03-24T05:00:00Z</Date>
+            <Time>3:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2956*1">
+                <composerName>Gluck,  Christoph  Willibald</composerName>
+                <workTitle>IPHIGENIE IN AULIS</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="874*">
+                <composerName>Pizzetti,  Ilderbando</composerName>
+                <workTitle>CONCERTO DELL' ESTATE</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="53193*">
+                <composerName>Dukas,  Paul</composerName>
+                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52434*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>59c3c5a6-5d3a-4868-99aa-9293d20cf190-0.1</id>
         <programID>2920</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -27319,52 +27365,6 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture [Dresden]</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1</id>
-        <programID>961</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1928-29</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1929-03-16T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Brooklyn, NY</Location>
-            <Venue>Brooklyn Academy of Music</Venue>
-            <Date>1929-03-24T05:00:00Z</Date>
-            <Time>3:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2956*1">
-                <composerName>Gluck,  Christoph  Willibald</composerName>
-                <workTitle>IPHIGENIE IN AULIS</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="874*">
-                <composerName>Pizzetti,  Ilderbando</composerName>
-                <workTitle>CONCERTO DELL' ESTATE</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="53193*">
-                <composerName>Dukas,  Paul</composerName>
-                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52434*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
     </program>
