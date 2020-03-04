@@ -6229,6 +6229,75 @@
       ]
     },
     {
+      "id": "ac306a79-b25d-420c-bf59-125c6149feaa-0.1",
+      "programID": "11979",
+      "orchestra": "New York Philharmonic",
+      "season": "2011-12",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "London, ENGLAND",
+          "Venue": "Barbican Hall",
+          "Date": "2012-02-18T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7653*",
+          "composerName": "Lindberg,  Magnus",
+          "workTitle": "FERIA",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "51679*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "CONCERTO, PIANO, NO. 2, BB 101",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Lang, Lang",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10684*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "CAMPANELLA, LA (SOLO PIANO)",
+          "soloists": [
+            {
+              "soloistName": "Lang, Lang",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53792*",
+          "composerName": "Prokofiev,  Sergei",
+          "workTitle": "SYMPHONY NO. 5, OP. 100",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "8fdc9ac3-98a7-4c27-bb51-3e4b276146ac-0.1",
       "programID": "11698",
       "orchestra": "New York Philharmonic",
@@ -6343,75 +6412,6 @@
           "ID": "51429*",
           "composerName": "Bernstein,  Leonard",
           "workTitle": "ON THE TOWN: THREE DANCE EPISODES",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "ac306a79-b25d-420c-bf59-125c6149feaa-0.1",
-      "programID": "11979",
-      "orchestra": "New York Philharmonic",
-      "season": "2011-12",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "London, ENGLAND",
-          "Venue": "Barbican Hall",
-          "Date": "2012-02-18T05:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "7653*",
-          "composerName": "Lindberg,  Magnus",
-          "workTitle": "FERIA",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "51679*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "CONCERTO, PIANO, NO. 2, BB 101",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Lang, Lang",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "10684*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CAMPANELLA, LA (SOLO PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Lang, Lang",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53792*",
-          "composerName": "Prokofiev,  Sergei",
-          "workTitle": "SYMPHONY NO. 5, OP. 100",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "7599*1",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE",
-          "movement": "Overture",
           "conductorName": "Gilbert, Alan",
           "soloists": []
         }
@@ -7925,7 +7925,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "van Zweden, Jaap",
           "soloists": []
         }
@@ -7979,7 +7979,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "van Zweden, Jaap",
           "soloists": []
         }
@@ -8148,7 +8148,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "van Zweden, Jaap",
           "soloists": []
         }
@@ -8318,7 +8318,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "van Zweden, Jaap",
           "soloists": []
         }
@@ -14695,7 +14695,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Fruhbeck de Burgos, Rafael",
           "soloists": []
         }
@@ -26837,7 +26837,7 @@
       "works": [
         {
           "ID": "774*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 1",
           "conductorName": "Gilbert, Alan",
@@ -26853,7 +26853,7 @@
         },
         {
           "ID": "51034*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 3 (Kyrie)",
           "conductorName": "Gilbert, Alan",
@@ -26891,7 +26891,7 @@
         },
         {
           "ID": "11116*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "LUX AETERNA",
           "movement": "2001: A Space Odyssey, cue 7",
           "conductorName": "Gilbert, Alan",
@@ -26899,7 +26899,7 @@
         },
         {
           "ID": "11116*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "LUX AETERNA",
           "movement": "2001: A Space Odyssey, cue 8",
           "conductorName": "Gilbert, Alan",
@@ -26913,7 +26913,7 @@
         },
         {
           "ID": "51034*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 9 (Kyrie)",
           "conductorName": "Gilbert, Alan",
@@ -26956,7 +26956,7 @@
         },
         {
           "ID": "774*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 13",
           "conductorName": "Gilbert, Alan",
@@ -26964,7 +26964,7 @@
         },
         {
           "ID": "51034*3",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 14 (Kyrie)",
           "conductorName": "Gilbert, Alan",
@@ -26978,7 +26978,7 @@
         },
         {
           "ID": "774*3",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 15",
           "conductorName": "Gilbert, Alan",
@@ -26986,7 +26986,7 @@
         },
         {
           "ID": "3420*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "AVENTURES/NOUVELLES AVENTURES",
           "movement": "2001: A Space Odyssey, cue 16 (on sound track, not played by orchestra)",
           "conductorName": "Gilbert, Alan",
@@ -36641,6 +36641,7 @@
           "ID": "8454*1",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 1 I sat all morning",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36654,6 +36655,7 @@
           "ID": "8454*2",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 2 Requiem aeternam",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36667,6 +36669,7 @@
           "ID": "8454*3",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 3 Dies irae",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36680,6 +36683,7 @@
           "ID": "8454*4",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 4 I know a simple soldier boy",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36698,6 +36702,7 @@
           "ID": "8454*5",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 5 Tuba mirum",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36711,6 +36716,7 @@
           "ID": "8454*6",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 6 Quid sum miser",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36724,6 +36730,7 @@
           "ID": "8454*7",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 7 Rex tremendae",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36737,6 +36744,7 @@
           "ID": "8454*8",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 8 Ancor che 'l cor già mi premesse tanto",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36750,6 +36758,7 @@
           "ID": "8454*9",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 9 Quaerens me",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36763,6 +36772,7 @@
           "ID": "8454*10",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 10 Lacrymosa",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36781,6 +36791,7 @@
           "ID": "8454*11",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 11 Domine, Jesu Christe",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36794,6 +36805,7 @@
           "ID": "8454*12",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 12 Hostias",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36807,6 +36819,7 @@
           "ID": "8454*13",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 13 Farewell, thou child of my right hand",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36820,6 +36833,7 @@
           "ID": "8454*14",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 14 Sanctus Santus",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36838,6 +36852,7 @@
           "ID": "8454*15",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 15 Methought I saw my late espoused saint",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -36851,6 +36866,7 @@
           "ID": "8454*16",
           "composerName": "Rouse,  Christopher",
           "workTitle": "REQUIEM",
+          "movement": "No. 16 Agnus Dei",
           "conductorName": "Gilbert, Alan",
           "soloists": [
             {
@@ -38187,111 +38203,6 @@
       ]
     },
     {
-      "id": "c7ae3cc2-64f4-41f0-89ca-4e74718f9917-0.1",
-      "programID": "13103",
-      "orchestra": "NYP Presentation",
-      "season": "2013-14",
-      "concerts": [
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Rose Theater",
-          "Date": "2014-05-31T04:00:00Z",
-          "Time": "2:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11662*",
-          "composerName": "Boulez,  Pierre",
-          "workTitle": "MEMORIALE [MÉMORIALE] ( ... EXPOSANTE-FIXE ... ORIGINEL)",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Mann, Elizabeth",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11663*",
-          "composerName": "Mantovani,  Bruno",
-          "workTitle": "TURBULENCES",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11664*",
-          "composerName": "Holliger,  Heinz",
-          "workTitle": "OSTINATO FUNEBRE [FUNÈBRE]",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11665*",
-          "composerName": "Manoury,  Philippe",
-          "workTitle": "STRANGE RITUAL",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11666*",
-          "composerName": "Boulez,  Pierre",
-          "workTitle": "PAGE D'EPHEMERIDE [D'ÉPHÉMÉRIDE], UNE",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Kampmeier, Margaret",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "11667*",
-          "composerName": "Dalbavie,  Marc-André",
-          "workTitle": "CONCERTINO",
-          "conductorName": "Heras-Casado, Pablo",
-          "soloists": [
-            {
-              "soloistName": "Orchestra of St. Luke's",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4f138f4a-ce92-4b19-b2b0-1828542d74a0-0.1",
       "programID": "13093",
       "orchestra": "Members of NY Philharmonic",
@@ -38953,6 +38864,111 @@
       ]
     },
     {
+      "id": "c7ae3cc2-64f4-41f0-89ca-4e74718f9917-0.1",
+      "programID": "13103",
+      "orchestra": "NYP Presentation",
+      "season": "2013-14",
+      "concerts": [
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Rose Theater",
+          "Date": "2014-05-31T04:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "11662*",
+          "composerName": "Boulez,  Pierre",
+          "workTitle": "MEMORIALE [MÉMORIALE] ( ... EXPOSANTE-FIXE ... ORIGINEL)",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Mann, Elizabeth",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11663*",
+          "composerName": "Mantovani,  Bruno",
+          "workTitle": "TURBULENCES",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11664*",
+          "composerName": "Holliger,  Heinz",
+          "workTitle": "OSTINATO FUNEBRE [FUNÈBRE]",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11665*",
+          "composerName": "Manoury,  Philippe",
+          "workTitle": "STRANGE RITUAL",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11666*",
+          "composerName": "Boulez,  Pierre",
+          "workTitle": "PAGE D'EPHEMERIDE [D'ÉPHÉMÉRIDE], UNE",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Kampmeier, Margaret",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "11667*",
+          "composerName": "Dalbavie,  Marc-André",
+          "workTitle": "CONCERTINO",
+          "conductorName": "Heras-Casado, Pablo",
+          "soloists": [
+            {
+              "soloistName": "Orchestra of St. Luke's",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "78e53faa-5187-476e-a509-02edad340a7c-0.1",
       "programID": "13104",
       "orchestra": "NYP Presentation",
@@ -39459,7 +39475,7 @@
         },
         {
           "ID": "11631*",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ETUDE [ÉTUDE] NO. 3: TOUCHES BLOQUEES [BLOQUÉES]",
           "soloists": [
             {
@@ -40345,7 +40361,7 @@
         {
           "ID": "11305*",
           "composerName": "Green,  Joe",
-          "workTitle": "XYLOPHANIA",
+          "workTitle": "XYLOPHONIA",
           "conductorName": "Dix, Brian",
           "soloists": [
             {
@@ -43399,7 +43415,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Gilbert, Alan",
           "soloists": []
         }
@@ -44659,7 +44675,7 @@
         {
           "ID": "52826*5",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "movement": "Mvt. 3: Excerpt",
           "conductorName": "Lewis, Courtney",
           "soloists": []
@@ -53375,7 +53391,7 @@
         {
           "ID": "6931*",
           "composerName": "Dvorak,  Antonín",
-          "workTitle": "QUINTET, STRINGS, E-FLAT MAJOR, OP. 97",
+          "workTitle": "QUINTET, STRINGS, NO. 1, E-FLAT MAJOR, OP. 97",
           "conductorName": "Malkki [Mälkki], Susanna",
           "soloists": [
             {
@@ -60869,7 +60885,7 @@
         {
           "ID": "6456*",
           "composerName": "Dvorak,  Antonín",
-          "workTitle": "QUINTET, STRINGS, G MAJOR, OP.77",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
           "soloists": [
             {
               "soloistName": "Hoffman, Benjamin",
@@ -64545,63 +64561,252 @@
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "TRIO, VLN/VLA/VC, OP.  9, NO. 1, G MAJOR",
           "movement": "Adagio - Allegro con brio",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Chen, Yangyuetong",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ba, Tong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shen, Yue",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "5656*2",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "TRIO, VLN/VLA/VC, OP.  9, NO. 1, G MAJOR",
           "movement": "Adagio, ma non tanto e cantabile",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Chen, Yangyuetong",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ba, Tong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shen, Yue",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "8970*1",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "ART OF THE FUGUE, THE  BWV 1080",
           "movement": "Contrapunctus I",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Cheng, Yiqin",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Jiaqi",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ba, Tong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ma, Suisui",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "8970*4",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "ART OF THE FUGUE, THE  BWV 1080",
           "movement": "Contrapunctus IV",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Cheng, Yiqin",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Jiaqi",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ba, Tong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ma, Suisui",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "8970*11",
           "composerName": "Bach,  Johann  Sebastian",
           "workTitle": "ART OF THE FUGUE, THE  BWV 1080",
           "movement": "Contrapunctus XI",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Cheng, Yiqin",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Jiaqi",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ba, Tong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ma, Suisui",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "3439*1",
           "composerName": "Schubert,  Franz",
           "workTitle": "QUINTET, STRINGS, C MAJOR,  D.956",
           "movement": "Allegro ma non troppo",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Shi, Zhenyu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Jing",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huang, Yaorong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Xu, Jiajia",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Qu, Siyuan",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "3439*2",
           "composerName": "Schubert,  Franz",
           "workTitle": "QUINTET, STRINGS, C MAJOR,  D.956",
           "movement": "Adagio",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Shi, Zhenyu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Jing",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huang, Yaorong",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Xu, Jiajia",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Qu, Siyuan",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "4259*1",
           "composerName": "Grieg,  Edvard",
           "workTitle": "QUARTET, STRING, G MINOR, OP.27",
           "movement": "Un poco andante – Allegro molto ed agitato",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Wu, Aolie",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huang, Yilu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Siyuan",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shen, Yue",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "4259*3",
           "composerName": "Grieg,  Edvard",
           "workTitle": "QUARTET, STRING, G MINOR, OP.27",
           "movement": "Intermezzo. Allegro molto marcato – Piu vivo e scherzando",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Wu, Aolie",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huang, Yilu",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Siyuan",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shen, Yue",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "0*",
@@ -64612,33 +64817,198 @@
           "ID": "2378*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SERENADE NO. 12, C MINOR, K.384A (OLD K.388)",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Wang, Liang",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yang, Difan",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Li, Cong",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shi, Kaiyuan",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Cheng, Min",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Morigenfu",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Xie, Yelin",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Liu, Chuang",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "6877*1",
           "composerName": "Nielsen,  Carl",
           "workTitle": "QUINTET, WINDS, OP. 43",
           "movement": "Allegro ben moderato",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Liu, Lin",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huo, Ding",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lv, Shuang",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nuccio, Mark",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Hui",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhong, Zhuoning",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "6877*2",
           "composerName": "Nielsen,  Carl",
           "workTitle": "QUINTET, WINDS, OP. 43",
           "movement": "Menuet",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Huo, Ding",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lv, Shuang",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nuccio, Mark",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Hui",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Liu, Lin",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhong, Zhuoning",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "12365*",
           "composerName": "Haufrecht,  Herbert",
           "workTitle": "QUINTET, SUITE FOR BRASS",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Gao, Yuchi",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yao, Tianhao",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lang, Song",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wang, Xuanyu",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Mu, Xianquan",
+              "soloistInstrument": "Tuba",
+              "soloistRoles": "A"
+            }
+          ]
         },
         {
           "ID": "12366*",
           "composerName": "Ewald,  Victor",
           "workTitle": "QUINTET, BRASS, OP. 7, NO. 3",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Yao, Tianhao",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gao, Yuchi",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shi, Jieliang",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Ye",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zhang, Huaming",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Xie, Yishan",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Mu, Xianquan",
+              "soloistInstrument": "Tuba",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -68035,35 +68405,6 @@
       ]
     },
     {
-      "id": "4c758cf3-b7c6-4356-b64b-97d4ed9eb0e9-0.1",
-      "programID": "14015",
-      "orchestra": "Members of NY Philharmonic",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "Good Shepherd Faith Presbyterian Church",
-          "Date": "2016-05-29T04:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11082*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SONATA, VIOLIN, VIOLA, BASS, NO. 5 IN C MAJOR, BWV 529",
-          "soloists": []
-        },
-        {
-          "ID": "6456*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "QUINTET, STRINGS, G MAJOR, OP.77",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "e6773f43-5284-4d09-9ecf-43ff73b95c9c-0.1",
       "programID": "13852",
       "orchestra": "NY Philharmonic Ensembles",
@@ -68163,6 +68504,35 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "4c758cf3-b7c6-4356-b64b-97d4ed9eb0e9-0.1",
+      "programID": "14015",
+      "orchestra": "Members of NY Philharmonic",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Good Shepherd Faith Presbyterian Church",
+          "Date": "2016-05-29T04:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "11082*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SONATA, VIOLIN, VIOLA, BASS, NO. 5 IN C MAJOR, BWV 529",
+          "soloists": []
+        },
+        {
+          "ID": "6456*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
+          "soloists": []
         }
       ]
     },
@@ -68958,7 +69328,7 @@
         },
         {
           "ID": "10863*",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "CONCERTO, PIANO",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -68971,67 +69341,6 @@
               "soloistName": "Lucerne Festival Alumni",
               "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6326d94-6869-47dc-8ca7-b6be6d571810-0.1",
-      "programID": "14041",
-      "orchestra": "NYP Presentation",
-      "season": "2015-16",
-      "concerts": [
-        {
-          "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Museum of Art",
-          "Date": "2016-06-04T04:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "12387*",
-          "composerName": "Dalbavie,  Marc-André",
-          "workTitle": "AXIOM",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "4127*",
-          "composerName": "Ligeti,  György",
-          "workTitle": "CONCERTO, CELLO",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Campbell, Jay",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "12388*",
-          "composerName": "Fujikura,  Dai",
-          "workTitle": "ICE",
-          "conductorName": "Fulmer, David",
-          "soloists": [
-            {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
-              "soloistRoles": "A"
             }
           ]
         }
@@ -69582,6 +69891,67 @@
       ]
     },
     {
+      "id": "d6326d94-6869-47dc-8ca7-b6be6d571810-0.1",
+      "programID": "14041",
+      "orchestra": "NYP Presentation",
+      "season": "2015-16",
+      "concerts": [
+        {
+          "eventType": "NY Phil Biennial",
+          "Location": "Manhattan, NY",
+          "Venue": "Metropolitan Museum of Art",
+          "Date": "2016-06-04T04:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12387*",
+          "composerName": "Dalbavie,  Marc-André",
+          "workTitle": "AXIOM",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "4127*",
+          "composerName": "Ligeti,  György [Gyorgy]",
+          "workTitle": "CONCERTO, CELLO",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Campbell, Jay",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "12388*",
+          "composerName": "Fujikura,  Dai",
+          "workTitle": "ICE",
+          "conductorName": "Fulmer, David",
+          "soloists": [
+            {
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2fa47839-e604-4ba8-b16f-82552c1d3bac-0.1",
       "programID": "14051",
       "orchestra": "NYP Presentation",
@@ -69731,63 +70101,128 @@
       ]
     },
     {
-      "id": "30f5da29-fce8-4388-8862-47bc25545546-0.1",
-      "programID": "14042",
+      "id": "5a420032-3de1-4f56-bb93-55ab282d7691-0.1",
+      "programID": "14050",
       "orchestra": "NYP Presentation",
       "season": "2015-16",
       "concerts": [
         {
           "eventType": "NY Phil Biennial",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Museum of Art",
+          "Location": "Brooklyn, NY",
+          "Venue": "National Sawdust",
           "Date": "2016-06-05T04:00:00Z",
-          "Time": "2:00PM"
+          "Time": "7:00PM"
         }
       ],
       "works": [
         {
-          "ID": "12389*",
-          "composerName": "Grisey,  Gerard",
-          "workTitle": "TALEA",
-          "conductorName": "Fulmer, David",
+          "ID": "12424*",
+          "composerName": "Vakeva,  Kari",
+          "workTitle": "SUNDOG II (8 CHANNEL MIXED MEDIA)",
+          "soloists": []
+        },
+        {
+          "ID": "12425*",
+          "composerName": "Bailey,  Christopher",
+          "workTitle": "COMPOSITION FOR S#|??¥ PIANO...",
           "soloists": [
             {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
+              "soloistName": "Ding, Shiau-uen",
+              "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "12390*",
-          "composerName": "Zorn,  John",
-          "workTitle": "REMEDY OF FORTUNE",
-          "conductorName": "Gilbert, Alan",
+          "ID": "12426*",
+          "composerName": "Frankel,  Ari",
+          "workTitle": "INERNEST (VIDEO)",
+          "soloists": []
+        },
+        {
+          "ID": "12427*",
+          "composerName": "Frankel,  Ari",
+          "workTitle": "ENCAGED (VIDEO)",
+          "soloists": []
+        },
+        {
+          "ID": "12428*",
+          "composerName": "Kim,  HanNa",
+          "workTitle": "YELLOW FOREST (2 LAPTOPS)",
+          "soloists": []
+        },
+        {
+          "ID": "12429*",
+          "composerName": "Ueno,  Ken",
+          "workTitle": "VEDANANUPASSANA",
           "soloists": [
             {
-              "soloistName": "Mivos Quartet",
-              "soloistInstrument": "String Quartet",
+              "soloistName": "Cerar, Maja",
+              "soloistInstrument": "Violin",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "8743*",
-          "composerName": "Ligeti,  György",
-          "workTitle": "CONCERTO, VIOLIN",
-          "conductorName": "Gilbert, Alan",
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12430*",
+          "composerName": "Nichols,  Charles",
+          "workTitle": "AT THE BOUNDARY",
           "soloists": [
             {
-              "soloistName": "Kuusisto, Pekka",
+              "soloistName": "Cook, Arthur",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Chang-Chien, Tina",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Cizmecioglu, Funda",
               "soloistInstrument": "Violin",
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Lucerne Festival Alumni",
-              "soloistInstrument": "Orchestra",
+              "soloistName": "Kitzis, Gregor",
+              "soloistInstrument": "Violin",
               "soloistRoles": "S"
             }
           ]
+        },
+        {
+          "ID": "12431*",
+          "composerName": "Fritts,  Lawrence",
+          "workTitle": "MUSICOMETRY I",
+          "soloists": []
+        },
+        {
+          "ID": "12432*",
+          "composerName": "Evans,  Eric",
+          "workTitle": "HOMOOUSIOS",
+          "soloists": [
+            {
+              "soloistName": "Newton, Kourtney",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lear, Cassie",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12433*",
+          "composerName": "Niblock,  Phill",
+          "workTitle": "TIMEPIECE/MAIZE",
+          "soloists": []
         }
       ]
     },
@@ -69915,128 +70350,63 @@
       ]
     },
     {
-      "id": "5a420032-3de1-4f56-bb93-55ab282d7691-0.1",
-      "programID": "14050",
+      "id": "30f5da29-fce8-4388-8862-47bc25545546-0.1",
+      "programID": "14042",
       "orchestra": "NYP Presentation",
       "season": "2015-16",
       "concerts": [
         {
           "eventType": "NY Phil Biennial",
-          "Location": "Brooklyn, NY",
-          "Venue": "National Sawdust",
+          "Location": "Manhattan, NY",
+          "Venue": "Metropolitan Museum of Art",
           "Date": "2016-06-05T04:00:00Z",
-          "Time": "7:00PM"
+          "Time": "2:00PM"
         }
       ],
       "works": [
         {
-          "ID": "12424*",
-          "composerName": "Vakeva,  Kari",
-          "workTitle": "SUNDOG II (8 CHANNEL MIXED MEDIA)",
-          "soloists": []
-        },
-        {
-          "ID": "12425*",
-          "composerName": "Bailey,  Christopher",
-          "workTitle": "COMPOSITION FOR S#|??¥ PIANO...",
+          "ID": "12389*",
+          "composerName": "Grisey,  Gerard",
+          "workTitle": "TALEA",
+          "conductorName": "Fulmer, David",
           "soloists": [
             {
-              "soloistName": "Ding, Shiau-uen",
-              "soloistInstrument": "Piano",
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "12426*",
-          "composerName": "Frankel,  Ari",
-          "workTitle": "INERNEST (VIDEO)",
-          "soloists": []
-        },
-        {
-          "ID": "12427*",
-          "composerName": "Frankel,  Ari",
-          "workTitle": "ENCAGED (VIDEO)",
-          "soloists": []
-        },
-        {
-          "ID": "12428*",
-          "composerName": "Kim,  HanNa",
-          "workTitle": "YELLOW FOREST (2 LAPTOPS)",
-          "soloists": []
-        },
-        {
-          "ID": "12429*",
-          "composerName": "Ueno,  Ken",
-          "workTitle": "VEDANANUPASSANA",
+          "ID": "12390*",
+          "composerName": "Zorn,  John",
+          "workTitle": "REMEDY OF FORTUNE",
+          "conductorName": "Gilbert, Alan",
           "soloists": [
             {
-              "soloistName": "Cerar, Maja",
-              "soloistInstrument": "Violin",
+              "soloistName": "Mivos Quartet",
+              "soloistInstrument": "String Quartet",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "12430*",
-          "composerName": "Nichols,  Charles",
-          "workTitle": "AT THE BOUNDARY",
+          "ID": "8743*",
+          "composerName": "Ligeti,  György [Gyorgy]",
+          "workTitle": "CONCERTO, VIOLIN",
+          "conductorName": "Gilbert, Alan",
           "soloists": [
             {
-              "soloistName": "Cook, Arthur",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Chang-Chien, Tina",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Cizmecioglu, Funda",
+              "soloistName": "Kuusisto, Pekka",
               "soloistInstrument": "Violin",
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Kitzis, Gregor",
-              "soloistInstrument": "Violin",
+              "soloistName": "Lucerne Festival Alumni",
+              "soloistInstrument": "Orchestra",
               "soloistRoles": "S"
             }
           ]
-        },
-        {
-          "ID": "12431*",
-          "composerName": "Fritts,  Lawrence",
-          "workTitle": "MUSICOMETRY I",
-          "soloists": []
-        },
-        {
-          "ID": "12432*",
-          "composerName": "Evans,  Eric",
-          "workTitle": "HOMOOUSIOS",
-          "soloists": [
-            {
-              "soloistName": "Newton, Kourtney",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Lear, Cassie",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "12433*",
-          "composerName": "Niblock,  Phill",
-          "workTitle": "TIMEPIECE/MAIZE",
-          "soloists": []
         }
       ]
     },
@@ -72789,7 +73159,7 @@
         },
         {
           "ID": "12304*",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "MYSTERIES OF THE MACABRE (FULL ORCHESTRA VERSION)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -72840,7 +73210,7 @@
       "works": [
         {
           "ID": "12304*",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "MYSTERIES OF THE MACABRE (FULL ORCHESTRA VERSION)",
           "conductorName": "Gilbert, Alan",
           "soloists": [
@@ -76544,7 +76914,7 @@
         },
         {
           "ID": "12584*",
-          "composerName": "Leidzén,  Erik",
+          "composerName": "Leidzen [Leidzén],  Erik",
           "workTitle": "CHRISTMAS JOY",
           "conductorName": "Smith, Philip",
           "soloists": [
@@ -77476,91 +77846,6 @@
       ]
     },
     {
-      "id": "caab8089-1dcc-45db-b951-d3581f07c335-0.1",
-      "programID": "14172",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "2016-17",
-      "concerts": [
-        {
-          "eventType": "Chamber Concert (Private)",
-          "Location": "Manhattan, NY",
-          "Venue": "Home of Neil Westreich and Michael O'Keefe",
-          "Date": "2017-01-18T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "12600*1",
-          "composerName": "Piazzolla,  Astor",
-          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
-          "movement": "Primavera portena",
-          "soloists": [
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Ge, Quan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Avila, Carlos",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "12600*4",
-          "composerName": "Piazzolla,  Astor",
-          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
-          "movement": "Invierno porteno",
-          "soloists": [
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Ge, Quan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Avila, Carlos",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "5647*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "TRIO FOR VIOLIN, CELLO AND PIANO",
-          "soloists": [
-            {
-              "soloistName": "Jee, Patrick",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Ge, Quan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Avila, Carlos",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2977baad-c5eb-4418-8713-ffc876bc0ab6-0.1",
       "programID": "13896",
       "orchestra": "New York Philharmonic",
@@ -77714,6 +77999,91 @@
           "movement": "Allegro con fuoco",
           "conductorName": "Gersen, Joshua",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "caab8089-1dcc-45db-b951-d3581f07c335-0.1",
+      "programID": "14172",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Chamber Concert (Private)",
+          "Location": "Manhattan, NY",
+          "Venue": "Home of Neil Westreich and Michael O'Keefe",
+          "Date": "2017-01-18T05:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12600*1",
+          "composerName": "Piazzolla,  Astor",
+          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
+          "movement": "Primavera portena",
+          "soloists": [
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Avila, Carlos",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "12600*4",
+          "composerName": "Piazzolla,  Astor",
+          "workTitle": "SELECTIONS FROM LAS CUATRO ESTACIONES",
+          "movement": "Invierno porteno",
+          "soloists": [
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Avila, Carlos",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "5647*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "TRIO FOR VIOLIN, CELLO AND PIANO",
+          "soloists": [
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Avila, Carlos",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -79826,7 +80196,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Honeck, Manfred",
           "soloists": []
         }
@@ -79868,7 +80238,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Honeck, Manfred",
           "soloists": []
         }
@@ -80285,6 +80655,48 @@
       ]
     },
     {
+      "id": "0298da16-cf66-4f29-978f-8675cb5b809b-0.1",
+      "programID": "13907",
+      "orchestra": "New York Philharmonic",
+      "season": "2016-17",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2017-03-04T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Gilbert, Alan",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "54089*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
+          "conductorName": "Gilbert, Alan",
+          "soloists": [
+            {
+              "soloistName": "Landshamer, Christina",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ae3f3de2-d608-4ede-b8ae-115b24ddd258-0.1",
       "programID": "13940",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -80432,48 +80844,6 @@
               "soloistName": "Yarbrough, Chad",
               "soloistInstrument": "French Horn",
               "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0298da16-cf66-4f29-978f-8675cb5b809b-0.1",
-      "programID": "13907",
-      "orchestra": "New York Philharmonic",
-      "season": "2016-17",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "David Geffen Hall",
-          "Date": "2017-03-04T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51644*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
-          "conductorName": "Gilbert, Alan",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "54089*",
-          "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  4 IN G MAJOR",
-          "conductorName": "Gilbert, Alan",
-          "soloists": [
-            {
-              "soloistName": "Landshamer, Christina",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
             }
           ]
         }
@@ -83692,7 +84062,7 @@
         {
           "ID": "6456*",
           "composerName": "Dvorak,  Antonín",
-          "workTitle": "QUINTET, STRINGS, G MAJOR, OP.77",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
           "soloists": [
             {
               "soloistName": "Staples, Sheryl",
@@ -86537,7 +86907,8 @@
         {
           "ID": "6186*2",
           "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "FOUR CHILDREN, SZ 42",
+          "workTitle": "FOR CHILDREN, SZ 42",
+          "movement": "42. The Swineherd's Dance [No. 40 in revised version]",
           "soloists": [
             {
               "soloistName": "Schiff, András",
@@ -90067,7 +90438,7 @@
         {
           "ID": "6456*",
           "composerName": "Dvorak,  Antonín",
-          "workTitle": "QUINTET, STRINGS, G MAJOR, OP.77",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
           "soloists": [
             {
               "soloistName": "Yeung, Cherry Choi Tung",
@@ -93909,6 +94280,40 @@
       ]
     },
     {
+      "id": "4d761e97-0af1-4944-9d9a-a3246c3a584d-0.1",
+      "programID": "14330",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2017-18",
+      "concerts": [
+        {
+          "eventType": "Chamber Concert (Private)",
+          "Location": "Manhattan, NY",
+          "Venue": "Michele and Marty Cohen Residence",
+          "Date": "2018-05-07T04:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "14*",
+          "composerName": "Kodaly [Kodály],  Zoltán",
+          "workTitle": "DUO, VIOLIN AND CELLO, OP. 7",
+          "soloists": [
+            {
+              "soloistName": "Ge, Quan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Vickery, Nathan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "93dc242d-fd5a-4c04-834f-7f2469ff5c17-0.1",
       "programID": "14331",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -93978,40 +94383,6 @@
             {
               "soloistName": "Huebner, Eric",
               "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d761e97-0af1-4944-9d9a-a3246c3a584d-0.1",
-      "programID": "14330",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "2017-18",
-      "concerts": [
-        {
-          "eventType": "Chamber Concert (Private)",
-          "Location": "Manhattan, NY",
-          "Venue": "Michele and Marty Cohen Residence",
-          "Date": "2018-05-07T04:00:00Z",
-          "Time": "7:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "14*",
-          "composerName": "Kodaly [Kodály],  Zoltán",
-          "workTitle": "DUO, VIOLIN AND CELLO, OP. 7",
-          "soloists": [
-            {
-              "soloistName": "Ge, Quan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Vickery, Nathan",
-              "soloistInstrument": "Cello",
               "soloistRoles": "A"
             }
           ]
@@ -96297,7 +96668,7 @@
       "works": [
         {
           "ID": "774*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 1",
           "conductorName": "Ridder, Andre [André] de",
@@ -96313,7 +96684,7 @@
         },
         {
           "ID": "51034*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 3 (Kyrie)",
           "conductorName": "Ridder, Andre [André] de",
@@ -96351,7 +96722,7 @@
         },
         {
           "ID": "11116*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "LUX AETERNA",
           "movement": "2001: A Space Odyssey, cue 7",
           "conductorName": "Ridder, Andre [André] de",
@@ -96365,7 +96736,7 @@
         },
         {
           "ID": "11116*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "LUX AETERNA",
           "movement": "2001: A Space Odyssey, cue 8",
           "conductorName": "Ridder, Andre [André] de",
@@ -96379,7 +96750,7 @@
         },
         {
           "ID": "51034*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 9 (Kyrie)",
           "conductorName": "Ridder, Andre [André] de",
@@ -96422,7 +96793,7 @@
         },
         {
           "ID": "774*2",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 13",
           "conductorName": "Ridder, Andre [André] de",
@@ -96430,7 +96801,7 @@
         },
         {
           "ID": "51034*3",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "REQUIEM",
           "movement": "2001: A Space Odyssey, cue 14 (Kyrie)",
           "conductorName": "Ridder, Andre [André] de",
@@ -96444,7 +96815,7 @@
         },
         {
           "ID": "774*3",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "ATMOSPHERES",
           "movement": "2001: A Space Odyssey, cue 15",
           "conductorName": "Ridder, Andre [André] de",
@@ -96452,7 +96823,7 @@
         },
         {
           "ID": "3420*1",
-          "composerName": "Ligeti,  György",
+          "composerName": "Ligeti,  György [Gyorgy]",
           "workTitle": "AVENTURES/NOUVELLES AVENTURES",
           "movement": "2001: A Space Odyssey, cue 16 (on sound track, not played by orchestra)",
           "conductorName": "Ridder, Andre [André] de",
@@ -97769,15 +98140,10 @@
       ],
       "works": [
         {
-          "ID": "13048*",
+          "ID": "8328*",
           "composerName": "Mendelssohn,  Felix",
-          "workTitle": "STRING QUINTET IN B-FLAT MAJOR",
+          "workTitle": "QUINTET, STRINGS NO. 2, B-FLAT MAJOR, OP.87",
           "soloists": [
-            {
-              "soloistName": "Kim, Michelle",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
             {
               "soloistName": "Li, Qianqian",
               "soloistInstrument": "Violin",
@@ -97791,6 +98157,11 @@
             {
               "soloistName": "Wu, Cong",
               "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kim, Michelle",
+              "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
             {
@@ -98156,7 +98527,7 @@
             {
               "soloistName": "Andres, Timo",
               "soloistInstrument": "Piano",
-              "soloistRoles": "None"
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98168,38 +98539,38 @@
           "soloists": [
             {
               "soloistName": "Kahane, Gabriel",
-              "soloistInstrument": "Curator",
-              "soloistRoles": ""
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Andres, Timo",
               "soloistInstrument": "Piano",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Shaw, Caroline",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Ching, Daniel",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Fedkenheuer, William",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Largess, John",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Gindele, Joshua",
               "soloistInstrument": "Cello",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98212,7 +98583,7 @@
             {
               "soloistName": "Miro [Miró] Quartet",
               "soloistInstrument": "String Quartet",
-              "soloistRoles": "None"
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98224,12 +98595,12 @@
             {
               "soloistName": "Shaw, Caroline",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Miro [Miró] Quartet",
               "soloistInstrument": "String Quartet",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98241,17 +98612,17 @@
             {
               "soloistName": "Shaw, Caroline",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Kahane, Gabriel",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Andres, Timo",
               "soloistInstrument": "Piano",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98263,12 +98634,12 @@
             {
               "soloistName": "Kahane, Gabriel",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Andres, Timo",
               "soloistInstrument": "Piano",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98280,7 +98651,7 @@
             {
               "soloistName": "Miro [Miró] Quartet",
               "soloistInstrument": "String Quartet",
-              "soloistRoles": "None"
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98292,12 +98663,12 @@
             {
               "soloistName": "Shaw, Caroline",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Miro [Miró] Quartet",
               "soloistInstrument": "String Quartet",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98310,22 +98681,22 @@
             {
               "soloistName": "Kahane, Gabriel",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Kahane, Gabriel",
               "soloistInstrument": "Electric Guitar",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Shaw, Caroline",
               "soloistInstrument": "Vocalist",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             },
             {
               "soloistName": "Miro [Miró] Quartet",
               "soloistInstrument": "String Quartet",
-              "soloistRoles": ""
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98338,7 +98709,7 @@
             {
               "soloistName": "Andres, Timo",
               "soloistInstrument": "Piano",
-              "soloistRoles": "None"
+              "soloistRoles": "A"
             }
           ]
         },
@@ -98641,7 +99012,7 @@
             {
               "soloistName": "Marq, Sébastien",
               "soloistInstrument": "Recorder",
-              "soloistRoles": "S"
+              "soloistRoles": "A"
             }
           ]
         },
@@ -99938,7 +100309,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -99952,7 +100323,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -99966,7 +100337,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -99979,7 +100350,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -100023,7 +100394,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -100036,7 +100407,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -100050,7 +100421,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -100071,7 +100442,7 @@
             {
               "soloistName": "Fleming, Renee (Renée)",
               "soloistInstrument": "Soprano",
-              "soloistRoles": "None"
+              "soloistRoles": "S"
             }
           ]
         },
@@ -100520,7 +100891,7 @@
     {
       "id": "fdadf5cf-4c32-4153-b67b-eb37513014e1-0.1",
       "programID": "14416",
-      "orchestra": "Members of NY Philharmonic",
+      "orchestra": "Musicians from the New York Philharmonic",
       "season": "2018-19",
       "concerts": [
         {
@@ -102406,7 +102777,7 @@
         {
           "ID": "12957*",
           "composerName": "Schubert,  Franz",
-          "workTitle": "GOTTER GREICHENLANDS (WITH STRINGS), D. 677 (ARR. Merlin)",
+          "workTitle": "GOTTER GRIECHENLANDS (WITH STRINGS), D. 677 (ARR. Merlin)",
           "soloists": [
             {
               "soloistName": "Goerne, Matthias",
@@ -105909,7 +106280,7 @@
         },
         {
           "ID": "13029*",
-          "composerName": "Leidzén,  Erik",
+          "composerName": "Leidzen [Leidzén],  Erik",
           "workTitle": "MARCH: MANHATTAN",
           "conductorName": "Smith, Philip",
           "soloists": []
@@ -111870,7 +112241,106 @@
           "Time": "None"
         }
       ],
-      "works": []
+      "works": [
+        {
+          "ID": "6456*5",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
+          "movement": "Allegro con fuoco, selection from",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Lu, Kuan Cheng",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Kenote, Peter",
+              "soloistInstrument": "Viola",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Zeugner, Max",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": ""
+            }
+          ]
+        },
+        {
+          "ID": "3780*",
+          "composerName": "Traditional,",
+          "workTitle": "POP! GOES THE WEASEL",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Lu, Kuan Cheng",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Kenote, Peter",
+              "soloistInstrument": "Viola",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Zeugner, Max",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": ""
+            }
+          ]
+        },
+        {
+          "ID": "6456*4",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "QUINTET, STRINGS, NO. 2, G MAJOR, OP.77",
+          "movement": "Finale. Allegro assai",
+          "soloists": [
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Lu, Kuan Cheng",
+              "soloistInstrument": "Violin",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Kenote, Peter",
+              "soloistInstrument": "Viola",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": ""
+            },
+            {
+              "soloistName": "Zeugner, Max",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2264612f-6687-4d03-9f3c-b2f6bfa3c567-0.1",
@@ -111965,6 +112435,699 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "c756381e-1494-4587-a4b6-4b1bef52c3ef-0.1",
+      "programID": "14576",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "The Charles Engelhard Court, Metropolitan Museum of Art",
+          "Date": "2020-02-08T05:00:00Z",
+          "Time": "7:00PM"
+        },
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "The Charles Engelhard Court, Metropolitan Museum of Art",
+          "Date": "2020-02-11T05:00:00Z",
+          "Time": "7:00PM"
+        },
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "The Charles Engelhard Court, Metropolitan Museum of Art",
+          "Date": "2020-02-12T05:00:00Z",
+          "Time": "7:00PM"
+        },
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "The Charles Engelhard Court, Metropolitan Museum of Art",
+          "Date": "2020-02-14T05:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7927*",
+          "composerName": "Thomson,  Virgil",
+          "workTitle": "MOTHER OF US ALL, THE",
+          "conductorName": "Candillari, Daniela",
+          "soloists": [
+            {
+              "soloistName": "Proske, Louisa",
+              "soloistInstrument": "Director",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Moore, Felicia",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Sokolowski, Libby",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wagner, Erin",
+              "soloistInstrument": "Contralto",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Feldmann, Gregory",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Socolof, William",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Jonas-O'Toole, Chance",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Miller, Kyle",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Quinn, Carlyle",
+              "soloistInstrument": "Contralto",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Simmons, Jaylyn",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Keong, Yvette",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Neuhaus, Alma",
+              "soloistInstrument": "Contralto",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Graham, Lydia Grace",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Rootring, James",
+              "soloistInstrument": "Bass-Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Hurley, Ryan",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Keeney, Aaron",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Pittsinger, Richard",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Pizarro, Santiago",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Love, Deborah",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Castro, Ian Matthew",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Werlein, Jared",
+              "soloistInstrument": "Bass-Baritone",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Smith, Thomas",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hashimoto, Sae",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beck, Steven",
+              "soloistInstrument": "Piano/Celeste",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kampmeier, Margaret",
+              "soloistInstrument": "Organ",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yu, Jin Suk",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "The Juilliard School's Ellen and James S. Marcus Institute for Vocal Arts, Singers from",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14b0e75c-d13c-4770-a158-a6a858fbcabc-0.1",
+      "programID": "14474",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Sound ON",
+          "Location": "Manhattan, NY",
+          "Venue": "Appell Room, The",
+          "Date": "2020-02-10T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13066*",
+          "composerName": "Lizee [Lizée],  Nicole",
+          "workTitle": "TEARS / PILLOW",
+          "soloists": [
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zerna, Kyle",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rieppi, Pablo",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13068*",
+          "composerName": "La Barbara,  Joan",
+          "workTitle": "EARS OF AN EAGLE; EYES OF A HAWK:  IN THE VORTEX",
+          "conductorName": "Milarsky, Jeffrey",
+          "soloists": [
+            {
+              "soloistName": "La Barbara, Joan",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Wall, Howard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Williams, Colin",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Zerna, Kyle",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Huebner, Eric",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13067*",
+          "composerName": "Crumb,  George",
+          "workTitle": "NIGHT OF THE FOUR MOONS",
+          "soloists": [
+            {
+              "soloistName": "O'Connor, Kelley",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Alto Flute/Piccolo",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kuney, Scott",
+              "soloistInstrument": "Banjo",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Electric Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Druckman, Daniel",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "13069*",
+          "composerName": "Prestini,  Paola",
+          "workTitle": "THRUSH SONG",
+          "conductorName": "Milarsky, Jeffrey",
+          "soloists": [
+            {
+              "soloistName": "Dhegrae, Lucy",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sun, Na",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ferguson, Leah M.",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rieppi, Pablo",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13075*",
+          "composerName": "Berio,  Luciano",
+          "workTitle": "FOLK SONGS (CHAMBER)",
+          "conductorName": "Milarsky, Jeffrey",
+          "soloists": [
+            {
+              "soloistName": "O'Connor, Kelley",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kitsopoulos, Maria",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Son, Yoobin",
+              "soloistInstrument": "Flute/Piccolo",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Drucker, Stanley",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Allen, Nancy",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rinehart, Robert",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41bb5bc5-cd43-4e29-b4c1-3f01d5931ee9-0.1",
+      "programID": "14376",
+      "orchestra": "New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-13T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Jansen, Janine",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8857*3",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "PARTITA NO. 3, E MAJOR, BWV 1006",
+          "movement": "Loure",
+          "soloists": [
+            {
+              "soloistName": "Jansen, Janine",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12879*",
+          "composerName": "Leon [León],  Tania",
+          "workTitle": "STRIDE",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "53542*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "ROSENKAVALIER, DER: SUITE",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "676d5acd-3c91-4c9d-a2bd-8d31d01c32da-0.1",
+      "programID": "14484",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Nightcap",
+          "Location": "Manhattan, NY",
+          "Venue": "The Stanley H. Kaplan Penthouse",
+          "Date": "2020-02-15T05:00:00Z",
+          "Time": "10:30PM"
+        }
+      ],
+      "works": []
+    },
+    {
+      "id": "5e3b20b3-0091-4fc6-81f2-9d567c21ea26-0.1",
+      "programID": "14575",
+      "orchestra": "New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-15T05:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-18T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Jansen, Janine",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8761*3",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "PARTITA NO. 2, D MINOR, BWV 1004",
+          "movement": "Sarabande",
+          "soloists": [
+            {
+              "soloistName": "Jansen, Janine",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12879*",
+          "composerName": "Leon [León],  Tania",
+          "workTitle": "STRIDE",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "53542*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "ROSENKAVALIER, DER: SUITE",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "3c0ee6de-d3d9-459c-a49a-22a8d6a7fff9-0.1",
+      "programID": "14377",
+      "orchestra": "New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-20T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-21T05:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-22T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12890*",
+          "composerName": "Reid,  Ellen",
+          "workTitle": "WHEN THE WORLD AS YOU'VE KNOWN IT DOESN'T EXIST",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Bagg, Eliza",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Cluver, Martha",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gomez, Esteli",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "7390*3",
+          "composerName": "Hillborg,  Anders",
+          "workTitle": "STRAND SETTINGS, THE",
+          "movement": "Dark Harbor XXXV",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "7390*4",
+          "composerName": "Hillborg,  Anders",
+          "workTitle": "STRAND SETTINGS, THE",
+          "movement": "Dark Harbor XI",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12912*",
+          "composerName": "Bjork [Björk],",
+          "workTitle": "VIRUS (VOICE AND ORCHESTRA) (ARR. Ek)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "None"
+            }
+          ]
+        },
+        {
+          "ID": "12910*",
+          "composerName": "Bjork [Björk],",
+          "workTitle": "ALL IS FULL OF LOVE (VOICE AND ORCHESTRA) (ARR. Ek)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "None"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1181*",
+          "composerName": "Bruckner,  Anton",
+          "workTitle": "SYMPHONY NO. 4, E FLAT MAJOR (ROMANTIC)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "42b489de-e650-4218-8016-255a0503db27-0.1",
+      "programID": "14378",
+      "orchestra": "New York Philharmonic",
+      "season": "2019-20",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-27T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-28T05:00:00Z",
+          "Time": "2:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2020-02-29T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "12704*",
+          "composerName": "Widmann,  Jorg [Jörg]",
+          "workTitle": "BABYLON SUITE",
+          "conductorName": "Welser-Möst, Franz",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51962*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "SYMPHONIA DOMESTICA, OP. 53",
+          "conductorName": "Welser-Möst, Franz",
+          "soloists": []
         }
       ]
     }
