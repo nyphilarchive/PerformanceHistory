@@ -69489,6 +69489,56 @@
       ]
     },
     {
+      "id": "6c631edd-5e1c-46f2-9549-498fc6f1da5a-0.1",
+      "programID": "2355",
+      "orchestra": "New York Philharmonic",
+      "season": "1938-39",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1939-04-30T05:00:00Z",
+          "Time": "3:20PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9007*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
+          "conductorName": "Barbirolli , John",
+          "soloists": []
+        },
+        {
+          "ID": "52492*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, PIANO, NO. 1, G MINOR, OP.25",
+          "conductorName": "Barbirolli , John",
+          "soloists": [
+            {
+              "soloistName": "Serkin, Rudolf",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51870*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+          "conductorName": "Barbirolli , John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "3b1baf1c-8431-4847-9ab7-2d7f5ab5175a-0.1",
       "programID": "4154",
       "orchestra": "New York Philharmonic",
@@ -69553,56 +69603,6 @@
           "ID": "52446*",
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Barbirolli , John",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "6c631edd-5e1c-46f2-9549-498fc6f1da5a-0.1",
-      "programID": "2355",
-      "orchestra": "New York Philharmonic",
-      "season": "1938-39",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1939-04-30T05:00:00Z",
-          "Time": "3:20PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9007*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Prelude to Act I",
-          "conductorName": "Barbirolli , John",
-          "soloists": []
-        },
-        {
-          "ID": "52492*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, PIANO, NO. 1, G MINOR, OP.25",
-          "conductorName": "Barbirolli , John",
-          "soloists": [
-            {
-              "soloistName": "Serkin, Rudolf",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51870*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
           "conductorName": "Barbirolli , John",
           "soloists": []
         }
