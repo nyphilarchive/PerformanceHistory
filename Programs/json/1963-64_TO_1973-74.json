@@ -205,6 +205,57 @@
       ]
     },
     {
+      "id": "0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1",
+      "programID": "6434",
+      "orchestra": "New York Philharmonic",
+      "season": "1963-64",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Chicago, IL",
+          "Venue": "Opera House",
+          "Date": "1963-09-08T04:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52577*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "53624*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
+          "conductorName": "Ozawa, Seiji",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51884*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "8855*3",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 3 in A-flat major: Poco allegro",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "42b3f24f-d273-47eb-9f7f-750c7f349540-0.1",
       "programID": "6429",
       "orchestra": "New York Philharmonic",
@@ -263,57 +314,6 @@
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SLAVONIC DANCES, OP. 46",
           "movement": "No. 1 in C major: Presto",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1",
-      "programID": "6434",
-      "orchestra": "New York Philharmonic",
-      "season": "1963-64",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Chicago, IL",
-          "Venue": "Opera House",
-          "Date": "1963-09-08T04:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "53624*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
-          "conductorName": "Ozawa, Seiji",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51884*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "8855*3",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SLAVONIC DANCES, OP. 46",
-          "movement": "No. 3 in A-flat major: Poco allegro",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -11041,7 +11041,7 @@
         },
         {
           "ID": "6261*",
-          "composerName": "Martinu,  Bohuslav",
+          "composerName": "Martinu [Martinů],  Bohuslav",
           "workTitle": "CONCERTO, PIANO, NO. 3",
           "conductorName": "Krips, Josef",
           "soloists": [
@@ -12167,7 +12167,7 @@
         {
           "ID": "6280*",
           "composerName": "Perry,  Julia",
-          "workTitle": "STUDY FOR ORCHESTRA",
+          "workTitle": "STUDY FOR ORCHESTRA [SHORT PIECE FOR ORCHESTRA]",
           "conductorName": "Steinberg, William",
           "soloists": []
         },
@@ -12223,7 +12223,7 @@
         {
           "ID": "6280*",
           "composerName": "Perry,  Julia",
-          "workTitle": "STUDY FOR ORCHESTRA",
+          "workTitle": "STUDY FOR ORCHESTRA [SHORT PIECE FOR ORCHESTRA]",
           "conductorName": "Steinberg, William",
           "soloists": []
         },
@@ -24658,10 +24658,9 @@
       ],
       "works": [
         {
-          "ID": "3152*14",
+          "ID": "12544*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon noni toni a 12, C. 183",
+          "workTitle": "CANZON PER SONAR NONI TONI, CH. 183",
           "conductorName": "Foss, Lukas",
           "soloists": []
         },
@@ -25362,7 +25361,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25406,7 +25405,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25450,7 +25449,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25494,7 +25493,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25538,7 +25537,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25582,7 +25581,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25626,7 +25625,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25669,7 +25668,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25713,7 +25712,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -25892,7 +25891,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -38074,7 +38073,7 @@
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
-          "movement": "Adagietto: Sehr langsam (Very Slow)",
+          "movement": "Adagietto: Sehr langsam",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -39986,49 +39985,6 @@
     },
     {
       "id": "ed3b2718-ecdb-447f-b6db-a045fb0611ac-0.1",
-      "programID": "3605",
-      "orchestra": "New York Philharmonic",
-      "season": "1967-68",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Luzerne, SWITZERLAND",
-          "Venue": "Kultur- und Kongresszentrum Luzern",
-          "Date": "1968-08-27T04:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52073*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  87, A MAJOR",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "1723*",
-          "composerName": "Harris,  Roy",
-          "workTitle": "SYMPHONY NO.  3",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51370*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "8499433b-50ba-45a9-a210-0cc16c662c7d-0.1",
       "programID": "3605",
       "orchestra": "New York Philharmonic",
       "season": "1967-68",
@@ -42176,7 +42132,7 @@
         },
         {
           "ID": "4812*",
-          "composerName": "Martinu,  Bohuslav",
+          "composerName": "Martinu [Martinů],  Bohuslav",
           "workTitle": "CONCERTO, PIANO, NO. 2",
           "conductorName": "Giulini, Carlo Maria",
           "soloists": [
@@ -43897,7 +43853,7 @@
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
-          "movement": "Adagietto: Sehr langsam (Very Slow)",
+          "movement": "Adagietto: Sehr langsam",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
@@ -50068,7 +50024,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Fruhbeck de Burgos, Rafael",
           "soloists": []
         }
@@ -56728,7 +56684,7 @@
         {
           "ID": "5533*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (WITH BLUMINE), (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (WITH BLUMINE)",
           "conductorName": "Ozawa, Seiji",
           "soloists": []
         }
@@ -58109,26 +58065,23 @@
       ],
       "works": [
         {
-          "ID": "3152*5",
+          "ID": "13240*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon duodecimi toni a 8, C. 174",
+          "workTitle": "CANZON PER SONAR DUODECIMI TONI, CH. 174",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
         {
-          "ID": "3152*6",
+          "ID": "13237*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Sonata pian' e forte a 8, C. 175",
+          "workTitle": "SONATA PIAN' E FORTE, CH. 175",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
         {
-          "ID": "3152*3",
+          "ID": "5296*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon septimi toni a 8, C. 172",
+          "workTitle": "CANZON PER SONAR SEPTIMI TONI NO. 2, CH. 172",
           "conductorName": "Boulez, Pierre",
           "soloists": []
         },
@@ -68543,59 +68496,6 @@
       ]
     },
     {
-      "id": "0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1",
-      "programID": "5148",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1972-73",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1972-10-05T04:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1972-10-07T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3875*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "DUO CONCERTANTE",
-          "soloists": [
-            {
-              "soloistName": "Druian, Rafael",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beroff, Michel",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2280*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (1921 VERSION FOR PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Beroff, Michel",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "fff610f2-a82e-47b0-b9ab-551c8e72e2e4-0.1",
       "programID": "3350",
       "orchestra": "New York Philharmonic",
@@ -68738,6 +68638,59 @@
               "soloistName": "Newark Boys' Choir",
               "soloistInstrument": "Boys Choir",
               "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1",
+      "programID": "5148",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1972-73",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1972-10-05T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1972-10-07T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3875*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "DUO CONCERTANTE",
+          "soloists": [
+            {
+              "soloistName": "Druian, Rafael",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beroff, Michel",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2280*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PETRUSHKA (1921 VERSION FOR PIANO)",
+          "soloists": [
+            {
+              "soloistName": "Beroff, Michel",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
             }
           ]
         }
@@ -72096,6 +72049,74 @@
       ]
     },
     {
+      "id": "b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1",
+      "programID": "2352",
+      "orchestra": "New York Philharmonic",
+      "season": "1972-73",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1973-03-15T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1973-03-17T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53003*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "JULIUS CAESAR, OP. 128",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "51925*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  49, F MINOR (LA PASSIONE)",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "6431*",
+          "composerName": "Berio,  Luciano",
+          "workTitle": "CONCERTO, TWO PIANOS AND ORCHESTRA",
+          "conductorName": "Boulez, Pierre",
+          "soloists": [
+            {
+              "soloistName": "Canino, Bruno",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Ballista, Antonio",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52577*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "a57ae00e-1c80-4ab6-a7e6-b345cb58a9da-0.1",
       "programID": "4145",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -72162,74 +72183,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1",
-      "programID": "2352",
-      "orchestra": "New York Philharmonic",
-      "season": "1972-73",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1973-03-15T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1973-03-17T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53003*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "JULIUS CAESAR, OP. 128",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "51925*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  49, F MINOR (LA PASSIONE)",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "6431*",
-          "composerName": "Berio,  Luciano",
-          "workTitle": "CONCERTO, TWO PIANOS AND ORCHESTRA",
-          "conductorName": "Boulez, Pierre",
-          "soloists": [
-            {
-              "soloistName": "Canino, Bruno",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Ballista, Antonio",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
         }
       ]
     },
@@ -72509,6 +72462,207 @@
       ]
     },
     {
+      "id": "0d8fc2d4-50d1-4ccc-83c2-838971feb439-0.1",
+      "programID": "1592",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1972-73",
+      "concerts": [
+        {
+          "eventType": "Prospective Encounters",
+          "Location": "Manhattan, NY",
+          "Venue": "Loeb Student Center",
+          "Date": "1973-03-30T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "4009*",
+          "composerName": "Babbitt,  Milton",
+          "workTitle": "OCCASIONAL VARIATIONS",
+          "conductorName": "Boulez, Pierre",
+          "soloists": [
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Whyte, Donald",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Finclair, Barry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nigrine, Henry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Newland, Larry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lehr, Barry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Altmann, Bernardo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bernsohn, Lorin",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Benedetti, Evangeline",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Mensch, Homer R.",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "3766*",
+          "composerName": "Babbitt,  Milton",
+          "workTitle": "CORRESPONDENCES",
+          "conductorName": "Boulez, Pierre",
+          "soloists": [
+            {
+              "soloistName": "Ginsberg, Marc",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Whyte, Donald",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Finclair, Barry",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nigrine, Henry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Newland, Larry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Lehr, Barry",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Altmann, Bernardo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bernsohn, Lorin",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Benedetti, Evangeline",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Mensch, Homer R.",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "3420*",
+          "composerName": "Ligeti,  György [Gyorgy]",
+          "workTitle": "AVENTURES/NOUVELLES AVENTURES",
+          "conductorName": "Boulez, Pierre",
+          "soloists": [
+            {
+              "soloistName": "Bryn-Julson, Phyllis",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "DeGaetani, Jan",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Frisch, Richard",
+              "soloistInstrument": "Baritone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bernsohn, Lorin",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Mensch, Homer R.",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brook, Paige",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Brook, Paige",
+              "soloistInstrument": "Piccolo",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "De Intinis, Ranier",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gottlieb, Gordon",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Jacobs, Paul",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kalish, Gilbert",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kalish, Gilbert",
+              "soloistInstrument": "Celeste",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "345ddcbc-12cd-4448-844b-0b2760d55814-0.1",
       "programID": "4151",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -72743,207 +72897,6 @@
             {
               "soloistName": "Clement, Paul",
               "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0d8fc2d4-50d1-4ccc-83c2-838971feb439-0.1",
-      "programID": "1592",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1972-73",
-      "concerts": [
-        {
-          "eventType": "Prospective Encounters",
-          "Location": "Manhattan, NY",
-          "Venue": "Loeb Student Center",
-          "Date": "1973-03-30T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "4009*",
-          "composerName": "Babbitt,  Milton",
-          "workTitle": "OCCASIONAL VARIATIONS",
-          "conductorName": "Boulez, Pierre",
-          "soloists": [
-            {
-              "soloistName": "Ginsberg, Marc",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Whyte, Donald",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Finclair, Barry",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nigrine, Henry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Newland, Larry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Lehr, Barry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Altmann, Bernardo",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bernsohn, Lorin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Benedetti, Evangeline",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Mensch, Homer R.",
-              "soloistInstrument": "Double Bass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "3766*",
-          "composerName": "Babbitt,  Milton",
-          "workTitle": "CORRESPONDENCES",
-          "conductorName": "Boulez, Pierre",
-          "soloists": [
-            {
-              "soloistName": "Ginsberg, Marc",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Whyte, Donald",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Finclair, Barry",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nigrine, Henry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Newland, Larry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Lehr, Barry",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Altmann, Bernardo",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bernsohn, Lorin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Benedetti, Evangeline",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Mensch, Homer R.",
-              "soloistInstrument": "Double Bass",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "3420*",
-          "composerName": "Ligeti,  György [Gyorgy]",
-          "workTitle": "AVENTURES/NOUVELLES AVENTURES",
-          "conductorName": "Boulez, Pierre",
-          "soloists": [
-            {
-              "soloistName": "Bryn-Julson, Phyllis",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "DeGaetani, Jan",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Frisch, Richard",
-              "soloistInstrument": "Baritone",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bernsohn, Lorin",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Mensch, Homer R.",
-              "soloistInstrument": "Double Bass",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brook, Paige",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Brook, Paige",
-              "soloistInstrument": "Piccolo",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "De Intinis, Ranier",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Gottlieb, Gordon",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Jacobs, Paul",
-              "soloistInstrument": "Harpsichord",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kalish, Gilbert",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kalish, Gilbert",
-              "soloistInstrument": "Celeste",
               "soloistRoles": "A"
             }
           ]
@@ -74157,7 +74110,7 @@
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
-          "movement": "Adagietto: Sehr langsam (Very Slow)",
+          "movement": "Adagietto: Sehr langsam",
           "conductorName": "Copland, Aaron",
           "soloists": []
         },
@@ -78625,18 +78578,16 @@
       ],
       "works": [
         {
-          "ID": "3152*5",
+          "ID": "13240*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon duodecimi toni a 8, C. 174",
+          "workTitle": "CANZON PER SONAR DUODECIMI TONI, CH. 174",
           "conductorName": "Ceccato, Aldo",
           "soloists": []
         },
         {
-          "ID": "3152*3",
+          "ID": "5296*",
           "composerName": "Gabrieli,  Giovanni",
-          "workTitle": "SACRAE SYMPHONIAE, BOOK 1",
-          "movement": "Canzon septimi toni a 8, C. 172",
+          "workTitle": "CANZON PER SONAR SEPTIMI TONI NO. 2, CH. 172",
           "conductorName": "Ceccato, Aldo",
           "soloists": []
         },
@@ -78741,7 +78692,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
           "conductorName": "Klee, Bernhard",
           "soloists": []
         }
@@ -81780,7 +81731,7 @@
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
           "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
-          "movement": "Adagietto: Sehr langsam (Very Slow)",
+          "movement": "Adagietto: Sehr langsam",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },

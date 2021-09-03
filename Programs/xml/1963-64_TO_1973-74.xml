@@ -161,6 +161,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1</id>
+        <programID>6434</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1963-64</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Chicago, IL</Location>
+            <Venue>Opera House</Venue>
+            <Date>1963-09-08T04:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52577*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
+                <conductorName>Ozawa, Seiji</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="8855*3">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
+                <movement>No. 3 in A-flat major: Poco allegro</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>42b3f24f-d273-47eb-9f7f-750c7f349540-0.1</id>
         <programID>6429</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -207,45 +246,6 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
                 <movement>No. 1 in C major: Presto</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1</id>
-        <programID>6434</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1963-64</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Chicago, IL</Location>
-            <Venue>Opera House</Venue>
-            <Date>1963-09-08T04:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52577*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53624*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
-                <conductorName>Ozawa, Seiji</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="8855*3">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
-                <movement>No. 3 in A-flat major: Poco allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -9457,7 +9457,7 @@
                 <conductorName>Krips, Josef</conductorName>
             </work>
             <work ID="6261*">
-                <composerName>Martinu,  Bohuslav</composerName>
+                <composerName>Martinu [Martinů],  Bohuslav</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 3</workTitle>
                 <conductorName>Krips, Josef</conductorName>
                 <soloists>
@@ -10434,7 +10434,7 @@
         <worksInfo>
             <work ID="6280*">
                 <composerName>Perry,  Julia</composerName>
-                <workTitle>STUDY FOR ORCHESTRA</workTitle>
+                <workTitle>STUDY FOR ORCHESTRA [SHORT PIECE FOR ORCHESTRA]</workTitle>
                 <conductorName>Steinberg, William</conductorName>
             </work>
             <work ID="53727*">
@@ -10479,7 +10479,7 @@
         <worksInfo>
             <work ID="6280*">
                 <composerName>Perry,  Julia</composerName>
-                <workTitle>STUDY FOR ORCHESTRA</workTitle>
+                <workTitle>STUDY FOR ORCHESTRA [SHORT PIECE FOR ORCHESTRA]</workTitle>
                 <conductorName>Steinberg, William</conductorName>
             </work>
             <work ID="53727*">
@@ -21440,10 +21440,9 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="3152*14">
+            <work ID="12544*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Canzon noni toni a 12, C. 183</movement>
+                <workTitle>CANZON PER SONAR NONI TONI, CH. 183</workTitle>
                 <conductorName>Foss, Lukas</conductorName>
             </work>
             <work ID="9060*">
@@ -22051,7 +22050,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22085,7 +22084,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22119,7 +22118,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22153,7 +22152,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22187,7 +22186,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22221,7 +22220,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22255,7 +22254,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22288,7 +22287,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22322,7 +22321,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -22476,7 +22475,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -32954,7 +32953,7 @@
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
-                <movement>Adagietto: Sehr langsam (Very Slow)</movement>
+                <movement>Adagietto: Sehr langsam</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -34627,39 +34626,6 @@
     </program>
     <program>
         <id>ed3b2718-ecdb-447f-b6db-a045fb0611ac-0.1</id>
-        <programID>3605</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1967-68</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Luzerne, SWITZERLAND</Location>
-            <Venue>Kultur- und Kongresszentrum Luzern</Venue>
-            <Date>1968-08-27T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52073*">
-                <composerName>Haydn,  Franz  Joseph</composerName>
-                <workTitle>SYMPHONY NO.  87, A MAJOR</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="1723*">
-                <composerName>Harris,  Roy</composerName>
-                <workTitle>SYMPHONY NO.  3</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51370*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>SYMPHONIE FANTASTIQUE, OP.14</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>8499433b-50ba-45a9-a210-0cc16c662c7d-0.1</id>
         <programID>3605</programID>
         <orchestra>New York Philharmonic</orchestra>
         <season>1967-68</season>
@@ -36454,7 +36420,7 @@
                 <conductorName>Giulini, Carlo Maria</conductorName>
             </work>
             <work ID="4812*">
-                <composerName>Martinu,  Bohuslav</composerName>
+                <composerName>Martinu [Martinů],  Bohuslav</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 2</workTitle>
                 <conductorName>Giulini, Carlo Maria</conductorName>
                 <soloists>
@@ -37946,7 +37912,7 @@
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
-                <movement>Adagietto: Sehr langsam (Very Slow)</movement>
+                <movement>Adagietto: Sehr langsam</movement>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
             <work ID="52088*">
@@ -43233,7 +43199,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Fruhbeck de Burgos, Rafael</conductorName>
             </work>
         </worksInfo>
@@ -48985,7 +48951,7 @@
             </work>
             <work ID="5533*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  1 IN D MAJOR (WITH BLUMINE), (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (WITH BLUMINE)</workTitle>
                 <conductorName>Ozawa, Seiji</conductorName>
             </work>
         </worksInfo>
@@ -50178,22 +50144,19 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="3152*5">
+            <work ID="13240*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Canzon duodecimi toni a 8, C. 174</movement>
+                <workTitle>CANZON PER SONAR DUODECIMI TONI, CH. 174</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
-            <work ID="3152*6">
+            <work ID="13237*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Sonata pian' e forte a 8, C. 175</movement>
+                <workTitle>SONATA PIAN' E FORTE, CH. 175</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
-            <work ID="3152*3">
+            <work ID="5296*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Canzon septimi toni a 8, C. 172</movement>
+                <workTitle>CANZON PER SONAR SEPTIMI TONI NO. 2, CH. 172</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
             <work ID="3912*">
@@ -59130,55 +59093,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1</id>
-        <programID>5148</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>1972-73</season>
-        <concertInfo>
-            <eventType>Pre-Concert Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1972-10-05T04:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Pre-Concert Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1972-10-07T04:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3875*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>DUO CONCERTANTE</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Druian, Rafael</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Beroff, Michel</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2280*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>PETRUSHKA (1921 VERSION FOR PIANO)</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Beroff, Michel</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>fff610f2-a82e-47b0-b9ab-551c8e72e2e4-0.1</id>
         <programID>3350</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -59314,6 +59228,55 @@
                         <soloistName>Newark Boys' Choir</soloistName>
                         <soloistInstrument>Boys Choir</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1</id>
+        <programID>5148</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>1972-73</season>
+        <concertInfo>
+            <eventType>Pre-Concert Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1972-10-05T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Pre-Concert Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1972-10-07T04:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3875*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>DUO CONCERTANTE</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Druian, Rafael</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Beroff, Michel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="2280*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>PETRUSHKA (1921 VERSION FOR PIANO)</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Beroff, Michel</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -62269,6 +62232,63 @@
         </worksInfo>
     </program>
     <program>
+        <id>b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1</id>
+        <programID>2352</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1972-73</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1973-03-15T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1973-03-17T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53003*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>JULIUS CAESAR, OP. 128</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="51925*">
+                <composerName>Haydn,  Franz  Joseph</composerName>
+                <workTitle>SYMPHONY NO.  49, F MINOR (LA PASSIONE)</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="6431*">
+                <composerName>Berio,  Luciano</composerName>
+                <workTitle>CONCERTO, TWO PIANOS AND ORCHESTRA</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Canino, Bruno</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Ballista, Antonio</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="52577*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>a57ae00e-1c80-4ab6-a7e6-b345cb58a9da-0.1</id>
         <programID>4145</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -62330,63 +62350,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1</id>
-        <programID>2352</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1972-73</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1973-03-15T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1973-03-17T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53003*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>JULIUS CAESAR, OP. 128</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="51925*">
-                <composerName>Haydn,  Franz  Joseph</composerName>
-                <workTitle>SYMPHONY NO.  49, F MINOR (LA PASSIONE)</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="6431*">
-                <composerName>Berio,  Luciano</composerName>
-                <workTitle>CONCERTO, TWO PIANOS AND ORCHESTRA</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Canino, Bruno</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Ballista, Antonio</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52577*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -62636,6 +62599,202 @@
         </worksInfo>
     </program>
     <program>
+        <id>0d8fc2d4-50d1-4ccc-83c2-838971feb439-0.1</id>
+        <programID>1592</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>1972-73</season>
+        <concertInfo>
+            <eventType>Prospective Encounters</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Loeb Student Center</Venue>
+            <Date>1973-03-30T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="4009*">
+                <composerName>Babbitt,  Milton</composerName>
+                <workTitle>OCCASIONAL VARIATIONS</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ginsberg, Marc</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Whyte, Donald</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Finclair, Barry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nigrine, Henry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Newland, Larry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lehr, Barry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Altmann, Bernardo</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bernsohn, Lorin</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Benedetti, Evangeline</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mensch, Homer R.</soloistName>
+                        <soloistInstrument>Double Bass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3766*">
+                <composerName>Babbitt,  Milton</composerName>
+                <workTitle>CORRESPONDENCES</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ginsberg, Marc</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Whyte, Donald</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Finclair, Barry</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Nigrine, Henry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Newland, Larry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lehr, Barry</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Altmann, Bernardo</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bernsohn, Lorin</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Benedetti, Evangeline</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mensch, Homer R.</soloistName>
+                        <soloistInstrument>Double Bass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3420*">
+                <composerName>Ligeti,  György [Gyorgy]</composerName>
+                <workTitle>AVENTURES/NOUVELLES AVENTURES</workTitle>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bryn-Julson, Phyllis</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>DeGaetani, Jan</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Frisch, Richard</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bernsohn, Lorin</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Mensch, Homer R.</soloistName>
+                        <soloistInstrument>Double Bass</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brook, Paige</soloistName>
+                        <soloistInstrument>Flute</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brook, Paige</soloistName>
+                        <soloistInstrument>Piccolo</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>De Intinis, Ranier</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gottlieb, Gordon</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Jacobs, Paul</soloistName>
+                        <soloistInstrument>Harpsichord</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kalish, Gilbert</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Kalish, Gilbert</soloistName>
+                        <soloistInstrument>Celeste</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>345ddcbc-12cd-4448-844b-0b2760d55814-0.1</id>
         <programID>4151</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -62863,202 +63022,6 @@
                     <soloist>
                         <soloistName>Clement, Paul</soloistName>
                         <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0d8fc2d4-50d1-4ccc-83c2-838971feb439-0.1</id>
-        <programID>1592</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>1972-73</season>
-        <concertInfo>
-            <eventType>Prospective Encounters</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Loeb Student Center</Venue>
-            <Date>1973-03-30T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="4009*">
-                <composerName>Babbitt,  Milton</composerName>
-                <workTitle>OCCASIONAL VARIATIONS</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Ginsberg, Marc</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Whyte, Donald</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Finclair, Barry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nigrine, Henry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Newland, Larry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Lehr, Barry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Altmann, Bernardo</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bernsohn, Lorin</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Benedetti, Evangeline</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Mensch, Homer R.</soloistName>
-                        <soloistInstrument>Double Bass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3766*">
-                <composerName>Babbitt,  Milton</composerName>
-                <workTitle>CORRESPONDENCES</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Ginsberg, Marc</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Whyte, Donald</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Finclair, Barry</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Nigrine, Henry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Newland, Larry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Lehr, Barry</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Altmann, Bernardo</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bernsohn, Lorin</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Benedetti, Evangeline</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Mensch, Homer R.</soloistName>
-                        <soloistInstrument>Double Bass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3420*">
-                <composerName>Ligeti,  György [Gyorgy]</composerName>
-                <workTitle>AVENTURES/NOUVELLES AVENTURES</workTitle>
-                <conductorName>Boulez, Pierre</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bryn-Julson, Phyllis</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>DeGaetani, Jan</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Frisch, Richard</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bernsohn, Lorin</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Mensch, Homer R.</soloistName>
-                        <soloistInstrument>Double Bass</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Brook, Paige</soloistName>
-                        <soloistInstrument>Flute</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Brook, Paige</soloistName>
-                        <soloistInstrument>Piccolo</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>De Intinis, Ranier</soloistName>
-                        <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gottlieb, Gordon</soloistName>
-                        <soloistInstrument>Percussion</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Jacobs, Paul</soloistName>
-                        <soloistInstrument>Harpsichord</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Kalish, Gilbert</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Kalish, Gilbert</soloistName>
-                        <soloistInstrument>Celeste</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
@@ -64115,7 +64078,7 @@
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
-                <movement>Adagietto: Sehr langsam (Very Slow)</movement>
+                <movement>Adagietto: Sehr langsam</movement>
                 <conductorName>Copland, Aaron</conductorName>
             </work>
             <work ID="50710*">
@@ -67878,16 +67841,14 @@
             <Time>7:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="3152*5">
+            <work ID="13240*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Canzon duodecimi toni a 8, C. 174</movement>
+                <workTitle>CANZON PER SONAR DUODECIMI TONI, CH. 174</workTitle>
                 <conductorName>Ceccato, Aldo</conductorName>
             </work>
-            <work ID="3152*3">
+            <work ID="5296*">
                 <composerName>Gabrieli,  Giovanni</composerName>
-                <workTitle>SACRAE SYMPHONIAE, BOOK 1</workTitle>
-                <movement>Canzon septimi toni a 8, C. 172</movement>
+                <workTitle>CANZON PER SONAR SEPTIMI TONI NO. 2, CH. 172</workTitle>
                 <conductorName>Ceccato, Aldo</conductorName>
             </work>
             <work ID="51468*">
@@ -67977,7 +67938,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Klee, Bernhard</conductorName>
             </work>
         </worksInfo>
@@ -70650,7 +70611,7 @@
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
                 <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
-                <movement>Adagietto: Sehr langsam (Very Slow)</movement>
+                <movement>Adagietto: Sehr langsam</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
             <work ID="51071*">
