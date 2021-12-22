@@ -2646,6 +2646,57 @@
       ]
     },
     {
+      "id": "e520ab9c-0d6a-45bd-ad51-7846e61c82e8-0.1",
+      "programID": "6205",
+      "orchestra": "New York Philharmonic",
+      "season": "1940-41",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1941-01-11T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8955*1",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "MAGIC FLUTE, THE, K.620",
+          "movement": "Overture",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "4901*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "QUARTET, STRING, OP. 131, C SHARP MINOR (ARR. Mitropoulos)",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51759*",
+          "composerName": "Roussel,  Albert",
+          "workTitle": "SYMPHONY NO. 3, G MINOR, OP. 42",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "4909*",
+          "composerName": "Casella,  Alfredo",
+          "workTitle": "LA DONNA SERPENTE, SUITE NO. 2",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "95ffb066-28dc-41a7-89fe-9cc126bc7c8d-0.1",
       "programID": "7355",
       "orchestra": "New York Philharmonic",
@@ -2741,57 +2792,6 @@
           "workTitle": "SUITE ALGERIENNE, OP. 60",
           "movement": "Marche militaire française",
           "conductorName": "Ganz, Rudolph",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "e520ab9c-0d6a-45bd-ad51-7846e61c82e8-0.1",
-      "programID": "6205",
-      "orchestra": "New York Philharmonic",
-      "season": "1940-41",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1941-01-11T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8955*1",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MAGIC FLUTE, THE, K.620",
-          "movement": "Overture",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "4901*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "QUARTET, STRING, OP. 131, C SHARP MINOR (ARR. Mitropoulos)",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51759*",
-          "composerName": "Roussel,  Albert",
-          "workTitle": "SYMPHONY NO. 3, G MINOR, OP. 42",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "4909*",
-          "composerName": "Casella,  Alfredo",
-          "workTitle": "LA DONNA SERPENTE, SUITE NO. 2",
-          "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
       ]
@@ -4073,7 +4073,7 @@
         },
         {
           "ID": "5053*",
-          "composerName": "Paderewski,  Ignacy  Jan",
+          "composerName": "Paderewski,  Ignace  Jan",
           "workTitle": "CRACOVIENNE FANTASTIQUE",
           "conductorName": "Ganz, Rudolph",
           "soloists": []
@@ -6080,7 +6080,7 @@
           "soloists": [
             {
               "soloistName": "Van Koppenhagen, Otto",
-              "soloistInstrument": "Viola da Gamba",
+              "soloistInstrument": "Viola da gamba",
               "soloistRoles": "S"
             }
           ]
@@ -9084,7 +9084,7 @@
         {
           "ID": "5421*3",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Evocación",
           "conductorName": "Smallens, Alexander",
           "soloists": []
@@ -10030,7 +10030,7 @@
         {
           "ID": "5421*2",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Fête-Dieu à Séville",
           "conductorName": "Stewart, Reginald",
           "soloists": []
@@ -10038,7 +10038,7 @@
         {
           "ID": "5421*1",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Triana",
           "conductorName": "Stewart, Reginald",
           "soloists": []
@@ -17620,6 +17620,55 @@
       ]
     },
     {
+      "id": "480ac5b4-a1d8-4f49-b33f-2ae256add1d5-0.1",
+      "programID": "6862",
+      "orchestra": "New York Philharmonic",
+      "season": "1941-42",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1942-03-28T04:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50014*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "NUTCRACKER, THE: SUITE, OP. 71A",
+          "conductorName": "Barbirolli , John",
+          "soloists": []
+        },
+        {
+          "ID": "4073*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
+          "conductorName": "Barbirolli , John",
+          "soloists": [
+            {
+              "soloistName": "Piastro, Mishel",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Barbirolli , John",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "1aaa7ea2-2225-4d16-92af-2850ecc6ae32-0.1",
       "programID": "1020",
       "orchestra": "New York Philharmonic",
@@ -17700,55 +17749,6 @@
           "workTitle": "AGE OF GOLD, THE, OP. 22A: SUITE",
           "movement": "Polka (Allegretto)",
           "conductorName": "Ganz, Rudolph",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "480ac5b4-a1d8-4f49-b33f-2ae256add1d5-0.1",
-      "programID": "6862",
-      "orchestra": "New York Philharmonic",
-      "season": "1941-42",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1942-03-28T04:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50014*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "NUTCRACKER, THE: SUITE, OP. 71A",
-          "conductorName": "Barbirolli , John",
-          "soloists": []
-        },
-        {
-          "ID": "4073*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
-          "conductorName": "Barbirolli , John",
-          "soloists": [
-            {
-              "soloistName": "Piastro, Mishel",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Barbirolli , John",
           "soloists": []
         }
       ]
@@ -32750,7 +32750,7 @@
         {
           "ID": "5421*1",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Triana",
           "conductorName": "Iturbi, Jose",
           "soloists": [
@@ -35579,7 +35579,7 @@
         {
           "ID": "5421*",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "conductorName": "Golschmann, Vladimir",
           "soloists": []
         },
@@ -37194,7 +37194,7 @@
         {
           "ID": "5421*1",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Triana",
           "conductorName": "Beckett, Wheeler",
           "soloists": []
@@ -42288,7 +42288,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Cesare, Luigi de",
+              "soloistName": "de Cesare, Luigi",
               "soloistInstrument": "Tenor",
               "soloistRoles": "S"
             },
@@ -42501,56 +42501,6 @@
       ]
     },
     {
-      "id": "652cb58f-8cfe-4585-b71a-c4995c4bbdf2-0.1",
-      "programID": "10789",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1944-07-02T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9194*1",
-          "composerName": "Smetana,  Bedrich",
-          "workTitle": "BARTERED BRIDE, THE",
-          "movement": "Overture (\"Overture to a Comedy\")",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "1587*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "CONCERTO, PIANO, NO. 1, E MINOR, OP. 11",
-          "conductorName": "Smallens, Alexander",
-          "soloists": [
-            {
-              "soloistName": "Fine, Eleanor",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52437*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "33d2e26d-0288-4eb2-bd37-a49a14fbb5e4-0.1",
       "programID": "4994",
       "orchestra": "New York Philharmonic",
@@ -42631,6 +42581,56 @@
           "workTitle": "MEISTERSINGER, DIE, WWV 96",
           "movement": "The Dance of the Apprentices and Entrance of the Masters, (chorus), Act III, scene v",
           "conductorName": "Reiner, Fritz",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "652cb58f-8cfe-4585-b71a-c4995c4bbdf2-0.1",
+      "programID": "10789",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1944-07-02T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9194*1",
+          "composerName": "Smetana,  Bedrich",
+          "workTitle": "BARTERED BRIDE, THE",
+          "movement": "Overture (\"Overture to a Comedy\")",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "1587*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "CONCERTO, PIANO, NO. 1, E MINOR, OP. 11",
+          "conductorName": "Smallens, Alexander",
+          "soloists": [
+            {
+              "soloistName": "Fine, Eleanor",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Smallens, Alexander",
           "soloists": []
         }
       ]
@@ -43474,55 +43474,6 @@
       ]
     },
     {
-      "id": "64851167-7f71-4821-b777-b143e47624a7-0.1",
-      "programID": "5000",
-      "orchestra": "New York Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1944-07-16T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3548*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
-          "conductorName": "Reiner, Fritz",
-          "soloists": [
-            {
-              "soloistName": "Serkin, Rudolf",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "18807b8b-6d9c-45f5-9fdd-c5704ac74a18-0.1",
       "programID": "10805",
       "orchestra": "Stadium-NY Philharmonic",
@@ -43577,6 +43528,55 @@
           "workTitle": "KAISER-WALZER (EMPEROR WALTZ), OP. 437",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "64851167-7f71-4821-b777-b143e47624a7-0.1",
+      "programID": "5000",
+      "orchestra": "New York Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1944-07-16T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3548*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+          "conductorName": "Reiner, Fritz",
+          "soloists": [
+            {
+              "soloistName": "Serkin, Rudolf",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     },
@@ -44066,71 +44066,6 @@
       ]
     },
     {
-      "id": "be8d7a16-7482-4070-bce5-0b147c903e38-0.1",
-      "programID": "10819",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1944-07-23T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
-          "movement": "Overture",
-          "conductorName": "Strasfogel, Ignace",
-          "soloists": []
-        },
-        {
-          "ID": "51870*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
-          "conductorName": "Strasfogel, Ignace",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51461*",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "L'ARLESIENNE: SUITE NO. 1",
-          "conductorName": "Strasfogel, Ignace",
-          "soloists": []
-        },
-        {
-          "ID": "51467*4",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)",
-          "movement": "Farandole",
-          "conductorName": "Strasfogel, Ignace",
-          "soloists": []
-        },
-        {
-          "ID": "51089*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN FANTASY, PIANO AND ORCHESTRA",
-          "conductorName": "Strasfogel, Ignace",
-          "soloists": [
-            {
-              "soloistName": "Iturbi, Amparo",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f549ead3-9100-4351-bfdf-459902ae8f87-0.1",
       "programID": "5006",
       "orchestra": "New York Philharmonic",
@@ -44198,6 +44133,71 @@
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
           "conductorName": "Reiner, Fritz",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "be8d7a16-7482-4070-bce5-0b147c903e38-0.1",
+      "programID": "10819",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1944-07-23T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Strasfogel, Ignace",
+          "soloists": []
+        },
+        {
+          "ID": "51870*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+          "conductorName": "Strasfogel, Ignace",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51461*",
+          "composerName": "Bizet,  Georges",
+          "workTitle": "L'ARLESIENNE: SUITE NO. 1",
+          "conductorName": "Strasfogel, Ignace",
+          "soloists": []
+        },
+        {
+          "ID": "51467*4",
+          "composerName": "Bizet,  Georges",
+          "workTitle": "L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)",
+          "movement": "Farandole",
+          "conductorName": "Strasfogel, Ignace",
+          "soloists": []
+        },
+        {
+          "ID": "51089*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "HUNGARIAN FANTASY, PIANO AND ORCHESTRA",
+          "conductorName": "Strasfogel, Ignace",
+          "soloists": [
+            {
+              "soloistName": "Iturbi, Amparo",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     },
@@ -44914,6 +44914,50 @@
       ]
     },
     {
+      "id": "25eb96ce-9054-4915-8c24-62b815be2227-0.1",
+      "programID": "10841",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1944-08-06T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52364*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "EGMONT, OP.84",
+          "movement": "Overture",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "52429*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 1 IN C MAJOR, OP.21",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "062a7ffe-2515-420a-ac8f-fdd079016343-0.1",
       "programID": "5444",
       "orchestra": "New York Philharmonic",
@@ -44959,50 +45003,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "25eb96ce-9054-4915-8c24-62b815be2227-0.1",
-      "programID": "10841",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1944-08-06T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52364*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "EGMONT, OP.84",
-          "movement": "Overture",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "52429*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 1 IN C MAJOR, OP.21",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
         }
       ]
     },
@@ -45599,55 +45599,6 @@
       ]
     },
     {
-      "id": "f77c5138-c599-4613-ac7e-0d8fefa03a34-0.1",
-      "programID": "5450",
-      "orchestra": "New York Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1944-08-13T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "53071*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1847*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": [
-            {
-              "soloistName": "Brailowsky, Alexander",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ec31d7a3-a833-4f01-beaa-fe37bc683bce-0.1",
       "programID": "11188",
       "orchestra": "Stadium-NY Philharmonic",
@@ -45717,6 +45668,55 @@
           "workTitle": "STARS AND STRIPES FOREVER",
           "conductorName": "Smallens, Alexander",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "f77c5138-c599-4613-ac7e-0d8fefa03a34-0.1",
+      "programID": "5450",
+      "orchestra": "New York Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1944-08-13T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "53071*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1847*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": [
+            {
+              "soloistName": "Brailowsky, Alexander",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     },
@@ -53894,6 +53894,57 @@
       ]
     },
     {
+      "id": "71994e7a-fa1a-4e84-9d12-815546cce8c9-0.1",
+      "programID": "667",
+      "orchestra": "New York Philharmonic",
+      "season": "1944-45",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1945-07-01T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51289*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
+          "conductorName": "Rodzinski, Artur",
+          "soloists": []
+        },
+        {
+          "ID": "9007*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
+          "conductorName": "Rodzinski, Artur",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50068*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "conductorName": "Rodzinski, Artur",
+          "soloists": []
+        },
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Rodzinski, Artur",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "f1f2eacf-5bfe-4f4e-9358-178f54c999f7-0.1",
       "programID": "10894",
       "orchestra": "Stadium-NY Philharmonic",
@@ -54299,57 +54350,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "71994e7a-fa1a-4e84-9d12-815546cce8c9-0.1",
-      "programID": "667",
-      "orchestra": "New York Philharmonic",
-      "season": "1944-45",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1945-07-01T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51289*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SERENADE NO. 13, G MAJOR, K.525, \"EINE KLEINE NACHTMUSIK\"",
-          "conductorName": "Rodzinski, Artur",
-          "soloists": []
-        },
-        {
-          "ID": "9007*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Prelude to Act I",
-          "conductorName": "Rodzinski, Artur",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50068*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "conductorName": "Rodzinski, Artur",
-          "soloists": []
-        },
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Rodzinski, Artur",
-          "soloists": []
         }
       ]
     },
@@ -56663,6 +56663,57 @@
       ]
     },
     {
+      "id": "b3586d17-6431-49a2-bcee-6fe208522028-0.1",
+      "programID": "11259",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1944-45",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1945-08-05T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "9004*14",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        },
+        {
+          "ID": "51944*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DON JUAN, OP. 20",
+          "conductorName": "Smallens, Alexander",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "d8c0299a-bda1-4225-b957-12d5036a48c9-0.1",
       "programID": "1090",
       "orchestra": "New York Philharmonic",
@@ -56721,57 +56772,6 @@
           "composerName": "Anthem,",
           "workTitle": "UNITED STATES",
           "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "b3586d17-6431-49a2-bcee-6fe208522028-0.1",
-      "programID": "11259",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1944-45",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1945-08-05T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "9004*14",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Prelude and Liebestod (with or without soloist)",
-          "conductorName": "Smallens, Alexander",
-          "soloists": []
-        },
-        {
-          "ID": "51944*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DON JUAN, OP. 20",
-          "conductorName": "Smallens, Alexander",
           "soloists": []
         }
       ]
@@ -57170,55 +57170,6 @@
       ]
     },
     {
-      "id": "01682880-9566-4c2a-842a-cd37ae33319b-0.1",
-      "programID": "1093",
-      "orchestra": "New York Philharmonic",
-      "season": "1944-45",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1945-08-12T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50322*",
-          "composerName": "Vaughan Williams,  Ralph",
-          "workTitle": "SYMPHONY NO. 4 IN F MINOR",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1108*",
-          "composerName": "Rachmaninoff,  Sergei",
-          "workTitle": "CONCERTO, PIANO, NO. 2, C MINOR, OP. 18",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": [
-            {
-              "soloistName": "Sandor, Gyorgy",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "32084220-4fc5-45e7-9e6b-e1efb894bbf4-0.1",
       "programID": "11265",
       "orchestra": "Stadium-NY Philharmonic",
@@ -57314,6 +57265,55 @@
           "composerName": "Franck,  César",
           "workTitle": "SYMPHONY IN D MINOR",
           "conductorName": "Smallens, Alexander",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "01682880-9566-4c2a-842a-cd37ae33319b-0.1",
+      "programID": "1093",
+      "orchestra": "New York Philharmonic",
+      "season": "1944-45",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1945-08-12T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50322*",
+          "composerName": "Vaughan Williams,  Ralph",
+          "workTitle": "SYMPHONY NO. 4 IN F MINOR",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1108*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "CONCERTO, PIANO, NO. 2, C MINOR, OP. 18",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": [
+            {
+              "soloistName": "Sandor, Gyorgy",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
       ]
@@ -58538,7 +58538,7 @@
         {
           "ID": "5421*2",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Fête-Dieu à Séville",
           "conductorName": "Rodzinski, Artur",
           "soloists": []
@@ -58643,7 +58643,7 @@
         {
           "ID": "5421*2",
           "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Arbos)",
+          "workTitle": "IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)",
           "movement": "Fête-Dieu à Séville",
           "conductorName": "Rodzinski, Artur",
           "soloists": []
@@ -61405,7 +61405,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Wellington, Ezekiel",
+              "soloistName": "Ezekiel, Wellington",
               "soloistInstrument": "Baritone",
               "soloistRoles": "S"
             },
@@ -61494,7 +61494,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Wellington, Ezekiel",
+              "soloistName": "Ezekiel, Wellington",
               "soloistInstrument": "Baritone",
               "soloistRoles": "S"
             },
@@ -66704,7 +66704,7 @@
         },
         {
           "ID": "6350*",
-          "composerName": "MacHugh,  Jimmy",
+          "composerName": "McHugh,  Jimmy",
           "workTitle": "BLACKBIRDS OF 1928: DIGGA-DIGGA-DO",
           "conductorName": "Cortez, Mario",
           "soloists": [
@@ -68062,7 +68062,7 @@
           "conductorName": "Nosco, Henri",
           "soloists": [
             {
-              "soloistName": "Merchant, John de",
+              "soloistName": "De Merchant, John",
               "soloistInstrument": "Tenor",
               "soloistRoles": "S"
             }
@@ -68175,7 +68175,7 @@
           "conductorName": "Nosco, Henri",
           "soloists": [
             {
-              "soloistName": "Merchant, John de",
+              "soloistName": "De Merchant, John",
               "soloistInstrument": "Tenor",
               "soloistRoles": "S"
             }
@@ -68194,7 +68194,7 @@
               "soloistRoles": "S"
             },
             {
-              "soloistName": "Merchant, John de",
+              "soloistName": "De Merchant, John",
               "soloistInstrument": "Tenor",
               "soloistRoles": "S"
             }
