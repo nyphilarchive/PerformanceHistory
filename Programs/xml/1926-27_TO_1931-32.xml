@@ -3009,43 +3009,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>df75d728-905c-44ad-a700-80ca708063cb-0.1</id>
-        <programID>8847</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Mecca Auditorium</Venue>
-            <Date>1926-12-26T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2143*">
-                <composerName>Gershwin,  George</composerName>
-                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gershwin, George</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51913*">
-                <composerName>Sibelius,  Jean</composerName>
-                <workTitle>TAPIOLA, OP. 112</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>ef9438f5-6b1a-4967-9e97-fc8e2bd8e4a4-0.1</id>
         <programID>201</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -3083,6 +3046,43 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>SYMPHONY NO. 3 IN F MAJOR, OP. 90</workTitle>
                 <conductorName>Mengelberg, Willem</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>df75d728-905c-44ad-a700-80ca708063cb-0.1</id>
+        <programID>8847</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Mecca Auditorium</Venue>
+            <Date>1926-12-26T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2143*">
+                <composerName>Gershwin,  George</composerName>
+                <workTitle>CONCERTO, PIANO, F MAJOR</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gershwin, George</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51913*">
+                <composerName>Sibelius,  Jean</composerName>
+                <workTitle>TAPIOLA, OP. 112</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -4176,6 +4176,67 @@
         </worksInfo>
     </program>
     <program>
+        <id>01d51e03-be40-4625-bf9b-a083100d2c88-0.1</id>
+        <programID>10266</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-01-22T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50335*2">
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <movement>Allegretto</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="50335*3">
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <movement>Allegro non troppo</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="1087*">
+                <composerName>Vivaldi,  Antonio</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR (UNKNOWN)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Zimbalist, Efrem</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="10225*">
+                <composerName>Zimbalist,  Efrem</composerName>
+                <workTitle>LE COQ D'OR: FANTASY ON</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Zimbalist, Efrem</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="10226*">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2885*">
+                <composerName>Strauss,  Johann, II</composerName>
+                <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>17518d99-a362-4965-b346-3a15052609a8-0.1</id>
         <programID>4811</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -4254,67 +4315,6 @@
                 <workTitle>RUINS OF ATHENS, OP. 113</workTitle>
                 <movement>Marcia alla turca (Turkish march)</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>01d51e03-be40-4625-bf9b-a083100d2c88-0.1</id>
-        <programID>10266</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-01-22T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50335*2">
-                <composerName>Franck,  César</composerName>
-                <workTitle>SYMPHONY IN D MINOR</workTitle>
-                <movement>Allegretto</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="50335*3">
-                <composerName>Franck,  César</composerName>
-                <workTitle>SYMPHONY IN D MINOR</workTitle>
-                <movement>Allegro non troppo</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="1087*">
-                <composerName>Vivaldi,  Antonio</composerName>
-                <workTitle>CONCERTO, VIOLIN, A MINOR (UNKNOWN)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Zimbalist, Efrem</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="10225*">
-                <composerName>Zimbalist,  Efrem</composerName>
-                <workTitle>LE COQ D'OR: FANTASY ON</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Zimbalist, Efrem</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="10226*">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2885*">
-                <composerName>Strauss,  Johann, II</composerName>
-                <workTitle>AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -4867,6 +4867,46 @@
         </worksInfo>
     </program>
     <program>
+        <id>5d20f9e4-d7d3-427c-b946-ca9a1383f856-0.1</id>
+        <programID>3355</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-02-12T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52361*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
+            </work>
+            <work ID="3685*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
+                <conductorName>Lange, Hans</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ocko, Bernard</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>077adb52-45ac-4a10-86bb-1d7dc8c916a5-0.1</id>
         <programID>10268</programID>
         <orchestra>New York Symphony</orchestra>
@@ -4932,46 +4972,6 @@
                 <composerName>Stravinsky,  Igor</composerName>
                 <workTitle>SUITE NO. 2 FOR SMALL ORCHESTRA</workTitle>
                 <conductorName>Klemperer, Otto</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>5d20f9e4-d7d3-427c-b946-ca9a1383f856-0.1</id>
-        <programID>3355</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-02-12T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52361*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
-            </work>
-            <work ID="3685*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.77</workTitle>
-                <conductorName>Lange, Hans</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Ocko, Bernard</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -5271,44 +5271,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>2774d7df-06c2-4c9f-8421-d1cbf0a53c95-0.1</id>
-        <programID>8857</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Mecca Auditorium</Venue>
-            <Date>1927-02-20T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2956*2">
-                <composerName>Gluck,  Christoph  Willibald</composerName>
-                <workTitle>IPHIGENIE IN AULIS</workTitle>
-                <movement>Overture (Wagner ending)</movement>
-                <conductorName>Klemperer, Otto</conductorName>
-            </work>
-            <work ID="51046*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, E FLAT MAJOR</workTitle>
-                <conductorName>Klemperer, Otto</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Brailowsky, Alexander</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Klemperer, Otto</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>cbc233df-acdd-4665-ba7f-99fb48fdc847-0.1</id>
         <programID>3376</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -5353,6 +5315,44 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>2774d7df-06c2-4c9f-8421-d1cbf0a53c95-0.1</id>
+        <programID>8857</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Mecca Auditorium</Venue>
+            <Date>1927-02-20T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2956*2">
+                <composerName>Gluck,  Christoph  Willibald</composerName>
+                <workTitle>IPHIGENIE IN AULIS</workTitle>
+                <movement>Overture (Wagner ending)</movement>
+                <conductorName>Klemperer, Otto</conductorName>
+            </work>
+            <work ID="51046*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, E FLAT MAJOR</workTitle>
+                <conductorName>Klemperer, Otto</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Brailowsky, Alexander</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Klemperer, Otto</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -7411,7 +7411,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Davies, Tudor</soloistName>
+                        <soloistName>Davidson, Maxwell</soloistName>
                         <soloistInstrument>Vocalist</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -7485,7 +7485,7 @@
                 <conductorName>Pollain, Rene</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Davies, Tudor</soloistName>
+                        <soloistName>Davidson, Maxwell</soloistName>
                         <soloistInstrument>Vocalist</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -7507,7 +7507,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Davies, Tudor</soloistName>
+                        <soloistName>Davidson, Maxwell</soloistName>
                         <soloistInstrument>Vocalist</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -12089,61 +12089,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>044fa348-3a3c-4b2c-8d43-8273ac7c4a17-0.1</id>
-        <programID>8870</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Mecca Auditorium</Venue>
-            <Date>1927-10-30T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53320*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONIC VARIATIONS, OP.78</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-            </work>
-            <work ID="1855*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>AH, PERFIDO, OP.65</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Matzenauer, Margarete</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2268*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>CORSAIRE OVERTURE</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-            </work>
-            <work ID="53664*2">
-                <composerName>Ponchielli,  Amilcare</composerName>
-                <workTitle>GIOCONDA, LA</workTitle>
-                <movement>"Voce di donna"</movement>
-                <conductorName>Busch, Fritz</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Matzenauer, Margarete</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="53078*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>9fbd24aa-1f4b-424f-98f0-fb5850f55ee7-0.1</id>
         <programID>7134</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -12205,6 +12150,61 @@
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>SYMPHONY NO. 1 IN C MINOR, OP. 68</workTitle>
                 <conductorName>Mengelberg, Willem</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>044fa348-3a3c-4b2c-8d43-8273ac7c4a17-0.1</id>
+        <programID>8870</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Mecca Auditorium</Venue>
+            <Date>1927-10-30T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53320*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONIC VARIATIONS, OP.78</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
+            </work>
+            <work ID="1855*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>AH, PERFIDO, OP.65</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Matzenauer, Margarete</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="2268*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>CORSAIRE OVERTURE</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
+            </work>
+            <work ID="53664*2">
+                <composerName>Ponchielli,  Amilcare</composerName>
+                <workTitle>GIOCONDA, LA</workTitle>
+                <movement>"Voce di donna"</movement>
+                <conductorName>Busch, Fritz</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Matzenauer, Margarete</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="53078*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -14111,49 +14111,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>034a11e4-fdec-4154-9455-374b5b9b3211-0.1</id>
-        <programID>10245</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-12-10T05:00:00Z</Date>
-            <Time>11:00AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53078*2">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
-                <movement>Romance: Fairly slow</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2842*3">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>TALE OF TSAR SALTAN, THE, OP. 57: SUITE (REV. W/ FLT OF BUMBLE-BEE)</workTitle>
-                <movement>The Flight of the Bumble-Bee</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="9359*">
-                <composerName>Czibulka,  Alphons</composerName>
-                <workTitle>FLY MINUET</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="50068*4">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <movement>Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2976*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARCH, A MAJOR, "TURKISH" (FROM PIANO SONATA, K.331) (ARR. Herbeck)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>888387f7-96e8-42e0-817c-ca6cd41c4af2-0.1</id>
         <programID>10246</programID>
         <orchestra>New York Symphony</orchestra>
@@ -14343,6 +14300,49 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>034a11e4-fdec-4154-9455-374b5b9b3211-0.1</id>
+        <programID>10245</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-12-10T05:00:00Z</Date>
+            <Time>11:00AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53078*2">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 4, D MINOR, OP. 120</workTitle>
+                <movement>Romance: Fairly slow</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2842*3">
+                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
+                <workTitle>TALE OF TSAR SALTAN, THE, OP. 57: SUITE (REV. W/ FLT OF BUMBLE-BEE)</workTitle>
+                <movement>The Flight of the Bumble-Bee</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="9359*">
+                <composerName>Czibulka,  Alphons</composerName>
+                <workTitle>FLY MINUET</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="50068*4">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <movement>Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2976*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>MARCH, A MAJOR, "TURKISH" (FROM PIANO SONATA, K.331) (ARR. Herbeck)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -14984,62 +14984,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5b949d87-90b8-48d0-928e-6b7262e7c824-0.1</id>
-        <programID>8880</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-12-29T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="8207*1">
-                <composerName>Dubensky,  Arkady</composerName>
-                <workTitle>SYMPHONY</workTitle>
-                <movement>First Movement</movement>
-                <conductorName>Dubensky, Arkady</conductorName>
-            </work>
-            <work ID="8951*9">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>IDOMENEO, K.366</workTitle>
-                <movement>Air (unspecified)</movement>
-                <conductorName>Busch, Fritz</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rethberg, Elisabeth</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52867*">
-                <composerName>Reger,  Max</composerName>
-                <workTitle>VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-            </work>
-            <work ID="7179*">
-                <composerName>Ehrenberg,  Carl  Emil Theodor</composerName>
-                <workTitle>HYMNES POUR TOI</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rethberg, Elisabeth</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="2268*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>CORSAIRE OVERTURE</workTitle>
-                <conductorName>Busch, Fritz</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>75cbd5bc-8e86-42a0-a7f3-8bcf95a662fe-0.1</id>
         <programID>1094</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -15101,50 +15045,58 @@
         </worksInfo>
     </program>
     <program>
-        <id>45a90c03-403d-4aab-8002-ef9b1103f247-0.1</id>
-        <programID>1096</programID>
-        <orchestra>New York Philharmonic</orchestra>
+        <id>5b949d87-90b8-48d0-928e-6b7262e7c824-0.1</id>
+        <programID>8880</programID>
+        <orchestra>New York Symphony</orchestra>
         <season>1927-28</season>
         <concertInfo>
-            <eventType>Student Concert</eventType>
+            <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Carnegie Hall</Venue>
-            <Date>1927-12-31T05:00:00Z</Date>
-            <Time>8:30PM</Time>
+            <Date>1927-12-29T05:00:00Z</Date>
+            <Time>3:00PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="8834*3">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>OBERON</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Mengelberg, Willem</conductorName>
+            <work ID="8207*1">
+                <composerName>Dubensky,  Arkady</composerName>
+                <workTitle>SYMPHONY</workTitle>
+                <movement>First Movement</movement>
+                <conductorName>Dubensky, Arkady</conductorName>
             </work>
-            <work ID="52502*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
-                <conductorName>Mengelberg, Willem</conductorName>
+            <work ID="8951*9">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>IDOMENEO, K.366</workTitle>
+                <movement>Air (unspecified)</movement>
+                <conductorName>Busch, Fritz</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Wade-Smith, Catherine</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistName>Rethberg, Elisabeth</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
+            <work ID="52867*">
+                <composerName>Reger,  Max</composerName>
+                <workTitle>VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
             </work>
-            <work ID="51954*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
-                <conductorName>Mengelberg, Willem</conductorName>
+            <work ID="7179*">
+                <composerName>Ehrenberg,  Carl  Emil Theodor</composerName>
+                <workTitle>HYMNES POUR TOI</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Guidi, Scipione</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
+                        <soloistName>Rethberg, Elisabeth</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+            <work ID="2268*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>CORSAIRE OVERTURE</workTitle>
+                <conductorName>Busch, Fritz</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -15266,6 +15218,54 @@
                 <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
                 <movement>Finale: Andante maestoso — Allegro vivace — Moderato assai e molto maestoso</movement>
                 <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>45a90c03-403d-4aab-8002-ef9b1103f247-0.1</id>
+        <programID>1096</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-12-31T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="8834*3">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>OBERON</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Mengelberg, Willem</conductorName>
+            </work>
+            <work ID="52502*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Mengelberg, Willem</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wade-Smith, Catherine</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51954*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
+                <conductorName>Mengelberg, Willem</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Guidi, Scipione</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -16687,6 +16687,52 @@
         </worksInfo>
     </program>
     <program>
+        <id>d6483fa3-8e9a-4e98-8120-1c8f83a3ed3c-0.1</id>
+        <programID>1959</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1928-02-11T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1928-02-12T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52327*">
+                <composerName>Sinigaglia,  Leone</composerName>
+                <workTitle>BARUFFE CHIOZZOTTE, LE, OP. 32</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="51356*7">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMEO ET JULIETTE, OP.17</workTitle>
+                <movement>Queen Mab, or the Fairy of dreams (Scherzo)</movement>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="50296*">
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>ENIGMA VARIATIONS, OP. 36</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51872*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>eeffc3d1-6b4b-4769-b588-65825a10a8fe-0.1</id>
         <programID>10251</programID>
         <orchestra>New York Symphony</orchestra>
@@ -16730,52 +16776,6 @@
                 <composerName>Liszt,  Franz</composerName>
                 <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d6483fa3-8e9a-4e98-8120-1c8f83a3ed3c-0.1</id>
-        <programID>1959</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1928-02-11T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1928-02-12T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52327*">
-                <composerName>Sinigaglia,  Leone</composerName>
-                <workTitle>BARUFFE CHIOZZOTTE, LE, OP. 32</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="51356*7">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMEO ET JULIETTE, OP.17</workTitle>
-                <movement>Queen Mab, or the Fairy of dreams (Scherzo)</movement>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="50296*">
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>ENIGMA VARIATIONS, OP. 36</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51872*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -27154,52 +27154,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1</id>
-        <programID>961</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1928-29</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1929-03-16T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Brooklyn, NY</Location>
-            <Venue>Brooklyn Academy of Music</Venue>
-            <Date>1929-03-24T05:00:00Z</Date>
-            <Time>3:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2956*1">
-                <composerName>Gluck,  Christoph  Willibald</composerName>
-                <workTitle>IPHIGENIE IN AULIS</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="874*">
-                <composerName>Pizzetti,  Ilderbando</composerName>
-                <workTitle>CONCERTO DELL' ESTATE</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="53193*">
-                <composerName>Dukas,  Paul</composerName>
-                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52434*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>59c3c5a6-5d3a-4868-99aa-9293d20cf190-0.1</id>
         <programID>2920</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -27263,6 +27217,52 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture [Dresden]</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>b5febe15-e5f6-4a6c-bdac-409ecd1a033c-0.1</id>
+        <programID>961</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1928-29</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1929-03-16T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>Brooklyn Academy of Music</Venue>
+            <Date>1929-03-24T05:00:00Z</Date>
+            <Time>3:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2956*1">
+                <composerName>Gluck,  Christoph  Willibald</composerName>
+                <workTitle>IPHIGENIE IN AULIS</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="874*">
+                <composerName>Pizzetti,  Ilderbando</composerName>
+                <workTitle>CONCERTO DELL' ESTATE</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="53193*">
+                <composerName>Dukas,  Paul</composerName>
+                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52434*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -34565,7 +34565,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Clarke, Allie</soloistName>
+                        <soloistName>Clarke, Albert E</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -34786,7 +34786,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lubalin, S.</soloistName>
+                        <soloistName>Lubalin, Sol</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -34857,7 +34857,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Lubalin, S.</soloistName>
+                        <soloistName>Lubalin, Sol</soloistName>
                         <soloistInstrument>Trumpet</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -35530,64 +35530,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>35b1844e-c450-41a3-b714-a6f400eb170d-0.1</id>
-        <programID>6983</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1929-30</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1930-03-29T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1029*">
-                <composerName>Goossens,  Eugene</composerName>
-                <workTitle>SINFONIETTA</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="51965*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51638*">
-                <composerName>Boccherini,  Luigi</composerName>
-                <workTitle>CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Wallenstein, Alfred</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="53193*">
-                <composerName>Dukas,  Paul</composerName>
-                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
-                <conductorName>Toscanini, Arturo</conductorName>
-            </work>
-            <work ID="9004*14">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
-                <movement>Prelude and Liebestod (with or without soloist)</movement>
-                <conductorName>Toscanini, Arturo</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>No Soloist</soloistName>
-                        <soloistInstrument>Other</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>bbea27a5-9cd7-4877-9181-fd002cae46a4-0.1</id>
         <programID>6492</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -35646,6 +35588,64 @@
                 <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
                 <movement>Prelude to Act I</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>35b1844e-c450-41a3-b714-a6f400eb170d-0.1</id>
+        <programID>6983</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1929-30</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1930-03-29T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="1029*">
+                <composerName>Goossens,  Eugene</composerName>
+                <workTitle>SINFONIETTA</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="51965*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51638*">
+                <composerName>Boccherini,  Luigi</composerName>
+                <workTitle>CONCERTO, CELLO, NO. 9, B-FLAT MAJOR (ARR. Grutzmacher)</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wallenstein, Alfred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="53193*">
+                <composerName>Dukas,  Paul</composerName>
+                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
+                <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+            <work ID="9004*14">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
+                <movement>Prelude and Liebestod (with or without soloist)</movement>
+                <conductorName>Toscanini, Arturo</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>No Soloist</soloistName>
+                        <soloistInstrument>Other</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -51659,7 +51659,7 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Clarke, Allie</soloistName>
+                        <soloistName>Clarke, Albert E</soloistName>
                         <soloistInstrument>Trombone</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
