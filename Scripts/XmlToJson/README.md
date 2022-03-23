@@ -1,13 +1,13 @@
 ## Converting Programs to JSON
 
-This is a node.js appication that converts the existing program
+This is a node.js application that converts the existing program
 information from XML to JSON. It reads in all of the XML files from
 `Programs/xml` in parallel and processes them at the same time, writing
 their JSON 'equivalents' in `Programs/json`. Equivalents is quoted
 because several changes are made for the sake of fitting the JSON
 format. The most important change is that `worksInfo` and `concertInfo`
 are mapped to `works` and `concerts`. Other changes are minor and should
-be a problem. Here's an abridged example of what the output JSON will
+not be a problem. Here's an abridged example of what the output JSON will
 look like:
 
 ```
