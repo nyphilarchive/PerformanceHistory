@@ -205,57 +205,6 @@
       ]
     },
     {
-      "id": "0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1",
-      "programID": "6434",
-      "orchestra": "New York Philharmonic",
-      "season": "1963-64",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Chicago, IL",
-          "Venue": "Opera House",
-          "Date": "1963-09-08T04:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "53624*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
-          "conductorName": "Ozawa, Seiji",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51884*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "8855*3",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SLAVONIC DANCES, OP. 46",
-          "movement": "No. 3 in A-flat major: Poco allegro",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "42b3f24f-d273-47eb-9f7f-750c7f349540-0.1",
       "programID": "6429",
       "orchestra": "New York Philharmonic",
@@ -314,6 +263,57 @@
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SLAVONIC DANCES, OP. 46",
           "movement": "No. 1 in C major: Presto",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1",
+      "programID": "6434",
+      "orchestra": "New York Philharmonic",
+      "season": "1963-64",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Chicago, IL",
+          "Venue": "Opera House",
+          "Date": "1963-09-08T04:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52577*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "53624*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
+          "conductorName": "Ozawa, Seiji",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51884*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "8855*3",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 3 in A-flat major: Poco allegro",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -1747,6 +1747,100 @@
       ]
     },
     {
+      "id": "f573815d-97f1-4509-aaf0-2117c16b78ee-0.1",
+      "programID": "2552",
+      "orchestra": "New York Philharmonic",
+      "season": "1963-64",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1963-11-30T05:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53764*1",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "CONCERTO, HARP, OP. 4, NO. 6, B FLAT MAJOR",
+          "movement": "Andante-Allegro",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Lehwalder, Heidi",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1788*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "INTRODUCTION AND ALLEGRO FOR HARP WITH FL/CL/STRINGS",
+          "conductorName": "Abbado, Claudio",
+          "soloists": [
+            {
+              "soloistName": "Lehwalder, Heidi",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Eisenberg, Amos",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Berry, Weldon, Jr.",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "6520*",
+          "composerName": "Ran,  Shulamit",
+          "workTitle": "CAPRICCIO FOR PIANO",
+          "conductorName": "Calderon, Pedro",
+          "soloists": [
+            {
+              "soloistName": "Ran, Shulamit",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "RHAPSODY NO. 1, CELLO, BB 94C",
+          "conductorName": "Kosler, Zdenek",
+          "soloists": [
+            {
+              "soloistName": "Kates, Stephen Edward",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Kates, Stephen Edward",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ac42bfe4-8296-4b6e-abb5-8b007b0f5298-0.1",
       "programID": "5523",
       "orchestra": "New York Philharmonic",
@@ -1854,100 +1948,6 @@
           "workTitle": "JOHANNESBURG FESTIVAL OVERTURE",
           "conductorName": "Kostelanetz, Andre",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "f573815d-97f1-4509-aaf0-2117c16b78ee-0.1",
-      "programID": "2552",
-      "orchestra": "New York Philharmonic",
-      "season": "1963-64",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1963-11-30T05:00:00Z",
-          "Time": "12:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53764*1",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "CONCERTO, HARP, OP. 4, NO. 6, B FLAT MAJOR",
-          "movement": "Andante-Allegro",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Lehwalder, Heidi",
-              "soloistInstrument": "Harp",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "1788*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "INTRODUCTION AND ALLEGRO FOR HARP WITH FL/CL/STRINGS",
-          "conductorName": "Abbado, Claudio",
-          "soloists": [
-            {
-              "soloistName": "Lehwalder, Heidi",
-              "soloistInstrument": "Harp",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Eisenberg, Amos",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Berry, Weldon, Jr.",
-              "soloistInstrument": "Clarinet",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "6520*",
-          "composerName": "Ran,  Shulamit",
-          "workTitle": "CAPRICCIO FOR PIANO",
-          "conductorName": "Calderon, Pedro",
-          "soloists": [
-            {
-              "soloistName": "Ran, Shulamit",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "RHAPSODY NO. 1, CELLO, BB 94C",
-          "conductorName": "Kosler, Zdenek",
-          "soloists": [
-            {
-              "soloistName": "Kates, Stephen Edward",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "movement": "Overture",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Kates, Stephen Edward",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
         }
       ]
     },
@@ -10388,62 +10388,6 @@
       ]
     },
     {
-      "id": "7935e27c-2613-479b-9a8b-45d38479578c-0.1",
-      "programID": "7109",
-      "orchestra": "New York Philharmonic",
-      "season": "1964-65",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1965-01-23T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52626*",
-          "composerName": "Barber,  Samuel",
-          "workTitle": "SCHOOL FOR SCANDAL OVERTURE",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "52618*",
-          "composerName": "Barber,  Samuel",
-          "workTitle": "ESSAY NO. 2, OP.17",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "3181*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "CONCERTO, PIANO, NO. 2, F MINOR, OP. 21",
-          "conductorName": "Schippers, Thomas",
-          "soloists": [
-            {
-              "soloistName": "Watts, Andre (André)",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52440*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "46dc28b2-484d-43b2-8d9a-90a209b3594f-0.1",
       "programID": "4129",
       "orchestra": "New York Philharmonic",
@@ -10498,6 +10442,62 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)",
           "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "7935e27c-2613-479b-9a8b-45d38479578c-0.1",
+      "programID": "7109",
+      "orchestra": "New York Philharmonic",
+      "season": "1964-65",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1965-01-23T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52626*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "SCHOOL FOR SCANDAL OVERTURE",
+          "conductorName": "Schippers, Thomas",
+          "soloists": []
+        },
+        {
+          "ID": "52618*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "ESSAY NO. 2, OP.17",
+          "conductorName": "Schippers, Thomas",
+          "soloists": []
+        },
+        {
+          "ID": "3181*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "CONCERTO, PIANO, NO. 2, F MINOR, OP. 21",
+          "conductorName": "Schippers, Thomas",
+          "soloists": [
+            {
+              "soloistName": "Watts, Andre (André)",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52440*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
+          "conductorName": "Schippers, Thomas",
           "soloists": []
         }
       ]
@@ -20764,7 +20764,7 @@
             },
             {
               "soloistName": "Davidoff, Judith",
-              "soloistInstrument": "Viola da Gamba",
+              "soloistInstrument": "Viola da gamba",
               "soloistRoles": "A"
             },
             {
@@ -26141,6 +26141,61 @@
       ]
     },
     {
+      "id": "5a182eba-acf4-49fa-b20d-a936fd684712-0.1",
+      "programID": "5306",
+      "orchestra": "New York Philharmonic",
+      "season": "1966-67",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1966-10-22T04:00:00Z",
+          "Time": "12:00PM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1966-10-22T04:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52638*2",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "NOCTURNES",
+          "movement": "Fêtes (\"Festivals\")",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "9197*4",
+          "composerName": "Musorgsky,  Modest",
+          "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+          "movement": "Act III, scene ii: Polonaise",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "6046*8",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "FANCY FREE",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52446*4",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "movement": "Allegro",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "03a44df5-4848-40c7-b17f-6f9f10f21779-0.1",
       "programID": "10743",
       "orchestra": "Members of NY Philharmonic",
@@ -26366,61 +26421,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "5a182eba-acf4-49fa-b20d-a936fd684712-0.1",
-      "programID": "5306",
-      "orchestra": "New York Philharmonic",
-      "season": "1966-67",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1966-10-22T04:00:00Z",
-          "Time": "12:00PM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1966-10-22T04:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52638*2",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "NOCTURNES",
-          "movement": "Fêtes (\"Festivals\")",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "9197*4",
-          "composerName": "Musorgsky,  Modest",
-          "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
-          "movement": "Act III, scene ii: Polonaise",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "6046*8",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "FANCY FREE",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52446*4",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "movement": "Allegro",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
         }
       ]
     },
@@ -52413,7 +52413,7 @@
           "soloists": [
             {
               "soloistName": "Springfels, Mary",
-              "soloistInstrument": "Viola da Gamba",
+              "soloistInstrument": "Viola da gamba",
               "soloistRoles": "A"
             }
           ]
@@ -68496,6 +68496,59 @@
       ]
     },
     {
+      "id": "0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1",
+      "programID": "5148",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1972-73",
+      "concerts": [
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1972-10-05T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Pre-Concert Recital",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1972-10-07T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3875*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "DUO CONCERTANTE",
+          "soloists": [
+            {
+              "soloistName": "Druian, Rafael",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beroff, Michel",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "2280*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PETRUSHKA (1921 VERSION FOR PIANO)",
+          "soloists": [
+            {
+              "soloistName": "Beroff, Michel",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fff610f2-a82e-47b0-b9ab-551c8e72e2e4-0.1",
       "programID": "3350",
       "orchestra": "New York Philharmonic",
@@ -68638,59 +68691,6 @@
               "soloistName": "Newark Boys' Choir",
               "soloistInstrument": "Boys Choir",
               "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0828e1e0-5da3-44cc-ab9f-b091ec43d4fb-0.1",
-      "programID": "5148",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1972-73",
-      "concerts": [
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1972-10-05T04:00:00Z",
-          "Time": "7:30PM"
-        },
-        {
-          "eventType": "Pre-Concert Recital",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1972-10-07T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3875*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "DUO CONCERTANTE",
-          "soloists": [
-            {
-              "soloistName": "Druian, Rafael",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Beroff, Michel",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "2280*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (1921 VERSION FOR PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Beroff, Michel",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
             }
           ]
         }
@@ -72049,74 +72049,6 @@
       ]
     },
     {
-      "id": "b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1",
-      "programID": "2352",
-      "orchestra": "New York Philharmonic",
-      "season": "1972-73",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1973-03-15T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Philharmonic Hall",
-          "Date": "1973-03-17T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53003*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "JULIUS CAESAR, OP. 128",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "51925*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  49, F MINOR (LA PASSIONE)",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "6431*",
-          "composerName": "Berio,  Luciano",
-          "workTitle": "CONCERTO, TWO PIANOS AND ORCHESTRA",
-          "conductorName": "Boulez, Pierre",
-          "soloists": [
-            {
-              "soloistName": "Canino, Bruno",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Ballista, Antonio",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Boulez, Pierre",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "a57ae00e-1c80-4ab6-a7e6-b345cb58a9da-0.1",
       "programID": "4145",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -72183,6 +72115,74 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "b60efc6f-20b8-4f57-88bc-37ea9e255f0b-0.1",
+      "programID": "2352",
+      "orchestra": "New York Philharmonic",
+      "season": "1972-73",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1973-03-15T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Philharmonic Hall",
+          "Date": "1973-03-17T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53003*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "JULIUS CAESAR, OP. 128",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "51925*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  49, F MINOR (LA PASSIONE)",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "6431*",
+          "composerName": "Berio,  Luciano",
+          "workTitle": "CONCERTO, TWO PIANOS AND ORCHESTRA",
+          "conductorName": "Boulez, Pierre",
+          "soloists": [
+            {
+              "soloistName": "Canino, Bruno",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Ballista, Antonio",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52577*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+          "conductorName": "Boulez, Pierre",
+          "soloists": []
         }
       ]
     },
@@ -78135,7 +78135,7 @@
           "ID": "53072*4",
           "composerName": "Schumann,  Robert",
           "workTitle": "SYMPHONY NO. 3, E FLAT MAJOR, OP. 97 (RHENISH)",
-          "movement": "Solemn",
+          "movement": "Feierlich (Solemn)",
           "conductorName": "Thompson, Leon",
           "soloists": [
             {
@@ -78149,7 +78149,7 @@
           "ID": "53072*5",
           "composerName": "Schumann,  Robert",
           "workTitle": "SYMPHONY NO. 3, E FLAT MAJOR, OP. 97 (RHENISH)",
-          "movement": "Lively",
+          "movement": "Lebhaft (Lively)",
           "conductorName": "Thompson, Leon",
           "soloists": [
             {
