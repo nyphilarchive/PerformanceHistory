@@ -54357,63 +54357,6 @@
       ]
     },
     {
-      "id": "883d29d2-96ee-4eca-8101-cde53fa72c1a-0.1",
-      "programID": "5900",
-      "orchestra": "New York Philharmonic",
-      "season": "1952-53",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1952-12-14T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52410*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
-          "movement": "Overture",
-          "conductorName": "Szell, George",
-          "soloists": []
-        },
-        {
-          "ID": "2819*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
-          "conductorName": "Szell, George",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Szell, George",
-          "soloists": [
-            {
-              "soloistName": "Morini, Erica",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51807*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
-          "conductorName": "Szell, George",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "71ea15a2-516f-4128-bf24-f77172578440-0.1",
       "programID": "5906",
       "orchestra": "New York Philharmonic",
@@ -54542,6 +54485,63 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "VALSE, LA",
           "conductorName": "Kostelanetz, Andre",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "883d29d2-96ee-4eca-8101-cde53fa72c1a-0.1",
+      "programID": "5900",
+      "orchestra": "New York Philharmonic",
+      "season": "1952-53",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1952-12-14T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52410*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
+          "movement": "Overture",
+          "conductorName": "Szell, George",
+          "soloists": []
+        },
+        {
+          "ID": "2819*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
+          "conductorName": "Szell, George",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Szell, George",
+          "soloists": [
+            {
+              "soloistName": "Morini, Erica",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51807*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+          "conductorName": "Szell, George",
           "soloists": []
         }
       ]

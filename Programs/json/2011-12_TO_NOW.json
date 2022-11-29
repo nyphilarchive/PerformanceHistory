@@ -27418,6 +27418,62 @@
       "works": []
     },
     {
+      "id": "2e6638fe-9902-4786-a7b0-421585831c0c-0.1",
+      "programID": "12023",
+      "orchestra": "New York Philharmonic",
+      "season": "2013-14",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2013-10-12T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2013-10-15T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8572*",
+          "composerName": "Golijov,  Osvaldo",
+          "workTitle": "LAST ROUND",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        },
+        {
+          "ID": "52502*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": [
+            {
+              "soloistName": "Steinbacher, Arabella",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53344*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 8, G MAJOR, OP.88 (OLD NO. 4)",
+          "conductorName": "Weilerstein, Joshua",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "576cda36-e69b-4054-82c8-ed569230c086-0.1",
       "programID": "12022",
       "orchestra": "New York Philharmonic",
@@ -27489,62 +27545,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "2e6638fe-9902-4786-a7b0-421585831c0c-0.1",
-      "programID": "12023",
-      "orchestra": "New York Philharmonic",
-      "season": "2013-14",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2013-10-12T04:00:00Z",
-          "Time": "8:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2013-10-15T04:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8572*",
-          "composerName": "Golijov,  Osvaldo",
-          "workTitle": "LAST ROUND",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
-        },
-        {
-          "ID": "52502*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": [
-            {
-              "soloistName": "Steinbacher, Arabella",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53344*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 8, G MAJOR, OP.88 (OLD NO. 4)",
-          "conductorName": "Weilerstein, Joshua",
-          "soloists": []
         }
       ]
     },
@@ -64701,7 +64701,7 @@
         {
           "ID": "9075*",
           "composerName": "Sarasate,  Pablo  de",
-          "workTitle": "NAVARRA, OP. 33",
+          "workTitle": "NAVARRA (VIOLINS AND PIANO)",
           "soloists": [
             {
               "soloistName": "Ziskel, Yulia",
@@ -127562,6 +127562,48 @@
       ]
     },
     {
+      "id": "b65e86df-b015-4708-8667-3745da74bd22-0.1",
+      "programID": "14778",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2021-22",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Heringsdorf, Germany",
+          "Venue": "Kaiserbädersaal, Heringsdorf seaside resort",
+          "Date": "2022-05-23T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Chamber",
+          "Location": "Wolgast, Germany",
+          "Venue": "Protestant Church St. Petri",
+          "Date": "2022-05-24T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7560*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "SUMMER MUSIC, OP. 31",
+          "soloists": []
+        },
+        {
+          "ID": "6281*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "QUINTET, HORN, E-FLAT MAJOR, K.386C (OLD K.407)",
+          "soloists": []
+        },
+        {
+          "ID": "5607*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SEXTET, NO. 2 IN G MAJOR, OP. 36",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "2d735723-a68f-414c-b677-f7ce01cb43dc-0.1",
       "programID": "14616",
       "orchestra": "New York Philharmonic",
@@ -128241,7 +128283,7 @@
         {
           "ID": "13472*",
           "composerName": "Traditional,",
-          "workTitle": "ONCE A VIOLINIST WENT WANDERING (ARR. Wiprud)",
+          "workTitle": "ONCE A VIOLIST WENT WANDERING (ARR. Wiprud)",
           "soloists": [
             {
               "soloistName": "Scanio, Lauren",
@@ -130173,6 +130215,1444 @@
           "workTitle": "SLAVONIC DANCES, OP. 46",
           "movement": "No. 8 in G minor: Presto",
           "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "76b66430-75be-4a69-82c7-253ab7a74cf1-0.1",
+      "programID": "14777",
+      "orchestra": "NYP Presentation",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Artist Spotlight",
+          "Location": "Manhattan, NY",
+          "Venue": "Kenneth C. Griffin Sidewalk Studio",
+          "Date": "2022-10-24T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13565*",
+          "composerName": "Nabors,  Brian  Raphael",
+          "workTitle": "SONATA FOR CELLO AND PIANO",
+          "soloists": []
+        },
+        {
+          "ID": "13566*",
+          "composerName": "Suk,  Josef",
+          "workTitle": "BALLADE AND SERENADE FOR CELLO AND PIANO, OP. 3",
+          "soloists": []
+        },
+        {
+          "ID": "13567*",
+          "composerName": "Janacek [Janácek],  Leoš",
+          "workTitle": "POHÁDKA (FAIRY TALE)",
+          "soloists": []
+        },
+        {
+          "ID": "13568*",
+          "composerName": "Shostakovich,  Dmitri",
+          "workTitle": "SONATA, CELLO AND PIANO, OP. 40",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "fd766fd7-57bc-4042-b197-6bf1a4748a1f-0.1",
+      "programID": "14660",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Non-Subscription",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-10-26T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13562*1",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "MESSIAH (ARR. Goossens)",
+          "movement": "Hallelujah!",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "4274*",
+          "composerName": "Keys,  Alicia",
+          "workTitle": "EMPIRE STATE OF MIND (SOLO SINGER)",
+          "soloists": [
+            {
+              "soloistName": "Keys, Alicia",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "965*3",
+          "composerName": "Rodgers,  Richard",
+          "workTitle": "SOUTH PACIFIC",
+          "movement": "\"There is Nothing Like a Dame\"",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Peters, Bernadette",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13550*",
+          "composerName": "Strayhorn,  Billy",
+          "workTitle": "LUSH LIFE (ARR. Mathes)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Mitchell, Brian Stokes",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13561*",
+          "composerName": "Porter,  Cole",
+          "workTitle": "DOWN IN THE DEPTHS (ON THE 90TH FLOOR) (ARR. Blaske)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "12748*2",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "1600 PENNSYLVANIA AVENUE",
+          "movement": "Take Care of This House (arranged Mathes)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Kalukango, Joaquina",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "10570*",
+          "composerName": "Berlin,  Irving",
+          "workTitle": "ANNIE GET YOUR GUN: ANYTHING YOU CAN DO  (ARR. Bennett)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Bareilles, Sara",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Dixon, Brandon Victor",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13560*",
+          "composerName": "Coleman,  Cy",
+          "workTitle": "BEST IS YET TO COME, THE (ARR. Mathes)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Williams, Vanessa",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13551*1",
+          "composerName": "Miranda,  Lin-Manuel",
+          "workTitle": "HAMILTON",
+          "movement": "Symphonic Suite (arr. Mathes)",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Miranda, Lin-Manuel",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Campbell, Ta'Rea",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Walker, Nik",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "7599*27",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "\"Make Our Garden Grow\" (Finale), Candide/Company, Act II",
+          "conductorName": "Mathes, Rob",
+          "soloists": [
+            {
+              "soloistName": "Fleming, Renee (Renée)",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Mitchell, Brian Stokes",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "New York Philharmonic Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Juilliard Prepatory Division Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8169db11-38a0-438b-8626-ed309b9af875-0.1",
+      "programID": "14659",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Non-Subscription",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-10-28T04:00:00Z",
+          "Time": "7:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13246*",
+          "composerName": "Gabrieli,  Giovanni",
+          "workTitle": "CANZON PER SONAR DUODECIMI TON, CH. 180 (ARR. King)",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "13492*",
+          "composerName": "Negron [Negrón],  Angelica [Angélica]",
+          "workTitle": "YOU ARE THE PRELUDE",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52461*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 9 IN D MINOR, OP.125",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Harvey, Joelle [Joélle]",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "O'Connor, Kelley",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Savage, Issachah",
+              "soloistInstrument": "Tenor",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Tines, Davone [Davóne]",
+              "soloistInstrument": "Bass",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "New York Philharmonic Chorus",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7f55365-8df2-41b5-ad12-cb6933185f4c-0.1",
+      "programID": "14780",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Very Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-10-30T04:00:00Z",
+          "Time": "10:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13471*6",
+          "composerName": "D'Rivera,  Paquito",
+          "workTitle": "AIRES TROPICALES",
+          "soloists": [
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13472*",
+          "composerName": "Traditional,",
+          "workTitle": "ONCE A VIOLIST WENT WANDERING (ARR. Wiprud)",
+          "soloists": [
+            {
+              "soloistName": "Young, Rebecca",
+              "soloistInstrument": "Host",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13478*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PETITE SUITE: EN BATEAU (ARR. Thompson)",
+          "soloists": [
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13473*",
+          "composerName": "Coleman,  Valerie",
+          "workTitle": "RED CLAY & MISSISSIPPI DELTA, SELECTIONS",
+          "soloists": [
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13442*",
+          "composerName": "Lovell,  James",
+          "workTitle": "BUITI BIABI (ARR. Healy)",
+          "soloists": [
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13578*",
+          "composerName": "Unknown,",
+          "workTitle": "HISIENTIBUNU (SOMEONE LOVES YOU HONEY)",
+          "soloists": [
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13579*",
+          "composerName": "Unknown,",
+          "workTitle": "RARAMA WAMA (GET UP STAND UP)",
+          "soloists": [
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13580*",
+          "composerName": "Unknown,",
+          "workTitle": "MADIHERIBA (DON'T WORRY)",
+          "soloists": [
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13443*",
+          "composerName": "Traditional,",
+          "workTitle": "DANHALI (ARR. Healy)",
+          "soloists": [
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13475*",
+          "composerName": "Traditional,",
+          "workTitle": "NEIBUGA LUMA NUGUCHI (ARR. Healy)",
+          "soloists": [
+            {
+              "soloistName": "Fierst, Alison",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sylar, Sherry",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "McGill, Anthony",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deane, Richard",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "James Lovell and The Afri-Garifuna Music Ambassadors (JLAMA)",
+              "soloistInstrument": "Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nye, Roger",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "147d38a1-6864-4223-bac9-71a089defe12-0.1",
+      "programID": "14661",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-02T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-03T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-04T04:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-05T04:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51059*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 22, E-FLAT MAJOR, K.482",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Bronfman, Yefim",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "430*",
+          "composerName": "Bruckner,  Anton",
+          "workTitle": "SYMPHONY NO. 7, E MAJOR",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "0e785d5b-767a-4864-8f45-80dd8474cd9d-0.1",
+      "programID": "14705",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-09T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-10T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-11T05:00:00Z",
+          "Time": "8:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-12T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13395*1",
+          "composerName": "Williams,  John",
+          "workTitle": "JURASSIC PARK IN CONCERT",
+          "movement": "Part I",
+          "conductorName": "Kitsopoulos, Constantine",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "13395*2",
+          "composerName": "Williams,  John",
+          "workTitle": "JURASSIC PARK IN CONCERT",
+          "movement": "Part II",
+          "conductorName": "Kitsopoulos, Constantine",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "e7e92c26-aeb3-4495-ba58-c5d166a5126f-0.1",
+      "programID": "14664",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-12T05:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53624*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
+          "conductorName": "Lees, Christopher James",
+          "soloists": [
+            {
+              "soloistName": "Full Circle Souljahs",
+              "soloistInstrument": "Creative Partner",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Garcia, Ana \"Rockafella\"",
+              "soloistInstrument": "Director / Choreographer",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Dionisio, Gabriel Kwikstep",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Concepcion, Frank",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Beder, Odylle Bgirl Mantis",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "James, TJ Rocka",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Shamgod, Bboy",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hurricane",
+              "soloistInstrument": "Dancer",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "11613*",
+          "composerName": "Rabiu,  Isai",
+          "workTitle": "WONDER",
+          "conductorName": "Lees, Christopher James",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "991a9d41-b5ad-4def-baac-1c2e1ed7124e-0.1",
+      "programID": "14697",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-16T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-17T05:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-19T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2095*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "SYMPHONIES OF WIND INSTRUMENTS (1947 VERSION)",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        },
+        {
+          "ID": "51084*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "CONCERTO, TWO PIANOS AND PERCUSSION, BB 121",
+          "conductorName": "Lintu, Hannu",
+          "soloists": [
+            {
+              "soloistName": "Babayan, Sergei",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Trifonov, Daniil",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lamb, Christopher S.",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Druckman, Daniel",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Rhoten, Markus",
+              "soloistInstrument": "Timpani",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "1349*3",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SONATA, 2 PIANOS, D MAJOR, K.448",
+          "movement": "Allegro molto",
+          "soloists": [
+            {
+              "soloistName": "Babayan, Sergei",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Trifonov, Daniil",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12514*",
+          "composerName": "Saariaho,  Kaija",
+          "workTitle": "CIEL D'HIVER [WINTER SKY]",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        },
+        {
+          "ID": "51906*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "SYMPHONY NO. 7, C MAJOR, OP. 105",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "9268ecd2-46b1-41ac-ade3-fc0cef036c22-0.1",
+      "programID": "14781",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "NY Phil @ Noon",
+          "Location": "Manhattan, NY",
+          "Venue": "Kenneth C. Griffin Sidewalk Studio",
+          "Date": "2022-11-17T05:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7052*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "DUO, VIOLIN/VIOLA, B-FLAT MAJOR, K.424",
+          "soloists": [
+            {
+              "soloistName": "Lu, Kuan Cheng",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kenote, Peter",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13574*",
+          "composerName": "Piazzolla,  Astor",
+          "workTitle": "THREE TANGOS (ARR. Wiebecke-Gottstein)",
+          "soloists": [
+            {
+              "soloistName": "Sun, Na",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Cobb, Timothy",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "13573*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "PARTITA NO. 2, D MINOR, BWV 1004: CHACONNE (ARR. Jee)",
+          "soloists": [
+            {
+              "soloistName": "Jee, Patrick",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Vickery, Nathan",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kudo, Sumire",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gonzales, Alexei Yupanqui",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Yeh, Ru-Pei",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b044dd64-e4e8-48c9-bbb9-f87c1a509334-0.1",
+      "programID": "14779",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-18T05:00:00Z",
+          "Time": "11:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2095*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "SYMPHONIES OF WIND INSTRUMENTS (1947 VERSION)",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        },
+        {
+          "ID": "51084*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "CONCERTO, TWO PIANOS AND PERCUSSION, BB 121",
+          "conductorName": "Lintu, Hannu",
+          "soloists": [
+            {
+              "soloistName": "Babayan, Sergei",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Trifonov, Daniil",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Lamb, Christopher S.",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Druckman, Daniel",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Rhoten, Markus",
+              "soloistInstrument": "Timpani",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "12514*",
+          "composerName": "Saariaho,  Kaija",
+          "workTitle": "CIEL D'HIVER [WINTER SKY]",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        },
+        {
+          "ID": "51906*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "SYMPHONY NO. 7, C MAJOR, OP. 105",
+          "conductorName": "Lintu, Hannu",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "6f4cad3f-33ed-4380-a78a-7b084ece102e-0.1",
+      "programID": "14782",
+      "orchestra": "NYP Presentation",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Nightcap",
+          "Location": "Manhattan, NY",
+          "Venue": "Kenneth C. Griffin Sidewalk Studio",
+          "Date": "2022-11-19T05:00:00Z",
+          "Time": "10:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3478*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "ANDANTE AND VARIATIONS, B FLAT MAJOR, OP. 46",
+          "soloists": [
+            {
+              "soloistName": "Babayan, Sergei",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Trifonov, Daniil",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "1349*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SONATA, 2 PIANOS, D MAJOR, K.448",
+          "soloists": [
+            {
+              "soloistName": "Babayan, Sergei",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Trifonov, Daniil",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61a60e1d-5fec-4eaf-a9b6-072263ad1524-0.1",
+      "programID": "14783",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Theresa L. Kaufmann Concert Hall, 92nd St. YMHA",
+          "Date": "2022-11-20T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6979*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "SYRINX",
+          "soloists": []
+        },
+        {
+          "ID": "1803*21",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Das Wandern",
+          "soloists": []
+        },
+        {
+          "ID": "1803*2",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Wohin?",
+          "soloists": []
+        },
+        {
+          "ID": "13575*",
+          "composerName": "Maconchy,  Elizabeth",
+          "workTitle": "STRING QUARTET NO. 3",
+          "soloists": []
+        },
+        {
+          "ID": "1803*11",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Mein!",
+          "soloists": []
+        },
+        {
+          "ID": "13576*",
+          "composerName": "Fisher,  Salina",
+          "workTitle": "UCHI-SOTO",
+          "soloists": []
+        },
+        {
+          "ID": "1803*12",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Pause",
+          "soloists": []
+        },
+        {
+          "ID": "53880*",
+          "composerName": "Purcell,  Henry",
+          "workTitle": "CHACONY IN G MINOR",
+          "soloists": []
+        },
+        {
+          "ID": "13577*",
+          "composerName": "Nourbakhsh,  Niloufar",
+          "workTitle": "WHITE HELMETS AS WHITE AS DEATH",
+          "soloists": []
+        },
+        {
+          "ID": "1803*16",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Die liebe Farbe",
+          "soloists": []
+        },
+        {
+          "ID": "1803*17",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Die böse Farbe",
+          "soloists": []
+        },
+        {
+          "ID": "1803*20",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SCHONE MULLERIN, DIE,",
+          "movement": "Des Baches Wiegenlied",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "936e88e5-b6de-49be-8ba9-5b46af203a54-0.1",
+      "programID": "14665",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-23T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13339*1",
+          "composerName": "Connesson,  Guillaume",
+          "workTitle": "CITES DE LOVECRAFT, LES",
+          "movement": "Céléphaïs",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "2407*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "CONCERTO, PIANO, G MAJOR",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13581*1",
+          "composerName": "Rameau,  Jean-Philippe",
+          "workTitle": "BOREADES, LES",
+          "movement": "The Arts and the Hours (arr. Ólafsson)",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51740*",
+          "composerName": "Roussel,  Albert",
+          "workTitle": "BACCHUS ET ARIANE, OP.43: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "51581*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "30f4b80c-2390-4fbb-9b21-2aaa97688ab7-0.1",
+      "programID": "14784",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-25T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13339*1",
+          "composerName": "Connesson,  Guillaume",
+          "workTitle": "CITES DE LOVECRAFT, LES",
+          "movement": "Céléphaïs",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "2407*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "CONCERTO, PIANO, G MAJOR",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13582*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "THREE HUNGARIAN FOLKSONGS FROM THE CSÍK DISTRICT SZ. 35A, BB 45/B",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51740*",
+          "composerName": "Roussel,  Albert",
+          "workTitle": "BACCHUS ET ARIANE, OP.43: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "51581*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "e3f776d8-3485-4f3b-957b-d27f842f71a2-0.1",
+      "programID": "14795",
+      "orchestra": "New York Philharmonic",
+      "season": "2022-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2022-11-26T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "13339*1",
+          "composerName": "Connesson,  Guillaume",
+          "workTitle": "CITES DE LOVECRAFT, LES",
+          "movement": "Céléphaïs",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "2407*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "CONCERTO, PIANO, G MAJOR",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13588*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "PRELUDE IN B MINOR (ARR. Siloti)",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "13589*",
+          "composerName": "Rameau,  Jean-Philippe",
+          "workTitle": "RAPPEL DES OISEAUX, LES",
+          "soloists": [
+            {
+              "soloistName": "Olafsson [Ólafsson], Víkingur",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51740*",
+          "composerName": "Roussel,  Albert",
+          "workTitle": "BACCHUS ET ARIANE, OP.43: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
+          "soloists": []
+        },
+        {
+          "ID": "51581*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "conductorName": "Deneve [Denève], Stephane [Stéphane]",
           "soloists": []
         }
       ]
