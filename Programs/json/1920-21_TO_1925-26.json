@@ -170,51 +170,6 @@
       ]
     },
     {
-      "id": "d9827294-509f-4b6d-91e6-46add3a1c83c-0.1",
-      "programID": "8552",
-      "orchestra": "New York Symphony",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Aeolian Hall",
-          "Date": "1920-10-31T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50367*",
-          "composerName": "Faure [Fauré],  Gabriel-Urbain",
-          "workTitle": "MASQUES ET BERGAMASQUES, OP. 112",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2619*",
-          "composerName": "Lekeu,  Guillaume",
-          "workTitle": "ADAGIO FOR STRINGS, OP. 3",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50347*",
-          "composerName": "Franck,  César",
-          "workTitle": "RÉDEMPTION: MORCEAU SYMPHONIQUE (REV. 1885)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "dd65c2a8-9671-4777-a7af-146db2d4956a-0.1",
       "programID": "13684",
       "orchestra": "New/National Symphony Orchestra",
@@ -338,6 +293,51 @@
           "workTitle": "RIENZI, WWV 49",
           "movement": "Overture",
           "conductorName": "Stransky, Josef",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "d9827294-509f-4b6d-91e6-46add3a1c83c-0.1",
+      "programID": "8552",
+      "orchestra": "New York Symphony",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Aeolian Hall",
+          "Date": "1920-10-31T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50367*",
+          "composerName": "Faure [Fauré],  Gabriel-Urbain",
+          "workTitle": "MASQUES ET BERGAMASQUES, OP. 112",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2619*",
+          "composerName": "Lekeu,  Guillaume",
+          "workTitle": "ADAGIO FOR STRINGS, OP. 3",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50347*",
+          "composerName": "Franck,  César",
+          "workTitle": "RÉDEMPTION: MORCEAU SYMPHONIQUE (REV. 1885)",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -1444,90 +1444,6 @@
       ]
     },
     {
-      "id": "c52ba22c-a94f-4316-b018-1bc14ae20ced-0.1",
-      "programID": "10333",
-      "orchestra": "New York Symphony",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1920-11-16T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50964*1",
-          "composerName": "Lalo,  Edouard",
-          "workTitle": "ROI D'YS, LE",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51668*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 41, C MAJOR, K.551, \"JUPITER\"",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "10342*",
-          "composerName": "Kekeu,",
-          "workTitle": "ADAGIO FOR STRINGS",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51507*3",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)",
-          "movement": "Laideronnette, Impératrice des pagodes (Laideronnette, Empress of the Pagodas)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2845*5",
-          "composerName": "Moszkowski,  Moritz",
-          "workTitle": "SUITE NO. 1, F MAJOR, OP. 39",
-          "movement": "Perpetuum mobile",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50070*2",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "movement": "Allegro con grazia",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50070*3",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "movement": "Allegro molto vivace",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9007*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Prelude to Act I",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "6e42313f-5756-4b3e-afc9-b5ae80d00d8c-0.1",
       "programID": "13686",
       "orchestra": "New/National Symphony Orchestra",
@@ -1610,6 +1526,90 @@
           "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
           "movement": "\"Brunnhilde, heilige Braut!\" (Siegfried's Death), Siegfried, Act III, scene ii",
           "conductorName": "Bodanzky, Artur",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "c52ba22c-a94f-4316-b018-1bc14ae20ced-0.1",
+      "programID": "10333",
+      "orchestra": "New York Symphony",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Metropolitan Opera House (39th street)",
+          "Date": "1920-11-16T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50964*1",
+          "composerName": "Lalo,  Edouard",
+          "workTitle": "ROI D'YS, LE",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51668*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 41, C MAJOR, K.551, \"JUPITER\"",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "10342*",
+          "composerName": "Kekeu,",
+          "workTitle": "ADAGIO FOR STRINGS",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51507*3",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)",
+          "movement": "Laideronnette, Impératrice des pagodes (Laideronnette, Empress of the Pagodas)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2845*5",
+          "composerName": "Moszkowski,  Moritz",
+          "workTitle": "SUITE NO. 1, F MAJOR, OP. 39",
+          "movement": "Perpetuum mobile",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*2",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "movement": "Allegro con grazia",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50070*3",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "movement": "Allegro molto vivace",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9007*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -2688,53 +2688,6 @@
       ]
     },
     {
-      "id": "481f1c16-5847-47c6-b270-dcc7cc297d2c-0.1",
-      "programID": "10334",
-      "orchestra": "New York Symphony",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1920-12-11T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52364*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "EGMONT, OP.84",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7040*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "POLONAISE (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51015*5",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "RUINS OF ATHENS, OP. 113",
-          "movement": "Marcia alla turca (Turkish march)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "880e7b20-741b-42c5-87ae-e64b03ad6b05-0.1",
       "programID": "1227",
       "orchestra": "New York Philharmonic",
@@ -2788,6 +2741,53 @@
           "workTitle": "LOHENGRIN",
           "movement": "Act III: Introduction",
           "conductorName": "Stransky, Josef",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "481f1c16-5847-47c6-b270-dcc7cc297d2c-0.1",
+      "programID": "10334",
+      "orchestra": "New York Symphony",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1920-12-11T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52364*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "EGMONT, OP.84",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "7040*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "POLONAISE (UNSPECIFIED)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51015*5",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "RUINS OF ATHENS, OP. 113",
+          "movement": "Marcia alla turca (Turkish march)",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -4945,6 +4945,55 @@
       ]
     },
     {
+      "id": "7a34cb5b-a855-4aea-aa70-280f5242048d-0.1",
+      "programID": "3867",
+      "orchestra": "New York Philharmonic",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1921-01-20T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52512*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26",
+          "conductorName": "Stransky, Josef",
+          "soloists": []
+        },
+        {
+          "ID": "2847*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, CELLO, A MINOR, OP.129",
+          "conductorName": "Stransky, Josef",
+          "soloists": [
+            {
+              "soloistName": "Schulz, Leo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52826*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "conductorName": "Stransky, Josef",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "55b95c7b-0d6f-47e8-b58a-269a4f41c37e-0.1",
       "programID": "13694",
       "orchestra": "New/National Symphony Orchestra",
@@ -4997,55 +5046,6 @@
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
           "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "7a34cb5b-a855-4aea-aa70-280f5242048d-0.1",
-      "programID": "3867",
-      "orchestra": "New York Philharmonic",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1921-01-20T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52512*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26",
-          "conductorName": "Stransky, Josef",
-          "soloists": []
-        },
-        {
-          "ID": "2847*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, CELLO, A MINOR, OP.129",
-          "conductorName": "Stransky, Josef",
-          "soloists": [
-            {
-              "soloistName": "Schulz, Leo",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52826*",
-          "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
-          "conductorName": "Stransky, Josef",
           "soloists": []
         }
       ]
@@ -6854,48 +6854,6 @@
       ]
     },
     {
-      "id": "ce3fea72-a965-4679-ae02-06d83f7f23b1-0.1",
-      "programID": "8583",
-      "orchestra": "New York Symphony",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1921-02-14T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Kochanski, Paul",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "880c0846-71fc-4f76-88c3-bee9e8e5588b-0.1",
       "programID": "6009",
       "orchestra": "New York Philharmonic",
@@ -6975,6 +6933,48 @@
           "workTitle": "FRANCESCA DA RIMINI, OP. 32",
           "conductorName": "Stransky, Josef",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "ce3fea72-a965-4679-ae02-06d83f7f23b1-0.1",
+      "programID": "8583",
+      "orchestra": "New York Symphony",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1921-02-14T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Kochanski, Paul",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     },
@@ -7159,69 +7159,6 @@
       ]
     },
     {
-      "id": "93837eb9-5a57-4264-bc6e-9e47e6bd0d57-0.1",
-      "programID": "13955",
-      "orchestra": "New/National Symphony Orchestra",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1921-02-17T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52364*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "EGMONT, OP.84",
-          "movement": "Overture",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Tas, Helen Teschner",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52502*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Tas, Helen Teschner",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51149*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "4711ad24-d4a3-45c6-94a1-b5c0907f8359-0.1",
       "programID": "8584",
       "orchestra": "New York Symphony",
@@ -7297,6 +7234,69 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
           "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "93837eb9-5a57-4264-bc6e-9e47e6bd0d57-0.1",
+      "programID": "13955",
+      "orchestra": "New/National Symphony Orchestra",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1921-02-17T05:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52364*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "EGMONT, OP.84",
+          "movement": "Overture",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Tas, Helen Teschner",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52502*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Tas, Helen Teschner",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51149*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
+          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -8057,46 +8057,6 @@
       ]
     },
     {
-      "id": "56c660ba-01bf-43ce-837e-447353fd9c9b-0.1",
-      "programID": "13707",
-      "orchestra": "New/National Symphony Orchestra",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1921-02-27T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9004*14",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Prelude and Liebestod (with or without soloist)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "1d8e87a5-dd18-4978-9d06-1de6122e1963-0.1",
       "programID": "1362",
       "orchestra": "New York Philharmonic",
@@ -8148,6 +8108,46 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "OVERTURE, 1812, OP. 49",
           "conductorName": "Stransky, Josef",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "56c660ba-01bf-43ce-837e-447353fd9c9b-0.1",
+      "programID": "13707",
+      "orchestra": "New/National Symphony Orchestra",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1921-02-27T05:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9004*14",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Overture [Dresden]",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -10807,52 +10807,6 @@
       ]
     },
     {
-      "id": "6c332345-b603-4d30-9775-ec8cb2ab30cc-0.1",
-      "programID": "13962",
-      "orchestra": "New/National Symphony Orchestra",
-      "season": "1920-21",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1921-04-03T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8999*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "LOHENGRIN",
-          "movement": "Act I: Prelude",
-          "soloists": []
-        },
-        {
-          "ID": "50620*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "SIEGFRIED IDYLL, WWV 103",
-          "conductorName": "Bodanzky, Artur",
-          "soloists": []
-        },
-        {
-          "ID": "9006*10",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "Siegfried's Funeral Music, ACT III, scene ii",
-          "conductorName": "Bodanzky, Artur",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Bodanzky, Artur",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "89c7e936-8934-4d2b-b6b7-b5d65ad12524-0.1",
       "programID": "4926",
       "orchestra": "New York Philharmonic",
@@ -10906,6 +10860,52 @@
           "workTitle": "LOHENGRIN",
           "movement": "Act III: Introduction",
           "conductorName": "Stransky, Josef",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "6c332345-b603-4d30-9775-ec8cb2ab30cc-0.1",
+      "programID": "13962",
+      "orchestra": "New/National Symphony Orchestra",
+      "season": "1920-21",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1921-04-03T05:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8999*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act I: Prelude",
+          "soloists": []
+        },
+        {
+          "ID": "50620*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "SIEGFRIED IDYLL, WWV 103",
+          "conductorName": "Bodanzky, Artur",
+          "soloists": []
+        },
+        {
+          "ID": "9006*10",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "Siegfried's Funeral Music, ACT III, scene ii",
+          "conductorName": "Bodanzky, Artur",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Bodanzky, Artur",
           "soloists": []
         }
       ]
@@ -19518,7 +19518,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Stransky, Josef",
           "soloists": []
         }
@@ -20913,6 +20913,63 @@
       ]
     },
     {
+      "id": "55766cc6-e07b-42e2-b0d8-42c3fdd65311-0.1",
+      "programID": "2911",
+      "orchestra": "New York Philharmonic",
+      "season": "1921-22",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1922-02-19T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6709*16",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "FREISCHUTZ, DER",
+          "movement": "Overture",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "715*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "VALSE, LA",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51099*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, VIOLIN NO. 5, A MAJOR, K.219",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Tas, Helen Teschner",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51944*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DON JUAN, OP. 20",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "029da640-8b75-44e2-b082-b466ea1c5c7e-0.1",
       "programID": "8625",
       "orchestra": "New York Symphony",
@@ -20974,63 +21031,6 @@
           "composerName": "Beethoven,  Ludwig  van",
           "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
           "conductorName": "Coates, Albert",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "55766cc6-e07b-42e2-b0d8-42c3fdd65311-0.1",
-      "programID": "2911",
-      "orchestra": "New York Philharmonic",
-      "season": "1921-22",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1922-02-19T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6709*16",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "FREISCHUTZ, DER",
-          "movement": "Overture",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "715*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "VALSE, LA",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51099*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, VIOLIN NO. 5, A MAJOR, K.219",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Tas, Helen Teschner",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51944*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DON JUAN, OP. 20",
-          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -22497,55 +22497,6 @@
       ]
     },
     {
-      "id": "65a9fde6-b3fd-43d7-8110-f0c7d200baec-0.1",
-      "programID": "3370",
-      "orchestra": "New York Philharmonic",
-      "season": "1921-22",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1922-03-26T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52327*",
-          "composerName": "Sinigaglia,  Leone",
-          "workTitle": "BARUFFE CHIOZZOTTE, LE, OP. 32",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Hess, Myra",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "bedd984d-c40f-4584-b1cd-a95400f61d8e-0.1",
       "programID": "8635",
       "orchestra": "New York Symphony",
@@ -22599,6 +22550,55 @@
           "composerName": "Strauss,  Johann, II",
           "workTitle": "ROSEN AUS DEM SUDEN (ROSES FROM THE SOUTH) WALTZES, OP. 388",
           "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "65a9fde6-b3fd-43d7-8110-f0c7d200baec-0.1",
+      "programID": "3370",
+      "orchestra": "New York Philharmonic",
+      "season": "1921-22",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1922-03-26T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52327*",
+          "composerName": "Sinigaglia,  Leone",
+          "workTitle": "BARUFFE CHIOZZOTTE, LE, OP. 32",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Hess, Myra",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -25918,7 +25918,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -26253,7 +26253,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -26954,7 +26954,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -30931,7 +30931,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -32196,7 +32196,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -34273,6 +34273,70 @@
       ]
     },
     {
+      "id": "3eccd2bb-aaa8-404c-83b8-92e74fd8292b-0.1",
+      "programID": "1946",
+      "orchestra": "New York Philharmonic",
+      "season": "1922-23",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1923-03-08T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1923-03-09T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52874*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO.  7 IN E MINOR (SONG OF THE NIGHT)",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52349*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Adler, Clarence",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Guidi, Scipione",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Van Vliet, Cornelius",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "New York Trio, The",
+              "soloistInstrument": "Piano trio",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fda02a28-0b6a-42e8-8604-9b8720632a24-0.1",
       "programID": "8671",
       "orchestra": "New York Symphony",
@@ -34378,73 +34442,9 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Damrosch, Walter",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "3eccd2bb-aaa8-404c-83b8-92e74fd8292b-0.1",
-      "programID": "1946",
-      "orchestra": "New York Philharmonic",
-      "season": "1922-23",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1923-03-08T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1923-03-09T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52874*",
-          "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  7 IN E MINOR (SONG OF THE NIGHT)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52349*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Adler, Clarence",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Guidi, Scipione",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Van Vliet, Cornelius",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "New York Trio, The",
-              "soloistInstrument": "Piano trio",
-              "soloistRoles": "S"
-            }
-          ]
         }
       ]
     },
@@ -36588,7 +36588,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -37002,7 +37002,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -38416,7 +38416,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -39297,6 +39297,62 @@
       ]
     },
     {
+      "id": "2b1aecd6-938d-48cb-9047-b3c33c149136-0.1",
+      "programID": "4009",
+      "orchestra": "New York Philharmonic",
+      "season": "1923-24",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1923-11-08T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1923-11-09T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50335*",
+          "composerName": "Franck,  César",
+          "workTitle": "SYMPHONY IN D MINOR",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "2068*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": [
+            {
+              "soloistName": "Kochanski, Paul",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "50005*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "MARCHE SLAV, OP.31",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "e307bfdc-40a6-4d7d-aa98-39abd80867c6-0.1",
       "programID": "8678",
       "orchestra": "New York Symphony",
@@ -39459,57 +39515,54 @@
       ]
     },
     {
-      "id": "2b1aecd6-938d-48cb-9047-b3c33c149136-0.1",
-      "programID": "4009",
-      "orchestra": "New York Philharmonic",
+      "id": "03d3f9dc-96a2-4a08-be3b-91f61a169ad4-0.1",
+      "programID": "10299",
+      "orchestra": "New York Symphony",
       "season": "1923-24",
       "concerts": [
         {
-          "eventType": "Subscription Season",
+          "eventType": "Young People's Concert",
           "Location": "Manhattan, NY",
           "Venue": "Carnegie Hall",
-          "Date": "1923-11-08T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1923-11-09T05:00:00Z",
+          "Date": "1923-11-10T05:00:00Z",
           "Time": "2:30PM"
         }
       ],
       "works": [
         {
-          "ID": "50335*",
-          "composerName": "Franck,  César",
-          "workTitle": "SYMPHONY IN D MINOR",
-          "conductorName": "Hoogstraten, Willem van",
+          "ID": "50168*1",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "0*",
-          "interval": "Intermission",
+          "ID": "2819*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "2068*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
-          "conductorName": "Hoogstraten, Willem van",
+          "ID": "51051*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "CONCERTO, PIANO, NO. 2, A MAJOR",
+          "conductorName": "Damrosch, Walter",
           "soloists": [
             {
-              "soloistName": "Kochanski, Paul",
-              "soloistInstrument": "Violin",
+              "soloistName": "Nikisch, Mitja",
+              "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "50005*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "MARCHE SLAV, OP.31",
-          "conductorName": "Hoogstraten, Willem van",
+          "ID": "9003*2",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Processional March, Act II, scene iv",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -39566,61 +39619,8 @@
         {
           "ID": "51101*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)",
           "conductorName": "Hoogstraten, Willem van",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "03d3f9dc-96a2-4a08-be3b-91f61a169ad4-0.1",
-      "programID": "10299",
-      "orchestra": "New York Symphony",
-      "season": "1923-24",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1923-11-10T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50168*1",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2819*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51051*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CONCERTO, PIANO, NO. 2, A MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Nikisch, Mitja",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9003*2",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Processional March, Act II, scene iv",
-          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -41393,63 +41393,6 @@
       ]
     },
     {
-      "id": "b1ff7aad-3109-4c9d-a669-0d347fb8af74-0.1",
-      "programID": "10306",
-      "orchestra": "New York Symphony",
-      "season": "1923-24",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1923-12-21T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "3354*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "CONCERTO, PIANO NO. 10, E-FLAT MAJOR, K.316A (OLD K.365) (2 PIANOS)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Bauer, Harold",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Gabrilowitsch, Ossip",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "53204*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "FINLANDIA, OP. 26",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "58f8c684-4b00-4d5d-8bcc-67275085525e-0.1",
       "programID": "424",
       "orchestra": "New York Philharmonic",
@@ -41548,6 +41491,63 @@
           "composerName": "Strauss,  Johann, II",
           "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
           "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "b1ff7aad-3109-4c9d-a669-0d347fb8af74-0.1",
+      "programID": "10306",
+      "orchestra": "New York Symphony",
+      "season": "1923-24",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1923-12-21T05:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "3354*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "CONCERTO, PIANO NO. 10, E-FLAT MAJOR, K.316A (OLD K.365) (2 PIANOS)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Bauer, Harold",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gabrilowitsch, Ossip",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "53204*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "FINLANDIA, OP. 26",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -42672,6 +42672,56 @@
       ]
     },
     {
+      "id": "c7bf23a9-aca6-4f3a-92a1-b84eb84b6dea-0.1",
+      "programID": "7039",
+      "orchestra": "New York Philharmonic",
+      "season": "1923-24",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1924-01-10T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1924-01-11T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51884*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51591*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "RAPSODIE ESPAGNOLE",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        },
+        {
+          "ID": "53193*",
+          "composerName": "Dukas,  Paul",
+          "workTitle": "SORCERER'S APPRENTICE, THE",
+          "conductorName": "Hoogstraten, Willem van",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "b61a80a6-f8b4-4dc7-b300-feeefbe8ea94-0.1",
       "programID": "8694",
       "orchestra": "New York Symphony",
@@ -42796,56 +42846,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "c7bf23a9-aca6-4f3a-92a1-b84eb84b6dea-0.1",
-      "programID": "7039",
-      "orchestra": "New York Philharmonic",
-      "season": "1923-24",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1924-01-10T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1924-01-11T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51884*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
-          "conductorName": "Hoogstraten, Willem van",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51591*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "RAPSODIE ESPAGNOLE",
-          "conductorName": "Hoogstraten, Willem van",
-          "soloists": []
-        },
-        {
-          "ID": "53193*",
-          "composerName": "Dukas,  Paul",
-          "workTitle": "SORCERER'S APPRENTICE, THE",
-          "conductorName": "Hoogstraten, Willem van",
-          "soloists": []
         }
       ]
     },
@@ -45266,6 +45266,115 @@
       ]
     },
     {
+      "id": "790a2ba2-7c02-4612-ab7d-b635460a5fa1-0.1",
+      "programID": "2466",
+      "orchestra": "New York Philharmonic",
+      "season": "1923-24",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Aeolian Hall",
+          "Date": "1924-03-01T05:00:00Z",
+          "Time": "11:00AM"
+        },
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Aeolian Hall",
+          "Date": "1924-03-03T05:00:00Z",
+          "Time": "3:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6170*",
+          "composerName": "Quilter,  Roger",
+          "workTitle": "CHILDREN'S OVERTURE",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "2420*",
+          "composerName": "Schuecker,  Edmund",
+          "workTitle": "MAZURKA, HARP",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Cella, Theodore",
+              "soloistInstrument": "Harp",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "5098*",
+          "composerName": "Bellison,  Simeon",
+          "workTitle": "CANZONETTA (GRANDMOTHER'S STORIES)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Bellison, Simeon",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9473*1",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "MOMENS MUSICALS, D.780 (ORCH) (ARR. Stock)",
+          "movement": "Unspecified",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "8902*15",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "HUNGARIAN DANCES (ORCH.)",
+          "movement": "Hungarian Dance (Unspecified)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        },
+        {
+          "ID": "50712*2",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "CONCERTO, BASSOON, F MAJOR, OP. 75",
+          "movement": "Adagio",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Kohon, Benjamin",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "53973*3",
+          "composerName": "Handel,  George  Frideric",
+          "workTitle": "JUDAS MACCABAEUS",
+          "movement": "\"See the conquering hero comes,\" Chorus (No. 58)",
+          "conductorName": "Schelling, Ernest",
+          "soloists": [
+            {
+              "soloistName": "Audience",
+              "soloistInstrument": "Sing-Along",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "51909*4",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  45, F SHARP MINOR (FAREWELL)",
+          "movement": "Finale: Presto-Adagio",
+          "conductorName": "Schelling, Ernest",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "45c758ae-130e-4bc5-953a-37fd1fe2d38d-0.1",
       "programID": "10312",
       "orchestra": "New York Symphony",
@@ -45305,7 +45414,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Pollain, Rene",
           "soloists": []
         },
@@ -45469,115 +45578,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "790a2ba2-7c02-4612-ab7d-b635460a5fa1-0.1",
-      "programID": "2466",
-      "orchestra": "New York Philharmonic",
-      "season": "1923-24",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Aeolian Hall",
-          "Date": "1924-03-01T05:00:00Z",
-          "Time": "11:00AM"
-        },
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Aeolian Hall",
-          "Date": "1924-03-03T05:00:00Z",
-          "Time": "3:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6170*",
-          "composerName": "Quilter,  Roger",
-          "workTitle": "CHILDREN'S OVERTURE",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "2420*",
-          "composerName": "Schuecker,  Edmund",
-          "workTitle": "MAZURKA, HARP",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Cella, Theodore",
-              "soloistInstrument": "Harp",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "5098*",
-          "composerName": "Bellison,  Simeon",
-          "workTitle": "CANZONETTA (GRANDMOTHER'S STORIES)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Bellison, Simeon",
-              "soloistInstrument": "Clarinet",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9473*1",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "MOMENS MUSICALS, D.780 (ORCH) (ARR. Stock)",
-          "movement": "Unspecified",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "8902*15",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "HUNGARIAN DANCES (ORCH.)",
-          "movement": "Hungarian Dance (Unspecified)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
-        },
-        {
-          "ID": "50712*2",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "CONCERTO, BASSOON, F MAJOR, OP. 75",
-          "movement": "Adagio",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Kohon, Benjamin",
-              "soloistInstrument": "Bassoon",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "53973*3",
-          "composerName": "Handel,  George  Frideric",
-          "workTitle": "JUDAS MACCABAEUS",
-          "movement": "\"See the conquering hero comes,\" Chorus (No. 58)",
-          "conductorName": "Schelling, Ernest",
-          "soloists": [
-            {
-              "soloistName": "Audience",
-              "soloistInstrument": "Sing-Along",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "51909*4",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  45, F SHARP MINOR (FAREWELL)",
-          "movement": "Finale: Presto-Adagio",
-          "conductorName": "Schelling, Ernest",
-          "soloists": []
         }
       ]
     },
@@ -48010,7 +48010,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -49343,7 +49343,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Reiner, Fritz",
           "soloists": []
         },
@@ -49682,7 +49682,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         }
@@ -53314,6 +53314,68 @@
       ]
     },
     {
+      "id": "04644bc3-d781-40d7-a440-46d056185538-0.1",
+      "programID": "3114",
+      "orchestra": "New York Philharmonic",
+      "season": "1924-25",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Metropolitan Opera House (39th street)",
+          "Date": "1924-12-21T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50064*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
+          "conductorName": "Hadley, Henry",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "887*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CON., HARPSICHORDS, (TWO), NO. 1, C MINOR, BWV 1060",
+          "conductorName": "Hadley, Henry",
+          "soloists": [
+            {
+              "soloistName": "Maier, Guy",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Pattison, Lee",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "2295*",
+          "composerName": "Ballantine,  Edward",
+          "workTitle": "FROM THE GARDEN OF HELLAS",
+          "conductorName": "Hadley, Henry",
+          "soloists": []
+        },
+        {
+          "ID": "9194*1",
+          "composerName": "Smetana,  Bedrich",
+          "workTitle": "BARTERED BRIDE, THE",
+          "movement": "Overture (\"Overture to a Comedy\")",
+          "conductorName": "Hadley, Henry",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "5e736142-4720-4411-9367-6780c2cc24e9-0.1",
       "programID": "8725",
       "orchestra": "New York Symphony",
@@ -53380,68 +53442,6 @@
           "workTitle": "PRINCE IGOR",
           "movement": "Polovtsian Dances [Nos. 8 & 17 in opera]",
           "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "04644bc3-d781-40d7-a440-46d056185538-0.1",
-      "programID": "3114",
-      "orchestra": "New York Philharmonic",
-      "season": "1924-25",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1924-12-21T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50064*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
-          "conductorName": "Hadley, Henry",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "887*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "CON., HARPSICHORDS, (TWO), NO. 1, C MINOR, BWV 1060",
-          "conductorName": "Hadley, Henry",
-          "soloists": [
-            {
-              "soloistName": "Maier, Guy",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Pattison, Lee",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "2295*",
-          "composerName": "Ballantine,  Edward",
-          "workTitle": "FROM THE GARDEN OF HELLAS",
-          "conductorName": "Hadley, Henry",
-          "soloists": []
-        },
-        {
-          "ID": "9194*1",
-          "composerName": "Smetana,  Bedrich",
-          "workTitle": "BARTERED BRIDE, THE",
-          "movement": "Overture (\"Overture to a Comedy\")",
-          "conductorName": "Hadley, Henry",
           "soloists": []
         }
       ]
@@ -56475,70 +56475,6 @@
       ]
     },
     {
-      "id": "2d1653a6-da2d-4d4c-bb40-a4547c079762-0.1",
-      "programID": "10296",
-      "orchestra": "New York Symphony",
-      "season": "1924-25",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1925-02-21T05:00:00Z",
-          "Time": "11:00AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6709*16",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "FREISCHUTZ, DER",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52453*5",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "movement": "Scherzo from Mvt. III: Presto",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53678*2",
-          "composerName": "Grieg,  Edvard",
-          "workTitle": "PEER GYNT SUITE NO. 1",
-          "movement": "Åse's Death",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53678*3",
-          "composerName": "Grieg,  Edvard",
-          "workTitle": "PEER GYNT SUITE NO. 1",
-          "movement": "Anitra's Dance",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53678*4",
-          "composerName": "Grieg,  Edvard",
-          "workTitle": "PEER GYNT SUITE NO. 1",
-          "movement": "In the Hall of the Mountain King",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2074*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "ROSEN AUS DEM SUDEN (ROSES FROM THE SOUTH) WALTZES, OP. 388",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "be592f82-bb69-479f-bb32-6a091ae0bb7a-0.1",
       "programID": "648",
       "orchestra": "New York Philharmonic",
@@ -56682,6 +56618,70 @@
             "em": "Indian Dance"
           },
           "conductorName": "Schelling, Ernest",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "2d1653a6-da2d-4d4c-bb40-a4547c079762-0.1",
+      "programID": "10296",
+      "orchestra": "New York Symphony",
+      "season": "1924-25",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1925-02-21T05:00:00Z",
+          "Time": "11:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6709*16",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "FREISCHUTZ, DER",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52453*5",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "movement": "Scherzo from Mvt. III: Presto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53678*2",
+          "composerName": "Grieg,  Edvard",
+          "workTitle": "PEER GYNT SUITE NO. 1",
+          "movement": "Åse's Death",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53678*3",
+          "composerName": "Grieg,  Edvard",
+          "workTitle": "PEER GYNT SUITE NO. 1",
+          "movement": "Anitra's Dance",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53678*4",
+          "composerName": "Grieg,  Edvard",
+          "workTitle": "PEER GYNT SUITE NO. 1",
+          "movement": "In the Hall of the Mountain King",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2074*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "ROSEN AUS DEM SUDEN (ROSES FROM THE SOUTH) WALTZES, OP. 388",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -57146,46 +57146,6 @@
       ]
     },
     {
-      "id": "456a6361-6076-4191-bf3f-0a95c07f4d48-0.1",
-      "programID": "8738",
-      "orchestra": "New York Symphony",
-      "season": "1924-25",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Aeolian Hall",
-          "Date": "1925-03-01T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9000*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "RIENZI, WWV 49",
-          "movement": "Overture",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "9003*7",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture and Bacchanale (Venusberg Music) [Paris]",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "51370*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "c718d731-e907-46e1-ac7e-86621a4bf78b-0.1",
       "programID": "6530",
       "orchestra": "New York Philharmonic",
@@ -57230,6 +57190,46 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
           "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "456a6361-6076-4191-bf3f-0a95c07f4d48-0.1",
+      "programID": "8738",
+      "orchestra": "New York Symphony",
+      "season": "1924-25",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Aeolian Hall",
+          "Date": "1925-03-01T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9000*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "RIENZI, WWV 49",
+          "movement": "Overture",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "9003*7",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Overture and Bacchanale (Venusberg Music) [Paris]",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Walter, Bruno",
           "soloists": []
         }
       ]
@@ -59315,7 +59315,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -60868,7 +60868,7 @@
         {
           "ID": "51106*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 1, F MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  1, F MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -64110,6 +64110,55 @@
       ]
     },
     {
+      "id": "33f1d123-91e8-4352-8175-b4d683f0c8cb-0.1",
+      "programID": "826",
+      "orchestra": "New York Philharmonic",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1925-10-31T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "1886*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SUITE NO. 2,  B MINOR, BWV 1067",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": [
+            {
+              "soloistName": "Mengelberg, Willem",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "51149*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51872*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
+          "conductorName": "Mengelberg, Willem",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "4a1202fe-6b0e-4dfc-927b-a8e10ef8a9b1-0.1",
       "programID": "10272",
       "orchestra": "New York Symphony",
@@ -64181,55 +64230,6 @@
           "composerName": "Widor,  Charles  Marie",
           "workTitle": "MARCHE AMERICAINE",
           "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "33f1d123-91e8-4352-8175-b4d683f0c8cb-0.1",
-      "programID": "826",
-      "orchestra": "New York Philharmonic",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1925-10-31T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1886*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SUITE NO. 2,  B MINOR, BWV 1067",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": [
-            {
-              "soloistName": "Mengelberg, Willem",
-              "soloistInstrument": "Harpsichord",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "51149*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
-          "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51872*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
-          "conductorName": "Mengelberg, Willem",
           "soloists": []
         }
       ]
@@ -67669,6 +67669,50 @@
       ]
     },
     {
+      "id": "0d3fcd81-cd2c-484f-bd69-e65b774cb8fd-0.1",
+      "programID": "8763",
+      "orchestra": "New York Symphony",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Mecca Auditorium",
+          "Date": "1926-01-03T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50068*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2143*",
+          "composerName": "Gershwin,  George",
+          "workTitle": "CONCERTO, PIANO, F MAJOR",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Gershwin, George",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51581*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "be431299-fc99-4b5a-bb48-6ac2e4dfbde5-0.1",
       "programID": "4297",
       "orchestra": "New York Philharmonic",
@@ -67713,50 +67757,6 @@
           "composerName": "Strauss,  Richard",
           "workTitle": "ALSO SPRACH ZARATHUSTRA, OP. 30",
           "conductorName": "Mengelberg, Willem",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "0d3fcd81-cd2c-484f-bd69-e65b774cb8fd-0.1",
-      "programID": "8763",
-      "orchestra": "New York Symphony",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1926-01-03T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50068*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2143*",
-          "composerName": "Gershwin,  George",
-          "workTitle": "CONCERTO, PIANO, F MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Gershwin, George",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51581*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -68615,6 +68615,70 @@
       ]
     },
     {
+      "id": "2dc94371-190e-479a-b708-3a4882c622f8-0.1",
+      "programID": "10284",
+      "orchestra": "New York Symphony",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-01-23T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50340*2",
+          "composerName": "Glazunov,  Alexander",
+          "workTitle": "SYMPHONY NO. 5, B FLAT, OP. 55",
+          "movement": "Scherzo: Moderato",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50340*4",
+          "composerName": "Glazunov,  Alexander",
+          "workTitle": "SYMPHONY NO. 5, B FLAT, OP. 55",
+          "movement": "Allegro moderato",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52502*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Breton, Ruth",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51779*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "CARNIVAL OF THE ANIMALS",
+          "conductorName": "Pollain, Rene",
+          "soloists": [
+            {
+              "soloistName": "Damrosch, Leopoldine (Polly)",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Damrosch, Walter",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a1e9ea5d-47f7-45f9-be4d-33b284625c09-0.1",
       "programID": "6210",
       "orchestra": "New York Philharmonic",
@@ -68697,113 +68761,6 @@
       ]
     },
     {
-      "id": "2dc94371-190e-479a-b708-3a4882c622f8-0.1",
-      "programID": "10284",
-      "orchestra": "New York Symphony",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-01-23T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50340*2",
-          "composerName": "Glazunov,  Alexander",
-          "workTitle": "SYMPHONY NO. 5, B FLAT, OP. 55",
-          "movement": "Scherzo: Moderato",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50340*4",
-          "composerName": "Glazunov,  Alexander",
-          "workTitle": "SYMPHONY NO. 5, B FLAT, OP. 55",
-          "movement": "Allegro moderato",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52502*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Breton, Ruth",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51779*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "CARNIVAL OF THE ANIMALS",
-          "conductorName": "Pollain, Rene",
-          "soloists": [
-            {
-              "soloistName": "Damrosch, Leopoldine (Polly)",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Damrosch, Walter",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "db10e0f2-cb84-4bb6-a389-2354cce155a7-0.1",
-      "programID": "8776",
-      "orchestra": "New York Symphony",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1926-01-24T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52103*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  95, C MINOR",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "51668*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 41, C MAJOR, K.551, \"JUPITER\"",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "a1f49bfc-a1fb-4616-ba78-7799136db901-0.1",
       "programID": "4321",
       "orchestra": "New York Philharmonic",
@@ -68858,6 +68815,49 @@
           "workTitle": "PETRUSHKA (1911 VERSION)",
           "movement": "Tableau IV: The Shrovetide Fair (Evening)",
           "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "db10e0f2-cb84-4bb6-a389-2354cce155a7-0.1",
+      "programID": "8776",
+      "orchestra": "New York Symphony",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Mecca Auditorium",
+          "Date": "1926-01-24T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52103*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  95, C MINOR",
+          "conductorName": "Klemperer, Otto",
+          "soloists": []
+        },
+        {
+          "ID": "51668*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 41, C MAJOR, K.551, \"JUPITER\"",
+          "conductorName": "Klemperer, Otto",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Klemperer, Otto",
           "soloists": []
         }
       ]
@@ -69382,6 +69382,77 @@
       ]
     },
     {
+      "id": "34e75cee-3c32-48c0-9e3e-351711ac3eee-0.1",
+      "programID": "4717",
+      "orchestra": "New York Philharmonic",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-02-07T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51654*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 38, D MAJOR, K.504, \"PRAGUE\"",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "3417*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "MER, LA [THE SEA]",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51892*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "VARIATIONS ON A THEME BY HAYDN, OP. 56A",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "2942*",
+          "composerName": "Martucci,  Giuseppe",
+          "workTitle": "NOTTURNO, OP.70, NO. 1",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "67*",
+          "composerName": "Martucci,  Giuseppe",
+          "workTitle": "NOVELLETTA, OP.82",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": []
+        },
+        {
+          "ID": "9004*14",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
+          "conductorName": "Toscanini, Arturo",
+          "soloists": [
+            {
+              "soloistName": "No Soloist",
+              "soloistInstrument": "Other",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "912b46c4-ede9-439e-a8c3-819f8d9e0c9b-0.1",
       "programID": "8779",
       "orchestra": "New York Symphony",
@@ -69484,77 +69555,6 @@
           "movement": "Prelude to Act I",
           "conductorName": "Klemperer, Otto",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "34e75cee-3c32-48c0-9e3e-351711ac3eee-0.1",
-      "programID": "4717",
-      "orchestra": "New York Philharmonic",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-02-07T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51654*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 38, D MAJOR, K.504, \"PRAGUE\"",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "3417*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "MER, LA [THE SEA]",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51892*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "VARIATIONS ON A THEME BY HAYDN, OP. 56A",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "2942*",
-          "composerName": "Martucci,  Giuseppe",
-          "workTitle": "NOTTURNO, OP.70, NO. 1",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "67*",
-          "composerName": "Martucci,  Giuseppe",
-          "workTitle": "NOVELLETTA, OP.82",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": []
-        },
-        {
-          "ID": "9004*14",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Prelude and Liebestod (with or without soloist)",
-          "conductorName": "Toscanini, Arturo",
-          "soloists": [
-            {
-              "soloistName": "No Soloist",
-              "soloistInstrument": "Other",
-              "soloistRoles": "S"
-            }
-          ]
         }
       ]
     },
@@ -69980,6 +69980,62 @@
       ]
     },
     {
+      "id": "077187cb-a0d2-40cc-9671-3290ccb6eeb5-0.1",
+      "programID": "4747",
+      "orchestra": "New York Philharmonic",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-02-18T05:00:00Z",
+          "Time": "8:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-02-19T05:00:00Z",
+          "Time": "2:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52076*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  88, G MAJOR",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": [
+            {
+              "soloistName": "Novaes, Guiomar",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51962*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "SYMPHONIA DOMESTICA, OP. 53",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "ccf961c1-257c-41ef-9ecc-96dfb0ea36b5-0.1",
       "programID": "8783",
       "orchestra": "New York Symphony",
@@ -70120,62 +70176,6 @@
               "soloistRoles": "A"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "077187cb-a0d2-40cc-9671-3290ccb6eeb5-0.1",
-      "programID": "4747",
-      "orchestra": "New York Philharmonic",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-02-18T05:00:00Z",
-          "Time": "8:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-02-19T05:00:00Z",
-          "Time": "2:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52076*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  88, G MAJOR",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": [
-            {
-              "soloistName": "Novaes, Guiomar",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51962*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "SYMPHONIA DOMESTICA, OP. 53",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
         }
       ]
     },
@@ -70894,6 +70894,63 @@
       ]
     },
     {
+      "id": "698283b6-3e7e-4262-820b-51e167b8f0c0-0.1",
+      "programID": "2979",
+      "orchestra": "New York Philharmonic",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Brooklyn, NY",
+          "Venue": "Brooklyn Academy of Music",
+          "Date": "1926-02-28T05:00:00Z",
+          "Time": "3:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52076*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  88, G MAJOR",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        },
+        {
+          "ID": "52364*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "EGMONT, OP.84",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3685*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": [
+            {
+              "soloistName": "Szigeti, Joseph",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9007*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Prelude to Act I",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "ffefa375-ac38-40a8-9ac9-8fe7a8b049d1-0.1",
       "programID": "8785",
       "orchestra": "New York Symphony",
@@ -70948,63 +71005,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "698283b6-3e7e-4262-820b-51e167b8f0c0-0.1",
-      "programID": "2979",
-      "orchestra": "New York Philharmonic",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Brooklyn, NY",
-          "Venue": "Brooklyn Academy of Music",
-          "Date": "1926-02-28T05:00:00Z",
-          "Time": "3:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52076*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  88, G MAJOR",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "52364*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "EGMONT, OP.84",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3685*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.77",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": [
-            {
-              "soloistName": "Szigeti, Joseph",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9007*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Prelude to Act I",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
         }
       ]
     },
@@ -71161,6 +71161,55 @@
       ]
     },
     {
+      "id": "9d6b713a-dc09-4f8f-a4d9-55162214e05e-0.1",
+      "programID": "5159",
+      "orchestra": "New York Philharmonic",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-03-07T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52076*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  88, G MAJOR",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52502*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": [
+            {
+              "soloistName": "Guidi, Scipione",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51965*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
+          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "3c5b2e3f-bf7b-4c95-a89c-7ddc1b0a6059-0.1",
       "programID": "8786",
       "orchestra": "New York Symphony",
@@ -71208,55 +71257,6 @@
           "composerName": "Strauss,  Richard",
           "workTitle": "DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24",
           "conductorName": "Klemperer, Otto",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "9d6b713a-dc09-4f8f-a4d9-55162214e05e-0.1",
-      "programID": "5159",
-      "orchestra": "New York Philharmonic",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-03-07T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52076*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  88, G MAJOR",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52502*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "CONCERTO, VIOLIN, E MINOR, OP.64",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
-          "soloists": [
-            {
-              "soloistName": "Guidi, Scipione",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51965*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
-          "conductorName": "Furtwangler [Furtwängler], Wilhelm",
           "soloists": []
         }
       ]
@@ -71980,58 +71980,6 @@
       ]
     },
     {
-      "id": "f77405b2-df6b-4520-849e-6a1e88455299-0.1",
-      "programID": "8802",
-      "orchestra": "New York Symphony",
-      "season": "1925-26",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Mecca Auditorium",
-          "Date": "1926-03-21T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "5801*1",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
-          "movement": "Overture",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "51880*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 3 IN F MAJOR, OP. 90",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        },
-        {
-          "ID": "2060*",
-          "composerName": "Casella,  Alfredo",
-          "workTitle": "PARTITA",
-          "conductorName": "Klemperer, Otto",
-          "soloists": [
-            {
-              "soloistName": "Casella, Alfredo",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Klemperer, Otto",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "14d085c8-445f-4d91-a161-0b3afc84831b-0.1",
       "programID": "5177",
       "orchestra": "New York Philharmonic",
@@ -72081,57 +72029,52 @@
       ]
     },
     {
-      "id": "5d8e9ade-08d9-43ae-a5b3-0204e348e8cb-0.1",
-      "programID": "8803",
+      "id": "f77405b2-df6b-4520-849e-6a1e88455299-0.1",
+      "programID": "8802",
       "orchestra": "New York Symphony",
       "season": "1925-26",
       "concerts": [
         {
           "eventType": "Subscription Season",
           "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-03-25T05:00:00Z",
+          "Venue": "Mecca Auditorium",
+          "Date": "1926-03-21T05:00:00Z",
           "Time": "3:00PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1926-03-26T05:00:00Z",
-          "Time": "8:30PM"
         }
       ],
       "works": [
         {
-          "ID": "416*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (1911 VERSION)",
+          "ID": "5801*1",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+          "movement": "Overture",
           "conductorName": "Klemperer, Otto",
-          "soloists": [
-            {
-              "soloistName": "Ruhrseltz, Kurt",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "A"
-            }
-          ]
+          "soloists": []
         },
         {
-          "ID": "1587*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "CONCERTO, PIANO, NO. 1, E MINOR, OP. 11",
+          "ID": "51880*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 3 IN F MAJOR, OP. 90",
+          "conductorName": "Klemperer, Otto",
+          "soloists": []
+        },
+        {
+          "ID": "2060*",
+          "composerName": "Casella,  Alfredo",
+          "workTitle": "PARTITA",
           "conductorName": "Klemperer, Otto",
           "soloists": [
             {
-              "soloistName": "Brailowsky, Alexander",
+              "soloistName": "Casella, Alfredo",
               "soloistInstrument": "Piano",
               "soloistRoles": "S"
             }
           ]
         },
         {
-          "ID": "52446*",
+          "ID": "52389*",
           "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
           "conductorName": "Klemperer, Otto",
           "soloists": []
         }
@@ -72203,6 +72146,63 @@
           "workTitle": "EURYANTHE, OP. 81, J. 291",
           "movement": "Overture",
           "conductorName": "Furtwangler [Furtwängler], Wilhelm",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "5d8e9ade-08d9-43ae-a5b3-0204e348e8cb-0.1",
+      "programID": "8803",
+      "orchestra": "New York Symphony",
+      "season": "1925-26",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-03-25T05:00:00Z",
+          "Time": "3:00PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1926-03-26T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "416*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PETRUSHKA (1911 VERSION)",
+          "conductorName": "Klemperer, Otto",
+          "soloists": [
+            {
+              "soloistName": "Ruhrseltz, Kurt",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "1587*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "CONCERTO, PIANO, NO. 1, E MINOR, OP. 11",
+          "conductorName": "Klemperer, Otto",
+          "soloists": [
+            {
+              "soloistName": "Brailowsky, Alexander",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Klemperer, Otto",
           "soloists": []
         }
       ]
@@ -75224,7 +75224,7 @@
         {
           "ID": "51096*",
           "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO. 2,  D MINOR",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },

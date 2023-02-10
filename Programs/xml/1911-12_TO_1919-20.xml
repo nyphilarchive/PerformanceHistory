@@ -152,6 +152,34 @@
         </worksInfo>
     </program>
     <program>
+        <id>0748a943-0cf1-49bd-a377-74a53d57d3fb-0.1</id>
+        <programID>8312</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1911-12</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Century Theatre</Venue>
+            <Date>1911-11-05T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52449*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>1506989a-3d95-479f-95a3-32421c7bb1d8-0.1</id>
         <programID>1465</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -194,34 +222,6 @@
                 <composerName>Goldmark,  Karl</composerName>
                 <workTitle>RUSTIC WEDDING SYMPHONY, OP. 26</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0748a943-0cf1-49bd-a377-74a53d57d3fb-0.1</id>
-        <programID>8312</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1911-12</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Century Theatre</Venue>
-            <Date>1911-11-05T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52449*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -965,7 +965,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -6399,49 +6399,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>40f43563-4e24-415d-9671-0ca5269ca8d1-0.1</id>
-        <programID>6224</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1912-13</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Holyoke, MA</Location>
-            <Venue>City Hall</Venue>
-            <Date>1912-11-08T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="9187*1">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>EURYANTHE, OP. 81, J. 291</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="654*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="1824*1">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>FEUERSNOT, OP. 50</workTitle>
-                <movement>Love Scene</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>ee02c445-8f0f-43c6-976b-ae3629ba18f0-0.1</id>
         <programID>8338</programID>
         <orchestra>New York Symphony</orchestra>
@@ -6550,6 +6507,49 @@
                 <composerName>Ravel,  Maurice</composerName>
                 <workTitle>MA MÈRE L'OYE (MOTHER GOOSE): SUITE (ORCHESTRA)</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>40f43563-4e24-415d-9671-0ca5269ca8d1-0.1</id>
+        <programID>6224</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1912-13</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Holyoke, MA</Location>
+            <Venue>City Hall</Venue>
+            <Date>1912-11-08T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="9187*1">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>EURYANTHE, OP. 81, J. 291</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="654*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="1824*1">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>FEUERSNOT, OP. 50</workTitle>
+                <movement>Love Scene</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9007*17">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
+                <movement>Prelude to Act I</movement>
+                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -8032,53 +8032,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5b41d4a9-efb4-437d-ac8b-1152dd4e5a77-0.1</id>
-        <programID>8343</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1912-13</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1913-01-05T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1913-01-10T05:00:00Z</Date>
-            <Time>3:10PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52512*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="4073*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Elman, Mischa</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>b06b3a11-68a6-4c10-ade8-5ae9907cbe2f-0.1</id>
         <programID>3077</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -8133,6 +8086,53 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture and Bacchanale (Venusberg Music) [Paris]</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5b41d4a9-efb4-437d-ac8b-1152dd4e5a77-0.1</id>
+        <programID>8343</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1912-13</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1913-01-05T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1913-01-10T05:00:00Z</Date>
+            <Time>3:10PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52512*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="4073*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Elman, Mischa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -16073,7 +16073,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -16924,6 +16924,64 @@
         </worksInfo>
     </program>
     <program>
+        <id>4cdd0318-7def-4022-84a5-34d32570ff2a-0.1</id>
+        <programID>13385</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1913-14</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Syracuse, NY</Location>
+            <Venue>Wieting Opera House</Venue>
+            <Date>1914-02-18T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="9000*1">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>RIENZI, WWV 49</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="2229*">
+                <composerName>Bruch,  Max</composerName>
+                <workTitle>CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Elman, Mischa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="53193*">
+                <composerName>Dukas,  Paul</composerName>
+                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52680*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>INTRODUCTION AND RONDO CAPRICCIOSO, OP. 28</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Elman, Mischa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>dbbc8106-3073-4d76-bf23-b1c3fca20f9d-0.1</id>
         <programID>8374</programID>
         <orchestra>New York Symphony</orchestra>
@@ -17051,64 +17109,6 @@
                 <composerName>Beethoven,  Ludwig  van</composerName>
                 <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>4cdd0318-7def-4022-84a5-34d32570ff2a-0.1</id>
-        <programID>13385</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1913-14</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Syracuse, NY</Location>
-            <Venue>Wieting Opera House</Venue>
-            <Date>1914-02-18T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="9000*1">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>RIENZI, WWV 49</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="2229*">
-                <composerName>Bruch,  Max</composerName>
-                <workTitle>CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Elman, Mischa</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="53193*">
-                <composerName>Dukas,  Paul</composerName>
-                <workTitle>SORCERER'S APPRENTICE, THE</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52680*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>INTRODUCTION AND RONDO CAPRICCIOSO, OP. 28</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Elman, Mischa</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -18539,7 +18539,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -18631,7 +18631,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -19848,7 +19848,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -22268,7 +22268,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -23233,10 +23233,10 @@
                 <movement>Peer Gynt's Homecoming</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
-            <work ID="3272*4">
+            <work ID="52149*11">
                 <composerName>Grieg,  Edvard</composerName>
-                <workTitle>PEER GYNT SUITE NO. 2, OP. 55</workTitle>
-                <movement>Solvejg's Song</movement>
+                <workTitle>PEER GYNT</workTitle>
+                <movement>Solveig's Song in the Hut, Act V, scene ii</movement>
                 <conductorName>Stransky, Josef</conductorName>
                 <soloists>
                     <soloist>
@@ -23293,10 +23293,10 @@
                 <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
-            <work ID="3272*4">
+            <work ID="52149*11">
                 <composerName>Grieg,  Edvard</composerName>
-                <workTitle>PEER GYNT SUITE NO. 2, OP. 55</workTitle>
-                <movement>Solvejg's Song</movement>
+                <workTitle>PEER GYNT</workTitle>
+                <movement>Solveig's Song in the Hut, Act V, scene ii</movement>
                 <conductorName>Stransky, Josef</conductorName>
                 <soloists>
                     <soloist>
@@ -23344,7 +23344,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -23617,6 +23617,77 @@
         </worksInfo>
     </program>
     <program>
+        <id>82c7b2f5-25db-41ad-9b5a-a938d7beed4c-0.1</id>
+        <programID>1987</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1914-15</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1915-01-24T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53068*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 1 IN B FLAT MAJOR, OP.38 (SPRING)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52502*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Besekirsky, Wassily</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="8957*15">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
+                <movement>"Voi che sapete," Cherubino, Act II, scene ii</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hinkle, Florence</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="315*">
+                <composerName>Foote,  Arthur</composerName>
+                <workTitle>FOUR CHARACTER PIECES, OP.48</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="6453*1">
+                <composerName>Bruch,  Max</composerName>
+                <workTitle>CROSS OF FIRE, THE</workTitle>
+                <movement>"Ave Maria," (aria)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Hinkle, Florence</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51106*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>2fcc9366-6374-422f-9ff2-49c64883ebec-0.1</id>
         <programID>8390</programID>
         <orchestra>New York Symphony</orchestra>
@@ -23685,77 +23756,6 @@
                 <composerName>Franck,  César</composerName>
                 <workTitle>PRELUDE, CHORALE AND FUGUE (ARR. Pierne [Pierné])</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>82c7b2f5-25db-41ad-9b5a-a938d7beed4c-0.1</id>
-        <programID>1987</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1914-15</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1915-01-24T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53068*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 1 IN B FLAT MAJOR, OP.38 (SPRING)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52502*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Besekirsky, Wassily</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="8957*15">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>MARRIAGE OF FIGARO, THE, K.492</workTitle>
-                <movement>"Voi che sapete," Cherubino, Act II, scene ii</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hinkle, Florence</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="315*">
-                <composerName>Foote,  Arthur</composerName>
-                <workTitle>FOUR CHARACTER PIECES, OP.48</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="6453*1">
-                <composerName>Bruch,  Max</composerName>
-                <workTitle>CROSS OF FIRE, THE</workTitle>
-                <movement>"Ave Maria," (aria)</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Hinkle, Florence</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51106*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -26538,66 +26538,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5402a629-bbf4-453a-981b-8851bf330224-0.1</id>
-        <programID>10425</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1914-15</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1915-03-09T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="1847*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 3, C MINOR, OP. 37</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Borwick, Leonard</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52410*21">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CREATURES OF PROMETHEUS, OP. 43</workTitle>
-                <movement>Adagio (unspecified)</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Renard, Jacques</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3163*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 4, G MAJOR, OP. 58</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Borwick, Leonard</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>fdddec74-581e-459b-9b58-7d82798a9268-0.1</id>
         <programID>13388</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -26723,6 +26663,66 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture [Dresden]</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5402a629-bbf4-453a-981b-8851bf330224-0.1</id>
+        <programID>10425</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1914-15</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1915-03-09T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="1847*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 3, C MINOR, OP. 37</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Borwick, Leonard</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52410*21">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CREATURES OF PROMETHEUS, OP. 43</workTitle>
+                <movement>Adagio (unspecified)</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Renard, Jacques</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3163*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 4, G MAJOR, OP. 58</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Borwick, Leonard</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -27314,7 +27314,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
             <work ID="0*">
@@ -27486,7 +27486,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -27734,7 +27734,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -28025,6 +28025,52 @@
         </worksInfo>
     </program>
     <program>
+        <id>ca63c277-37fa-4ad3-ac99-decd53d0cfbd-0.1</id>
+        <programID>3506</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1915-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Boston, MA</Location>
+            <Venue>Symphony Hall</Venue>
+            <Date>1915-11-07T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2331*">
+                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
+                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52867*">
+                <composerName>Reger,  Max</composerName>
+                <workTitle>VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="1977*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 4, C MINOR, OP. 44</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bauer, Harold</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9003*6">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TANNHAUSER, WWV 70</workTitle>
+                <movement>Overture [Dresden]</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>05032f6a-1b75-4d16-b4ba-9f541e3a8b98-0.1</id>
         <programID>4393</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -28081,52 +28127,6 @@
                 <workTitle>WESENDONCK LIEDER, WWV 91 (ARR. Mottl)</workTitle>
                 <movement>"Traume"</movement>
                 <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9003*6">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>ca63c277-37fa-4ad3-ac99-decd53d0cfbd-0.1</id>
-        <programID>3506</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1915-16</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Boston, MA</Location>
-            <Venue>Symphony Hall</Venue>
-            <Date>1915-11-07T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2331*">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52867*">
-                <composerName>Reger,  Max</composerName>
-                <workTitle>VARIATIONS AND FUGUE ON A THEME OF MOZART, OP. 132</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="1977*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 4, C MINOR, OP. 44</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bauer, Harold</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
@@ -28797,7 +28797,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -29588,75 +29588,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>29f45130-3bd2-46a6-9544-e6f0c26162db-0.1</id>
-        <programID>8411</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1915-16</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1916-01-02T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52434*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="1622*3">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>TRIO, TWO OBOES, ENGLISH HORN, OP. 87</workTitle>
-                <movement>Minuetto</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>De Busscher, Henri</soloistName>
-                        <soloistInstrument>Oboe</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gerhardt, Paul</soloistName>
-                        <soloistInstrument>Oboe</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bianco, Attilio</soloistName>
-                        <soloistInstrument>English Horn</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1622*4">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>TRIO, TWO OBOES, ENGLISH HORN, OP. 87</workTitle>
-                <movement>Finale: Presto</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>De Busscher, Henri</soloistName>
-                        <soloistInstrument>Oboe</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Gerhardt, Paul</soloistName>
-                        <soloistInstrument>Oboe</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bianco, Attilio</soloistName>
-                        <soloistInstrument>English Horn</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>3027c4be-cfed-429c-bc10-ff70aae668eb-0.1</id>
         <programID>2817</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -29737,6 +29668,75 @@
                 <workTitle>WALKURE, DIE, WWV 86B</workTitle>
                 <movement>Ride of the Valkyries, Act III</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>29f45130-3bd2-46a6-9544-e6f0c26162db-0.1</id>
+        <programID>8411</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1915-16</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1916-01-02T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52434*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="1622*3">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>TRIO, TWO OBOES, ENGLISH HORN, OP. 87</workTitle>
+                <movement>Minuetto</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>De Busscher, Henri</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gerhardt, Paul</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bianco, Attilio</soloistName>
+                        <soloistInstrument>English Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="1622*4">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>TRIO, TWO OBOES, ENGLISH HORN, OP. 87</workTitle>
+                <movement>Finale: Presto</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>De Busscher, Henri</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gerhardt, Paul</soloistName>
+                        <soloistInstrument>Oboe</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bianco, Attilio</soloistName>
+                        <soloistInstrument>English Horn</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -30692,7 +30692,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -30737,7 +30737,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -32561,7 +32561,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -32618,7 +32618,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
             <work ID="5145*">
@@ -36823,7 +36823,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -37272,7 +37272,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -37514,6 +37514,78 @@
         </worksInfo>
     </program>
     <program>
+        <id>237cc5ae-8c46-464b-b2c0-65bfb3087f87-0.1</id>
+        <programID>383</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1915-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Houston, TX</Location>
+            <Venue>City Auditorium</Venue>
+            <Date>1916-05-06T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2877*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="8916*13">
+                <composerName>Puccini,  Giacomo</composerName>
+                <workTitle>TOSCA</workTitle>
+                <movement>Tosca (aria): Unspecified</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Cochrane, Eleanore</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="654*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9003*5">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TANNHAUSER, WWV 70</workTitle>
+                <movement>"Wie Todesahnung Dämmrung deckt die Lande - O du mein holder Abendstern" (Song to the Evening Star), Wolfram (aria), Act III, scene ii</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dadmun, Royal</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51306*7">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Ballet Des Sylphes</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="51306*9">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Menuet de Follets (Minuet of the Will-o'-the-Wisps)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="51306*10">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Rakoczy March (Hungarian March)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ebf67a37-d1d5-4a58-a342-48e5f0ec93ea-0.1</id>
         <programID>379</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -37603,79 +37675,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>237cc5ae-8c46-464b-b2c0-65bfb3087f87-0.1</id>
-        <programID>383</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1915-16</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Houston, TX</Location>
-            <Venue>City Auditorium</Venue>
-            <Date>1916-05-06T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2877*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="8916*13">
-                <composerName>Puccini,  Giacomo</composerName>
-                <workTitle>TOSCA</workTitle>
-                <movement>Tosca (aria): Unspecified</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Cochrane, Eleanore</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="654*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9003*5">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>"Wie Todesahnung Dämmrung deckt die Lande - O du mein holder Abendstern" (Song to the Evening Star), Wolfram (aria), Act III, scene ii</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Dadmun, Royal</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51306*7">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Ballet Des Sylphes</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="51306*9">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Menuet de Follets (Minuet of the Will-o'-the-Wisps)</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="51306*10">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Rakoczy March (Hungarian March)</movement>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -38384,6 +38384,90 @@
         </worksInfo>
     </program>
     <program>
+        <id>4c03646d-f176-47d7-bb5d-645965eabdc9-0.1</id>
+        <programID>423</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1915-16</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Memphis, TN</Location>
+            <Venue>Lyceum Theatre</Venue>
+            <Date>1916-05-16T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50373*8">
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>AIDA</workTitle>
+                <movement>Aria (unspecified)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Cochrane, Eleanore</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51809*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>DANSE MACABRE, OP. 40</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Pilzer, Maximilian</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="726*1">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>SCIPIONE</workTitle>
+                <movement>"Hear Me! Ye Winds and Waves," (air)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dadmun, Royal</soloistName>
+                        <soloistInstrument>Baritone</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="8999*2">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>LOHENGRIN</workTitle>
+                <movement>"Das suße Lied verhallt," Elsa /Lohengrin (duet), Act III, scene ii</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Cochrane, Eleanore</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Karle, Theo</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="53215*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>CARNIVAL OVERTURE, OP.92</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>3de2f335-2fbe-4128-9dc5-5d1667c73c2e-0.1</id>
         <programID>422</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -38480,91 +38564,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>4c03646d-f176-47d7-bb5d-645965eabdc9-0.1</id>
-        <programID>423</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1915-16</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Memphis, TN</Location>
-            <Venue>Lyceum Theatre</Venue>
-            <Date>1916-05-16T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50373*8">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>AIDA</workTitle>
-                <movement>Aria (unspecified)</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Cochrane, Eleanore</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51809*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>DANSE MACABRE, OP. 40</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Pilzer, Maximilian</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="726*1">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>SCIPIONE</workTitle>
-                <movement>"Hear Me! Ye Winds and Waves," (air)</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Dadmun, Royal</soloistName>
-                        <soloistInstrument>Baritone</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="8999*2">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>LOHENGRIN</workTitle>
-                <movement>"Das suße Lied verhallt," Elsa /Lohengrin (duet), Act III, scene ii</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Cochrane, Eleanore</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Karle, Theo</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="53215*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>CARNIVAL OVERTURE, OP.92</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -39281,69 +39281,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>93a2369f-1b40-4df0-8dec-d78bb3c55ba0-0.1</id>
-        <programID>903</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1916-17</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Geneva, NY</Location>
-            <Venue>Smith Opera House</Venue>
-            <Date>1916-10-31T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52512*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="2819*">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="6709*16">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>FREISCHUTZ, DER</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="1518*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>CONCERTO, CELLO, NO. 1, A MINOR, OP. 33</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schulz, Leo</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52551*5">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>WESENDONCK LIEDER, WWV 91 (ARR. Mottl)</workTitle>
-                <movement>"Traume"</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>8addb7a4-122c-4982-bd07-8adb36391eb6-0.1</id>
         <programID>898</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -39402,6 +39339,69 @@
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>WALKURE, DIE, WWV 86B</workTitle>
                 <movement>Ride of the Valkyries, Act III</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>93a2369f-1b40-4df0-8dec-d78bb3c55ba0-0.1</id>
+        <programID>903</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1916-17</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Geneva, NY</Location>
+            <Venue>Smith Opera House</Venue>
+            <Date>1916-10-31T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52512*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="2819*">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="6709*16">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>FREISCHUTZ, DER</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="1518*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CONCERTO, CELLO, NO. 1, A MINOR, OP. 33</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schulz, Leo</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="52551*5">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>WESENDONCK LIEDER, WWV 91 (ARR. Mottl)</workTitle>
+                <movement>"Traume"</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9007*17">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
+                <movement>Prelude to Act I</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -40573,7 +40573,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -41788,7 +41788,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -42198,7 +42198,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -42862,7 +42862,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -43821,7 +43821,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -44003,6 +44003,50 @@
             <work ID="51149*">
                 <composerName>Liszt,  Franz</composerName>
                 <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>678fc702-1fb1-4b14-9311-d88dbef965af-0.1</id>
+        <programID>2999</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1916-17</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Hartford, CT</Location>
+            <Venue>Foot Guard Hall</Venue>
+            <Date>1917-02-17T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2163*">
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>PRELUDE, CHORALE, AND FUGUE (ARR. Abert)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51938*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52644*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9007*17">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
+                <movement>Prelude to Act I</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -44217,50 +44261,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>678fc702-1fb1-4b14-9311-d88dbef965af-0.1</id>
-        <programID>2999</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1916-17</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Hartford, CT</Location>
-            <Venue>Foot Guard Hall</Venue>
-            <Date>1917-02-17T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2163*">
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>PRELUDE, CHORALE, AND FUGUE (ARR. Abert)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51938*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52644*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -45185,6 +45185,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>f23bd384-ffae-43ed-9f5e-fd3145e8d6c8-0.1</id>
+        <programID>5067</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1916-17</season>
+        <concertInfo>
+            <eventType>Runout</eventType>
+            <Location>Middlebury, CT</Location>
+            <Venue>Westover School</Venue>
+            <Date>1917-03-08T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="3548*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>D'Alexandrowsky, Luba</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="444*">
+                <composerName>Chabrier,  Emmanuel</composerName>
+                <workTitle>ESPAÑA</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>94c2864d-2715-46c8-b938-e2db598806d4-0.1</id>
         <programID>5071</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -45310,52 +45355,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>f23bd384-ffae-43ed-9f5e-fd3145e8d6c8-0.1</id>
-        <programID>5067</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1916-17</season>
-        <concertInfo>
-            <eventType>Runout</eventType>
-            <Location>Middlebury, CT</Location>
-            <Venue>Westover School</Venue>
-            <Date>1917-03-08T05:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="3548*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>D'Alexandrowsky, Luba</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="444*">
-                <composerName>Chabrier,  Emmanuel</composerName>
-                <workTitle>ESPAÑA</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -46052,7 +46052,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -47711,10 +47711,10 @@
                     </soloist>
                 </soloists>
             </work>
-            <work ID="3272*4">
+            <work ID="52149*11">
                 <composerName>Grieg,  Edvard</composerName>
-                <workTitle>PEER GYNT SUITE NO. 2, OP. 55</workTitle>
-                <movement>Solvejg's Song</movement>
+                <workTitle>PEER GYNT</workTitle>
+                <movement>Solveig's Song in the Hut, Act V, scene ii</movement>
                 <conductorName>Stransky, Josef</conductorName>
                 <soloists>
                     <soloist>
@@ -47895,38 +47895,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>0fff28f6-eca9-46d4-b2f5-7df27f59aed1-0.1</id>
-        <programID>8466</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1917-18</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1917-12-01T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="54106*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Ganz, Rudolph</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>43530c21-4e2f-49b7-92a7-a8adbdd85e66-0.1</id>
         <programID>5398</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -47987,16 +47955,16 @@
         </worksInfo>
     </program>
     <program>
-        <id>d68b4e24-9da9-4b00-bcd5-e979cd17e4eb-0.1</id>
-        <programID>8467</programID>
+        <id>0fff28f6-eca9-46d4-b2f5-7df27f59aed1-0.1</id>
+        <programID>8466</programID>
         <orchestra>New York Symphony</orchestra>
         <season>1917-18</season>
         <concertInfo>
             <eventType>Subscription Season</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1917-12-02T05:00:00Z</Date>
-            <Time>3:00PM</Time>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1917-12-01T05:00:00Z</Date>
+            <Time>8:15PM</Time>
         </concertInfo>
         <worksInfo>
             <work ID="50070*">
@@ -48004,9 +47972,9 @@
                 <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
             </work>
-            <work ID="3548*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
+            <work ID="54106*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
                 <soloists>
                     <soloist>
@@ -48080,6 +48048,38 @@
                 <composerName>Bizet,  Georges</composerName>
                 <workTitle>L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d68b4e24-9da9-4b00-bcd5-e979cd17e4eb-0.1</id>
+        <programID>8467</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1917-18</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1917-12-02T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="3548*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Ganz, Rudolph</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -49255,7 +49255,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -53061,7 +53061,47 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>6da0841a-1807-4f5b-8c53-e71c6af24407-0.1</id>
+        <programID>1463</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1917-18</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>Brooklyn Academy of Music</Venue>
+            <Date>1918-03-10T05:00:00Z</Date>
+            <Time>3:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="398*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>TRAGIC OVERTURE, OP. 81</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="3634*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>CONCERTO, CELLO, B MINOR, OP.104</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Casals, Pablo</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -53122,46 +53162,6 @@
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>SIEGFRIED, WWV 86C: BRUNNHILDE'S AWAKENING AND FINALE (ORCH) (ARR. Damrosch)</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>6da0841a-1807-4f5b-8c53-e71c6af24407-0.1</id>
-        <programID>1463</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1917-18</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Brooklyn, NY</Location>
-            <Venue>Brooklyn Academy of Music</Venue>
-            <Date>1918-03-10T05:00:00Z</Date>
-            <Time>3:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="398*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>TRAGIC OVERTURE, OP. 81</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="3634*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>CONCERTO, CELLO, B MINOR, OP.104</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Casals, Pablo</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -53570,7 +53570,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -54154,7 +54154,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -54835,7 +54835,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -55004,8 +55004,77 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>e0f2c938-c0e5-4b74-a326-c38bdea5cf74-0.1</id>
+        <programID>8491</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1918-19</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1918-11-30T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1918-12-01T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2877*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="7249*1">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>SERSE</workTitle>
+                <movement>"Frondi tenere ... Ombra mai fu"</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Alcock, Merle</soloistName>
+                        <soloistInstrument>Contralto</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="7350*1">
+                <composerName>Messager,  Andre [André]  Charles Prosper</composerName>
+                <workTitle>BASOCHE, LA</workTitle>
+                <movement>Entr'acte</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="7453*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>BARCAROLLE, A NIGHT IN LISBON</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="52071*3">
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>DON CARLO</workTitle>
+                <movement>"O don fatale," Princess Eboli (aria), Act IV</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Alcock, Merle</soloistName>
+                        <soloistInstrument>Contralto</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="7307*">
+                <composerName>Lekeu,  Guillaume</composerName>
+                <workTitle>FANTASY ON TWO POPULAR ANGEVIN AIRS</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -55079,75 +55148,6 @@
                 <composerName>Mendelssohn,  Felix</composerName>
                 <workTitle>MIDSUMMER NIGHT'S DREAM, OP. 61</workTitle>
                 <movement>9. Wedding March: Allegro vivace</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>e0f2c938-c0e5-4b74-a326-c38bdea5cf74-0.1</id>
-        <programID>8491</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1918-19</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1918-11-30T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1918-12-01T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2877*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="7249*1">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>SERSE</workTitle>
-                <movement>"Frondi tenere ... Ombra mai fu"</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Alcock, Merle</soloistName>
-                        <soloistInstrument>Contralto</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="7350*1">
-                <composerName>Messager,  Andre [André]  Charles Prosper</composerName>
-                <workTitle>BASOCHE, LA</workTitle>
-                <movement>Entr'acte</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="7453*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>BARCAROLLE, A NIGHT IN LISBON</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="52071*3">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>DON CARLO</workTitle>
-                <movement>"O don fatale," Princess Eboli (aria), Act IV</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Alcock, Merle</soloistName>
-                        <soloistInstrument>Contralto</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="7307*">
-                <composerName>Lekeu,  Guillaume</composerName>
-                <workTitle>FANTASY ON TWO POPULAR ANGEVIN AIRS</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
@@ -55654,6 +55654,48 @@
         </worksInfo>
     </program>
     <program>
+        <id>5d485c98-ba89-4f61-b59a-c32c32cb344a-0.1</id>
+        <programID>8498</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1918-19</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1918-12-12T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51880*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 3 IN F MAJOR, OP. 90</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="347*">
+                <composerName>Indy,  Vincent  d'</composerName>
+                <workTitle>ISTAR: SYMPHONIC VARIATIONS, OP. 42</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2229*">
+                <composerName>Bruch,  Max</composerName>
+                <workTitle>CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Vidas, Raoul</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="7084*">
+                <composerName>Bourk,  Richard  C.</composerName>
+                <workTitle>HIAWATHA: THE FALL OF NOKOMIS</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>5b2111aa-625c-404c-a138-0ab54af41b9d-0.1</id>
         <programID>4030</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -55700,48 +55742,6 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>5d485c98-ba89-4f61-b59a-c32c32cb344a-0.1</id>
-        <programID>8498</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1918-19</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1918-12-12T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51880*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 3 IN F MAJOR, OP. 90</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="347*">
-                <composerName>Indy,  Vincent  d'</composerName>
-                <workTitle>ISTAR: SYMPHONIC VARIATIONS, OP. 42</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2229*">
-                <composerName>Bruch,  Max</composerName>
-                <workTitle>CONCERTO, VIOLIN, NO. 1, G MINOR, OP.26</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Vidas, Raoul</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="7084*">
-                <composerName>Bourk,  Richard  C.</composerName>
-                <workTitle>HIAWATHA: THE FALL OF NOKOMIS</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -57211,7 +57211,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -59386,10 +59386,10 @@
                 <movement>Anitra's Dance</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
-            <work ID="3272*4">
+            <work ID="52149*11">
                 <composerName>Grieg,  Edvard</composerName>
-                <workTitle>PEER GYNT SUITE NO. 2, OP. 55</workTitle>
-                <movement>Solvejg's Song</movement>
+                <workTitle>PEER GYNT</workTitle>
+                <movement>Solveig's Song in the Hut, Act V, scene ii</movement>
                 <conductorName>Stransky, Josef</conductorName>
                 <soloists>
                     <soloist>
@@ -59942,57 +59942,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>b5faf62a-28e1-4e11-bd3e-61f273447fc2-0.1</id>
-        <programID>119</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1918-19</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Brooklyn, NY</Location>
-            <Venue>Brooklyn Academy of Music</Venue>
-            <Date>1919-03-09T05:00:00Z</Date>
-            <Time>3:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="2877*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51291*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="4073*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Elman, Mischa</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="9003*6">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>947d3d56-77fc-4b51-bf12-c4ff95741417-0.1</id>
         <programID>8515</programID>
         <orchestra>New York Symphony</orchestra>
@@ -60053,6 +60002,57 @@
                 <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>ROSEN AUS DEM SUDEN (ROSES FROM THE SOUTH) WALTZES, OP. 388</workTitle>
                 <conductorName>Damrosch, Walter</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>b5faf62a-28e1-4e11-bd3e-61f273447fc2-0.1</id>
+        <programID>119</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1918-19</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Brooklyn, NY</Location>
+            <Venue>Brooklyn Academy of Music</Venue>
+            <Date>1919-03-09T05:00:00Z</Date>
+            <Time>3:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="2877*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51291*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="4073*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Elman, Mischa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="9003*6">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TANNHAUSER, WWV 70</workTitle>
+                <movement>Overture [Dresden]</movement>
+                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -60403,63 +60403,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a22cc45e-ad79-4eda-854e-a6827e961ccf-0.1</id>
-        <programID>3929</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1918-19</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-03-16T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="3395*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="4073*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Elman, Mischa</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="52638*1">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>NOCTURNES</workTitle>
-                <movement>Nuages ("Clouds")</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52638*2">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>NOCTURNES</workTitle>
-                <movement>Fêtes ("Festivals")</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50506*">
-                <composerName>Goldmark,  Karl</composerName>
-                <workTitle>RUSTIC WEDDING SYMPHONY, OP. 26</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>321cb714-7ad3-4282-a2d8-3dcab8d04852-0.1</id>
         <programID>8517</programID>
         <orchestra>New York Symphony</orchestra>
@@ -60549,6 +60492,63 @@
         </worksInfo>
     </program>
     <program>
+        <id>a22cc45e-ad79-4eda-854e-a6827e961ccf-0.1</id>
+        <programID>3929</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1918-19</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-03-16T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="3395*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="4073*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Elman, Mischa</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="52638*1">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>NOCTURNES</workTitle>
+                <movement>Nuages ("Clouds")</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52638*2">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>NOCTURNES</workTitle>
+                <movement>Fêtes ("Festivals")</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50506*">
+                <composerName>Goldmark,  Karl</composerName>
+                <workTitle>RUSTIC WEDDING SYMPHONY, OP. 26</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>cc78df52-4911-4e67-adf5-0544ac01a44d-0.1</id>
         <programID>1765</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -60593,7 +60593,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -60700,7 +60700,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -60818,7 +60818,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -61412,7 +61412,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -61966,42 +61966,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>3f8bc1d4-e6cb-4c34-8b84-822ae6b9d32e-0.1</id>
-        <programID>13791</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-11-15T05:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52434*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="5137*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>BERCEUSE HEROIQUE</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="51051*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 2, A MAJOR</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="52740*4">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>SUITE ALGERIENNE, OP. 60</workTitle>
-                <movement>Marche militaire française</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>801d44a2-7437-4021-a79d-04f65d3995c1-0.1</id>
         <programID>2207</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -62043,6 +62007,42 @@
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
                 <movement>Rakoczy March (Hungarian March)</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>3f8bc1d4-e6cb-4c34-8b84-822ae6b9d32e-0.1</id>
+        <programID>13791</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-11-15T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52434*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP.36</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="5137*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>BERCEUSE HEROIQUE</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="51051*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, A MAJOR</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="52740*4">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>SUITE ALGERIENNE, OP. 60</workTitle>
+                <movement>Marche militaire française</movement>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -62495,10 +62495,10 @@
                 <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
-            <work ID="3272*4">
+            <work ID="52149*11">
                 <composerName>Grieg,  Edvard</composerName>
-                <workTitle>PEER GYNT SUITE NO. 2, OP. 55</workTitle>
-                <movement>Solvejg's Song</movement>
+                <workTitle>PEER GYNT</workTitle>
+                <movement>Solveig's Song in the Hut, Act V, scene ii</movement>
                 <conductorName>Stransky, Josef</conductorName>
                 <soloists>
                     <soloist>
@@ -62513,6 +62513,53 @@
                 <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
                 <movement>Prelude to Act I</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>6e370126-944f-47b6-b466-d921cddd7134-0.1</id>
+        <programID>13674</programID>
+        <orchestra>New/National Symphony Orchestra</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-11-25T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-11-26T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51144*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
+                <conductorName>Bodanzky, Artur</conductorName>
+            </work>
+            <work ID="3548*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
+                <conductorName>Bodanzky, Artur</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bauer, Harold</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53072*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SYMPHONY NO. 3, E FLAT MAJOR, OP. 97 (RHENISH)</workTitle>
+                <conductorName>Bodanzky, Artur</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -62626,55 +62673,8 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>6e370126-944f-47b6-b466-d921cddd7134-0.1</id>
-        <programID>13674</programID>
-        <orchestra>New/National Symphony Orchestra</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-11-25T05:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-11-26T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51144*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
-                <conductorName>Bodanzky, Artur</conductorName>
-            </work>
-            <work ID="3548*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73</workTitle>
-                <conductorName>Bodanzky, Artur</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bauer, Harold</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53072*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SYMPHONY NO. 3, E FLAT MAJOR, OP. 97 (RHENISH)</workTitle>
-                <conductorName>Bodanzky, Artur</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -63187,7 +63187,7 @@
             </work>
             <work ID="51101*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 2, C MINOR (ARR. Muller-Berghaus)</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  2, C MINOR (ARR. Muller-Berghaus)</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -63535,6 +63535,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>df3a1955-46d9-49c2-a476-d89ebcc1b070-0.1</id>
+        <programID>2626</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-12-11T05:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53336*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 5, F MAJOR, OP.76 (OLD NO. 3)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="3100*">
+                <composerName>Schmitt,  Florent</composerName>
+                <workTitle>VIENNESE RHAPSODY, OP. 53</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="52502*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Heifetz, Jascha</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50018*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>OVERTURE, 1812, OP. 49</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>0d126fee-7a51-4d1e-8041-7818cb12c978-0.1</id>
         <programID>8526</programID>
         <orchestra>New York Symphony</orchestra>
@@ -63625,51 +63670,6 @@
                 <workTitle>SUITE NO. 1, F MAJOR, OP. 39</workTitle>
                 <movement>Perpetuum mobile</movement>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>df3a1955-46d9-49c2-a476-d89ebcc1b070-0.1</id>
-        <programID>2626</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-12-11T05:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53336*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 5, F MAJOR, OP.76 (OLD NO. 3)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3100*">
-                <composerName>Schmitt,  Florent</composerName>
-                <workTitle>VIENNESE RHAPSODY, OP. 53</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="52502*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Heifetz, Jascha</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50018*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>OVERTURE, 1812, OP. 49</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -63938,6 +63938,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>60dc11d3-5c11-4d2a-ad0d-1fb89975d9b5-0.1</id>
+        <programID>2646</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1919-12-14T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2331*">
+                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
+                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="9139*">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>PARSIFAL, WWV 111:  MARCH OF THE KNIGHTS/BELL SCENE (ARR. Kistler)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="54106*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Grainger, Percy</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51149*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>c4b988aa-a7d3-4463-b0c0-705f6d75a3d5-0.1</id>
         <programID>8527</programID>
         <orchestra>New York Symphony</orchestra>
@@ -64021,51 +64066,6 @@
                 <workTitle>SUITE NO. 1, F MAJOR, OP. 39</workTitle>
                 <movement>Perpetuum mobile</movement>
                 <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>60dc11d3-5c11-4d2a-ad0d-1fb89975d9b5-0.1</id>
-        <programID>2646</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1919-12-14T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2331*">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="9139*">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>PARSIFAL, WWV 111:  MARCH OF THE KNIGHTS/BELL SCENE (ARR. Kistler)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="54106*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Grainger, Percy</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51149*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>PRELUDES, LES (SYMPHONIC POEM NO. 3)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -64556,41 +64556,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>d3175cdc-fdc8-47e9-aa88-d324c05a825e-0.1</id>
-        <programID>8532</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1920-01-04T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Levitzki, Mischa</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>2c478983-003e-4bbf-8f43-544a28c17bf1-0.1</id>
         <programID>5231</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -64634,6 +64599,41 @@
                 <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
                 <movement>Prelude to Act I</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d3175cdc-fdc8-47e9-aa88-d324c05a825e-0.1</id>
+        <programID>8532</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1920-01-04T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Levitzki, Mischa</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -65788,50 +65788,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>183f719c-345f-49d6-94a5-c75d4423ec5d-0.1</id>
-        <programID>8534</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1920-01-29T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1920-01-31T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="7116*">
-                <composerName>Chadwick,  George  Whitefield</composerName>
-                <workTitle>APHRODITE</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="2214*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 3, D MINOR, OP. 30</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rachmaninoff, Sergei</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>8d04760a-cac2-4a80-8d26-31df8ff6f466-0.1</id>
         <programID>3534</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -65874,6 +65830,50 @@
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
                 <movement>Rakoczy March (Hungarian March)</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>183f719c-345f-49d6-94a5-c75d4423ec5d-0.1</id>
+        <programID>8534</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1920-01-29T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1920-01-31T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="7116*">
+                <composerName>Chadwick,  George  Whitefield</composerName>
+                <workTitle>APHRODITE</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="2214*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 3, D MINOR, OP. 30</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rachmaninoff, Sergei</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -65969,43 +65969,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>3b56cc56-328a-4370-9e38-e624285d7f23-0.1</id>
-        <programID>8544</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1920-02-01T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="7015*">
-                <composerName>Aubert,  Louis</composerName>
-                <workTitle>HABANERA</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="4073*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Kreisler, Fritz</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>f556eec4-59f4-47c1-8cfe-333086da00f7-0.1</id>
         <programID>5644</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -66061,6 +66024,43 @@
                 <composerName>Chabrier,  Emmanuel</composerName>
                 <workTitle>ESPAÑA</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>3b56cc56-328a-4370-9e38-e624285d7f23-0.1</id>
+        <programID>8544</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1920-02-01T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="7015*">
+                <composerName>Aubert,  Louis</composerName>
+                <workTitle>HABANERA</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="4073*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kreisler, Fritz</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -66127,7 +66127,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
             <work ID="0*">
@@ -66159,6 +66159,59 @@
             <work ID="2044*">
                 <composerName>Sousa,  John  Philip</composerName>
                 <workTitle>WASHINGTON POST</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>2548b394-c87f-4158-8a41-5944fb91d0b8-0.1</id>
+        <programID>5661</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1920-02-06T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2331*">
+                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
+                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="54106*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
+                <conductorName>Humiston, William H.</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rubinstein, Beryl</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50694*1">
+                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
+                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
+                <movement>"In the Mountains"</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="50694*2">
+                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
+                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
+                <movement>"In the Village"</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="50694*4">
+                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
+                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
+                <movement>"Procession of the Sardar"</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -66248,59 +66301,6 @@
             <work ID="50070*">
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>2548b394-c87f-4158-8a41-5944fb91d0b8-0.1</id>
-        <programID>5661</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1920-02-06T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2331*">
-                <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>SCHEHERAZADE, OP. 35</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="54106*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
-                <conductorName>Humiston, William H.</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rubinstein, Beryl</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50694*1">
-                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
-                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
-                <movement>"In the Mountains"</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="50694*2">
-                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
-                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
-                <movement>"In the Village"</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="50694*4">
-                <composerName>Ippolitov-Ivanov,  Mikhail</composerName>
-                <workTitle>CAUCASIAN SKETCHES, SUITE NO. 1</workTitle>
-                <movement>"Procession of the Sardar"</movement>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -67004,6 +67004,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>a7d5da96-8474-40c5-8ac3-1a1282b4d7f9-0.1</id>
+        <programID>7337</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Boston, MA</Location>
+            <Venue>Symphony Hall</Venue>
+            <Date>1920-02-17T05:00:00Z</Date>
+            <Time>None</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52437*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51291*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9003*11">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TANNHAUSER, WWV 70</workTitle>
+                <movement>Bacchanale (Venusberg music), Act I, scene i</movement>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="50018*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>OVERTURE, 1812, OP. 49</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>442d8b13-c317-454f-a4a5-561a659b2582-0.1</id>
         <programID>10350</programID>
         <orchestra>New York Symphony</orchestra>
@@ -67051,45 +67090,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>a7d5da96-8474-40c5-8ac3-1a1282b4d7f9-0.1</id>
-        <programID>7337</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Boston, MA</Location>
-            <Venue>Symphony Hall</Venue>
-            <Date>1920-02-17T05:00:00Z</Date>
-            <Time>None</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52437*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51291*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9003*11">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Bacchanale (Venusberg music), Act I, scene i</movement>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="50018*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>OVERTURE, 1812, OP. 49</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -67271,6 +67271,101 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture [Dresden]</movement>
                 <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d8fc147f-9cd9-4f8d-acc3-04eca7d7e669-0.1</id>
+        <programID>7350</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Poughkeepsie, NY</Location>
+            <Venue>Students' Auditorium</Venue>
+            <Date>1920-02-21T05:00:00Z</Date>
+            <Time>7:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50335*">
+                <composerName>Franck,  César</composerName>
+                <workTitle>SYMPHONY IN D MINOR</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="51809*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>DANSE MACABRE, OP. 40</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+            <work ID="9004*14">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
+                <movement>Prelude and Liebestod (with or without soloist)</movement>
+                <conductorName>Stransky, Josef</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>No Soloist</soloistName>
+                        <soloistInstrument>Other</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="444*">
+                <composerName>Chabrier,  Emmanuel</composerName>
+                <workTitle>ESPAÑA</workTitle>
+                <conductorName>Stransky, Josef</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>d280180c-55a5-4bd9-98b7-7ca40752b0a3-0.1</id>
+        <programID>8537</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1919-20</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1920-02-21T05:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Aeolian Hall</Venue>
+            <Date>1920-02-22T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50307*">
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>SYMPHONY NO. 1 IN A FLAT MAJOR, OP.55</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="52228*">
+                <composerName>Haydn,  Franz  Joseph</composerName>
+                <workTitle>CONCERTO, CELLO, D MAJOR, H.VIIB:2</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Casals, Pablo</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51581*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -67536,101 +67631,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d8fc147f-9cd9-4f8d-acc3-04eca7d7e669-0.1</id>
-        <programID>7350</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Poughkeepsie, NY</Location>
-            <Venue>Students' Auditorium</Venue>
-            <Date>1920-02-21T05:00:00Z</Date>
-            <Time>7:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50335*">
-                <composerName>Franck,  César</composerName>
-                <workTitle>SYMPHONY IN D MINOR</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="51809*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>DANSE MACABRE, OP. 40</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-            <work ID="9004*14">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
-                <movement>Prelude and Liebestod (with or without soloist)</movement>
-                <conductorName>Stransky, Josef</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>No Soloist</soloistName>
-                        <soloistInstrument>Other</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="444*">
-                <composerName>Chabrier,  Emmanuel</composerName>
-                <workTitle>ESPAÑA</workTitle>
-                <conductorName>Stransky, Josef</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d280180c-55a5-4bd9-98b7-7ca40752b0a3-0.1</id>
-        <programID>8537</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1919-20</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1920-02-21T05:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Aeolian Hall</Venue>
-            <Date>1920-02-22T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50307*">
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>SYMPHONY NO. 1 IN A FLAT MAJOR, OP.55</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="52228*">
-                <composerName>Haydn,  Franz  Joseph</composerName>
-                <workTitle>CONCERTO, CELLO, D MAJOR, H.VIIB:2</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Casals, Pablo</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51581*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>DAPHNIS AND CHLOE: SUITE NO. 2</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -68042,7 +68042,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -68197,7 +68197,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
@@ -69006,7 +69006,7 @@
             </work>
             <work ID="51106*">
                 <composerName>Liszt,  Franz</composerName>
-                <workTitle>HUNGARIAN RHAPSODY NO. 1, F MINOR</workTitle>
+                <workTitle>HUNGARIAN RHAPSODY NO.  1, F MINOR</workTitle>
                 <conductorName>Stransky, Josef</conductorName>
             </work>
         </worksInfo>
