@@ -4680,7 +4680,7 @@
       "season": "1984-85",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Joint Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1985-03-18T05:00:00Z",
@@ -11657,7 +11657,7 @@
         },
         {
           "ID": "52822*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "VARIATIONS ON A NURSERY SONG, OP. 25",
           "conductorName": "Dutoit, Charles",
           "soloists": [
@@ -11708,7 +11708,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "de Waart, Edo",
           "soloists": []
         },
@@ -11809,7 +11812,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "de Waart, Edo",
           "soloists": []
         },
@@ -13428,7 +13434,7 @@
             },
             {
               "soloistName": "Davidoff, Judith",
-              "soloistInstrument": "Viola da Gamba",
+              "soloistInstrument": "Viola da gamba",
               "soloistRoles": "A"
             },
             {
@@ -15076,7 +15082,7 @@
       "season": "1985-86",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Joint Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1986-04-21T05:00:00Z",
@@ -19142,7 +19148,7 @@
         {
           "ID": "3723*",
           "composerName": "Traditional,",
-          "workTitle": "SPIRITUAL: RIDE ON, KING JESUS (ARR. Paur)",
+          "workTitle": "SPIRITUAL: RIDE ON, KING JESUS (ARR. De Paur)",
           "conductorName": "Mehta, Zubin",
           "soloists": [
             {
@@ -22619,7 +22625,7 @@
       "season": "1986-87",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Joint Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1987-04-28T04:00:00Z",
@@ -26380,7 +26386,7 @@
         {
           "ID": "1249*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Mozart)",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (MOZART CONCERT ENDING)",
           "conductorName": "Sanderling, Kurt",
           "soloists": []
         },
@@ -28711,7 +28717,7 @@
         },
         {
           "ID": "1777*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "QUINTET, PIANO, C MINOR, OP. 1",
           "soloists": [
             {
@@ -29831,7 +29837,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Kruglikov, Felix",
           "soloists": []
         }
@@ -30090,7 +30099,7 @@
       "season": "1987-88",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Joint Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1988-03-21T05:00:00Z",
@@ -32610,7 +32619,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -33163,7 +33172,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         }
@@ -33326,7 +33335,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -33450,7 +33459,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -33802,7 +33811,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -33926,7 +33935,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -34656,7 +34665,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -38857,7 +38866,7 @@
       "season": "1988-89",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Joint Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1989-03-20T05:00:00Z",
@@ -39912,7 +39921,7 @@
         },
         {
           "ID": "5676*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "soloists": [
             {
@@ -43055,7 +43064,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -44019,7 +44031,7 @@
       "season": "1989-90",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1989-11-15T05:00:00Z",
@@ -44658,7 +44670,7 @@
       "season": "1989-90",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1989-12-13T05:00:00Z",
@@ -45482,7 +45494,7 @@
       "season": "1989-90",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1990-01-10T05:00:00Z",
@@ -46267,7 +46279,7 @@
           "Time": "2:00PM"
         },
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1990-02-14T05:00:00Z",
@@ -46650,7 +46662,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -46879,7 +46891,7 @@
       "season": "1989-90",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Educational Concert",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1990-03-12T05:00:00Z",
@@ -50895,7 +50907,7 @@
           "Time": "2:00PM"
         },
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1990-10-31T05:00:00Z",
@@ -53230,7 +53242,7 @@
           "Time": "2:00PM"
         },
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1991-02-06T05:00:00Z",
@@ -54487,7 +54499,7 @@
       "season": "1990-91",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1991-03-13T05:00:00Z",
@@ -56273,7 +56285,7 @@
           "Time": "2:00PM"
         },
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1991-06-05T04:00:00Z",
@@ -66130,7 +66142,7 @@
         },
         {
           "ID": "6776*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SEXTET, CLARINET, HORN, PIANO, STRINGS",
           "soloists": [
             {
@@ -72791,7 +72803,7 @@
         },
         {
           "ID": "371*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SUITE FOR ORCHESTRA, OP. 19",
           "conductorName": "Slatkin, Leonard",
           "soloists": []
@@ -82524,7 +82536,7 @@
         },
         {
           "ID": "9682*",
-          "composerName": "Horowitz,  Joseph",
+          "composerName": "Horovitz,  Joseph",
           "workTitle": "SOFT SHOE SHUFFLE",
           "soloists": [
             {
@@ -82556,7 +82568,7 @@
         },
         {
           "ID": "9683*1",
-          "composerName": "Horowitz,  Joseph",
+          "composerName": "Horovitz,  Joseph",
           "workTitle": "MUSIC HALL SUITE",
           "movement": "\"Les Girls\"",
           "soloists": [

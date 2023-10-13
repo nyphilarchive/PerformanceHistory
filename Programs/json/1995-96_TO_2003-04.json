@@ -220,7 +220,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         }
@@ -490,7 +493,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -4725,143 +4731,6 @@
       ]
     },
     {
-      "id": "0daf8a62-43e6-4940-a788-40649f31672a-0.1",
-      "programID": "10097",
-      "orchestra": "NYP Presentation",
-      "season": "1995-96",
-      "concerts": [
-        {
-          "eventType": "Festival",
-          "Location": "Manhattan, NY",
-          "Venue": "Merkin Hall",
-          "Date": "1996-02-11T05:00:00Z",
-          "Time": "7:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9702*",
-          "composerName": "Milan [Milán],  Luys",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9703*",
-          "composerName": "Mudarra,  Alonso  de",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9704*",
-          "composerName": "Sanz,  Gaspar",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9705*",
-          "composerName": "Sor,  Fernando",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9706*",
-          "composerName": "Albeniz [Albéniz],  Isaac",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9707*",
-          "composerName": "Falla,  Manuel  de",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9708*",
-          "composerName": "Turina,  Joaquin",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9709*",
-          "composerName": "Moreno Torroba,  Federico",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9710*",
-          "composerName": "Rodrigo,  Joaquín",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9711*",
-          "composerName": "Romero,  Celedonio",
-          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Romero, Pepe",
-              "soloistInstrument": "Guitar",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "03431705-5e38-4966-b19b-79fd3ad74cd7-0.1",
       "programID": "7772",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -5083,6 +4952,143 @@
             {
               "soloistName": "Blossom, William",
               "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0daf8a62-43e6-4940-a788-40649f31672a-0.1",
+      "programID": "10097",
+      "orchestra": "NYP Presentation",
+      "season": "1995-96",
+      "concerts": [
+        {
+          "eventType": "Festival",
+          "Location": "Manhattan, NY",
+          "Venue": "Merkin Hall",
+          "Date": "1996-02-11T05:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9702*",
+          "composerName": "Milan [Milán],  Luys",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9703*",
+          "composerName": "Mudarra,  Alonso  de",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9704*",
+          "composerName": "Sanz,  Gaspar",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9705*",
+          "composerName": "Sor,  Fernando",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9706*",
+          "composerName": "Albeniz [Albéniz],  Isaac",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9707*",
+          "composerName": "Falla,  Manuel  de",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9708*",
+          "composerName": "Turina,  Joaquin",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9709*",
+          "composerName": "Moreno Torroba,  Federico",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9710*",
+          "composerName": "Rodrigo,  Joaquín",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "9711*",
+          "composerName": "Romero,  Celedonio",
+          "workTitle": "GUITAR PIECE (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Romero, Pepe",
+              "soloistInstrument": "Guitar",
               "soloistRoles": "A"
             }
           ]
@@ -10021,7 +10027,7 @@
         },
         {
           "ID": "5676*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "soloists": [
             {
@@ -13911,7 +13917,7 @@
         {
           "ID": "1803*18",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SCHONE MULLERIN, DIE,",
+          "workTitle": "SCHONE MULLERIN, DIE",
           "movement": "Trockne Blumen",
           "soloists": [
             {
@@ -16849,7 +16855,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -16974,7 +16983,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -17109,7 +17121,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -17764,7 +17779,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -17993,7 +18011,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -18053,7 +18074,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -18716,6 +18740,218 @@
       ]
     },
     {
+      "id": "dfc62d5a-a72f-42ac-a9d6-b3ea7c1b7f49-0.1",
+      "programID": "12665",
+      "orchestra": "Musicians from the New York Philharmonic",
+      "season": "1996-97",
+      "concerts": [
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "1997-07-18T04:00:00Z",
+          "Time": "1:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2813*",
+          "composerName": "Hill,  Patty  and Mildred",
+          "workTitle": "HAPPY BIRTHDAY",
+          "soloists": [
+            {
+              "soloistName": "Verkachte Chorale",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "New York Philharmonic Principal Brass Quintet",
+              "soloistInstrument": "Brass Quintet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Smith, Philip",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sullivan, Robert",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Alessi, Joseph",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deck, Warren",
+              "soloistInstrument": "Tuba",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "STOMP! cast",
+              "soloistInstrument": "Percussion Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Paris, Michael",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bove, Michael",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Middleton, Keith",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Marshal, Stephanie",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Haywood, Mindy",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "11424*",
+          "composerName": "Unknown,",
+          "workTitle": "SELECTIONS (UNSPECIFIED)",
+          "soloists": [
+            {
+              "soloistName": "Verkachte Chorale",
+              "soloistInstrument": "Chorus",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "11425*",
+          "composerName": "Previn,  André",
+          "workTitle": "HOCH SOLL ER LEBEN! (BRASS QUINTET)",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic Principal Brass Quintet",
+              "soloistInstrument": "Brass Quintet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Smith, Philip",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sullivan, Robert",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Alessi, Joseph",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deck, Warren",
+              "soloistInstrument": "Tuba",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "7001*",
+          "composerName": "Pollack,  Lew",
+          "workTitle": "THAT'S A PLENTY (BRASS QUINTET) (ARR. Cooper)",
+          "soloists": [
+            {
+              "soloistName": "New York Philharmonic Principal Brass Quintet",
+              "soloistInstrument": "Brass Quintet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Smith, Philip",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Sullivan, Robert",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Alessi, Joseph",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Myers, Philip",
+              "soloistInstrument": "French Horn",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Deck, Warren",
+              "soloistInstrument": "Tuba",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "11426*",
+          "composerName": "Cresswell & McNicholas,  Luke & Steve",
+          "workTitle": "STOMP! MUSICAL (SELECTIONS)",
+          "soloists": [
+            {
+              "soloistName": "STOMP! cast",
+              "soloistInstrument": "Percussion Ensemble",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Paris, Michael",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bove, Michael",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Middleton, Keith",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Marshal, Stephanie",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Haywood, Mindy",
+              "soloistInstrument": "Percussion",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a1e147bb-c033-49b9-9808-f56b11b300bc-0.1",
       "programID": "1650",
       "orchestra": "New York Philharmonic",
@@ -18925,218 +19161,6 @@
           "composerName": "Hill,  Patty  and Mildred",
           "workTitle": "HAPPY BIRTHDAY",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "dfc62d5a-a72f-42ac-a9d6-b3ea7c1b7f49-0.1",
-      "programID": "12665",
-      "orchestra": "Musicians from the New York Philharmonic",
-      "season": "1996-97",
-      "concerts": [
-        {
-          "eventType": "Special",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "1997-07-18T04:00:00Z",
-          "Time": "1:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2813*",
-          "composerName": "Hill,  Patty  and Mildred",
-          "workTitle": "HAPPY BIRTHDAY",
-          "soloists": [
-            {
-              "soloistName": "Verkachte Chorale",
-              "soloistInstrument": "Chorus",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "New York Philharmonic Principal Brass Quintet",
-              "soloistInstrument": "Brass Quintet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Philip",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sullivan, Robert",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Alessi, Joseph",
-              "soloistInstrument": "Trombone",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Myers, Philip",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Deck, Warren",
-              "soloistInstrument": "Tuba",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "STOMP! cast",
-              "soloistInstrument": "Percussion Ensemble",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Paris, Michael",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bove, Michael",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Middleton, Keith",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Marshal, Stephanie",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Haywood, Mindy",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "11424*",
-          "composerName": "Unknown,",
-          "workTitle": "SELECTIONS (UNSPECIFIED)",
-          "soloists": [
-            {
-              "soloistName": "Verkachte Chorale",
-              "soloistInstrument": "Chorus",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "11425*",
-          "composerName": "Previn,  André",
-          "workTitle": "HOCH SOLL ER LEBEN! (BRASS QUINTET)",
-          "soloists": [
-            {
-              "soloistName": "New York Philharmonic Principal Brass Quintet",
-              "soloistInstrument": "Brass Quintet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Philip",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sullivan, Robert",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Alessi, Joseph",
-              "soloistInstrument": "Trombone",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Myers, Philip",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Deck, Warren",
-              "soloistInstrument": "Tuba",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "7001*",
-          "composerName": "Pollack,  Lew",
-          "workTitle": "THAT'S A PLENTY (BRASS QUINTET) (ARR. Cooper)",
-          "soloists": [
-            {
-              "soloistName": "New York Philharmonic Principal Brass Quintet",
-              "soloistInstrument": "Brass Quintet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Philip",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Sullivan, Robert",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Alessi, Joseph",
-              "soloistInstrument": "Trombone",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Myers, Philip",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Deck, Warren",
-              "soloistInstrument": "Tuba",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "11426*",
-          "composerName": "Cresswell & McNicholas,  Luke & Steve",
-          "workTitle": "STOMP! MUSICAL (SELECTIONS)",
-          "soloists": [
-            {
-              "soloistName": "STOMP! cast",
-              "soloistInstrument": "Percussion Ensemble",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Paris, Michael",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Bove, Michael",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Middleton, Keith",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Marshal, Stephanie",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Haywood, Mindy",
-              "soloistInstrument": "Percussion",
-              "soloistRoles": "A"
-            }
-          ]
         }
       ]
     },
@@ -23168,7 +23192,7 @@
       "season": "1997-98",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Young People's Concerts for Schools",
           "Location": "Manhattan, NY",
           "Venue": "Avery Fisher Hall",
           "Date": "1998-01-23T05:00:00Z",
@@ -30392,37 +30416,6 @@
       ]
     },
     {
-      "id": "0cd6f264-775b-4ca4-8a8a-6b4cab5460a1-0.1",
-      "programID": "8459",
-      "orchestra": "New York Philharmonic",
-      "season": "1998-99",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Cologne, GERMANY",
-          "Venue": "Kölner Philharmonie",
-          "Date": "1998-10-11T04:00:00Z",
-          "Time": "11:00AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Masur, Kurt",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Masur, Kurt",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "ba6270ff-c302-4c41-8c0a-8cd5a96f3aa7-0.1",
       "programID": "8524",
       "orchestra": "New York Philharmonic",
@@ -30479,6 +30472,37 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 4, F MINOR, OP. 36",
           "movement": "Scherzo. Pizzicato ostinato: Allegro",
+          "conductorName": "Masur, Kurt",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "0cd6f264-775b-4ca4-8a8a-6b4cab5460a1-0.1",
+      "programID": "8459",
+      "orchestra": "New York Philharmonic",
+      "season": "1998-99",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Cologne, GERMANY",
+          "Venue": "Kölner Philharmonie",
+          "Date": "1998-10-11T04:00:00Z",
+          "Time": "11:00AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52389*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+          "conductorName": "Masur, Kurt",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
           "conductorName": "Masur, Kurt",
           "soloists": []
         }
@@ -53133,7 +53157,7 @@
         },
         {
           "ID": "5676*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "soloists": [
             {
@@ -54551,7 +54575,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Skrowaczewski, Stanislaw",
           "soloists": []
         },
@@ -54872,7 +54896,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Conlon, James",
           "soloists": []
         }
@@ -56654,7 +56681,7 @@
         },
         {
           "ID": "5676*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "soloists": []
         },
@@ -56745,7 +56772,7 @@
         {
           "ID": "8015*",
           "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE, MAKE OUR GARDEN GROW (VIOLIN + ORCH.) (ARR. Corigliano)",
+          "workTitle": "CANDIDE, MAKE OUR GARDEN GROW (VIOLIN AND ORCH.) (ARR. Corigliano)",
           "conductorName": "Eddins, William",
           "soloists": [
             {
@@ -56857,7 +56884,7 @@
         {
           "ID": "8015*",
           "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE, MAKE OUR GARDEN GROW (VIOLIN + ORCH.) (ARR. Corigliano)",
+          "workTitle": "CANDIDE, MAKE OUR GARDEN GROW (VIOLIN AND ORCH.) (ARR. Corigliano)",
           "conductorName": "Eddins, William",
           "soloists": [
             {
@@ -58847,7 +58874,7 @@
               "soloistRoles": "A"
             },
             {
-              "soloistName": "Webb, Carol",
+              "soloistName": "Webb-Sortomme, Carol",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
@@ -58865,12 +58892,12 @@
         },
         {
           "ID": "5676*1",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "movement": "March",
           "soloists": [
             {
-              "soloistName": "Webb, Carol",
+              "soloistName": "Webb-Sortomme, Carol",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
@@ -58888,12 +58915,12 @@
         },
         {
           "ID": "5676*2",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "movement": "Romanza",
           "soloists": [
             {
-              "soloistName": "Webb, Carol",
+              "soloistName": "Webb-Sortomme, Carol",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
@@ -58911,12 +58938,12 @@
         },
         {
           "ID": "5676*4",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "movement": "Theme and Variations",
           "soloists": [
             {
-              "soloistName": "Webb, Carol",
+              "soloistName": "Webb-Sortomme, Carol",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
@@ -58934,12 +58961,12 @@
         },
         {
           "ID": "5676*5",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SERENADE, OP. 10",
           "movement": "Rondo",
           "soloists": [
             {
-              "soloistName": "Webb, Carol",
+              "soloistName": "Webb-Sortomme, Carol",
               "soloistInstrument": "Violin",
               "soloistRoles": "A"
             },
@@ -59619,6 +59646,37 @@
       ]
     },
     {
+      "id": "1bff4515-7ddd-414e-b9fa-62a3cff7d2f6-0.1",
+      "programID": "9232",
+      "orchestra": "New York Philharmonic",
+      "season": "2001-02",
+      "concerts": [
+        {
+          "eventType": "Young People's Concerts for Schools",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2001-12-03T05:00:00Z",
+          "Time": "12:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51602*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "TOMBEAU DE COUPERIN, LE",
+          "conductorName": "McFerrin, Bobby",
+          "soloists": []
+        },
+        {
+          "ID": "51651*",
+          "composerName": "Rimsky-Korsakov,  Nikolai",
+          "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
+          "conductorName": "McFerrin, Bobby",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "6b0ea343-ac5f-4adb-8bb4-82a5d501a00d-0.1",
       "programID": "9211",
       "orchestra": "New York Philharmonic",
@@ -59646,37 +59704,6 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "TOMBEAU DE COUPERIN, LE",
           "movement": "Rigaudon",
-          "conductorName": "McFerrin, Bobby",
-          "soloists": []
-        },
-        {
-          "ID": "51651*",
-          "composerName": "Rimsky-Korsakov,  Nikolai",
-          "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
-          "conductorName": "McFerrin, Bobby",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "1bff4515-7ddd-414e-b9fa-62a3cff7d2f6-0.1",
-      "programID": "9232",
-      "orchestra": "New York Philharmonic",
-      "season": "2001-02",
-      "concerts": [
-        {
-          "eventType": "Young People's Concerts for Schools",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2001-12-03T05:00:00Z",
-          "Time": "12:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51602*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "TOMBEAU DE COUPERIN, LE",
           "conductorName": "McFerrin, Bobby",
           "soloists": []
         },
@@ -61067,7 +61094,7 @@
       "works": [
         {
           "ID": "6776*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SEXTET, CLARINET, HORN, PIANO, STRINGS",
           "soloists": [
             {
@@ -64970,7 +64997,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -65142,7 +65172,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -65507,7 +65540,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Masur, Kurt",
           "soloists": []
         },
@@ -71964,7 +72000,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         },
@@ -82876,7 +82912,7 @@
         {
           "ID": "5210*",
           "composerName": "Williams,  John",
-          "workTitle": "CLOSE ENCOUNTERS OF THE THIRD KIND:  SELECTIONS",
+          "workTitle": "CLOSE ENCOUNTERS OF THE THIRD KIND:  EXCERPTS",
           "conductorName": "Williams, John",
           "soloists": []
         },
@@ -85856,97 +85892,6 @@
       ]
     },
     {
-      "id": "77f8eb28-8294-4050-bea3-067c40d775dc-0.1",
-      "programID": "9209",
-      "orchestra": "NY Philharmonic Ensembles",
-      "season": "2003-04",
-      "concerts": [
-        {
-          "eventType": "Chamber",
-          "Location": "Manhattan, NY",
-          "Venue": "Merkin Hall",
-          "Date": "2004-05-23T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "5676*",
-          "composerName": "Dohnanyi,  Erno  von",
-          "workTitle": "SERENADE, OP. 10",
-          "soloists": [
-            {
-              "soloistName": "Polezhayev, Anton",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kenote, Peter",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Smith, Brinton",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52704*",
-          "composerName": "Schubert,  Franz",
-          "workTitle": "OCTET, F MAJOR, D.803",
-          "soloists": [
-            {
-              "soloistName": "Simon, Fiona",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kwon, Soohyun",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Nelson, Judith",
-              "soloistInstrument": "Viola",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Tu, Qiang",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Blossom, William",
-              "soloistInstrument": "Double Bass",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Martinez [Martínez] Forteza, Pascual",
-              "soloistInstrument": "Clarinet",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Hindell, Leonard",
-              "soloistInstrument": "Bassoon",
-              "soloistRoles": "A"
-            },
-            {
-              "soloistName": "Kuyper, L. William",
-              "soloistInstrument": "French Horn",
-              "soloistRoles": "A"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "18fe9ec8-b406-4081-9436-8e03275fc27a-0.1",
       "programID": "9379",
       "orchestra": "Musicians from the New York Philharmonic",
@@ -86100,6 +86045,97 @@
             {
               "soloistName": "Moon-Myers, Eileen",
               "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77f8eb28-8294-4050-bea3-067c40d775dc-0.1",
+      "programID": "9209",
+      "orchestra": "NY Philharmonic Ensembles",
+      "season": "2003-04",
+      "concerts": [
+        {
+          "eventType": "Chamber",
+          "Location": "Manhattan, NY",
+          "Venue": "Merkin Hall",
+          "Date": "2004-05-23T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5676*",
+          "composerName": "Dohnanyi,  Erno",
+          "workTitle": "SERENADE, OP. 10",
+          "soloists": [
+            {
+              "soloistName": "Polezhayev, Anton",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kenote, Peter",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Smith, Brinton",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52704*",
+          "composerName": "Schubert,  Franz",
+          "workTitle": "OCTET, F MAJOR, D.803",
+          "soloists": [
+            {
+              "soloistName": "Simon, Fiona",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kwon, Soohyun",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Nelson, Judith",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Tu, Qiang",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Blossom, William",
+              "soloistInstrument": "Double Bass",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Martinez [Martínez] Forteza, Pascual",
+              "soloistInstrument": "Clarinet",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Hindell, Leonard",
+              "soloistInstrument": "Bassoon",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Kuyper, L. William",
+              "soloistInstrument": "French Horn",
               "soloistRoles": "A"
             }
           ]

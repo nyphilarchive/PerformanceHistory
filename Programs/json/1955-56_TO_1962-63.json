@@ -3840,7 +3840,7 @@
         {
           "ID": "1252*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Busoni)",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (BUSONI CONCERT ENDING)",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -4002,7 +4002,7 @@
         {
           "ID": "1252*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Busoni)",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (BUSONI CONCERT ENDING)",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -6829,7 +6829,7 @@
       "season": "1955-56",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Brooklyn, NY",
           "Venue": "Prospect Heights High School",
           "Date": "1956-03-14T05:00:00Z",
@@ -10411,7 +10411,7 @@
         {
           "ID": "2836*",
           "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (VERSION UNKNOWN)",
+          "workTitle": "PETRUSHKA",
           "conductorName": "Scherman, Thomas",
           "soloists": []
         },
@@ -16131,7 +16131,7 @@
       "season": "1956-57",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Carnegie Hall",
           "Date": "1957-03-05T05:00:00Z",
@@ -17735,7 +17735,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -20584,7 +20587,7 @@
       "works": [
         {
           "ID": "371*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "SUITE FOR ORCHESTRA, OP. 19",
           "conductorName": "Scherman, Thomas",
           "soloists": []
@@ -23774,7 +23777,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Schippers, Thomas",
           "soloists": []
         },
@@ -25253,6 +25259,94 @@
       ]
     },
     {
+      "id": "eca524e9-0c23-4889-af7c-743ba8b8bead-0.1",
+      "programID": "27",
+      "orchestra": "New York Philharmonic",
+      "season": "1957-58",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1957-12-08T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52575*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)",
+          "conductorName": "Previtali, Fernando",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "8948*6",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "COSI FAN TUTTE, K.588",
+          "movement": "\"Per Pieta,\" Fiordiligi, Act II, scene vii",
+          "conductorName": "Previtali, Fernando",
+          "soloists": [
+            {
+              "soloistName": "Schwarzkopf, Elisabeth",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51952*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "FOUR LAST SONGS (VIER LETZTE LIEDER)",
+          "conductorName": "Previtali, Fernando",
+          "soloists": [
+            {
+              "soloistName": "Schwarzkopf, Elisabeth",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "3873*1",
+          "composerName": "Busoni,  Ferruccio",
+          "workTitle": "TURANDOT: SUITE, OP.41",
+          "movement": "Die Hinrichtung, Das Stadttor, Der Abschied",
+          "conductorName": "Previtali, Fernando",
+          "soloists": []
+        },
+        {
+          "ID": "3873*2",
+          "composerName": "Busoni,  Ferruccio",
+          "workTitle": "TURANDOT: SUITE, OP.41",
+          "movement": "Truffaldino (Introduzione e marcia grotesca)",
+          "conductorName": "Previtali, Fernando",
+          "soloists": []
+        },
+        {
+          "ID": "3873*7",
+          "composerName": "Busoni,  Ferruccio",
+          "workTitle": "TURANDOT: SUITE, OP.41",
+          "movement": "\"Nächtlicher Walzer\"",
+          "conductorName": "Previtali, Fernando",
+          "soloists": []
+        },
+        {
+          "ID": "3873*8",
+          "composerName": "Busoni,  Ferruccio",
+          "workTitle": "TURANDOT: SUITE, OP.41",
+          "movement": "\"In modo di Marcia funebre\" e \"Finale",
+          "conductorName": "Previtali, Fernando",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "5e20736d-aaf9-45c9-9352-c6e0593c28b4-0.1",
       "programID": "11816",
       "orchestra": "Members of NY Philharmonic",
@@ -25357,94 +25451,6 @@
           "composerName": "Sibelius,  Jean",
           "workTitle": "FINLANDIA, OP. 26",
           "conductorName": "Simila, Martti",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "eca524e9-0c23-4889-af7c-743ba8b8bead-0.1",
-      "programID": "27",
-      "orchestra": "New York Philharmonic",
-      "season": "1957-58",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1957-12-08T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52575*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)",
-          "conductorName": "Previtali, Fernando",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "8948*6",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "COSI FAN TUTTE, K.588",
-          "movement": "\"Per Pieta,\" Fiordiligi, Act II, scene vii",
-          "conductorName": "Previtali, Fernando",
-          "soloists": [
-            {
-              "soloistName": "Schwarzkopf, Elisabeth",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51952*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "FOUR LAST SONGS (VIER LETZTE LIEDER)",
-          "conductorName": "Previtali, Fernando",
-          "soloists": [
-            {
-              "soloistName": "Schwarzkopf, Elisabeth",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3873*1",
-          "composerName": "Busoni,  Ferruccio",
-          "workTitle": "TURANDOT: SUITE, OP.41",
-          "movement": "Die Hinrichtung, Das Stadttor, Der Abschied",
-          "conductorName": "Previtali, Fernando",
-          "soloists": []
-        },
-        {
-          "ID": "3873*2",
-          "composerName": "Busoni,  Ferruccio",
-          "workTitle": "TURANDOT: SUITE, OP.41",
-          "movement": "Truffaldino (Introduzione e marcia grotesca)",
-          "conductorName": "Previtali, Fernando",
-          "soloists": []
-        },
-        {
-          "ID": "3873*7",
-          "composerName": "Busoni,  Ferruccio",
-          "workTitle": "TURANDOT: SUITE, OP.41",
-          "movement": "\"Nächtlicher Walzer\"",
-          "conductorName": "Previtali, Fernando",
-          "soloists": []
-        },
-        {
-          "ID": "3873*8",
-          "composerName": "Busoni,  Ferruccio",
-          "workTitle": "TURANDOT: SUITE, OP.41",
-          "movement": "\"In modo di Marcia funebre\" e \"Finale",
-          "conductorName": "Previtali, Fernando",
           "soloists": []
         }
       ]
@@ -26223,7 +26229,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -26315,7 +26321,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -26346,7 +26352,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -27003,7 +27009,7 @@
       "season": "1957-58",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Carnegie Hall",
           "Date": "1958-02-12T05:00:00Z",
@@ -27223,7 +27229,7 @@
       "season": "1957-58",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Garden City, NY",
           "Venue": "Garden City High School",
           "Date": "1958-02-17T05:00:00Z",
@@ -28475,7 +28481,7 @@
       "season": "1957-58",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Great Neck, NY",
           "Venue": "Junior (North) High School",
           "Date": "1958-03-17T05:00:00Z",
@@ -32903,7 +32909,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Monteux, Pierre",
           "soloists": []
         },
@@ -40905,7 +40914,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -41099,7 +41111,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bernstein, Leonard;  Foss, Lukas",
           "soloists": []
         }
@@ -41156,7 +41171,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -47025,7 +47043,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Schippers, Thomas",
           "soloists": []
         },
@@ -47295,7 +47316,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Schippers, Thomas",
           "soloists": []
         },
@@ -47678,7 +47702,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Schippers, Thomas",
           "soloists": []
         },
@@ -50442,6 +50469,76 @@
       ]
     },
     {
+      "id": "c9cca5b9-4446-494e-b921-271923b0f6c5-0.1",
+      "programID": "4856",
+      "orchestra": "New York Philharmonic",
+      "season": "1959-60",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1959-11-29T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3460*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "BRANDENBURG CONCERTO NO. 2 IN F MAJOR, BWV 1047",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Corigliano, John, Sr.",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Wummer, John",
+              "soloistInstrument": "Flute",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Gomberg, Harold",
+              "soloistInstrument": "Oboe",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Vacchiano, William",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51691*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "CONCERTO FOR ORCHESTRA, SZ 116, BB 123",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1847*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Frank, Claude",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "72ffd803-2417-4962-847d-a7684f575955-0.1",
       "programID": "4861",
       "orchestra": "New York Philharmonic",
@@ -50539,76 +50636,6 @@
           "movement": "Can-Can",
           "conductorName": "Kostelanetz, Andre",
           "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "c9cca5b9-4446-494e-b921-271923b0f6c5-0.1",
-      "programID": "4856",
-      "orchestra": "New York Philharmonic",
-      "season": "1959-60",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1959-11-29T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3460*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 2 IN F MAJOR, BWV 1047",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Corigliano, John, Sr.",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Wummer, John",
-              "soloistInstrument": "Flute",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Gomberg, Harold",
-              "soloistInstrument": "Oboe",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Vacchiano, William",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51691*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "CONCERTO FOR ORCHESTRA, SZ 116, BB 123",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1847*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Frank, Claude",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
         }
       ]
     },
@@ -52909,6 +52936,62 @@
       ]
     },
     {
+      "id": "e1e3b300-c0ad-4784-81b6-2ec815f2ce79-0.1",
+      "programID": "6886",
+      "orchestra": "New York Philharmonic",
+      "season": "1959-60",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1960-03-26T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "4515*",
+          "composerName": "Pergolesi,  Giovanni  Battista",
+          "workTitle": "CONCERTINO, STRINGS, NO. 3, A MAJOR",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "1389*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Shure, Leonard",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53696*",
+          "composerName": "Stravinsky,  Igor",
+          "workTitle": "PULCINELLA: SUITE",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "51906*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "SYMPHONY NO. 7, C MAJOR, OP. 105",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "04b9e381-3826-4f12-b563-a1dfb8595c71-0.1",
       "programID": "3915",
       "orchestra": "New York Philharmonic",
@@ -53071,62 +53154,6 @@
           "composerName": "Musorgsky,  Modest",
           "workTitle": "PICTURES AT AN EXHIBITION (ARR. Ravel)",
           "conductorName": "Bauer-Mengelberg, Stefan",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "e1e3b300-c0ad-4784-81b6-2ec815f2ce79-0.1",
-      "programID": "6886",
-      "orchestra": "New York Philharmonic",
-      "season": "1959-60",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1960-03-26T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "4515*",
-          "composerName": "Pergolesi,  Giovanni  Battista",
-          "workTitle": "CONCERTINO, STRINGS, NO. 3, A MAJOR",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "1389*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Shure, Leonard",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53696*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "PULCINELLA: SUITE",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "51906*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "SYMPHONY NO. 7, C MAJOR, OP. 105",
-          "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
       ]
@@ -59111,6 +59138,68 @@
       ]
     },
     {
+      "id": "a4c46af2-e05e-49db-bc66-af9496a4297c-0.1",
+      "programID": "6891",
+      "orchestra": "New York Philharmonic",
+      "season": "1959-60",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vancouver, BC, CANADA",
+          "Venue": "The Forum",
+          "Date": "1960-08-16T04:00:00Z",
+          "Time": "11:30AM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51710*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52389*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52644*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "9000*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "RIENZI, WWV 49",
+          "movement": "Overture",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "10beb999-8c99-47fe-b543-e006f003187c-0.1",
       "programID": "2309",
       "orchestra": "New York Philharmonic",
@@ -59170,68 +59259,6 @@
           "composerName": "Stravinsky,  Igor",
           "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
           "movement": "Infernal Dance of King Kashchei",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "a4c46af2-e05e-49db-bc66-af9496a4297c-0.1",
-      "programID": "6891",
-      "orchestra": "New York Philharmonic",
-      "season": "1959-60",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Vancouver, BC, CANADA",
-          "Venue": "The Forum",
-          "Date": "1960-08-16T04:00:00Z",
-          "Time": "11:30AM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51710*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "SEMIRAMIDE",
-          "movement": "Overture",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52644*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "9000*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "RIENZI, WWV 49",
-          "movement": "Overture",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "7599*1",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE",
-          "movement": "Overture",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -60296,6 +60323,60 @@
       ]
     },
     {
+      "id": "996ee8e6-0e76-4486-b743-b5776f2ea3b0-0.1",
+      "programID": "6226",
+      "orchestra": "New York Philharmonic",
+      "season": "1960-61",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Chicago, IL",
+          "Venue": "Opera House",
+          "Date": "1960-09-10T04:00:00Z",
+          "Time": "1:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51710*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "SEMIRAMIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52389*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "3395*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52644*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "11ec490a-3f11-4fce-8ae7-26000f6b06fc-0.1",
       "programID": "6667",
       "orchestra": "New York Philharmonic",
@@ -60347,60 +60428,6 @@
           "composerName": "Stravinsky,  Igor",
           "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
           "movement": "Infernal Dance of King Kashchei",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "996ee8e6-0e76-4486-b743-b5776f2ea3b0-0.1",
-      "programID": "6226",
-      "orchestra": "New York Philharmonic",
-      "season": "1960-61",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Chicago, IL",
-          "Venue": "Opera House",
-          "Date": "1960-09-10T04:00:00Z",
-          "Time": "1:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51710*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "SEMIRAMIDE",
-          "movement": "Overture",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52389*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "LEONORE OVERTURE NO. 3, OP. 72B",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52644*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "7599*1",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE",
-          "movement": "Overture",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -62461,7 +62488,7 @@
         {
           "ID": "52113*",
           "composerName": "Webern,  Anton  von",
-          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6",
+          "workTitle": "SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)",
           "conductorName": "Rosbaud, Hans",
           "soloists": []
         },
@@ -64344,7 +64371,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Schippers, Thomas",
           "soloists": []
         },
@@ -64887,6 +64917,49 @@
       ]
     },
     {
+      "id": "f91d6234-3fb3-477c-9482-52efbac5fe58-0.1",
+      "programID": "399",
+      "orchestra": "New York Philharmonic",
+      "season": "1960-61",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1961-03-18T05:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "417*",
+          "composerName": "Creston,  Paul",
+          "workTitle": "JANUS, OP. 77",
+          "conductorName": "Stanger, Russell",
+          "soloists": []
+        },
+        {
+          "ID": "51644*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "8852805d-a67c-4cf2-9be6-83b6b89eb159-0.1",
       "programID": "4812",
       "orchestra": "New York Philharmonic",
@@ -64996,49 +65069,6 @@
           "composerName": "Mozart,  Wolfgang  Amadeus",
           "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
           "movement": "Presto",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "f91d6234-3fb3-477c-9482-52efbac5fe58-0.1",
-      "programID": "399",
-      "orchestra": "New York Philharmonic",
-      "season": "1960-61",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1961-03-18T05:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "417*",
-          "composerName": "Creston,  Paul",
-          "workTitle": "JANUS, OP. 77",
-          "conductorName": "Stanger, Russell",
-          "soloists": []
-        },
-        {
-          "ID": "51644*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "MUSIC FOR STRINGS, PERCUSSION AND CELESTE, BB 114",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -67178,6 +67208,85 @@
       ]
     },
     {
+      "id": "26c404d3-6a9a-45d2-a6cf-d8f6ac349997-0.1",
+      "programID": "3991",
+      "orchestra": "New York Philharmonic",
+      "season": "1960-61",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Toronto, CANADA",
+          "Venue": "O'Keefe Centre",
+          "Date": "1961-05-13T04:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "436*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED KINGDOM (GOD SAVE THE QUEEN)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "7599*1",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "CANDIDE",
+          "movement": "Overture",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "52453*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1490*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "SHEHERAZADE",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": [
+            {
+              "soloistName": "Tourel, Jennie",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "54130*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "FRANCESCA DA RIMINI, OP. 32",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        },
+        {
+          "ID": "51581*3",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
+          "movement": "Danse générale (General Dance)",
+          "conductorName": "Bernstein, Leonard",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "aa5e7332-4b3f-44a1-ba11-d4361492179d-0.1",
       "programID": "1589",
       "orchestra": "New York Philharmonic",
@@ -67269,85 +67378,6 @@
           "composerName": "Copland,  Aaron",
           "workTitle": "RODEO, FOUR DANCE EPISODES",
           "movement": "Hoe-Down",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "26c404d3-6a9a-45d2-a6cf-d8f6ac349997-0.1",
-      "programID": "3991",
-      "orchestra": "New York Philharmonic",
-      "season": "1960-61",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Toronto, CANADA",
-          "Venue": "O'Keefe Centre",
-          "Date": "1961-05-13T04:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "436*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED KINGDOM (GOD SAVE THE QUEEN)",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "7599*1",
-          "composerName": "Bernstein,  Leonard",
-          "workTitle": "CANDIDE",
-          "movement": "Overture",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "52453*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1490*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "SHEHERAZADE",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": [
-            {
-              "soloistName": "Tourel, Jennie",
-              "soloistInstrument": "Mezzo-Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "54130*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "FRANCESCA DA RIMINI, OP. 32",
-          "conductorName": "Bernstein, Leonard",
-          "soloists": []
-        },
-        {
-          "ID": "51581*3",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "movement": "Danse générale (General Dance)",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -74525,7 +74555,7 @@
         {
           "ID": "2836*",
           "composerName": "Stravinsky,  Igor",
-          "workTitle": "PETRUSHKA (VERSION UNKNOWN)",
+          "workTitle": "PETRUSHKA",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         }
@@ -76845,7 +76875,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Golschmann, Vladimir",
           "soloists": []
         },
@@ -88721,7 +88754,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Rosenstock, Joseph",
           "soloists": []
         },

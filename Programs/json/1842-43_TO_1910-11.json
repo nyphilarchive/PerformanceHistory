@@ -5524,7 +5524,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bergmann, Carl",
           "soloists": []
         },
@@ -5796,7 +5799,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bergmann, Carl",
           "soloists": []
         }
@@ -6963,7 +6969,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Eisfeld, Theodore",
           "soloists": []
         }
@@ -8396,7 +8405,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Eisfeld, Theodore",
           "soloists": []
         }
@@ -9575,7 +9587,7 @@
         {
           "ID": "1803*1",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SCHONE MULLERIN, DIE,",
+          "workTitle": "SCHONE MULLERIN, DIE",
           "conductorName": "Eisfeld, Theodore",
           "soloists": [
             {
@@ -9656,7 +9668,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Eisfeld, Theodore",
           "soloists": []
         }
@@ -11837,7 +11852,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bergmann, Carl",
           "soloists": [
             {
@@ -13449,7 +13467,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bergmann, Carl",
           "soloists": []
         }
@@ -14487,7 +14508,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Bergmann, Carl",
           "soloists": []
         },
@@ -28170,7 +28194,7 @@
         {
           "ID": "1803*7",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SCHONE MULLERIN, DIE,",
+          "workTitle": "SCHONE MULLERIN, DIE",
           "movement": "Ungeduld",
           "conductorName": "Thomas, Theodore",
           "soloists": [
@@ -28559,7 +28583,7 @@
         {
           "ID": "1803*1",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SCHONE MULLERIN, DIE,",
+          "workTitle": "SCHONE MULLERIN, DIE",
           "conductorName": "Thomas, Theodore",
           "soloists": [
             {
@@ -28808,7 +28832,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Thomas, Theodore",
           "soloists": []
         }
@@ -30128,208 +30155,6 @@
       ]
     },
     {
-      "id": "f4cf3522-7910-4e90-9978-ab70ac615ae4-0.1",
-      "programID": "8950",
-      "orchestra": "New York Symphony",
-      "season": "1889-90",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1889-11-08T05:00:00Z",
-          "Time": "None"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1889-11-09T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "3163*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 4, G MAJOR, OP. 58",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "7168*",
-          "composerName": "Draeseke,  Felix",
-          "workTitle": "SERENATA IN D MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7232*3",
-          "composerName": "Grieg,  Edvard",
-          "workTitle": "ALBUMBLATT, OP. 28",
-          "movement": "Vivace",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "7124*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "BERCEUSE, OP. 57",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9012*4",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "POLONAISES",
-          "movement": "Polonaise in A-flat major, Op.53",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "b31c88f2-1774-4f8b-94cf-835952c65175-0.1",
-      "programID": "8950",
-      "orchestra": "New York Symphony",
-      "season": "1889-90",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1889-11-08T05:00:00Z",
-          "Time": "None"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Metropolitan Opera House (39th street)",
-          "Date": "1889-11-09T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "3163*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, PIANO, NO. 4, G MAJOR, OP. 58",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "7168*",
-          "composerName": "Draeseke,  Felix",
-          "workTitle": "SERENATA IN D MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7232*3",
-          "composerName": "Grieg,  Edvard",
-          "workTitle": "ALBUMBLATT, OP. 28",
-          "movement": "Vivace",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "7124*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "BERCEUSE, OP. 57",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9012*4",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "POLONAISES",
-          "movement": "Polonaise in A-flat major, Op.53",
-          "soloists": [
-            {
-              "soloistName": "D'Albert, Eugen",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "3395*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "199d7e48-c56d-47d6-826b-3230e14c6801-0.1",
       "programID": "1958",
       "orchestra": "New York Philharmonic",
@@ -30459,7 +30284,7 @@
         {
           "ID": "1803*11",
           "composerName": "Schubert,  Franz",
-          "workTitle": "SCHONE MULLERIN, DIE,",
+          "workTitle": "SCHONE MULLERIN, DIE",
           "movement": "Mein!",
           "conductorName": "Thomas, Theodore",
           "soloists": [
@@ -35179,7 +35004,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -41351,7 +41179,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Seidl, Anton",
           "soloists": []
         }
@@ -45300,7 +45131,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Paur, Emil",
           "soloists": []
         }
@@ -45582,7 +45416,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Frank",
           "soloists": []
         }
@@ -49077,7 +48914,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -49170,79 +49010,6 @@
           "ID": "9289*",
           "composerName": "Traditional,",
           "workTitle": "CAMP FIRE SONGS (ARR. Ketterer)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "4560c415-ff0e-4660-9369-796600138ebc-0.1",
-      "programID": "9882",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-06-11T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8834*3",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "OBERON",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9003*3",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Tannhauser's Pilgrimage (Prelude), Act III",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9777*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "NOCTURNE, E-FLAT MAJOR (ORCH) (ARR. Unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "654*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9295*",
-          "composerName": "Vieuxtemps,  Henri",
-          "workTitle": "RÊVERIE, OP. 22, NO. 3",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "444*",
-          "composerName": "Chabrier,  Emmanuel",
-          "workTitle": "ESPAÑA",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -49376,8 +49143,8 @@
       ]
     },
     {
-      "id": "23d95ee0-f06e-4f5f-b11a-43582678921d-0.1",
-      "programID": "9883",
+      "id": "4560c415-ff0e-4660-9369-796600138ebc-0.1",
+      "programID": "9882",
       "orchestra": "New York Symphony",
       "season": "1900-01",
       "concerts": [
@@ -49385,53 +49152,23 @@
           "eventType": "Tour",
           "Location": "Philadelphia, PA",
           "Venue": "Willow Grove Park",
-          "Date": "1901-06-12T05:00:00Z",
-          "Time": "3:00PM"
+          "Date": "1901-06-11T05:00:00Z",
+          "Time": "8:00PM"
         }
       ],
       "works": [
         {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "ID": "8834*3",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "OBERON",
           "movement": "Overture",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "3303*",
-          "composerName": "Waldteufel,  Emil",
-          "workTitle": "ESTUDIANTINA WALTZ",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50899*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "AVE VERUM CORPUS, K. 618",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9296*",
-          "composerName": "Czibulka,  Alphons",
-          "workTitle": "STEPHANIE-GAVOTTE, OP. 312",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9003*2",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Processional March, Act II, scene iv",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7904*4",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "FLEDERMAUS, DIE",
-          "movement": "Overture, Op. 362",
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -49441,39 +49178,38 @@
           "soloists": []
         },
         {
-          "ID": "5168*2",
-          "composerName": "Raff,  Joachim",
-          "workTitle": "SYMPHONY NO. 5 (LENORE) E MAJOR, OP. 177",
-          "movement": "March Tempo (Separation)",
+          "ID": "9003*3",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Tannhauser's Pilgrimage (Prelude), Act III",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "8033*4",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "DELUGE, LE, OP. 45",
-          "movement": "Prelude",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Mannes, David",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8860*6",
-          "composerName": "Verdi,  Giuseppe",
-          "workTitle": "TROVATORE, IL",
-          "movement": "\"Vedi! le fosche notturne spoglie\" (Chorus of the Gypsies/Anvil Chorus), Chorus, Act II, scene i",
+          "ID": "9777*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "NOCTURNE, E-FLAT MAJOR (ORCH) (ARR. Unspecified)",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9297*",
-          "composerName": "Sousa,  John  Philip",
-          "workTitle": "CAPITAN, EL",
+          "ID": "654*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9295*",
+          "composerName": "Vieuxtemps,  Henri",
+          "workTitle": "RÊVERIE, OP. 22, NO. 3",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "444*",
+          "composerName": "Chabrier,  Emmanuel",
+          "workTitle": "ESPAÑA",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -49572,6 +49308,110 @@
           "ID": "9298*",
           "composerName": "Vilbac,  Alphonse Charles Renaud  de",
           "workTitle": "SERBIAN MARCH",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "23d95ee0-f06e-4f5f-b11a-43582678921d-0.1",
+      "programID": "9883",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-06-12T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "3303*",
+          "composerName": "Waldteufel,  Emil",
+          "workTitle": "ESTUDIANTINA WALTZ",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50899*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "AVE VERUM CORPUS, K. 618",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9296*",
+          "composerName": "Czibulka,  Alphons",
+          "workTitle": "STEPHANIE-GAVOTTE, OP. 312",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9003*2",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Processional March, Act II, scene iv",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "7904*4",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "FLEDERMAUS, DIE",
+          "movement": "Overture, Op. 362",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "5168*2",
+          "composerName": "Raff,  Joachim",
+          "workTitle": "SYMPHONY NO. 5 (LENORE) E MAJOR, OP. 177",
+          "movement": "March Tempo (Separation)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8033*4",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "DELUGE, LE, OP. 45",
+          "movement": "Prelude",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Mannes, David",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8860*6",
+          "composerName": "Verdi,  Giuseppe",
+          "workTitle": "TROVATORE, IL",
+          "movement": "\"Vedi! le fosche notturne spoglie\" (Chorus of the Gypsies/Anvil Chorus), Chorus, Act II, scene i",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9297*",
+          "composerName": "Sousa,  John  Philip",
+          "workTitle": "CAPITAN, EL",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -49800,109 +49640,6 @@
       ]
     },
     {
-      "id": "106dc596-f1ad-4031-945b-7ef0ec3f5ff5-0.1",
-      "programID": "9888",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Young People's Concert",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-06-14T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "10226*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9006*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "PROLOGUE: Siegfried's Rhine Journey",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "10708*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER: SONG TO THE EVENING STAR (TROMBONE/ORCH) (ARR. Unknown)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9004*14",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
-          "movement": "Prelude and Liebestod (with or without soloist)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "No Soloist",
-              "soloistInstrument": "Other",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9194*1",
-          "composerName": "Smetana,  Bedrich",
-          "workTitle": "BARTERED BRIDE, THE",
-          "movement": "Overture (\"Overture to a Comedy\")",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7650*1",
-          "composerName": "Franck,  César",
-          "workTitle": "PSYCHE (PSYCHÉ)",
-          "movement": "Le sommeil de Psyché (Psyche's Slumber)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9305*",
-          "composerName": "Gounod,  Charles",
-          "workTitle": "HYMNE À SAINTE CÉCILE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9777*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "NOCTURNE, E-FLAT MAJOR (ORCH) (ARR. Unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9298*",
-          "composerName": "Vilbac,  Alphonse Charles Renaud  de",
-          "workTitle": "SERBIAN MARCH",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "83007963-f32c-471e-afa8-b6187e4bcbca-0.1",
       "programID": "9887",
       "orchestra": "New York Symphony",
@@ -50026,6 +49763,112 @@
           "ID": "2978*",
           "composerName": "Schubert,  Franz",
           "workTitle": "MARCHE MILITAIRE, D.733 (ARR. Unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "106dc596-f1ad-4031-945b-7ef0ec3f5ff5-0.1",
+      "programID": "9888",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Young People's Concert",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-06-14T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "10226*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9006*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Siegfried's Rhine Journey",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "10708*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER: SONG TO THE EVENING STAR (TROMBONE/ORCH) (ARR. Unknown)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9004*14",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TRISTAN UND ISOLDE, WWV 90",
+          "movement": "Prelude and Liebestod (with or without soloist)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "No Soloist",
+              "soloistInstrument": "Other",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "9194*1",
+          "composerName": "Smetana,  Bedrich",
+          "workTitle": "BARTERED BRIDE, THE",
+          "movement": "Overture (\"Overture to a Comedy\")",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "7650*1",
+          "composerName": "Franck,  César",
+          "workTitle": "PSYCHE (PSYCHÉ)",
+          "movement": "Le sommeil de Psyché (Psyche's Slumber)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9305*",
+          "composerName": "Gounod,  Charles",
+          "workTitle": "HYMNE À SAINTE CÉCILE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9777*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "NOCTURNE, E-FLAT MAJOR (ORCH) (ARR. Unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9298*",
+          "composerName": "Vilbac,  Alphonse Charles Renaud  de",
+          "workTitle": "SERBIAN MARCH",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -50263,125 +50106,6 @@
       ]
     },
     {
-      "id": "89a91655-0e47-47a6-9c80-daa49ed17ad9-0.1",
-      "programID": "9893",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-06-16T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50168*1",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52456*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
-          "movement": "Allegretto scherzando",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8852*3",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "SYLVIA",
-          "movement": "Pizzicato Polka",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8852*1",
-          "composerName": "Delibes,  Léo",
-          "workTitle": "SYLVIA",
-          "movement": "Cortege de Bacchus",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9325*",
-          "composerName": "Godard,  Benjamin",
-          "workTitle": "CANZONETTA",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9326*",
-          "composerName": "Lacombe,  Louis",
-          "workTitle": "AUBADE PRINTANIERE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51356*14",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "ROMEO ET JULIETTE, OP.17",
-          "movement": "Great festivities in Capulet's palace",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52512*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7345*4",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)",
-          "movement": "No. 4, Presto, in C major, \"Spinning Song\"",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9293*",
-          "composerName": "Thome [Thomé],  Francis",
-          "workTitle": "ENTR'ACTE PIZZICATO",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9295*",
-          "composerName": "Vieuxtemps,  Henri",
-          "workTitle": "RÊVERIE, OP. 22, NO. 3",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "3628*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "AVE MARIA (ORCH. WITH VIOLIN OR VOICE) (ARR. Gounod)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9322*",
-          "composerName": "Herbert,  Victor",
-          "workTitle": "AMERICAN AIRS",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "d85f955e-f9ec-443d-b01b-a08ae7835af8-0.1",
       "programID": "9891",
       "orchestra": "New York Symphony",
@@ -50497,6 +50221,125 @@
           "composerName": "Saint-Saens [Saint-Saëns],  Camille",
           "workTitle": "HENRY VIII: BALLET SUITE",
           "movement": "Irish Jig",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "89a91655-0e47-47a6-9c80-daa49ed17ad9-0.1",
+      "programID": "9893",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-06-16T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50168*1",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52456*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+          "movement": "Allegretto scherzando",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8852*3",
+          "composerName": "Delibes,  Léo",
+          "workTitle": "SYLVIA",
+          "movement": "Pizzicato Polka",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8852*1",
+          "composerName": "Delibes,  Léo",
+          "workTitle": "SYLVIA",
+          "movement": "Cortege de Bacchus",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9325*",
+          "composerName": "Godard,  Benjamin",
+          "workTitle": "CANZONETTA",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9326*",
+          "composerName": "Lacombe,  Louis",
+          "workTitle": "AUBADE PRINTANIERE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51356*14",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "ROMEO ET JULIETTE, OP.17",
+          "movement": "Great festivities in Capulet's palace",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52512*",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "HEBRIDES (FINGAL'S CAVE) OVERTURE, OP.26",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "7345*4",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)",
+          "movement": "No. 4, Presto, in C major, \"Spinning Song\"",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9293*",
+          "composerName": "Thome [Thomé],  Francis",
+          "workTitle": "ENTR'ACTE PIZZICATO",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9295*",
+          "composerName": "Vieuxtemps,  Henri",
+          "workTitle": "RÊVERIE, OP. 22, NO. 3",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "3628*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "AVE MARIA (ORCH. WITH VIOLIN OR VOICE) (ARR. Gounod)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9322*",
+          "composerName": "Herbert,  Victor",
+          "workTitle": "AMERICAN AIRS",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -51074,7 +50917,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -51549,7 +51395,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -52206,102 +52055,6 @@
       ]
     },
     {
-      "id": "2e088498-13a7-4d77-afbe-beecf6eb241d-0.1",
-      "programID": "9911",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-06-25T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Breitner, Ludwig",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9001*9",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "WALKURE, DIE, WWV 86B",
-          "movement": "Magic Fire Music, Act III, scene iii",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "1032*",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "IN THE SPRING, OP. 36",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52425*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SEPTET, E-FLAT MAJOR, OP.20",
-          "movement": "Adagio cantabile",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9001*12",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "WALKURE, DIE, WWV 86B",
-          "movement": "Ride of the Valkyries, Act III",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9007*19",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Preislied, Walther (aria), Act III, scene ii",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9365*",
-          "composerName": "Burckhardt,  J.",
-          "workTitle": "DIMANCHE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9366*",
-          "composerName": "Burckhardt,  J.",
-          "workTitle": "MARCH, ROUGH RIDERS",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "11b7b34b-19a4-470c-852d-9506dabaea29-0.1",
       "programID": "9910",
       "orchestra": "New York Symphony",
@@ -52410,6 +52163,102 @@
       ]
     },
     {
+      "id": "2e088498-13a7-4d77-afbe-beecf6eb241d-0.1",
+      "programID": "9911",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-06-25T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "551*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Breitner, Ludwig",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9001*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Magic Fire Music, Act III, scene iii",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "1032*",
+          "composerName": "Goldmark,  Karl",
+          "workTitle": "IN THE SPRING, OP. 36",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52425*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SEPTET, E-FLAT MAJOR, OP.20",
+          "movement": "Adagio cantabile",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9001*12",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9007*19",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Preislied, Walther (aria), Act III, scene ii",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9365*",
+          "composerName": "Burckhardt,  J.",
+          "workTitle": "DIMANCHE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9366*",
+          "composerName": "Burckhardt,  J.",
+          "workTitle": "MARCH, ROUGH RIDERS",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "e1522ae2-d7f2-4ac1-9b3d-c96bb89533de-0.1",
       "programID": "9913",
       "orchestra": "New York Symphony",
@@ -52428,7 +52277,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -53094,110 +52946,6 @@
       ]
     },
     {
-      "id": "f6ffaad5-60c3-4fae-8057-2ed71b3ea3a9-0.1",
-      "programID": "9918",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-06-29T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8847*17",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "CARMEN",
-          "movement": "\"Je dis que rien m'epouvante,\" Micaela (aria), Act III",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50168*6",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "Selection unspecified",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9372*",
-          "composerName": "Gillet,  Ernest",
-          "workTitle": "ENTR'ACTE GAVOTTE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9373*",
-          "composerName": "Czibulka,  Alphons",
-          "workTitle": "LOVE'S DREAM AFTER THE BALL",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9462*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "POLONAISE (UNSPECIFIED) (ORCH)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9333*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "ROMANCE (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2885*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9374*",
-          "composerName": "Nesvadba,  Josef",
-          "workTitle": "LORELEY",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9003*2",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Processional March, Act II, scene iv",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "16f99d95-370f-4737-b934-2376be725fd9-0.1",
       "programID": "9919",
       "orchestra": "New York Symphony",
@@ -53288,6 +53036,113 @@
           "composerName": "Verdi,  Giuseppe",
           "workTitle": "AIDA",
           "movement": "Triumphal March (and Ballet) (Act II)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "f6ffaad5-60c3-4fae-8057-2ed71b3ea3a9-0.1",
+      "programID": "9918",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-06-29T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8847*17",
+          "composerName": "Bizet,  Georges",
+          "workTitle": "CARMEN",
+          "movement": "\"Je dis que rien m'epouvante,\" Micaela (aria), Act III",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50168*6",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "Selection unspecified",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9372*",
+          "composerName": "Gillet,  Ernest",
+          "workTitle": "ENTR'ACTE GAVOTTE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9373*",
+          "composerName": "Czibulka,  Alphons",
+          "workTitle": "LOVE'S DREAM AFTER THE BALL",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9462*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "POLONAISE (UNSPECIFIED) (ORCH)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9333*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "ROMANCE (UNSPECIFIED)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2885*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9374*",
+          "composerName": "Nesvadba,  Josef",
+          "workTitle": "LORELEY",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9003*2",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Processional March, Act II, scene iv",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -53546,92 +53401,6 @@
       ]
     },
     {
-      "id": "388d83cf-0dfc-4a35-b6a7-a0629f485f8c-0.1",
-      "programID": "9926",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-01T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52437*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51139*2",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "ZWEI EPISODEN AUS LENAUS FAUST",
-          "movement": "\"Der Tanz in der Dorfschenke\" (Mephisto Waltz No. 1)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "743*2",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
-          "movement": "Largo ma non tanto",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Mannes, David",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            },
-            {
-              "soloistName": "Koert, Jan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9313*1",
-          "composerName": "Bayer,  Joseph",
-          "workTitle": "BRIDE OF COREA",
-          "movement": "Waltz",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9319*",
-          "composerName": "Gluck,  Christoph  Willibald",
-          "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9283*",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SERENADE (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9308*1",
-          "composerName": "Moszkowski,  Moritz",
-          "workTitle": "BOABDIL, DER LETZTE MAURENKÖNIG, OP. 49",
-          "movement": "Malagueña",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "d3da0226-9f2c-4891-9a74-d8d1adae4326-0.1",
       "programID": "9925",
       "orchestra": "New York Symphony",
@@ -53726,6 +53495,92 @@
           "ID": "2978*",
           "composerName": "Schubert,  Franz",
           "workTitle": "MARCHE MILITAIRE, D.733 (ARR. Unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "388d83cf-0dfc-4a35-b6a7-a0629f485f8c-0.1",
+      "programID": "9926",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-01T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51139*2",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "ZWEI EPISODEN AUS LENAUS FAUST",
+          "movement": "\"Der Tanz in der Dorfschenke\" (Mephisto Waltz No. 1)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "743*2",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "CON., VIOLINS, (TWO), BWV 1043, D MINOR",
+          "movement": "Largo ma non tanto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Mannes, David",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            },
+            {
+              "soloistName": "Koert, Jan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9313*1",
+          "composerName": "Bayer,  Joseph",
+          "workTitle": "BRIDE OF COREA",
+          "movement": "Waltz",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9319*",
+          "composerName": "Gluck,  Christoph  Willibald",
+          "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9283*",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SERENADE (UNSPECIFIED)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9308*1",
+          "composerName": "Moszkowski,  Moritz",
+          "workTitle": "BOABDIL, DER LETZTE MAURENKÖNIG, OP. 49",
+          "movement": "Malagueña",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -53923,7 +53778,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -55342,6 +55200,94 @@
       ]
     },
     {
+      "id": "0fe4c860-751d-4733-839f-619bae85dfa4-0.1",
+      "programID": "9945",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-10T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9401*",
+          "composerName": "Bohm,  Carl",
+          "workTitle": "CAVATINA",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9317*",
+          "composerName": "Bayer,  Joseph",
+          "workTitle": "GODDESS OF LOVE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9298*",
+          "composerName": "Vilbac,  Alphonse Charles Renaud  de",
+          "workTitle": "SERBIAN MARCH",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51807*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52446*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "movement": "Andante con moto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52446*3",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "movement": "Allegro",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9350*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "SONATA, PIANO, OP. 35: FUNERAL MARCH (ORCH) (ARR. Schenck)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9402*",
+          "composerName": "Keler-Bela [Kéler-Béla],",
+          "workTitle": "HUNGARIAN COMEDY OVERTURE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "e2777ec1-1c71-4758-999c-870a443f3e36-0.1",
       "programID": "9946",
       "orchestra": "New York Symphony",
@@ -55437,94 +55383,6 @@
           "composerName": "Chabrier,  Emmanuel",
           "workTitle": "ROI MALGRE LUI, LE",
           "movement": "Danse Slave",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "0fe4c860-751d-4733-839f-619bae85dfa4-0.1",
-      "programID": "9945",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-10T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9401*",
-          "composerName": "Bohm,  Carl",
-          "workTitle": "CAVATINA",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9317*",
-          "composerName": "Bayer,  Joseph",
-          "workTitle": "GODDESS OF LOVE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9298*",
-          "composerName": "Vilbac,  Alphonse Charles Renaud  de",
-          "workTitle": "SERBIAN MARCH",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51807*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52446*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "movement": "Andante con moto",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52446*3",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "movement": "Allegro",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9350*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "SONATA, PIANO, OP. 35: FUNERAL MARCH (ORCH) (ARR. Schenck)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9402*",
-          "composerName": "Keler-Bela [Kéler-Béla],",
-          "workTitle": "HUNGARIAN COMEDY OVERTURE",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -55735,100 +55593,6 @@
       ]
     },
     {
-      "id": "ccefd4e4-1ef0-4550-bd47-6727ce1301eb-0.1",
-      "programID": "9954",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-12T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "10708*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER: SONG TO THE EVENING STAR (TROMBONE/ORCH) (ARR. Unknown)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Pfeiffenschneider, Justus, Jr.",
-              "soloistInstrument": "Trombone",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "9008*12",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "PARSIFAL, WWV 111",
-          "movement": "Good Friday Music, Act III",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9137*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "SIEGFRIED, WWV 86C: SIEGFRIED PRESSES THROUGH THE FLAMES (ORCH) (ARR. Damrosch)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50509*",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "SAKUNTALA OVERTURE, OP. 13",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "444*",
-          "composerName": "Chabrier,  Emmanuel",
-          "workTitle": "ESPAÑA",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9357*",
-          "composerName": "Waldteufel,  Emil",
-          "workTitle": "DOLORÈS WALTZ",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52732*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "ROUET D'OMPHALE, LE, OP. 31",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53064*4",
-          "composerName": "Massenet,  Jules",
-          "workTitle": "SCÈNES PITTORESQUES SUITE",
-          "movement": "Fête bohème",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "3899a6ee-2f60-44ac-a1af-c0ba22c1124b-0.1",
       "programID": "9951",
       "orchestra": "New York Symphony",
@@ -55917,8 +55681,8 @@
       ]
     },
     {
-      "id": "c4ceb1ef-03af-44b2-90b6-471d8fca8ae4-0.1",
-      "programID": "9957",
+      "id": "ccefd4e4-1ef0-4550-bd47-6727ce1301eb-0.1",
+      "programID": "9954",
       "orchestra": "New York Symphony",
       "season": "1900-01",
       "concerts": [
@@ -55926,44 +55690,47 @@
           "eventType": "Tour",
           "Location": "Philadelphia, PA",
           "Venue": "Willow Grove Park",
-          "Date": "1901-07-13T05:00:00Z",
-          "Time": "3:00PM"
+          "Date": "1901-07-12T05:00:00Z",
+          "Time": "8:00PM"
         }
       ],
       "works": [
         {
-          "ID": "9003*2",
+          "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Processional March, Act II, scene iv",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9374*",
-          "composerName": "Nesvadba,  Josef",
-          "workTitle": "LORELEY",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9407*",
-          "composerName": "Kempter,  Lothar",
-          "workTitle": "ERINNERUNG",
+          "ID": "10708*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER: SONG TO THE EVENING STAR (TROMBONE/ORCH) (ARR. Unknown)",
           "conductorName": "Damrosch, Walter",
           "soloists": [
             {
-              "soloistName": "Bode, Albert",
-              "soloistInstrument": "Trumpet",
-              "soloistRoles": "S"
+              "soloistName": "Pfeiffenschneider, Justus, Jr.",
+              "soloistInstrument": "Trombone",
+              "soloistRoles": "A"
             }
           ]
         },
         {
-          "ID": "51391*18",
-          "composerName": "Glazunov,  Alexander",
-          "workTitle": "RAYMONDA, OP. 57",
-          "movement": "Galop",
+          "ID": "9008*12",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "PARSIFAL, WWV 111",
+          "movement": "Good Friday Music, Act III",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9137*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "SIEGFRIED, WWV 86C: SIEGFRIED PRESSES THROUGH THE FLAMES (ORCH) (ARR. Damrosch)",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -55973,38 +55740,38 @@
           "soloists": []
         },
         {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "movement": "Overture",
+          "ID": "50509*",
+          "composerName": "Goldmark,  Karl",
+          "workTitle": "SAKUNTALA OVERTURE, OP. 13",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9397*",
-          "composerName": "Ochs,  Siegfried",
-          "workTitle": "HUMOROUS VARIATIONS",
+          "ID": "444*",
+          "composerName": "Chabrier,  Emmanuel",
+          "workTitle": "ESPAÑA",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9395*",
-          "composerName": "Westerhout,  Nicola  van",
-          "workTitle": "RONDO D'AMOUR",
+          "ID": "9357*",
+          "composerName": "Waldteufel,  Emil",
+          "workTitle": "DOLORÈS WALTZ",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9350*",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "SONATA, PIANO, OP. 35: FUNERAL MARCH (ORCH) (ARR. Schenck)",
+          "ID": "52732*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "ROUET D'OMPHALE, LE, OP. 31",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "53474*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
+          "ID": "53064*4",
+          "composerName": "Massenet,  Jules",
+          "workTitle": "SCÈNES PITTORESQUES SUITE",
+          "movement": "Fête bohème",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -56112,6 +55879,189 @@
       ]
     },
     {
+      "id": "c4ceb1ef-03af-44b2-90b6-471d8fca8ae4-0.1",
+      "programID": "9957",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-13T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9003*2",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": "Processional March, Act II, scene iv",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9374*",
+          "composerName": "Nesvadba,  Josef",
+          "workTitle": "LORELEY",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9407*",
+          "composerName": "Kempter,  Lothar",
+          "workTitle": "ERINNERUNG",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Bode, Albert",
+              "soloistInstrument": "Trumpet",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51391*18",
+          "composerName": "Glazunov,  Alexander",
+          "workTitle": "RAYMONDA, OP. 57",
+          "movement": "Galop",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9397*",
+          "composerName": "Ochs,  Siegfried",
+          "workTitle": "HUMOROUS VARIATIONS",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9395*",
+          "composerName": "Westerhout,  Nicola  van",
+          "workTitle": "RONDO D'AMOUR",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9350*",
+          "composerName": "Chopin,  Frédéric",
+          "workTitle": "SONATA, PIANO, OP. 35: FUNERAL MARCH (ORCH) (ARR. Schenck)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53474*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "d0d96316-b0b4-43c3-a1da-061d020ae46b-0.1",
+      "programID": "9959",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-14T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50168*1",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9007*19",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96",
+          "movement": "Preislied, Walther (aria), Act III, scene ii",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9306*",
+          "composerName": "Ziehrer,  Carl  Michael",
+          "workTitle": "LOVELY NIGHT",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9319*",
+          "composerName": "Gluck,  Christoph  Willibald",
+          "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "9394*",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "CARNIVAL OF VENICE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53078*2",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+          "movement": "Romanze: Ziemlich langsam (Romance: Fairly slow)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "474*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "HENRY VIII: BALLET SUITE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "919*4",
+          "composerName": "Leoncavallo,  Ruggero",
+          "workTitle": "PAGLIACCI, I",
+          "movement": "Intermezzo (Prelude to Act II)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53474*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "c0ead187-425d-43bf-a92a-15c6de8d1477-0.1",
       "programID": "9960",
       "orchestra": "New York Symphony",
@@ -56202,95 +56152,6 @@
           "ID": "53157*",
           "composerName": "Meyerbeer,  Giacomo",
           "workTitle": "FACKELTANZ NO. 1 (TORCH DANCE NO. 1)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "d0d96316-b0b4-43c3-a1da-061d020ae46b-0.1",
-      "programID": "9959",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-14T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50168*1",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9007*19",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96",
-          "movement": "Preislied, Walther (aria), Act III, scene ii",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9306*",
-          "composerName": "Ziehrer,  Carl  Michael",
-          "workTitle": "LOVELY NIGHT",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9319*",
-          "composerName": "Gluck,  Christoph  Willibald",
-          "workTitle": "BALLET SUITE NO. 2 (ARR. Mottl)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9394*",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "CARNIVAL OF VENICE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53078*2",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
-          "movement": "Romanze: Ziemlich langsam (Romance: Fairly slow)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "474*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "HENRY VIII: BALLET SUITE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "919*4",
-          "composerName": "Leoncavallo,  Ruggero",
-          "workTitle": "PAGLIACCI, I",
-          "movement": "Intermezzo (Prelude to Act II)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53474*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -56662,6 +56523,108 @@
       ]
     },
     {
+      "id": "fbae2ee8-a9c0-48c8-a876-443b782e0531-0.1",
+      "programID": "9965",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-17T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9000*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "RIENZI, WWV 49",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9359*",
+          "composerName": "Czibulka,  Alphons",
+          "workTitle": "FLY MINUET",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "3261*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53489*",
+          "composerName": "Strauss,  Johann, Sr.",
+          "workTitle": "RADETZKY MARCH",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50509*",
+          "composerName": "Goldmark,  Karl",
+          "workTitle": "SAKUNTALA OVERTURE, OP. 13",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52453*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "movement": "Allegretto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "52453*4",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+          "movement": "Allegro con brio",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2478*",
+          "composerName": "Svendsen,  Johan",
+          "workTitle": "ROMANCE, OP. 26",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Mannes, David",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52456*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+          "movement": "Allegretto scherzando",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2974*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "KAISERMARSCH",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "514beb76-035c-4b67-85e4-8ef2494a9878-0.1",
       "programID": "9966",
       "orchestra": "New York Symphony",
@@ -56762,8 +56725,8 @@
       ]
     },
     {
-      "id": "fbae2ee8-a9c0-48c8-a876-443b782e0531-0.1",
-      "programID": "9965",
+      "id": "db40d70a-0157-4172-a5bc-5094e067f5d0-0.1",
+      "programID": "9967",
       "orchestra": "New York Symphony",
       "season": "1900-01",
       "concerts": [
@@ -56771,37 +56734,38 @@
           "eventType": "Tour",
           "Location": "Philadelphia, PA",
           "Venue": "Willow Grove Park",
-          "Date": "1901-07-17T05:00:00Z",
+          "Date": "1901-07-18T05:00:00Z",
           "Time": "3:00PM"
         }
       ],
       "works": [
         {
-          "ID": "9000*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "RIENZI, WWV 49",
-          "movement": "Overture",
+          "ID": "51470*6",
+          "composerName": "Bizet,  Georges",
+          "workTitle": "CARMEN SUITE NO. 1",
+          "movement": "Les Toréadors. Allegro giocoso (Introduction to Act I)",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "9359*",
-          "composerName": "Czibulka,  Alphons",
-          "workTitle": "FLY MINUET",
+          "ID": "1880*",
+          "composerName": "Borodin,  Alexander",
+          "workTitle": "IN THE STEPPES OF CENTRAL ASIA, OP. 7",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "3261*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "GESCHICHTEN AUS DEM WIENERWALD (TALES FROM THE VIENNA WOODS), OP. 325",
+          "ID": "9306*",
+          "composerName": "Ziehrer,  Carl  Michael",
+          "workTitle": "LOVELY NIGHT",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "53489*",
-          "composerName": "Strauss,  Johann, Sr.",
-          "workTitle": "RADETZKY MARCH",
+          "ID": "52265*2",
+          "composerName": "Chabrier,  Emmanuel",
+          "workTitle": "ROI MALGRE LUI, LE",
+          "movement": "Danse Slave",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -56811,46 +56775,32 @@
           "soloists": []
         },
         {
-          "ID": "50509*",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "SAKUNTALA OVERTURE, OP. 13",
+          "ID": "9006*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Siegfried's Rhine Journey",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "52453*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "movement": "Allegretto",
+          "ID": "6121*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "ALBUMBLATT, E FLAT, WWV 108",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "52453*4",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
-          "movement": "Allegro con brio",
+          "ID": "8999*10",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Prayer, Combat, and Finale, Act I, scene iii",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
         {
-          "ID": "2478*",
-          "composerName": "Svendsen,  Johan",
-          "workTitle": "ROMANCE, OP. 26",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Mannes, David",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52456*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
-          "movement": "Allegretto scherzando",
+          "ID": "10226*",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -56998,95 +56948,6 @@
           "composerName": "Wagner,  Richard",
           "workTitle": "KAISERMARSCH",
           "conductorName": "Damrosch, Frank",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "db40d70a-0157-4172-a5bc-5094e067f5d0-0.1",
-      "programID": "9967",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-18T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51470*6",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "CARMEN SUITE NO. 1",
-          "movement": "Les Toréadors. Allegro giocoso (Introduction to Act I)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "1880*",
-          "composerName": "Borodin,  Alexander",
-          "workTitle": "IN THE STEPPES OF CENTRAL ASIA, OP. 7",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9306*",
-          "composerName": "Ziehrer,  Carl  Michael",
-          "workTitle": "LOVELY NIGHT",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "52265*2",
-          "composerName": "Chabrier,  Emmanuel",
-          "workTitle": "ROI MALGRE LUI, LE",
-          "movement": "Danse Slave",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9006*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "PROLOGUE: Siegfried's Rhine Journey",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "6121*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "ALBUMBLATT, E FLAT, WWV 108",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8999*10",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "LOHENGRIN",
-          "movement": "Prayer, Combat, and Finale, Act I, scene iii",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "10226*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "MEISTERSINGER, DIE, WWV 96: PREISLIED (ORCH)  (ARR. Unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2974*",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "KAISERMARSCH",
-          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -57430,99 +57291,6 @@
       ]
     },
     {
-      "id": "21c47a03-2870-4427-96f8-8244c173587e-0.1",
-      "programID": "9971",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-20T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9006*17",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
-          "movement": "PROLOGUE: Siegfried's Rhine Journey",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9367*16",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "ALBUMBLÄTTER, OP. 124",
-          "movement": "No. 16, \"Schlummerlied\"",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "5468*",
-          "composerName": "Svendsen,  Johan",
-          "workTitle": "NORWEGIAN ARTISTS' CARNIVAL",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8839*2",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "WILLIAM TELL",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53354*1",
-          "composerName": "Nicolai,  Otto",
-          "workTitle": "MERRY WIVES OF WINDSOR, THE",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2856*11",
-          "composerName": "Gounod,  Charles",
-          "workTitle": "FAUST",
-          "movement": "Selections (unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50168*2",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "\"Je suis Titania,\" Filina (polonaise)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "5190*5",
-          "composerName": "Donizetti,  Gaetano",
-          "workTitle": "LUCIA DI LAMMERMOOR",
-          "movement": "\"Chi mi frena in tal momento?\" Sextet, Act II, scene ii",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9001*12",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "WALKURE, DIE, WWV 86B",
-          "movement": "Ride of the Valkyries, Act III",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "7a59671e-51e3-4663-aaba-045474b00f11-0.1",
       "programID": "9972",
       "orchestra": "New York Symphony",
@@ -57637,6 +57405,216 @@
       ]
     },
     {
+      "id": "21c47a03-2870-4427-96f8-8244c173587e-0.1",
+      "programID": "9971",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-20T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9006*17",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "GOTTERDAMMERUNG [GÖTTERDÄMMERUNG]",
+          "movement": "PROLOGUE: Siegfried's Rhine Journey",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9367*16",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "ALBUMBLÄTTER, OP. 124",
+          "movement": "No. 16, \"Schlummerlied\"",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "5468*",
+          "composerName": "Svendsen,  Johan",
+          "workTitle": "NORWEGIAN ARTISTS' CARNIVAL",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8839*2",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "WILLIAM TELL",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53354*1",
+          "composerName": "Nicolai,  Otto",
+          "workTitle": "MERRY WIVES OF WINDSOR, THE",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2856*11",
+          "composerName": "Gounod,  Charles",
+          "workTitle": "FAUST",
+          "movement": "Selections (unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "50168*2",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "\"Je suis Titania,\" Filina (polonaise)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "5190*5",
+          "composerName": "Donizetti,  Gaetano",
+          "workTitle": "LUCIA DI LAMMERMOOR",
+          "movement": "\"Chi mi frena in tal momento?\" Sextet, Act II, scene ii",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9001*12",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "WALKURE, DIE, WWV 86B",
+          "movement": "Ride of the Valkyries, Act III",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "56880f90-8796-44f1-90e3-05e1551219f2-0.1",
+      "programID": "9974",
+      "orchestra": "New York Symphony",
+      "season": "1900-01",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Philadelphia, PA",
+          "Venue": "Willow Grove Park",
+          "Date": "1901-07-21T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "50168*1",
+          "composerName": "Thomas,  Ambroise",
+          "workTitle": "MIGNON",
+          "movement": "Overture",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8855*1",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 1 in C major: Presto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8855*2",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 2 in E minor: Allegretto scherzando",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "8855*3",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SLAVONIC DANCES, OP. 46",
+          "movement": "No. 3 in A-flat major: Poco allegro",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "2856*11",
+          "composerName": "Gounod,  Charles",
+          "workTitle": "FAUST",
+          "movement": "Selections (unspecified)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "2885*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9325*",
+          "composerName": "Godard,  Benjamin",
+          "workTitle": "CANZONETTA",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9326*",
+          "composerName": "Lacombe,  Louis",
+          "workTitle": "AUBADE PRINTANIERE",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51096*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "474*7",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "HENRY VIII: BALLET SUITE",
+          "movement": "Scotch Idyl",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "51909*2",
+          "composerName": "Haydn,  Franz  Joseph",
+          "workTitle": "SYMPHONY NO.  45, F SHARP MINOR (FAREWELL)",
+          "movement": "Adagio",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "6a97dd3f-270c-462a-a6cf-692050a95156-0.1",
       "programID": "9973",
       "orchestra": "New York Symphony",
@@ -57726,120 +57704,6 @@
           "ID": "9292*",
           "composerName": "Strauss,  Johann, II",
           "workTitle": "GALOP (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "56880f90-8796-44f1-90e3-05e1551219f2-0.1",
-      "programID": "9974",
-      "orchestra": "New York Symphony",
-      "season": "1900-01",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Philadelphia, PA",
-          "Venue": "Willow Grove Park",
-          "Date": "1901-07-21T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "50168*1",
-          "composerName": "Thomas,  Ambroise",
-          "workTitle": "MIGNON",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8855*1",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SLAVONIC DANCES, OP. 46",
-          "movement": "No. 1 in C major: Presto",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8855*2",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SLAVONIC DANCES, OP. 46",
-          "movement": "No. 2 in E minor: Allegretto scherzando",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "8855*3",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SLAVONIC DANCES, OP. 46",
-          "movement": "No. 3 in A-flat major: Poco allegro",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "2856*11",
-          "composerName": "Gounod,  Charles",
-          "workTitle": "FAUST",
-          "movement": "Selections (unspecified)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "2885*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "AN DER SCHONEN, BLAUEN DONAU (ON THE BEAUTIFUL BLUE DANUBE), OP. 314",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9325*",
-          "composerName": "Godard,  Benjamin",
-          "workTitle": "CANZONETTA",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9326*",
-          "composerName": "Lacombe,  Louis",
-          "workTitle": "AUBADE PRINTANIERE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51096*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "HUNGARIAN RHAPSODY NO.  2, D MINOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "474*7",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "HENRY VIII: BALLET SUITE",
-          "movement": "Scotch Idyl",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51909*2",
-          "composerName": "Haydn,  Franz  Joseph",
-          "workTitle": "SYMPHONY NO.  45, F SHARP MINOR (FAREWELL)",
-          "movement": "Adagio",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         }
@@ -62343,7 +62207,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Weingartner, Felix",
           "soloists": []
         }
@@ -62453,7 +62320,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -63093,7 +62963,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -63247,39 +63120,6 @@
       ]
     },
     {
-      "id": "17e47ba5-2915-4437-a5d9-65ada5831e98-0.1",
-      "programID": "13797",
-      "orchestra": "New York Symphony",
-      "season": "1903-04",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Omaha, NE",
-          "Venue": "Boyd's Theatre",
-          "Date": "1904-04-11T05:00:00Z",
-          "Time": "8:20PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9003*6",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9008*1",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "PARSIFAL, WWV 111",
-          "movement": "Concert Performance (complete)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "1aa31d53-052b-4a42-9b0e-2874a569f87b-0.1",
       "programID": "9013",
       "orchestra": "New York Symphony",
@@ -63397,6 +63237,42 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "17e47ba5-2915-4437-a5d9-65ada5831e98-0.1",
+      "programID": "13797",
+      "orchestra": "New York Symphony",
+      "season": "1903-04",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Omaha, NE",
+          "Venue": "Boyd's Theatre",
+          "Date": "1904-04-11T05:00:00Z",
+          "Time": "8:20PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "9003*6",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "TANNHAUSER, WWV 70",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9008*1",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "PARSIFAL, WWV 111",
+          "movement": "Concert Performance (complete)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
         }
       ]
     },
@@ -63698,7 +63574,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -65101,240 +64980,6 @@
     },
     {
       "id": "38283dce-9333-46c4-828a-54c0ad957c7b-0.1",
-      "programID": "10525",
-      "orchestra": "New York Symphony",
-      "season": "1904-05",
-      "concerts": [
-        {
-          "eventType": "Special",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1905-01-18T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1914*2",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "BENVENUTO CELLINI",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51046*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "10670*",
-          "composerName": "Sgambati,  Giovanni",
-          "workTitle": "NOTTURNO (UNSPECIFIED) (PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "10359*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "HUMORESQUE (SOLO PIANO), OP. 10, NO. 2",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9027*1",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "ETUDES",
-          "movement": "Etude in C major, Op. 10 No. 1 (d'Arpeges)",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9012*4",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "POLONAISES",
-          "movement": "Polonaise in A-flat major, Op.53",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "50506*2",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "RUSTIC WEDDING SYMPHONY, OP. 26",
-          "movement": "Bridal Song (Allegretto)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50506*3",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "RUSTIC WEDDING SYMPHONY, OP. 26",
-          "movement": "Serenade (Allegro moderato scherzando)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ee1431f7-6f25-4e5f-b815-4be9d743cf03-0.1",
-      "programID": "10525",
-      "orchestra": "New York Symphony",
-      "season": "1904-05",
-      "concerts": [
-        {
-          "eventType": "Special",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1905-01-18T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "1914*2",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "BENVENUTO CELLINI",
-          "movement": "Overture",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "51046*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "10670*",
-          "composerName": "Sgambati,  Giovanni",
-          "workTitle": "NOTTURNO (UNSPECIFIED) (PIANO)",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "10359*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "HUMORESQUE (SOLO PIANO), OP. 10, NO. 2",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9027*1",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "ETUDES",
-          "movement": "Etude in C major, Op. 10 No. 1 (d'Arpeges)",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9012*4",
-          "composerName": "Chopin,  Frédéric",
-          "workTitle": "POLONAISES",
-          "movement": "Polonaise in A-flat major, Op.53",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "50506*2",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "RUSTIC WEDDING SYMPHONY, OP. 26",
-          "movement": "Bridal Song (Allegretto)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "50506*3",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "RUSTIC WEDDING SYMPHONY, OP. 26",
-          "movement": "Serenade (Allegro moderato scherzando)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "551*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, PIANO, A MINOR, OP. 54",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Samaroff, Olga",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8a73c52f-95a8-411c-b6e8-3d7bc4d7b90a-0.1",
       "programID": "10525",
       "orchestra": "New York Symphony",
       "season": "1904-05",
@@ -69279,7 +68924,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Weingartner, Felix",
           "soloists": []
         },
@@ -69495,7 +69143,7 @@
         },
         {
           "ID": "11899*",
-          "composerName": "Wekerlin,  Jean-Baptiste",
+          "composerName": "Weckerlin,  Jean-Baptiste",
           "workTitle": "VERDURONETTE",
           "conductorName": "Damrosch, Frank",
           "soloists": []
@@ -70053,7 +69701,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Arens, Franz X.",
           "soloists": []
         },
@@ -70948,6 +70599,70 @@
       ]
     },
     {
+      "id": "743bf4df-e2a9-48da-8d73-77ba510c6a93-0.1",
+      "programID": "7326",
+      "orchestra": "New York Philharmonic",
+      "season": "1906-07",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1906-11-30T05:00:00Z",
+          "Time": "2:30PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1906-12-01T05:00:00Z",
+          "Time": "8:15PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6198*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SONATA, ORGAN, NO. 1, E FLAT MAJOR, BWV 525 (ARR. Wetzler)",
+          "conductorName": "Safonoff, Wassily",
+          "soloists": []
+        },
+        {
+          "ID": "563*",
+          "composerName": "Sibelius,  Jean",
+          "workTitle": "CONCERTO, VIOLIN, D MINOR, OP .47",
+          "conductorName": "Safonoff, Wassily",
+          "soloists": [
+            {
+              "soloistName": "Powell, Maud",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "8834*3",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "OBERON",
+          "movement": "Overture",
+          "conductorName": "Safonoff, Wassily",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53071*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
+          "conductorName": "Safonoff, Wassily",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "5e877bdc-4ed2-436d-90a9-00e4b8e554a2-0.1",
       "programID": "10508",
       "orchestra": "New York Symphony",
@@ -71063,70 +70778,6 @@
           "composerName": "Strauss,  Johann, II",
           "workTitle": "WIENER BLUT WALTZ, OP. 354",
           "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "743bf4df-e2a9-48da-8d73-77ba510c6a93-0.1",
-      "programID": "7326",
-      "orchestra": "New York Philharmonic",
-      "season": "1906-07",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1906-11-30T05:00:00Z",
-          "Time": "2:30PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1906-12-01T05:00:00Z",
-          "Time": "8:15PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6198*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SONATA, ORGAN, NO. 1, E FLAT MAJOR, BWV 525 (ARR. Wetzler)",
-          "conductorName": "Safonoff, Wassily",
-          "soloists": []
-        },
-        {
-          "ID": "563*",
-          "composerName": "Sibelius,  Jean",
-          "workTitle": "CONCERTO, VIOLIN, D MINOR, OP .47",
-          "conductorName": "Safonoff, Wassily",
-          "soloists": [
-            {
-              "soloistName": "Powell, Maud",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "8834*3",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "OBERON",
-          "movement": "Overture",
-          "conductorName": "Safonoff, Wassily",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53071*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
-          "conductorName": "Safonoff, Wassily",
           "soloists": []
         }
       ]
@@ -71392,7 +71043,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Safonoff, Wassily",
           "soloists": []
         },
@@ -72509,7 +72163,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Safonoff, Wassily",
           "soloists": []
         }
@@ -75452,7 +75109,7 @@
         {
           "ID": "1249*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Mozart)",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (MOZART CONCERT ENDING)",
           "conductorName": "Damrosch, Walter",
           "soloists": []
         },
@@ -77868,7 +77525,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Safonoff, Wassily",
           "soloists": []
         }
@@ -78505,7 +78165,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         }
@@ -79013,55 +78676,6 @@
       ]
     },
     {
-      "id": "719439fd-5525-400d-b4bc-234572c4b2a7-0.1",
-      "programID": "8254",
-      "orchestra": "New York Symphony",
-      "season": "1909-10",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "New Theatre",
-          "Date": "1909-11-21T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51872*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51051*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CONCERTO, PIANO, NO. 2, A MAJOR",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Elvyn, Myrtle",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51591*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "RAPSODIE ESPAGNOLE",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "f0d12d9b-e2b3-49f6-bc2a-bc1fb4c78607-0.1",
       "programID": "7086",
       "orchestra": "New York Philharmonic",
@@ -79144,6 +78758,55 @@
           "workTitle": "MEISTERSINGER, DIE, WWV 96",
           "movement": "Prelude to Act I",
           "conductorName": "Mahler, Gustav",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "719439fd-5525-400d-b4bc-234572c4b2a7-0.1",
+      "programID": "8254",
+      "orchestra": "New York Symphony",
+      "season": "1909-10",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "New Theatre",
+          "Date": "1909-11-21T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51872*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 2 IN D MAJOR, OP. 73",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51051*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "CONCERTO, PIANO, NO. 2, A MAJOR",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Elvyn, Myrtle",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51591*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "RAPSODIE ESPAGNOLE",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -81305,7 +80968,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         }
@@ -81583,8 +81249,73 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "55ca5bbe-8101-4b48-b7d2-3be654569c17-0.1",
+      "programID": "8269",
+      "orchestra": "New York Symphony",
+      "season": "1909-10",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "New Theatre",
+          "Date": "1910-02-13T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51370*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9281*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SARABANDE (UNSPECIFIED)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Ochs, Erich",
+              "soloistInstrument": "Viola tenore",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "9426*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "CAVATINE (UNSPECIFIED)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Ochs, Erich",
+              "soloistInstrument": "Viola tenore",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51870*",
+          "composerName": "Brahms,  Johannes",
+          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -81673,70 +81404,11 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "55ca5bbe-8101-4b48-b7d2-3be654569c17-0.1",
-      "programID": "8269",
-      "orchestra": "New York Symphony",
-      "season": "1909-10",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "New Theatre",
-          "Date": "1910-02-13T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51370*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9281*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SARABANDE (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Ochs, Erich",
-              "soloistInstrument": "Viola tenore",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "9426*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "CAVATINE (UNSPECIFIED)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Ochs, Erich",
-              "soloistInstrument": "Viola tenore",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51870*",
-          "composerName": "Brahms,  Johannes",
-          "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
-          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -82862,7 +82534,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         }
@@ -83243,98 +82918,6 @@
       ]
     },
     {
-      "id": "860b129b-fb49-4f17-92ad-2f9e8f77be1c-0.1",
-      "programID": "14663",
-      "orchestra": "New York Symphony",
-      "season": "1909-10",
-      "concerts": [
-        {
-          "eventType": "Pension Fund Benefit Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "New Theatre",
-          "Date": "1910-03-27T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "7215*",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "SCHERZO IN A MAJOR, OP. 45",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "5861*1",
-          "composerName": "Bellini,  Vincenzo",
-          "workTitle": "NORMA",
-          "movement": "\"Casta Diva... Fine al rito,\" Norma (Cavatina and Cabaletta)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Nordica, Lillian",
-              "soloistInstrument": "Soprano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51944*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DON JUAN, OP. 20",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51363*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "MUSICAL JOKE, F MAJOR, K.522",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "9397*",
-          "composerName": "Ochs,  Siegfried",
-          "workTitle": "HUMOROUS VARIATIONS",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "13405*",
-          "composerName": "Rameau,  Jean-Philippe",
-          "workTitle": "LA POULE (THE HEN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53457*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "PERPETUUM MOBILE, OP. 257",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53474*",
-          "composerName": "Strauss,  Johann, II",
-          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "53293*",
-          "composerName": "Mozart,  Leopold",
-          "workTitle": "TOY SYMPHONY (FORMERLY ATT. HAYDN)",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "89f4683f-69a2-46b1-89ea-9af158319015-0.1",
       "programID": "1730",
       "orchestra": "New York Philharmonic",
@@ -83466,6 +83049,98 @@
           "composerName": "Liszt,  Franz",
           "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
           "conductorName": "Mahler, Gustav",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "860b129b-fb49-4f17-92ad-2f9e8f77be1c-0.1",
+      "programID": "14663",
+      "orchestra": "New York Symphony",
+      "season": "1909-10",
+      "concerts": [
+        {
+          "eventType": "Pension Fund Benefit Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "New Theatre",
+          "Date": "1910-03-27T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "7215*",
+          "composerName": "Goldmark,  Karl",
+          "workTitle": "SCHERZO IN A MAJOR, OP. 45",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "5861*1",
+          "composerName": "Bellini,  Vincenzo",
+          "workTitle": "NORMA",
+          "movement": "\"Casta Diva... Fine al rito,\" Norma (Cavatina and Cabaletta)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Nordica, Lillian",
+              "soloistInstrument": "Soprano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51944*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DON JUAN, OP. 20",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51363*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "MUSICAL JOKE, F MAJOR, K.522",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "9397*",
+          "composerName": "Ochs,  Siegfried",
+          "workTitle": "HUMOROUS VARIATIONS",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "13405*",
+          "composerName": "Rameau,  Jean-Philippe",
+          "workTitle": "LA POULE (THE HEN)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53457*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "PERPETUUM MOBILE, OP. 257",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53474*",
+          "composerName": "Strauss,  Johann, II",
+          "workTitle": "UNTER DONNER UND BLITZ> (THUNDER AND LIGHTNING) POLKA, OP. 324",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "53293*",
+          "composerName": "Mozart,  Leopold",
+          "workTitle": "TOY SYMPHONY (FORMERLY ATT. HAYDN)",
+          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -86218,7 +85893,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         },
@@ -86544,7 +86222,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         },
@@ -86650,7 +86331,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mahler, Gustav",
           "soloists": []
         },
@@ -87517,6 +87201,68 @@
       ]
     },
     {
+      "id": "b8e080db-ab2b-4803-927f-12e622355099-0.1",
+      "programID": "9416",
+      "orchestra": "New York Philharmonic",
+      "season": "1910-11",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Springfield, MA",
+          "Venue": "Court Square Theater",
+          "Date": "1911-02-15T05:00:00Z",
+          "Time": "None"
+        }
+      ],
+      "works": [
+        {
+          "ID": "6236*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "SUITE FOR ORCHESTRA (ARR. Mahler)",
+          "conductorName": "Mahler, Gustav",
+          "soloists": [
+            {
+              "soloistName": "Mahler, Gustav",
+              "soloistInstrument": "Harpsichord",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "52449*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
+          "conductorName": "Mahler, Gustav",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "9276*",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "INVITATION TO THE DANCE (ARR. Weingartner)",
+          "conductorName": "Mahler, Gustav",
+          "soloists": [
+            {
+              "soloistName": "Schulz, Leo",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "51149*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
+          "conductorName": "Mahler, Gustav",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "da059945-a94e-4dff-87af-a9ec775f0314-0.1",
       "programID": "10490",
       "orchestra": "New York Symphony",
@@ -87673,68 +87419,6 @@
               "soloistRoles": "S"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "b8e080db-ab2b-4803-927f-12e622355099-0.1",
-      "programID": "9416",
-      "orchestra": "New York Philharmonic",
-      "season": "1910-11",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Springfield, MA",
-          "Venue": "Court Square Theater",
-          "Date": "1911-02-15T05:00:00Z",
-          "Time": "None"
-        }
-      ],
-      "works": [
-        {
-          "ID": "6236*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "SUITE FOR ORCHESTRA (ARR. Mahler)",
-          "conductorName": "Mahler, Gustav",
-          "soloists": [
-            {
-              "soloistName": "Mahler, Gustav",
-              "soloistInstrument": "Harpsichord",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "52449*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
-          "conductorName": "Mahler, Gustav",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "9276*",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "INVITATION TO THE DANCE (ARR. Weingartner)",
-          "conductorName": "Mahler, Gustav",
-          "soloists": [
-            {
-              "soloistName": "Schulz, Leo",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "51149*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
-          "conductorName": "Mahler, Gustav",
-          "soloists": []
         }
       ]
     },
@@ -89464,6 +89148,82 @@
       ]
     },
     {
+      "id": "38ca67eb-f3c5-4f0f-84a6-cee339fb0b28-0.1",
+      "programID": "8308",
+      "orchestra": "New York Symphony",
+      "season": "1910-11",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "New Theatre",
+          "Date": "1911-03-19T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2344*",
+          "composerName": "Bach,  Johann  Sebastian",
+          "workTitle": "BRANDENBURG CONCERTO NO. 1, F MAJOR, BWV 1046",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Mannes, David",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "6798*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "THREE BALLADES DE FRANCOIS VILLON",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Clark, Charles W.",
+              "soloistInstrument": "Vocalist",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "7342*2",
+          "composerName": "Mendelssohn,  Felix",
+          "workTitle": "QUARTET, STRING NO. 1, E-FLAT MAJOR, OP. 12",
+          "movement": "Canzonetta; Allegretto",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        },
+        {
+          "ID": "7514*",
+          "composerName": "Stojowski,  Sigismond",
+          "workTitle": "SYMPHONIC RHAPSODY, OP. 23",
+          "conductorName": "Damrosch, Walter",
+          "soloists": [
+            {
+              "soloistName": "Stojowski, Sigismond",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50070*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+          "conductorName": "Damrosch, Walter",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "9570e753-a178-44f2-96d4-ba117d1a4f2c-0.1",
       "programID": "2621",
       "orchestra": "New York Philharmonic",
@@ -89538,82 +89298,6 @@
           "workTitle": "FLIEGENDE HOLLANDER [HOLLÄNDER], DER",
           "movement": "Overture",
           "conductorName": "Spiering, Theodore",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "38ca67eb-f3c5-4f0f-84a6-cee339fb0b28-0.1",
-      "programID": "8308",
-      "orchestra": "New York Symphony",
-      "season": "1910-11",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "New Theatre",
-          "Date": "1911-03-19T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2344*",
-          "composerName": "Bach,  Johann  Sebastian",
-          "workTitle": "BRANDENBURG CONCERTO NO. 1, F MAJOR, BWV 1046",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Mannes, David",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "6798*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "THREE BALLADES DE FRANCOIS VILLON",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Clark, Charles W.",
-              "soloistInstrument": "Vocalist",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "7342*2",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "QUARTET, STRING NO. 1, E-FLAT MAJOR, OP. 12",
-          "movement": "Canzonetta; Allegretto",
-          "conductorName": "Damrosch, Walter",
-          "soloists": []
-        },
-        {
-          "ID": "7514*",
-          "composerName": "Stojowski,  Sigismond",
-          "workTitle": "SYMPHONIC RHAPSODY, OP. 23",
-          "conductorName": "Damrosch, Walter",
-          "soloists": [
-            {
-              "soloistName": "Stojowski, Sigismond",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50070*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
-          "conductorName": "Damrosch, Walter",
           "soloists": []
         }
       ]
@@ -90311,7 +89995,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Spiering, Theodore",
           "soloists": []
         },

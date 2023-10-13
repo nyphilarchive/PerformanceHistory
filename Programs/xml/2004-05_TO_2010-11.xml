@@ -773,7 +773,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="2229*">
@@ -891,7 +891,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="1346*2">
@@ -5148,7 +5148,7 @@
                 </soloists>
             </work>
             <work ID="6776*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SEXTET, CLARINET, HORN, PIANO, STRINGS</workTitle>
                 <soloists>
                     <soloist>
@@ -7589,7 +7589,7 @@
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work ID="52822*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
                 <soloists>
@@ -7653,7 +7653,7 @@
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
             <work ID="52822*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
                 <soloists>
@@ -11201,7 +11201,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="1777*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>QUINTET, PIANO, C MINOR, OP. 1</workTitle>
                 <soloists>
                     <soloist>
@@ -15785,7 +15785,7 @@
             </work>
             <work ID="5210*">
                 <composerName>Williams,  John</composerName>
-                <workTitle>CLOSE ENCOUNTERS OF THE THIRD KIND:  SELECTIONS</workTitle>
+                <workTitle>CLOSE ENCOUNTERS OF THE THIRD KIND:  EXCERPTS</workTitle>
                 <conductorName>Williams, John</conductorName>
             </work>
             <work ID="8809*2">
@@ -15917,7 +15917,7 @@
             </work>
             <work ID="5210*">
                 <composerName>Williams,  John</composerName>
-                <workTitle>CLOSE ENCOUNTERS OF THE THIRD KIND:  SELECTIONS</workTitle>
+                <workTitle>CLOSE ENCOUNTERS OF THE THIRD KIND:  EXCERPTS</workTitle>
                 <conductorName>Williams, John</conductorName>
             </work>
             <work ID="8809*2">
@@ -20382,6 +20382,63 @@
         </worksInfo>
     </program>
     <program>
+        <id>8b20b179-9d57-4b38-80f1-1d3defd3cabf-0.1</id>
+        <programID>9584</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2006-10-14T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="7599*1">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>CANDIDE</workTitle>
+                <movement>Overture</movement>
+            </work>
+            <work ID="3650*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>CONCERTO, E FLAT (DUMBARTON OAKS)</workTitle>
+                <conductorName>Robertson, David</conductorName>
+            </work>
+            <work ID="51087*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, VIOLIN NO. 2, D MAJOR, K.211</workTitle>
+                <conductorName>Robertson, David</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Shaham, Gil</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="1993*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR</workTitle>
+                <conductorName>Robertson, David</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Shaham, Gil</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51648*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
+                <conductorName>Robertson, David</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>640d0ccf-8bba-45d9-8e41-31e34f0a1397-0.1</id>
         <programID>9527</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -20463,63 +20520,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>8b20b179-9d57-4b38-80f1-1d3defd3cabf-0.1</id>
-        <programID>9584</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2006-07</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2006-10-14T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="7599*1">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>CANDIDE</workTitle>
-                <movement>Overture</movement>
-            </work>
-            <work ID="3650*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>CONCERTO, E FLAT (DUMBARTON OAKS)</workTitle>
-                <conductorName>Robertson, David</conductorName>
-            </work>
-            <work ID="51087*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, VIOLIN NO. 2, D MAJOR, K.211</workTitle>
-                <conductorName>Robertson, David</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Shaham, Gil</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="1993*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR</workTitle>
-                <conductorName>Robertson, David</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Shaham, Gil</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51648*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
-                <conductorName>Robertson, David</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -36830,6 +36830,71 @@
         </worksInfo>
     </program>
     <program>
+        <id>31d08957-cf04-4159-a4c6-2a65ef858fc8-0.1</id>
+        <programID>9662</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2007-10-13T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50051*1">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <movement>Scene: Moderato (from Act II)</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50051*2">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <movement>Waltz: Tempo di valse (from Act I)</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50051*3">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <movement>Dances of the Swans: Variation IV, Allegro moderato (from Act II)</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50051*4">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <movement>Dances of the Swans: Variation V, Pas d'action, Andante - Andante non troppo - Tempo I (from Act II)</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50051*5">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
+                <movement>Hungarian Dance. Czardas: Moderato assai - Allegro moderato - Vivace (from Act III)</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50083*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>VARIATIONS ON A ROCOCO THEME, OP.33 (FITZENHAGEN)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Moser, Johannes</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>a76dc5eb-b439-4c95-a730-ab1bc25f4636-0.1</id>
         <programID>10105</programID>
         <orchestra>NYP Presentation</orchestra>
@@ -36899,71 +36964,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>31d08957-cf04-4159-a4c6-2a65ef858fc8-0.1</id>
-        <programID>9662</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2007-10-13T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50051*1">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <movement>Scene: Moderato (from Act II)</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50051*2">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <movement>Waltz: Tempo di valse (from Act I)</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50051*3">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <movement>Dances of the Swans: Variation IV, Allegro moderato (from Act II)</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50051*4">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <movement>Dances of the Swans: Variation V, Pas d'action, Andante - Andante non troppo - Tempo I (from Act II)</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50051*5">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SWAN LAKE: SUITE, OP.20A</workTitle>
-                <movement>Hungarian Dance. Czardas: Moderato assai - Allegro moderato - Vivace (from Act III)</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50083*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>VARIATIONS ON A ROCOCO THEME, OP.33 (FITZENHAGEN)</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Moser, Johannes</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -43449,6 +43449,59 @@
         </worksInfo>
     </program>
     <program>
+        <id>c156c61a-aa11-4131-9f61-2c4608136e96-0.1</id>
+        <programID>9698</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Shanghai, CHINA</Location>
+            <Venue>Shanghai Grand Theatre Performing Arts Centre (Lyric)</Venue>
+            <Date>2008-02-21T05:00:00Z</Date>
+            <Time>7:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="1862*1">
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>SCALA DI SETA, LA (THE SILKEN LADDER)</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="50966*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Myers, Philip</soloistName>
+                        <soloistInstrument>French Horn</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="8902*1">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>HUNGARIAN DANCES (ORCH.)</workTitle>
+                <movement>Hungarian Dance No. 1</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+            <work ID="51467*4">
+                <composerName>Bizet,  Georges</composerName>
+                <workTitle>L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)</workTitle>
+                <movement>Farandole</movement>
+                <conductorName>Maazel, Lorin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4e2f4559-2160-4ce7-81cb-9cca080c2001-0.1</id>
         <programID>10107</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -43761,59 +43814,6 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>c156c61a-aa11-4131-9f61-2c4608136e96-0.1</id>
-        <programID>9698</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Shanghai, CHINA</Location>
-            <Venue>Shanghai Grand Theatre Performing Arts Centre (Lyric)</Venue>
-            <Date>2008-02-21T05:00:00Z</Date>
-            <Time>7:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1862*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>SCALA DI SETA, LA (THE SILKEN LADDER)</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="50966*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Myers, Philip</soloistName>
-                        <soloistInstrument>French Horn</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="8902*1">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>HUNGARIAN DANCES (ORCH.)</workTitle>
-                <movement>Hungarian Dance No. 1</movement>
-                <conductorName>Maazel, Lorin</conductorName>
-            </work>
-            <work ID="51467*4">
-                <composerName>Bizet,  Georges</composerName>
-                <workTitle>L'ARLESIENNE: SUITE NO. 2 (ARR. Guiraud)</workTitle>
-                <movement>Farandole</movement>
-                <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -45433,6 +45433,66 @@
         </worksInfo>
     </program>
     <program>
+        <id>5d795b91-5ee7-4025-8368-f5cf463e3acd-0.1</id>
+        <programID>9750</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2007-08</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Theresa L. Kaufmann Concert Hall, 92nd St. YMHA</Venue>
+            <Date>2008-04-13T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2626*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>TRIO, VLN/VLA/VC, OP.  9, NO. 3, C MINOR</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Phelps, Cynthia</soloistName>
+                        <soloistInstrument>Viola</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="7643*">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>TRIO, PIANO AND STRINGS, NO. 1, B-FLAT MAJOR, D.898</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kim, Michelle</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Brey, Carter</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lang, Lang</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>b9128403-8734-4a8e-8d4f-4c2bfba7103e-0.1</id>
         <programID>9777</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -45660,66 +45720,6 @@
                     <soloist>
                         <soloistName>Schoevaert, Marion</soloistName>
                         <soloistInstrument>Production Design</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>5d795b91-5ee7-4025-8368-f5cf463e3acd-0.1</id>
-        <programID>9750</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>2007-08</season>
-        <concertInfo>
-            <eventType>Chamber</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Theresa L. Kaufmann Concert Hall, 92nd St. YMHA</Venue>
-            <Date>2008-04-13T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2626*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>TRIO, VLN/VLA/VC, OP.  9, NO. 3, C MINOR</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Kim, Michelle</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Phelps, Cynthia</soloistName>
-                        <soloistInstrument>Viola</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Brey, Carter</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="7643*">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>TRIO, PIANO AND STRINGS, NO. 1, B-FLAT MAJOR, D.898</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Kim, Michelle</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Brey, Carter</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Lang, Lang</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
@@ -51564,7 +51564,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="5676*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SERENADE, OP. 10</workTitle>
                 <soloists>
                     <soloist>
@@ -55284,7 +55284,7 @@
                 </soloists>
             </work>
             <work ID="5676*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SERENADE, OP. 10</workTitle>
                 <soloists>
                     <soloist>
@@ -68314,6 +68314,91 @@
         </worksInfo>
     </program>
     <program>
+        <id>11fb9c2a-bd88-4d3e-ad98-1744eb914db6-0.1</id>
+        <programID>10661</programID>
+        <orchestra>NYP Presentation</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Artist in Residence / Soloist Recital</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-03-06T05:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="7348*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>VARIATIONS SÉRIEUSES, OP. 54</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="8790*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>SONATA, PIANO, NO. 1 "GROSSE SONATE," OP. 11</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="8789*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>FANTASIE, F-SHARP MINOR "SONATE ECOSSAISE," OP. 28</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="7936*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>FANTASIE, C MAJOR, OP. 17</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="1355*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>PAPILLONS, PIANO, OP. 2</workTitle>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="7345*4">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)</workTitle>
+                <movement>No. 4, Presto, in C major, "Spinning Song"</movement>
+                <soloists>
+                    <soloist>
+                        <soloistName>Schiff, András</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>5b6b7a6f-a7f3-4ade-8034-0ac952ac7452-0.1</id>
         <programID>10196</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -68419,91 +68504,6 @@
                 <workTitle>VIDA BREVE, LA</workTitle>
                 <movement>Spanish Dance No. 1 (arr. Chapelier)</movement>
                 <conductorName>Boico, Daniel</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>11fb9c2a-bd88-4d3e-ad98-1744eb914db6-0.1</id>
-        <programID>10661</programID>
-        <orchestra>NYP Presentation</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Artist in Residence / Soloist Recital</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-03-06T05:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="7348*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>VARIATIONS SÉRIEUSES, OP. 54</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="8790*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>SONATA, PIANO, NO. 1 "GROSSE SONATE," OP. 11</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="8789*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>FANTASIE, F-SHARP MINOR "SONATE ECOSSAISE," OP. 28</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="7936*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>FANTASIE, C MAJOR, OP. 17</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="1355*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>PAPILLONS, PIANO, OP. 2</workTitle>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="7345*4">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>LIEDER OHNE WORTE, BOOK VI, OP. 67 (PIANO)</workTitle>
-                <movement>No. 4, Presto, in C major, "Spinning Song"</movement>
-                <soloists>
-                    <soloist>
-                        <soloistName>Schiff, András</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -68637,7 +68637,7 @@
             </work>
             <work ID="10596*">
                 <composerName>Balcomb,  Stuart</composerName>
-                <workTitle>AMERICAN TRIOLOGY</workTitle>
+                <workTitle>AMERICAN TRILOGY</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>Langevin, Robert</soloistName>
@@ -72253,7 +72253,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="1777*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>QUINTET, PIANO, C MINOR, OP. 1</workTitle>
                 <soloists>
                     <soloist>
@@ -72495,61 +72495,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5e06f1cf-df94-46c8-8498-7fe0ad5d9f5d-0.1</id>
-        <programID>11149</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Young People's Concerts for Schools</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-05-20T04:00:00Z</Date>
-            <Time>10:30AM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Young People's Concerts for Schools</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-05-21T04:00:00Z</Date>
-            <Time>10:30AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1702*7">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>PETRUSHKA (1947 VERSION)</workTitle>
-                <movement>Excerpts</movement>
-                <conductorName>Gilbert, Alan</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Murray, Melissa</soloistName>
-                        <soloistInstrument>Actor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Scher, Avichai</soloistName>
-                        <soloistInstrument>Dancer</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3514*">
-                <composerName>Draper,  Isaac</composerName>
-                <workTitle>ANGEL'S LANDING</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-            </work>
-            <work ID="3008*">
-                <composerName>Jimenez,  Noah</composerName>
-                <workTitle>CALEB</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-            </work>
-            <work ID="3535*">
-                <composerName>Durakovic,  Amina</composerName>
-                <workTitle>RELATIVE...</workTitle>
-                <conductorName>Gilbert, Alan</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>acbe22d5-9b4c-4db2-8fcb-cdc8d1c2156c-0.1</id>
         <programID>11150</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -72600,6 +72545,61 @@
             <work ID="3536*">
                 <composerName>Bernstein,  Adam</composerName>
                 <workTitle>CHANGING SCENES</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5e06f1cf-df94-46c8-8498-7fe0ad5d9f5d-0.1</id>
+        <programID>11149</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Young People's Concerts for Schools</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-05-20T04:00:00Z</Date>
+            <Time>10:30AM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Young People's Concerts for Schools</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-05-21T04:00:00Z</Date>
+            <Time>10:30AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="1702*7">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>PETRUSHKA (1947 VERSION)</workTitle>
+                <movement>Excerpts</movement>
+                <conductorName>Gilbert, Alan</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Murray, Melissa</soloistName>
+                        <soloistInstrument>Actor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Scher, Avichai</soloistName>
+                        <soloistInstrument>Dancer</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3514*">
+                <composerName>Draper,  Isaac</composerName>
+                <workTitle>ANGEL'S LANDING</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work ID="3008*">
+                <composerName>Jimenez,  Noah</composerName>
+                <workTitle>CALEB</workTitle>
+                <conductorName>Gilbert, Alan</conductorName>
+            </work>
+            <work ID="3535*">
+                <composerName>Durakovic,  Amina</composerName>
+                <workTitle>RELATIVE...</workTitle>
                 <conductorName>Gilbert, Alan</conductorName>
             </work>
         </worksInfo>
@@ -74295,7 +74295,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Yu, Long</conductorName>
                 <soloists>
                     <soloist>
@@ -76972,7 +76972,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="6776*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SEXTET, CLARINET, HORN, PIANO, STRINGS</workTitle>
                 <soloists>
                     <soloist>
@@ -86802,6 +86802,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>37d00ec4-b723-41d3-974d-24135e58d8fe-0.1</id>
+        <programID>14774</programID>
+        <orchestra>Musicians from the New York Philharmonic</orchestra>
+        <season>2010-11</season>
+        <concertInfo>
+            <eventType>Chamber</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2011-06-18T04:00:00Z</Date>
+            <Time>4:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="13552*">
+                <composerName>Turchin,  Katya</composerName>
+                <workTitle>HOPE</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+            <work ID="13553*">
+                <composerName>Bryant,  Judzia</composerName>
+                <workTitle>VARIANT OF THE WALKING DUCK</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+            <work ID="13554*">
+                <composerName>Taslima,  Farah</composerName>
+                <workTitle>SUNAARASHI</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+            <work ID="13555*">
+                <composerName>Henry,  Aaron</composerName>
+                <workTitle>UNRAVELING THE DARK</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+            <work ID="13556*">
+                <composerName>Molina,  Susan</composerName>
+                <workTitle>DESPERTAR INTENSO</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+            <work ID="13557*">
+                <composerName>Galker,  Ruthie</composerName>
+                <workTitle>FLIGHT OF A BUTTERFLY</workTitle>
+                <conductorName>Deak, Jon</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>d975098b-a0cd-415d-aa7d-dad6fb72838a-0.1</id>
         <programID>10652</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -86857,51 +86902,6 @@
                 <composerName>Musorgsky,  Modest</composerName>
                 <workTitle>PICTURES AT AN EXHIBITION (ARR. Ravel)</workTitle>
                 <conductorName>Morlot, Ludovic</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>37d00ec4-b723-41d3-974d-24135e58d8fe-0.1</id>
-        <programID>14774</programID>
-        <orchestra>Musicians from the New York Philharmonic</orchestra>
-        <season>2010-11</season>
-        <concertInfo>
-            <eventType>Chamber</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2011-06-18T04:00:00Z</Date>
-            <Time>4:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="13552*">
-                <composerName>Turchin,  Katya</composerName>
-                <workTitle>HOPE</workTitle>
-                <conductorName>Deak, Jon</conductorName>
-            </work>
-            <work ID="13553*">
-                <composerName>Bryant,  Judzia</composerName>
-                <workTitle>VARIANT OF THE WALKING DUCK</workTitle>
-                <conductorName>Deak, Jon</conductorName>
-            </work>
-            <work ID="13554*">
-                <composerName>Taslima,  Farah</composerName>
-                <workTitle>SUNAARASHI</workTitle>
-                <conductorName>Deak, Jon</conductorName>
-            </work>
-            <work ID="13555*">
-                <composerName>Henry,  Aaron</composerName>
-                <workTitle>UNRAVELING THE DARK</workTitle>
-                <conductorName>Deak, Jon</conductorName>
-            </work>
-            <work ID="13556*">
-                <composerName>Molina,  Susan</composerName>
-                <workTitle>DESPERTAR INTENSO</workTitle>
-                <conductorName>Deak, Jon</conductorName>
-            </work>
-            <work ID="13557*">
-                <composerName>Galker,  Ruthie</composerName>
-                <workTitle>FLIGHT OF A BUTTERFLY</workTitle>
-                <conductorName>Deak, Jon</conductorName>
             </work>
         </worksInfo>
     </program>

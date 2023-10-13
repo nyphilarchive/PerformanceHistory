@@ -1114,7 +1114,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
@@ -4895,9 +4898,9 @@
           "soloists": []
         },
         {
-          "ID": "3262*",
+          "ID": "11797*",
           "composerName": "Andersen,  Joachim",
-          "workTitle": "SCHERZINO",
+          "workTitle": "SCHERZINO, FROM 8 PERFORMANCE PIECES FOR FLUTE AND PIANO, OP. 55",
           "conductorName": "Stokowski, Leopold",
           "soloists": [
             {
@@ -5671,50 +5674,6 @@
       ]
     },
     {
-      "id": "bfb5b352-51b3-45d2-84d2-41a916f19e33-0.1",
-      "programID": "10934",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1947-48",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1948-06-25T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52410*1",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
-          "movement": "Overture",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "52440*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52437*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "conductorName": "Reiner, Fritz",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "a94669e7-0594-4151-963a-5c7206cc3112-0.1",
       "programID": "10933",
       "orchestra": "Stadium-NY Philharmonic",
@@ -5768,6 +5727,50 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "bfb5b352-51b3-45d2-84d2-41a916f19e33-0.1",
+      "programID": "10934",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1947-48",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1948-06-25T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52410*1",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CREATURES OF PROMETHEUS, OP. 43",
+          "movement": "Overture",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "52440*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 4 IN B FLAT MAJOR, OP.60",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Reiner, Fritz",
+          "soloists": []
         }
       ]
     },
@@ -6447,56 +6450,6 @@
       ]
     },
     {
-      "id": "b967feee-1fe9-49a9-8cf2-5d2cfe8b899f-0.1",
-      "programID": "10944",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1947-48",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1948-07-06T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2268*",
-          "composerName": "Berlioz,  Hector",
-          "workTitle": "CORSAIRE OVERTURE",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "52446*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "52460*",
-          "composerName": "Couperin,  Francois [François]",
-          "workTitle": "PRELUDE AND ALLEGRO (ARR. Milhaud)",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        },
-        {
-          "ID": "51938*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24",
-          "conductorName": "Monteux, Pierre",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "f3747563-cc55-4434-9aa9-d86f765198f3-0.1",
       "programID": "10943",
       "orchestra": "Stadium-NY Philharmonic",
@@ -6558,6 +6511,56 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "b967feee-1fe9-49a9-8cf2-5d2cfe8b899f-0.1",
+      "programID": "10944",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1947-48",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1948-07-06T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2268*",
+          "composerName": "Berlioz,  Hector",
+          "workTitle": "CORSAIRE OVERTURE",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "52446*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 5 IN C MINOR, OP.67",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52460*",
+          "composerName": "Couperin,  Francois [François]",
+          "workTitle": "PRELUDE AND ALLEGRO (ARR. Milhaud)",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
+        },
+        {
+          "ID": "51938*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24",
+          "conductorName": "Monteux, Pierre",
+          "soloists": []
         }
       ]
     },
@@ -26672,7 +26675,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -31137,7 +31143,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
@@ -31435,7 +31444,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
@@ -35157,7 +35169,7 @@
         {
           "ID": "1251*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Andre [André])",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ANDRÉ CONCERT ENDING) (ARR. Andre [André])",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -35244,7 +35256,7 @@
         {
           "ID": "1251*",
           "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ARR. Andre [André])",
+          "workTitle": "DON GIOVANNI: OVERTURE, K.527 (ANDRÉ CONCERT ENDING) (ARR. Andre [André])",
           "conductorName": "Bernstein, Leonard",
           "soloists": []
         },
@@ -35971,7 +35983,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "De Sabata, Victor",
           "soloists": []
         }
@@ -39939,7 +39954,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Monteux, Pierre",
           "soloists": []
         },
@@ -45242,7 +45260,7 @@
         },
         {
           "ID": "2083*",
-          "composerName": "Dohnanyi,  Erno  von",
+          "composerName": "Dohnanyi,  Erno",
           "workTitle": "CONCERTO, VIOLIN, NO. 2, C MINOR, OP.43",
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": [
@@ -45370,7 +45388,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
@@ -47885,7 +47906,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -53842,7 +53866,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         },
@@ -54204,7 +54231,7 @@
       "season": "1952-53",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Brooklyn, NY",
           "Venue": "Prospect Heights High School",
           "Date": "1952-12-10T05:00:00Z",
@@ -56099,7 +56126,7 @@
       "season": "1952-53",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Richmond Hill, NY",
           "Venue": "Richmond Hill High School",
           "Date": "1953-02-11T05:00:00Z",
@@ -57098,7 +57125,7 @@
       "season": "1952-53",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Julia Richman High School",
           "Date": "1953-03-11T05:00:00Z",
@@ -58101,7 +58128,7 @@
       "season": "1952-53",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Bronx, NY",
           "Venue": "Dewitt Clinton High School",
           "Date": "1953-04-15T05:00:00Z",
@@ -64963,7 +64990,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Szell, George",
           "soloists": []
         },
@@ -65097,7 +65127,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Szell, George",
           "soloists": []
         },
@@ -66987,7 +67020,7 @@
       "season": "1953-54",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Brooklyn, NY",
           "Venue": "Prospect Heights High School",
           "Date": "1954-03-03T05:00:00Z",
@@ -68753,7 +68786,7 @@
       "season": "1953-54",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Julia Richman High School",
           "Date": "1954-04-14T05:00:00Z",
@@ -69849,7 +69882,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Monteux, Pierre",
           "soloists": []
         }
@@ -71955,7 +71991,7 @@
         },
         {
           "ID": "3404*",
-          "composerName": "Millocker,",
+          "composerName": "Millocker,  Carl",
           "workTitle": "I GIVE MY HEART",
           "conductorName": "Rudel, Julius",
           "soloists": []
@@ -74279,7 +74315,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Autori, Franco",
           "soloists": []
         }
@@ -78660,7 +78699,7 @@
       "season": "1954-55",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Manhattan, NY",
           "Venue": "Julia Richman High School",
           "Date": "1955-03-16T05:00:00Z",
@@ -78906,7 +78945,7 @@
       "season": "1954-55",
       "concerts": [
         {
-          "eventType": "Young People's Concert",
+          "eventType": "Student Concert",
           "Location": "Brooklyn, NY",
           "Venue": "Prospect Heights High School",
           "Date": "1955-03-23T05:00:00Z",
@@ -79034,57 +79073,6 @@
     },
     {
       "id": "f4fd303d-46c7-4233-b087-0d2f5f91cc7b-0.1",
-      "programID": "5358",
-      "orchestra": "New York Philharmonic",
-      "season": "1954-55",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1955-03-26T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "9187*1",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "EURYANTHE, OP. 81, J. 291",
-          "movement": "Overture",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "52577*",
-          "composerName": "Mendelssohn,  Felix",
-          "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "4291*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "DEUX IMAGES (TWO PICTURES), BB 59",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "53624*",
-          "composerName": "Stravinsky,  Igor",
-          "workTitle": "FIREBIRD: SUITE (1919 VERSION)",
-          "conductorName": "Schippers, Thomas",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "b533775d-c639-4f79-9838-f88a88f79e95-0.1",
       "programID": "5358",
       "orchestra": "New York Philharmonic",
       "season": "1954-55",
@@ -84970,7 +84958,10 @@
           "ID": "9003*6",
           "composerName": "Wagner,  Richard",
           "workTitle": "TANNHAUSER, WWV 70",
-          "movement": "Overture [Dresden]",
+          "movement": {
+            "_": "Overture To",
+            "em": "Tannhäuser"
+          },
           "conductorName": "Autori, Franco",
           "soloists": []
         },

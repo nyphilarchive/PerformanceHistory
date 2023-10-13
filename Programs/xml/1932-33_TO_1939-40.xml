@@ -1086,63 +1086,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
-        <programID>6732</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1932-12-03T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53935*">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bolognini, Remo</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Wallenstein, Alfred</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Norton, Eunice</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>e41a6cdb-e19c-49ec-af51-6dc665783cf2-0.1</id>
         <programID>1145</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1202,6 +1145,63 @@
                 <workTitle>SCHEHERAZADE, OP. 35</workTitle>
                 <movement>Allegro molto</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
+        <programID>6732</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1932-12-03T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53935*">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bolognini, Remo</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wallenstein, Alfred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Norton, Eunice</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -2073,7 +2073,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work ID="9005*7">
@@ -2779,6 +2779,58 @@
         </worksInfo>
     </program>
     <program>
+        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
+        <programID>2399</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-04T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-05T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51642*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="2005*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="2246*">
+                <composerName>Goldmark,  Karl</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Milstein, Nathan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51965*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4a5f9bcb-3944-4e00-b5f0-f933cd6645c4-0.1</id>
         <programID>1832</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -2868,58 +2920,6 @@
                 <workTitle>COUPERIN DANCE SUITE</workTitle>
                 <movement>Wirbeltanz (Whirling Dance) (Le Turbulent)</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
-        <programID>2399</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-04T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-05T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51642*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="2005*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2246*">
-                <composerName>Goldmark,  Karl</composerName>
-                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Milstein, Nathan</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51965*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -5484,7 +5484,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
             <work ID="3944*">
@@ -7662,7 +7662,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="9003*2">
@@ -8111,7 +8111,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8123,7 +8123,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8135,7 +8135,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8147,7 +8147,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8159,7 +8159,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8190,7 +8190,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8202,7 +8202,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -8214,7 +8214,7 @@
                 <conductorName>Johnson, Hall</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -9082,7 +9082,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
             <work ID="8999*1">
@@ -11786,45 +11786,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>25b9af22-a5d1-450f-9173-b888d6ce2f7d-0.1</id>
-        <programID>7110</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1933-34</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-12-16T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52437*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="347*">
-                <composerName>Indy,  Vincent  d'</composerName>
-                <workTitle>ISTAR: SYMPHONIC VARIATIONS, OP. 42</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="51944*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="8834*3">
-                <composerName>Weber,  Carl  Maria Von</composerName>
-                <workTitle>OBERON</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>aa54f8b5-74bf-4665-a2ad-be4969eba960-0.1</id>
         <programID>2107</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -11900,6 +11861,45 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>25b9af22-a5d1-450f-9173-b888d6ce2f7d-0.1</id>
+        <programID>7110</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1933-34</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-12-16T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52437*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="347*">
+                <composerName>Indy,  Vincent  d'</composerName>
+                <workTitle>ISTAR: SYMPHONIC VARIATIONS, OP. 42</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="51944*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DON JUAN, OP. 20</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="8834*3">
+                <composerName>Weber,  Carl  Maria Von</composerName>
+                <workTitle>OBERON</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -12110,7 +12110,7 @@
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="371*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SUITE FOR ORCHESTRA, OP. 19</workTitle>
                 <conductorName>Lange, Hans</conductorName>
             </work>
@@ -12160,7 +12160,7 @@
                 </soloists>
             </work>
             <work ID="371*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SUITE FOR ORCHESTRA, OP. 19</workTitle>
                 <conductorName>Lange, Hans</conductorName>
             </work>
@@ -12212,7 +12212,7 @@
                 </soloists>
             </work>
             <work ID="371*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SUITE FOR ORCHESTRA, OP. 19</workTitle>
                 <conductorName>Lange, Hans</conductorName>
             </work>
@@ -16971,7 +16971,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="371*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SUITE FOR ORCHESTRA, OP. 19</workTitle>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
@@ -21131,7 +21131,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Schelling, Ernest</conductorName>
             </work>
         </worksInfo>
@@ -21575,7 +21575,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Schelling, Ernest</conductorName>
             </work>
         </worksInfo>
@@ -23209,7 +23209,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
             <work ID="1880*">
@@ -23252,7 +23252,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="11040*">
-                <composerName>Unknown,</composerName>
+                <composerName>Mendelssohn,  Felix</composerName>
                 <workTitle>THE ELVES: MUSIC BY MENDELSSOHN (ARR. Fokine)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
@@ -25547,7 +25547,7 @@
                 </soloists>
             </work>
             <work ID="11040*">
-                <composerName>Unknown,</composerName>
+                <composerName>Mendelssohn,  Felix</composerName>
                 <workTitle>THE ELVES: MUSIC BY MENDELSSOHN (ARR. Fokine)</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
@@ -31033,7 +31033,7 @@
         <worksInfo>
             <work ID="9512*">
                 <composerName>Vivaldi,  Antonio</composerName>
-                <workTitle>CONCERTO, VIOLIN, F MINOR, RV 269 (WINTER) FOR ORCHESTRA (ARR. Molinari)</workTitle>
+                <workTitle>CONCERTO, VIOLIN, F MINOR, RV 297 (WINTER) FOR ORCHESTRA (ARR. Molinari)</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
             <work ID="53125*">
@@ -31280,7 +31280,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Toscanini, Arturo</conductorName>
             </work>
         </worksInfo>
@@ -33043,7 +33043,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
             <work ID="50620*">
@@ -35187,7 +35187,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
             <work ID="50620*">
@@ -36969,7 +36969,7 @@
             </work>
             <work ID="10910*">
                 <composerName>Riegel,  Heinrich  Joseph</composerName>
-                <workTitle>SYMPHONIE A GRAND ORCHESTRE [UNSPECIFIED</workTitle>
+                <workTitle>SYMPHONIE A GRAND ORCHESTRE (UNSPECIFIED)</workTitle>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="10902*">
@@ -40952,7 +40952,7 @@
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work ID="52822*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
                 <soloists>
@@ -41004,7 +41004,7 @@
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
             <work ID="52822*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
                 <soloists>
@@ -42201,7 +42201,7 @@
                 </soloists>
             </work>
             <work ID="1057*">
-                <composerName>Acqua,  Eva dell'</composerName>
+                <composerName>Dell'Acqua,  Eva</composerName>
                 <workTitle>VILLANELLE</workTitle>
                 <soloists>
                     <soloist>
@@ -42704,7 +42704,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Golschmann, Vladimir</conductorName>
             </work>
             <work ID="4534*4">
@@ -43732,7 +43732,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
         </worksInfo>
@@ -43812,7 +43812,7 @@
                 <conductorName>Reiner, Fritz</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Carmody, Hudson</soloistName>
+                        <soloistName>Darmody, Hudson</soloistName>
                         <soloistInstrument>Bass</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -44851,7 +44851,7 @@
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
             <work ID="52822*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>VARIATIONS ON A NURSERY SONG, OP. 25</workTitle>
                 <conductorName>Hoogstraten, Willem van</conductorName>
                 <soloists>
@@ -45493,7 +45493,7 @@
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
             <work ID="371*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>SUITE FOR ORCHESTRA, OP. 19</workTitle>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
@@ -45627,7 +45627,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
         </worksInfo>
@@ -48605,7 +48605,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -48697,6 +48697,39 @@
         </worksInfo>
     </program>
     <program>
+        <id>c61c0c1a-f99b-4295-9fa0-21c5f1557eda-0.1</id>
+        <programID>4579</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1937-38</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1938-02-26T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51944*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DON JUAN, OP. 20</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="51933*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>BOURGEOIS GENTILHOMME, LE, OP. 60: ORCHESTRAL SUITE</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ce06a96d-6f8f-49a7-8880-ce90069f829e-0.1</id>
         <programID>3441</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -48778,39 +48811,6 @@
                 <composerName>Strauss,  Johann, II</composerName>
                 <workTitle>KAISER-WALZER (EMPEROR WALTZ), OP. 437</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>c61c0c1a-f99b-4295-9fa0-21c5f1557eda-0.1</id>
-        <programID>4579</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1937-38</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1938-02-26T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51944*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="51933*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>BOURGEOIS GENTILHOMME, LE, OP. 60: ORCHESTRAL SUITE</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -50327,7 +50327,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Iturbi, Jose</conductorName>
             </work>
         </worksInfo>
@@ -50847,7 +50847,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50859,7 +50859,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50871,7 +50871,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50883,7 +50883,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50895,7 +50895,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50907,7 +50907,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50927,7 +50927,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50939,7 +50939,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50951,7 +50951,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -50963,7 +50963,7 @@
                 <conductorName>Smallens, Alexander</conductorName>
                 <soloists>
                     <soloist>
-                        <soloistName>Johnson, Hall Francis</soloistName>
+                        <soloistName>Hall Johnson Choir, The</soloistName>
                         <soloistInstrument>Chorus</soloistInstrument>
                         <soloistRoles>S</soloistRoles>
                     </soloist>
@@ -55852,7 +55852,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -56140,7 +56140,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John;  Vactor, David Van</conductorName>
             </work>
         </worksInfo>
@@ -58505,7 +58505,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -63608,7 +63608,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="9008*12">
@@ -64194,6 +64194,53 @@
         </worksInfo>
     </program>
     <program>
+        <id>37395462-ffbb-473f-8eed-93fc1c63ea68-0.1</id>
+        <programID>5736</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1939-40</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1939-11-18T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1939-11-19T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50353*">
+                <composerName>Foote,  Arthur</composerName>
+                <workTitle>SUITE, E MAJOR, OP. 63</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="2881*">
+                <composerName>Paganini,  Nicolò</composerName>
+                <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Francescatti, Zino</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51872*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>08c53c6f-086e-4829-9a5f-6dd68ee67c22-0.1</id>
         <programID>4596</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -64266,53 +64313,6 @@
                 <workTitle>SYMPHONY NO. 41, C MAJOR, K.551, "JUPITER"</workTitle>
                 <movement>Allegro vivace</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>37395462-ffbb-473f-8eed-93fc1c63ea68-0.1</id>
-        <programID>5736</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1939-40</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1939-11-18T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1939-11-19T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50353*">
-                <composerName>Foote,  Arthur</composerName>
-                <workTitle>SUITE, E MAJOR, OP. 63</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
-                <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Francescatti, Zino</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51872*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 2 IN D MAJOR, OP. 73</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -65039,7 +65039,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -65092,7 +65092,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -65806,7 +65806,7 @@
                 </soloists>
             </work>
             <work ID="5158*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
+                <composerName>Dohnanyi,  Erno</composerName>
                 <workTitle>DER SCHLEIER DER PIERETTE, OP.18</workTitle>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
@@ -65892,8 +65892,8 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="5167*">
-                <composerName>Dohnanyi,  Erno  von</composerName>
-                <workTitle>SYMPHONISCHE MINUTEN, OP. 36</workTitle>
+                <composerName>Dohnanyi,  Erno</composerName>
+                <workTitle>SYMPHONIC MINUTES, OP. 36</workTitle>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
             <work ID="51306*9">
@@ -68597,7 +68597,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
@@ -69685,7 +69685,7 @@
             <work ID="9003*6">
                 <composerName>Wagner,  Richard</composerName>
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
-                <movement>Overture [Dresden]</movement>
+                <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>McArthur, Edwin</conductorName>
             </work>
             <work ID="8999*5">
@@ -70338,7 +70338,7 @@
             <work ID="9029*12">
                 <composerName>Chopin,  Frédéric</composerName>
                 <workTitle>NOCTURNES (ORIG. SOLO PIANO)</workTitle>
-                <movement>Nocturne in E-flat major, Op. 9 No. 2</movement>
+                <movement>Nocturne No. 2 in E-flat major, Op. 9 No. 2</movement>
                 <soloists>
                     <soloist>
                         <soloistName>Sterne, Theresa</soloistName>
