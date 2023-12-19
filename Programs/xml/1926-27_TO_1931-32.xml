@@ -4976,45 +4976,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>80f67548-ac4c-4c64-99d6-9ae198617d7c-0.1</id>
-        <programID>3358</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1926-27</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-02-13T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52361*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50025*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
-            </work>
-            <work ID="51306*10">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Rakoczy March (Hungarian March)</movement>
-                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>49141a1b-dcaa-4f00-9aa7-db5a61b4b51d-0.1</id>
         <programID>8855</programID>
         <orchestra>New York Symphony</orchestra>
@@ -5095,6 +5056,45 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>80f67548-ac4c-4c64-99d6-9ae198617d7c-0.1</id>
+        <programID>3358</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1926-27</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-02-13T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52361*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50025*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>ROMEO AND JULIET, FANTASY-OVERTURE</workTitle>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
+            </work>
+            <work ID="51306*10">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Rakoczy March (Hungarian March)</movement>
+                <conductorName>Furtwangler [Furtwängler], Wilhelm</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -12520,49 +12520,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>483749b5-f89a-4d75-bb20-f1b9d84878b3-0.1</id>
-        <programID>10241</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1927-11-05T05:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52437*1">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
-                <movement>Allegro con brio</movement>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="52644*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="52502*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Spalding, Albert</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="10170*">
-                <composerName>Musorgsky,  Modest</composerName>
-                <workTitle>MARCH, CAPTURE OF KARS (TURKISH MARCH)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>4414c8a6-44b5-4595-9b36-d1d84f0837a3-0.1</id>
         <programID>7142</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -12625,6 +12582,49 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
                 <conductorName>Mengelberg, Willem</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>483749b5-f89a-4d75-bb20-f1b9d84878b3-0.1</id>
+        <programID>10241</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1927-11-05T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52437*1">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)</workTitle>
+                <movement>Allegro con brio</movement>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="52644*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>PRELUDE A L'APRES-MIDI D'UN FAUNE (PRELUDE TO THE AFTERNOON OF A FAUN)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="52502*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>CONCERTO, VIOLIN, E MINOR, OP.64</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Spalding, Albert</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="10170*">
+                <composerName>Musorgsky,  Modest</composerName>
+                <workTitle>MARCH, CAPTURE OF KARS (TURKISH MARCH)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -16212,6 +16212,43 @@
         </worksInfo>
     </program>
     <program>
+        <id>d46fc1cc-eb46-41e2-a00b-65e01dcaf246-0.1</id>
+        <programID>10250</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1928-01-21T05:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2819*">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="51734*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>ST FRANCIS PREACHING TO THE BIRDS (ARR. Mottl)</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+            </work>
+            <work ID="54106*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
+                <conductorName>Damrosch, Walter</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Gabrilowitsch, Ossip</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>9410327e-f6f9-4605-aa5c-dc80b8eaa33c-0.1</id>
         <programID>3438</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -16277,43 +16314,6 @@
                 <workTitle>WILLIAM TELL</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d46fc1cc-eb46-41e2-a00b-65e01dcaf246-0.1</id>
-        <programID>10250</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1928-01-21T05:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2819*">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="51734*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>ST FRANCIS PREACHING TO THE BIRDS (ARR. Mottl)</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-            </work>
-            <work ID="54106*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 1, B-FLAT MINOR, OP. 23</workTitle>
-                <conductorName>Damrosch, Walter</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Gabrilowitsch, Ossip</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
             </work>
         </worksInfo>
     </program>
@@ -18591,60 +18591,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>e750f612-8db8-4fa2-add2-f67ae808313b-0.1</id>
-        <programID>8896</programID>
-        <orchestra>New York Symphony</orchestra>
-        <season>1927-28</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1928-03-22T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Mecca Auditorium</Venue>
-            <Date>1928-03-25T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2451*">
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-            <work ID="7235*">
-                <composerName>Halffter,  Ernesto</composerName>
-                <workTitle>SINFONIETTA IN D</workTitle>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-            <work ID="5421*2">
-                <composerName>Albeniz [Albéniz],  Isaac</composerName>
-                <workTitle>IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)</workTitle>
-                <movement>Fête-Dieu à Séville</movement>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-            <work ID="5421*1">
-                <composerName>Albeniz [Albéniz],  Isaac</composerName>
-                <workTitle>IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)</workTitle>
-                <movement>Triana</movement>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-            <work ID="53397*">
-                <composerName>Falla,  Manuel  de</composerName>
-                <workTitle>EL AMOR BRUJO (REV. 1924)</workTitle>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-            <work ID="51944*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Fernandez Arbos, Enrique</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>d03c6524-c4a9-4ba2-8dae-bc106bc133dd-0.1</id>
         <programID>2404</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -18700,6 +18646,60 @@
                 <composerName>Strauss,  Richard</composerName>
                 <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Toscanini, Arturo</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>e750f612-8db8-4fa2-add2-f67ae808313b-0.1</id>
+        <programID>8896</programID>
+        <orchestra>New York Symphony</orchestra>
+        <season>1927-28</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1928-03-22T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Mecca Auditorium</Venue>
+            <Date>1928-03-25T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2451*">
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>BRANDENBURG CONCERTO NO. 3 IN G MAJOR, BWV 1048</workTitle>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
+            </work>
+            <work ID="7235*">
+                <composerName>Halffter,  Ernesto</composerName>
+                <workTitle>SINFONIETTA IN D</workTitle>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
+            </work>
+            <work ID="5421*2">
+                <composerName>Albeniz [Albéniz],  Isaac</composerName>
+                <workTitle>IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)</workTitle>
+                <movement>Fête-Dieu à Séville</movement>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
+            </work>
+            <work ID="5421*1">
+                <composerName>Albeniz [Albéniz],  Isaac</composerName>
+                <workTitle>IBERIA: EXCERPTS FOR ORCHESTRA (ARR. Fernandez Arbos)</workTitle>
+                <movement>Triana</movement>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
+            </work>
+            <work ID="53397*">
+                <composerName>Falla,  Manuel  de</composerName>
+                <workTitle>EL AMOR BRUJO (REV. 1924)</workTitle>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
+            </work>
+            <work ID="51944*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DON JUAN, OP. 20</workTitle>
+                <conductorName>Fernandez Arbos, Enrique</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -21492,7 +21492,7 @@
             <Time>8:30PM</Time>
         </concertInfo>
         <worksInfo>
-            <work ID="11469*">
+            <work ID="52454*">
                 <composerName>Corelli,  Arcangelo</composerName>
                 <workTitle>SUITE, STRING ORCHESTRA (ARR. Pinelli)</workTitle>
                 <conductorName>Molinari, Bernardino</conductorName>
@@ -22274,7 +22274,7 @@
                     </soloist>
                 </soloists>
             </work>
-            <work ID="11593*">
+            <work ID="10825*">
                 <composerName>Herbert,  Victor</composerName>
                 <workTitle>PUNCHINELLO</workTitle>
                 <conductorName>Harris, Graham</conductorName>
@@ -24699,7 +24699,7 @@
             </work>
             <work ID="4563*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565  (ARR. Skrowaczewski)</workTitle>
+                <workTitle>TOCCATA &amp; FUGUE, D MINOR, BWV 565 (ARR. Skrowaczewski)</workTitle>
                 <conductorName>Lange, Hans</conductorName>
                 <soloists>
                     <soloist>
@@ -46984,7 +46984,7 @@
         <worksInfo>
             <work ID="6333*">
                 <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA &amp; FUGUE, C MAJOR, BWV 564 (ARR. Weiner)</workTitle>
+                <workTitle>TOCCATA AND FUGUE, C MAJOR, BWV 564 (ARR. Weiner)</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
             <work ID="51884*">
@@ -51150,7 +51150,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Danisi, J.</soloistName>
+                        <soloistName>Danisi, Joseph</soloistName>
                         <soloistInstrument>Clarinet</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -51237,7 +51237,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Danisi, J.</soloistName>
+                        <soloistName>Danisi, Joseph</soloistName>
                         <soloistInstrument>Clarinet</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -51324,7 +51324,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Danisi, J.</soloistName>
+                        <soloistName>Danisi, Joseph</soloistName>
                         <soloistInstrument>Clarinet</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>

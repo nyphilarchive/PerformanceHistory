@@ -22420,10 +22420,10 @@
                     </soloist>
                 </soloists>
             </work>
-            <work ID="8374*">
+            <work ID="8374*1">
                 <composerName>Ysaye,  Eugène</composerName>
-                <workTitle>SONATA, VIOLIN, NO. 3, OP. 27, NO. 3 (BALLADE)</workTitle>
-                <conductorName>Haitink, Bernard</conductorName>
+                <workTitle>SONATA, VIOLIN, NO. 3, OP. 27</workTitle>
+                <movement>Ballade</movement>
                 <soloists>
                     <soloist>
                         <soloistName>Oistrakh, Igor</soloistName>
@@ -28816,7 +28816,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="2141*">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>MI-PARTI</workTitle>
                 <conductorName>Barenboim, Daniel</conductorName>
             </work>
@@ -49553,59 +49553,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>344a6160-ca14-42c5-8362-fbe62da83ee1-0.1</id>
-        <programID>3445</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1982-83</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Buenos Aires, ARGENTINA</Location>
-            <Venue>Teatro Colón</Venue>
-            <Date>1982-09-05T04:00:00Z</Date>
-            <Time>9:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2443*">
-                <composerName>Bartok [Bartók],  Béla</composerName>
-                <workTitle>MIRACULOUS MANDARIN, SUITE</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-            <work ID="2847*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, CELLO, A MINOR, OP.129</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Munroe, Lorne</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51954*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Dicterow, Glenn</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50376*1">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>FORZA DEL DESTINO, LA</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>178c2c86-3b3f-4874-8239-b5bd2ccab7d9-0.1</id>
         <programID>3439</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -49729,6 +49676,59 @@
             <work ID="51651*">
                 <composerName>Rimsky-Korsakov,  Nikolai</composerName>
                 <workTitle>CAPRICCIO ESPAGNOL, OP. 34</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>344a6160-ca14-42c5-8362-fbe62da83ee1-0.1</id>
+        <programID>3445</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1982-83</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Buenos Aires, ARGENTINA</Location>
+            <Venue>Teatro Colón</Venue>
+            <Date>1982-09-05T04:00:00Z</Date>
+            <Time>9:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2443*">
+                <composerName>Bartok [Bartók],  Béla</composerName>
+                <workTitle>MIRACULOUS MANDARIN, SUITE</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+            <work ID="2847*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, CELLO, A MINOR, OP.129</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Munroe, Lorne</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51954*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dicterow, Glenn</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50376*1">
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>FORZA DEL DESTINO, LA</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
         </worksInfo>
@@ -51411,7 +51411,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="51239*">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>CONCERTO, ORCHESTRA</workTitle>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
@@ -51419,12 +51419,12 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="3465*">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>NOVELETTE FOR ORCHESTRA</workTitle>
                 <conductorName>Lutoslawski, Witold</conductorName>
             </work>
             <work ID="51764*">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>CONCERTO, CELLO AND ORCHESTRA</workTitle>
                 <conductorName>Lutoslawski, Witold</conductorName>
                 <soloists>
@@ -55336,7 +55336,7 @@
                 <conductorName>Skrowaczewski, Stanislaw</conductorName>
             </work>
             <work ID="51239*">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>CONCERTO, ORCHESTRA</workTitle>
                 <conductorName>Skrowaczewski, Stanislaw</conductorName>
             </work>
@@ -55370,13 +55370,13 @@
                 <conductorName>Skrowaczewski, Stanislaw</conductorName>
             </work>
             <work ID="51239*1">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>CONCERTO, ORCHESTRA</workTitle>
                 <movement>Intrada: Allegro maestoso</movement>
                 <conductorName>Skrowaczewski, Stanislaw</conductorName>
             </work>
             <work ID="51239*2">
-                <composerName>Lutoslawski,  Witold</composerName>
+                <composerName>Lutoslawski [Lutosławski],  Witold</composerName>
                 <workTitle>CONCERTO, ORCHESTRA</workTitle>
                 <movement>Capriccio notturno e arioso: Vivace</movement>
                 <conductorName>Skrowaczewski, Stanislaw</conductorName>

@@ -26178,10 +26178,10 @@
           ]
         },
         {
-          "ID": "8374*",
+          "ID": "8374*1",
           "composerName": "Ysaye,  Eugène",
-          "workTitle": "SONATA, VIOLIN, NO. 3, OP. 27, NO. 3 (BALLADE)",
-          "conductorName": "Haitink, Bernard",
+          "workTitle": "SONATA, VIOLIN, NO. 3, OP. 27",
+          "movement": "Ballade",
           "soloists": [
             {
               "soloistName": "Oistrakh, Igor",
@@ -33875,7 +33875,7 @@
         },
         {
           "ID": "2141*",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "MI-PARTI",
           "conductorName": "Barenboim, Daniel",
           "soloists": []
@@ -58147,69 +58147,6 @@
       ]
     },
     {
-      "id": "344a6160-ca14-42c5-8362-fbe62da83ee1-0.1",
-      "programID": "3445",
-      "orchestra": "New York Philharmonic",
-      "season": "1982-83",
-      "concerts": [
-        {
-          "eventType": "Tour",
-          "Location": "Buenos Aires, ARGENTINA",
-          "Venue": "Teatro Colón",
-          "Date": "1982-09-05T04:00:00Z",
-          "Time": "9:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2443*",
-          "composerName": "Bartok [Bartók],  Béla",
-          "workTitle": "MIRACULOUS MANDARIN, SUITE",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        },
-        {
-          "ID": "2847*",
-          "composerName": "Schumann,  Robert",
-          "workTitle": "CONCERTO, CELLO, A MINOR, OP.129",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Munroe, Lorne",
-              "soloistInstrument": "Cello",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "51954*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "HELDENLEBEN, EIN, OP. 40",
-          "conductorName": "Mehta, Zubin",
-          "soloists": [
-            {
-              "soloistName": "Dicterow, Glenn",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "A"
-            }
-          ]
-        },
-        {
-          "ID": "50376*1",
-          "composerName": "Verdi,  Giuseppe",
-          "workTitle": "FORZA DEL DESTINO, LA",
-          "movement": "Overture",
-          "conductorName": "Mehta, Zubin",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "178c2c86-3b3f-4874-8239-b5bd2ccab7d9-0.1",
       "programID": "3439",
       "orchestra": "New York Philharmonic",
@@ -58363,6 +58300,69 @@
           "ID": "51651*",
           "composerName": "Rimsky-Korsakov,  Nikolai",
           "workTitle": "CAPRICCIO ESPAGNOL, OP. 34",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "344a6160-ca14-42c5-8362-fbe62da83ee1-0.1",
+      "programID": "3445",
+      "orchestra": "New York Philharmonic",
+      "season": "1982-83",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Buenos Aires, ARGENTINA",
+          "Venue": "Teatro Colón",
+          "Date": "1982-09-05T04:00:00Z",
+          "Time": "9:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2443*",
+          "composerName": "Bartok [Bartók],  Béla",
+          "workTitle": "MIRACULOUS MANDARIN, SUITE",
+          "conductorName": "Mehta, Zubin",
+          "soloists": []
+        },
+        {
+          "ID": "2847*",
+          "composerName": "Schumann,  Robert",
+          "workTitle": "CONCERTO, CELLO, A MINOR, OP.129",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Munroe, Lorne",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "51954*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "HELDENLEBEN, EIN, OP. 40",
+          "conductorName": "Mehta, Zubin",
+          "soloists": [
+            {
+              "soloistName": "Dicterow, Glenn",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "50376*1",
+          "composerName": "Verdi,  Giuseppe",
+          "workTitle": "FORZA DEL DESTINO, LA",
+          "movement": "Overture",
           "conductorName": "Mehta, Zubin",
           "soloists": []
         }
@@ -60313,7 +60313,7 @@
       "works": [
         {
           "ID": "51239*",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "CONCERTO, ORCHESTRA",
           "conductorName": "Mehta, Zubin",
           "soloists": []
@@ -60325,14 +60325,14 @@
         },
         {
           "ID": "3465*",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "NOVELETTE FOR ORCHESTRA",
           "conductorName": "Lutoslawski, Witold",
           "soloists": []
         },
         {
           "ID": "51764*",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "CONCERTO, CELLO AND ORCHESTRA",
           "conductorName": "Lutoslawski, Witold",
           "soloists": [
@@ -64895,7 +64895,7 @@
         },
         {
           "ID": "51239*",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "CONCERTO, ORCHESTRA",
           "conductorName": "Skrowaczewski, Stanislaw",
           "soloists": []
@@ -64939,7 +64939,7 @@
         },
         {
           "ID": "51239*1",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "CONCERTO, ORCHESTRA",
           "movement": "Intrada: Allegro maestoso",
           "conductorName": "Skrowaczewski, Stanislaw",
@@ -64947,7 +64947,7 @@
         },
         {
           "ID": "51239*2",
-          "composerName": "Lutoslawski,  Witold",
+          "composerName": "Lutoslawski [Lutosławski],  Witold",
           "workTitle": "CONCERTO, ORCHESTRA",
           "movement": "Capriccio notturno e arioso: Vivace",
           "conductorName": "Skrowaczewski, Stanislaw",
