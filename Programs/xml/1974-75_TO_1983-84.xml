@@ -514,7 +514,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="3324*">
-                <composerName>Crawford {Seeger],  Ruth  Porter</composerName>
+                <composerName>Crawford [Seeger],  Ruth  Porter</composerName>
                 <workTitle>PIANO STUDY IN MIXED ACCENTS: FOUR PRELUDES</workTitle>
                 <soloists>
                     <soloist>
@@ -668,7 +668,7 @@
                 </soloists>
             </work>
             <work ID="3351*">
-                <composerName>Crawford {Seeger],  Ruth  Porter</composerName>
+                <composerName>Crawford [Seeger],  Ruth  Porter</composerName>
                 <workTitle>STRING QUARTET</workTitle>
                 <soloists>
                     <soloist>
@@ -3655,7 +3655,7 @@
             <work ID="2673*1">
                 <composerName>Boulez,  Pierre</composerName>
                 <workTitle>PLI SELON PLI: IMPROVISATIONS SUR MALLARME</workTitle>
-                <movement>"Le Vierge, le vivace et le bel aujourd'hui"</movement>
+                <movement>"Le Vierge, le vivace et le bel aujourd'hui" [Improvisation I]</movement>
                 <conductorName>Boulez, Pierre</conductorName>
                 <soloists>
                     <soloist>
@@ -3713,7 +3713,7 @@
             <work ID="2673*2">
                 <composerName>Boulez,  Pierre</composerName>
                 <workTitle>PLI SELON PLI: IMPROVISATIONS SUR MALLARME</workTitle>
-                <movement>"Une dentelle s'abolit"</movement>
+                <movement>"Une dentelle s'abolit" [Improvisation II]</movement>
                 <conductorName>Boulez, Pierre</conductorName>
                 <soloists>
                     <soloist>
@@ -7493,7 +7493,7 @@
                 <conductorName>Caldwell, Sarah</conductorName>
             </work>
             <work ID="3664*">
-                <composerName>Crawford {Seeger],  Ruth  Porter</composerName>
+                <composerName>Crawford [Seeger],  Ruth  Porter</composerName>
                 <workTitle>QUARTET FOR STRING ORCHESTRA</workTitle>
                 <conductorName>Caldwell, Sarah</conductorName>
             </work>
@@ -9092,13 +9092,13 @@
             </work>
             <work ID="53404*2">
                 <composerName>Still,  William  Grant</composerName>
-                <workTitle>AFRO-AMERICAN SYMPHONY</workTitle>
+                <workTitle>SYMPHONY NO. 1 (AFRO-AMERICAN)</workTitle>
                 <movement>Adagio</movement>
                 <conductorName>Thompson, Leon</conductorName>
             </work>
             <work ID="53404*3">
                 <composerName>Still,  William  Grant</composerName>
-                <workTitle>AFRO-AMERICAN SYMPHONY</workTitle>
+                <workTitle>SYMPHONY NO. 1 (AFRO-AMERICAN)</workTitle>
                 <movement>Animato</movement>
                 <conductorName>Thompson, Leon</conductorName>
             </work>
@@ -29027,7 +29027,7 @@
             </work>
             <work ID="53102*">
                 <composerName>Scriabin,  Alexander</composerName>
-                <workTitle>SYMPHONY NO. 4, "LE POEME D'EXTASE," OP. 54</workTitle>
+                <workTitle>SYMPHONY NO. 4, "LE POEME DE L'EXTASE," OP. 54</workTitle>
                 <conductorName>Rozhdestvensky, Gennady</conductorName>
             </work>
         </worksInfo>
@@ -31858,6 +31858,59 @@
         </worksInfo>
     </program>
     <program>
+        <id>f4c57553-ef00-4841-a29f-55e9d5ded9fd-0.1</id>
+        <programID>2047</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1978-79</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Lenox, MA</Location>
+            <Venue>Tanglewood</Venue>
+            <Date>1979-08-24T04:00:00Z</Date>
+            <Time>9:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52777*">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 5, B FLAT MAJOR, D.485</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+            <work ID="51952*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>FOUR LAST SONGS (VIER LETZTE LIEDER)</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Caballé, Montserrat</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="2819*">
+                <composerName>Schubert,  Franz</composerName>
+                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+            <work ID="1898*2">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>SALOME, OP. 54</workTitle>
+                <movement>Final Scene: "Ah, du wolltest mich nicht deinen Mund kuessen lassen, Jokanaan!"</movement>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Caballé, Montserrat</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>16d4bab6-5ef1-474d-b99c-2f89ad305823-0.1</id>
         <programID>2781</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -31940,59 +31993,6 @@
                         <soloistName>Munroe, Lorne</soloistName>
                         <soloistInstrument>Cello</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>f4c57553-ef00-4841-a29f-55e9d5ded9fd-0.1</id>
-        <programID>2047</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1978-79</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Lenox, MA</Location>
-            <Venue>Tanglewood</Venue>
-            <Date>1979-08-24T04:00:00Z</Date>
-            <Time>9:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52777*">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 5, B FLAT MAJOR, D.485</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-            <work ID="51952*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>FOUR LAST SONGS (VIER LETZTE LIEDER)</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Caballé, Montserrat</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2819*">
-                <composerName>Schubert,  Franz</composerName>
-                <workTitle>SYMPHONY NO. 8, B MINOR, D.759 (UNFINISHED)</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-            <work ID="1898*2">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>SALOME, OP. 54</workTitle>
-                <movement>Final Scene: "Ah, du wolltest mich nicht deinen Mund kuessen lassen, Jokanaan!"</movement>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Caballé, Montserrat</soloistName>
-                        <soloistInstrument>Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -38039,7 +38039,7 @@
             <work ID="52113*3">
                 <composerName>Webern,  Anton  von</composerName>
                 <workTitle>SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)</workTitle>
-                <movement>Mässig</movement>
+                <movement>Moderate</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
         </worksInfo>
@@ -38085,7 +38085,7 @@
             <work ID="52113*3">
                 <composerName>Webern,  Anton  von</composerName>
                 <workTitle>SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)</workTitle>
-                <movement>Mässig</movement>
+                <movement>Moderate</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
             <work ID="3820*">
@@ -38136,7 +38136,7 @@
             <work ID="52113*3">
                 <composerName>Webern,  Anton  von</composerName>
                 <workTitle>SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)</workTitle>
-                <movement>Mässig</movement>
+                <movement>Moderate</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
         </worksInfo>
@@ -38436,7 +38436,7 @@
             <work ID="52113*3">
                 <composerName>Webern,  Anton  von</composerName>
                 <workTitle>SIX PIECES, ORCHESTRA, OP. 6 (1928 VERSION)</workTitle>
-                <movement>Mässig</movement>
+                <movement>Moderate</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
             <work ID="51651*">
@@ -48147,7 +48147,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Herman, Ben</soloistName>
+                        <soloistName>Herman, Benjamin</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -49553,6 +49553,59 @@
         </worksInfo>
     </program>
     <program>
+        <id>344a6160-ca14-42c5-8362-fbe62da83ee1-0.1</id>
+        <programID>3445</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1982-83</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Buenos Aires, ARGENTINA</Location>
+            <Venue>Teatro Colón</Venue>
+            <Date>1982-09-05T04:00:00Z</Date>
+            <Time>9:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="2443*">
+                <composerName>Bartok [Bartók],  Béla</composerName>
+                <workTitle>MIRACULOUS MANDARIN, SUITE</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+            <work ID="2847*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, CELLO, A MINOR, OP.129</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Munroe, Lorne</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51954*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
+                <conductorName>Mehta, Zubin</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Dicterow, Glenn</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="50376*1">
+                <composerName>Verdi,  Giuseppe</composerName>
+                <workTitle>FORZA DEL DESTINO, LA</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Mehta, Zubin</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>178c2c86-3b3f-4874-8239-b5bd2ccab7d9-0.1</id>
         <programID>3439</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -49676,59 +49729,6 @@
             <work ID="51651*">
                 <composerName>Rimsky-Korsakov,  Nikolai</composerName>
                 <workTitle>CAPRICCIO ESPAGNOL, OP. 34</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>344a6160-ca14-42c5-8362-fbe62da83ee1-0.1</id>
-        <programID>3445</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1982-83</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Buenos Aires, ARGENTINA</Location>
-            <Venue>Teatro Colón</Venue>
-            <Date>1982-09-05T04:00:00Z</Date>
-            <Time>9:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="2443*">
-                <composerName>Bartok [Bartók],  Béla</composerName>
-                <workTitle>MIRACULOUS MANDARIN, SUITE</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-            </work>
-            <work ID="2847*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, CELLO, A MINOR, OP.129</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Munroe, Lorne</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51954*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>HELDENLEBEN, EIN, OP. 40</workTitle>
-                <conductorName>Mehta, Zubin</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Dicterow, Glenn</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="50376*1">
-                <composerName>Verdi,  Giuseppe</composerName>
-                <workTitle>FORZA DEL DESTINO, LA</workTitle>
-                <movement>Overture</movement>
                 <conductorName>Mehta, Zubin</conductorName>
             </work>
         </worksInfo>

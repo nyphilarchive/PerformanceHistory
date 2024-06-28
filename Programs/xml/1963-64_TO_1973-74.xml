@@ -161,6 +161,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1</id>
+        <programID>6434</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1963-64</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Chicago, IL</Location>
+            <Venue>Opera House</Venue>
+            <Date>1963-09-08T04:00:00Z</Date>
+            <Time>8:15PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52577*">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="53624*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
+                <conductorName>Ozawa, Seiji</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51884*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="8855*3">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
+                <movement>No. 3 in A-flat major: Poco allegro</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>42b3f24f-d273-47eb-9f7f-750c7f349540-0.1</id>
         <programID>6429</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -207,45 +246,6 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
                 <movement>No. 1 in C major: Presto</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0230f9d9-6bce-4fff-b4a0-c49aee71b4e6-0.1</id>
-        <programID>6434</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1963-64</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Chicago, IL</Location>
-            <Venue>Opera House</Venue>
-            <Date>1963-09-08T04:00:00Z</Date>
-            <Time>8:15PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52577*">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="53624*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>FIREBIRD: SUITE (1919 VERSION)</workTitle>
-                <conductorName>Ozawa, Seiji</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51884*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>SYMPHONY NO. 4 IN E MINOR, OP. 98</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="8855*3">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SLAVONIC DANCES, OP. 46</workTitle>
-                <movement>No. 3 in A-flat major: Poco allegro</movement>
                 <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
@@ -5943,7 +5943,7 @@
             </work>
             <work ID="10168*12">
                 <composerName>Scriabin,  Alexander</composerName>
-                <workTitle>TWELVE ETUDES, OP. 8</workTitle>
+                <workTitle>ETUDES, OP.  8</workTitle>
                 <movement>Etude in D-sharp minor, Op, 8, No. 12, <em>Patetico</em></movement>
                 <soloists>
                     <soloist>
@@ -9857,7 +9857,7 @@
             </work>
             <work ID="53102*">
                 <composerName>Scriabin,  Alexander</composerName>
-                <workTitle>SYMPHONY NO. 4, "LE POEME D'EXTASE," OP. 54</workTitle>
+                <workTitle>SYMPHONY NO. 4, "LE POEME DE L'EXTASE," OP. 54</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
@@ -9974,7 +9974,7 @@
             </work>
             <work ID="53102*">
                 <composerName>Scriabin,  Alexander</composerName>
-                <workTitle>SYMPHONY NO. 4, "LE POEME D'EXTASE," OP. 54</workTitle>
+                <workTitle>SYMPHONY NO. 4, "LE POEME DE L'EXTASE," OP. 54</workTitle>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
         </worksInfo>
@@ -14008,7 +14008,7 @@
             <work ID="2673*2">
                 <composerName>Boulez,  Pierre</composerName>
                 <workTitle>PLI SELON PLI: IMPROVISATIONS SUR MALLARME</workTitle>
-                <movement>"Une dentelle s'abolit"</movement>
+                <movement>"Une dentelle s'abolit" [Improvisation II]</movement>
                 <conductorName>Dufallo, Richard (John)</conductorName>
                 <soloists>
                     <soloist>
@@ -22697,6 +22697,51 @@
         </worksInfo>
     </program>
     <program>
+        <id>5a182eba-acf4-49fa-b20d-a936fd684712-0.1</id>
+        <programID>5306</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1966-67</season>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1966-10-22T04:00:00Z</Date>
+            <Time>12:00PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Young People's Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1966-10-22T04:00:00Z</Date>
+            <Time>2:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52638*2">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>NOCTURNES</workTitle>
+                <movement>Fêtes ("Festivals")</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="9197*4">
+                <composerName>Musorgsky,  Modest</composerName>
+                <workTitle>BORIS GODUNOV (ARR. Rimsky-Korsakov)</workTitle>
+                <movement>Act III, scene ii: Polonaise</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="6046*8">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>FANCY FREE</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52446*4">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <movement>Allegro</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>03a44df5-4848-40c7-b17f-6f9f10f21779-0.1</id>
         <programID>10743</programID>
         <orchestra>Members of NY Philharmonic</orchestra>
@@ -22900,51 +22945,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>5a182eba-acf4-49fa-b20d-a936fd684712-0.1</id>
-        <programID>5306</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1966-67</season>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1966-10-22T04:00:00Z</Date>
-            <Time>12:00PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Young People's Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1966-10-22T04:00:00Z</Date>
-            <Time>2:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52638*2">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>NOCTURNES</workTitle>
-                <movement>Fêtes ("Festivals")</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="9197*4">
-                <composerName>Musorgsky,  Modest</composerName>
-                <workTitle>BORIS GODUNOV (ARR. Rimsky-Korsakov)</workTitle>
-                <movement>Act III, scene ii: Polonaise</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="6046*8">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>FANCY FREE</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52446*4">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <movement>Allegro</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -53146,7 +53146,7 @@
                 <conductorName>Thomas, Michael Tilson</conductorName>
             </work>
             <work ID="51234*">
-                <composerName>Crawford {Seeger],  Ruth  Porter</composerName>
+                <composerName>Crawford [Seeger],  Ruth  Porter</composerName>
                 <workTitle>ANDANTE FOR STRINGS</workTitle>
                 <conductorName>Thomas, Michael Tilson</conductorName>
             </work>
@@ -54216,61 +54216,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>acc084c3-b136-4b60-95ed-b70301570cad-0.1</id>
-        <programID>4529</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1971-72</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Philharmonic Hall</Venue>
-            <Date>1972-01-21T05:00:00Z</Date>
-            <Time>1:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="4200*">
-                <composerName>Vivaldi,  Antonio</composerName>
-                <workTitle>CONCERTO, MANDOLINS (2), G MAJOR, RV 532</workTitle>
-                <conductorName>Maderna, Bruno</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Bolotine, Leonid</soloistName>
-                        <soloistInstrument>Mandolin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Glick, Jacob</soloistName>
-                        <soloistInstrument>Mandolin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51144*">
-                <composerName>Liszt,  Franz</composerName>
-                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*1">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Andante con moto – Allegro un poco agitato</movement>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*2">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Vivace non troppo</movement>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-            <work ID="52575*4">
-                <composerName>Mendelssohn,  Felix</composerName>
-                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
-                <movement>Allegro vivacissimo – Allegro maestoso assai</movement>
-                <conductorName>Maderna, Bruno</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>d40d808b-4af2-4c8f-8651-12c337571bdd-0.1</id>
         <programID>2811</programID>
         <orchestra>Musicians from the New York Philharmonic</orchestra>
@@ -54446,6 +54391,61 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>acc084c3-b136-4b60-95ed-b70301570cad-0.1</id>
+        <programID>4529</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1971-72</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Philharmonic Hall</Venue>
+            <Date>1972-01-21T05:00:00Z</Date>
+            <Time>1:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="4200*">
+                <composerName>Vivaldi,  Antonio</composerName>
+                <workTitle>CONCERTO, MANDOLINS (2), G MAJOR, RV 532</workTitle>
+                <conductorName>Maderna, Bruno</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bolotine, Leonid</soloistName>
+                        <soloistInstrument>Mandolin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Glick, Jacob</soloistName>
+                        <soloistInstrument>Mandolin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51144*">
+                <composerName>Liszt,  Franz</composerName>
+                <workTitle>ORPHEUS (SYMPHONIC POEM NO. 4)</workTitle>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*1">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Andante con moto — Allegro un poco agitato</movement>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*2">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Vivace non troppo</movement>
+                <conductorName>Maderna, Bruno</conductorName>
+            </work>
+            <work ID="52575*4">
+                <composerName>Mendelssohn,  Felix</composerName>
+                <workTitle>SYMPHONY NO. 3, A MINOR, OP.56 (SCOTTISH)</workTitle>
+                <movement>Allegro vivacissimo — Allegro maestoso assai</movement>
+                <conductorName>Maderna, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -59515,7 +59515,7 @@
             </work>
             <work ID="53102*">
                 <composerName>Scriabin,  Alexander</composerName>
-                <workTitle>SYMPHONY NO. 4, "LE POEME D'EXTASE," OP. 54</workTitle>
+                <workTitle>SYMPHONY NO. 4, "LE POEME DE L'EXTASE," OP. 54</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
         </worksInfo>
@@ -70196,9 +70196,10 @@
                 <workTitle>SYMPHONY, OP. 21</workTitle>
                 <conductorName>Boulez, Pierre</conductorName>
             </work>
-            <work ID="2673*">
+            <work ID="2673*1">
                 <composerName>Boulez,  Pierre</composerName>
                 <workTitle>PLI SELON PLI: IMPROVISATIONS SUR MALLARME</workTitle>
+                <movement>"Le Vierge, le vivace et le bel aujourd'hui" [Improvisation I]</movement>
                 <conductorName>Boulez, Pierre</conductorName>
                 <soloists>
                     <soloist>
@@ -70232,7 +70233,7 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                     <soloist>
-                        <soloistName>Herman, Ben</soloistName>
+                        <soloistName>Herman, Benjamin</soloistName>
                         <soloistInstrument>Percussion</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
                     </soloist>
@@ -70252,6 +70253,66 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+            <work ID="2673*2">
+                <composerName>Boulez,  Pierre</composerName>
+                <workTitle>PLI SELON PLI: IMPROVISATIONS SUR MALLARME</workTitle>
+                <movement>"Une dentelle s'abolit" [Improvisation II]</movement>
+                <conductorName>Boulez, Pierre</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Bryn-Julson, Phyllis</soloistName>
+                        <soloistInstrument>Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Lang, Morris (Arnie)</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Harris, Herbert</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Gottlieb, Gordon</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Fitz, Richard</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Van Hyning, Howard</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Herman, Benjamin</soloistName>
+                        <soloistInstrument>Percussion</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Negri, Ruth</soloistName>
+                        <soloistInstrument>Harp</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Oppens, Ursula</soloistName>
+                        <soloistInstrument>Celeste</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Jacobs, Paul</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="*">
             </work>
             <work ID="53648*">
                 <composerName>Stravinsky,  Igor</composerName>
