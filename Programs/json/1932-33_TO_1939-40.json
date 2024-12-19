@@ -13936,57 +13936,6 @@
       ]
     },
     {
-      "id": "25b9af22-a5d1-450f-9173-b888d6ce2f7d-0.1",
-      "programID": "7110",
-      "orchestra": "New York Philharmonic",
-      "season": "1933-34",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1933-12-16T05:00:00Z",
-          "Time": "8:45PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "52437*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "347*",
-          "composerName": "Indy,  Vincent  d'",
-          "workTitle": "ISTAR: SYMPHONIC VARIATIONS, OP. 42",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "51944*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "DON JUAN, OP. 20",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "8834*3",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "OBERON",
-          "movement": "Overture",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "aa54f8b5-74bf-4665-a2ad-be4969eba960-0.1",
       "programID": "2107",
       "orchestra": "New York Philharmonic",
@@ -14071,6 +14020,57 @@
               "soloistRoles": "A"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "25b9af22-a5d1-450f-9173-b888d6ce2f7d-0.1",
+      "programID": "7110",
+      "orchestra": "New York Philharmonic",
+      "season": "1933-34",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1933-12-16T05:00:00Z",
+          "Time": "8:45PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "52437*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "347*",
+          "composerName": "Indy,  Vincent  d'",
+          "workTitle": "ISTAR: SYMPHONIC VARIATIONS, OP. 42",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "51944*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "DON JUAN, OP. 20",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "8834*3",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "OBERON",
+          "movement": "Overture",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
         }
       ]
     },
@@ -50565,54 +50565,6 @@
       ]
     },
     {
-      "id": "6ebd26fe-1726-4658-9731-8d423f0da844-0.1",
-      "programID": "12184",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1936-37",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Great Hall - City College",
-          "Date": "1937-07-11T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8834*3",
-          "composerName": "Weber,  Carl  Maria Von",
-          "workTitle": "OBERON",
-          "movement": "Overture",
-          "soloists": []
-        },
-        {
-          "ID": "52437*2",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
-          "movement": "Marcia funebre: Adagio assai",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50679*",
-          "composerName": "Walton,  William",
-          "workTitle": "FACADE (FAÇADE): SUITE NO. 1",
-          "soloists": []
-        },
-        {
-          "ID": "51581*",
-          "composerName": "Ravel,  Maurice",
-          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "464a2c62-14f3-4f87-8592-de5aa45f0938-0.1",
       "programID": "12183",
       "orchestra": "Stadium-NY Philharmonic",
@@ -50660,6 +50612,54 @@
           "composerName": "Ravel,  Maurice",
           "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
           "conductorName": "Reiner, Fritz",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "6ebd26fe-1726-4658-9731-8d423f0da844-0.1",
+      "programID": "12184",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1936-37",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Great Hall - City College",
+          "Date": "1937-07-11T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8834*3",
+          "composerName": "Weber,  Carl  Maria Von",
+          "workTitle": "OBERON",
+          "movement": "Overture",
+          "soloists": []
+        },
+        {
+          "ID": "52437*2",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+          "movement": "Marcia funebre: Adagio assai",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50679*",
+          "composerName": "Walton,  William",
+          "workTitle": "FACADE (FAÇADE): SUITE NO. 1",
+          "soloists": []
+        },
+        {
+          "ID": "51581*",
+          "composerName": "Ravel,  Maurice",
+          "workTitle": "DAPHNIS AND CHLOE: SUITE NO. 2",
           "soloists": []
         }
       ]
