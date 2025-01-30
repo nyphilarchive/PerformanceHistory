@@ -27189,6 +27189,31 @@
         </worksInfo>
     </program>
     <program>
+        <id>0cd6f264-775b-4ca4-8a8a-6b4cab5460a1-0.1</id>
+        <programID>8459</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1998-99</season>
+        <concertInfo>
+            <eventType>Tour</eventType>
+            <Location>Cologne, GERMANY</Location>
+            <Venue>Kölner Philharmonie</Venue>
+            <Date>1998-10-11T04:00:00Z</Date>
+            <Time>11:00AM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52389*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ba6270ff-c302-4c41-8c0a-8cd5a96f3aa7-0.1</id>
         <programID>8524</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -27236,31 +27261,6 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 4, F MINOR, OP. 36</workTitle>
                 <movement>Scherzo. Pizzicato ostinato: Allegro</movement>
-                <conductorName>Masur, Kurt</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>0cd6f264-775b-4ca4-8a8a-6b4cab5460a1-0.1</id>
-        <programID>8459</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1998-99</season>
-        <concertInfo>
-            <eventType>Tour</eventType>
-            <Location>Cologne, GERMANY</Location>
-            <Venue>Kölner Philharmonie</Venue>
-            <Date>1998-10-11T04:00:00Z</Date>
-            <Time>11:00AM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52389*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
-                <conductorName>Masur, Kurt</conductorName>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
                 <conductorName>Masur, Kurt</conductorName>
             </work>
         </worksInfo>
@@ -43781,7 +43781,7 @@
                 <conductorName>Masur, Kurt</conductorName>
             </work>
             <work ID="6709*16">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>FREISCHUTZ, DER</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Masur, Kurt</conductorName>
@@ -51267,38 +51267,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>5f882627-64e9-40df-b976-201f534fc2ba-0.1</id>
-        <programID>9032</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2001-02</season>
-        <concertInfo>
-            <eventType>Tour - Young People's Concerts for Schools</eventType>
-            <Location>Braunschweig, GERMANY</Location>
-            <Venue>Stadthalle</Venue>
-            <Date>2001-09-10T04:00:00Z</Date>
-            <Time>12:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1323*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>CONCERTO, VIOLIN, A MINOR, OP.53</workTitle>
-                <conductorName>Masur, Kurt</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Chang, Sarah</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51887*">
-                <composerName>Shostakovich,  Dmitri</composerName>
-                <workTitle>SYMPHONY NO.  1, OP. 10</workTitle>
-                <conductorName>Masur, Kurt</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>6bd5d3ee-293f-474e-a053-fe7d10e99798-0.1</id>
         <programID>9004</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -51353,6 +51321,38 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>5f882627-64e9-40df-b976-201f534fc2ba-0.1</id>
+        <programID>9032</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2001-02</season>
+        <concertInfo>
+            <eventType>Tour - Young People's Concerts for Schools</eventType>
+            <Location>Braunschweig, GERMANY</Location>
+            <Venue>Stadthalle</Venue>
+            <Date>2001-09-10T04:00:00Z</Date>
+            <Time>12:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="1323*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR, OP.53</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Chang, Sarah</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51887*">
+                <composerName>Shostakovich,  Dmitri</composerName>
+                <workTitle>SYMPHONY NO.  1, OP. 10</workTitle>
+                <conductorName>Masur, Kurt</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -52656,7 +52656,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="50714*">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>CONCERTO, CLARINET, NO. 1, F MINOR, OP. 73</workTitle>
                 <conductorName>Masur, Kurt</conductorName>
                 <soloists>
@@ -53294,7 +53294,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="8834*3">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>OBERON</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Jarvi [Järvi], Neeme</conductorName>
@@ -58711,7 +58711,7 @@
                 <movement>Overture</movement>
             </work>
             <work ID="6709*6">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>FREISCHUTZ, DER</workTitle>
                 <movement>Act III: Entr'acte</movement>
                 <conductorName>Masur, Kurt</conductorName>
@@ -61229,13 +61229,13 @@
         </concertInfo>
         <worksInfo>
             <work ID="8834*3">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>OBERON</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Maazel, Lorin</conductorName>
             </work>
             <work ID="8834*4">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>OBERON</workTitle>
                 <movement>"Ozean, du Ungeheuer" (Ocean, thou mighty monster), Reiza (Scene and Aria), Act II</movement>
                 <conductorName>Maazel, Lorin</conductorName>
@@ -73703,7 +73703,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="6709*16">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>FREISCHUTZ, DER</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Masur, Kurt</conductorName>
@@ -73744,7 +73744,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="6709*16">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>FREISCHUTZ, DER</workTitle>
                 <movement>Overture</movement>
                 <conductorName>Masur, Kurt</conductorName>
@@ -77924,7 +77924,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="50728*">
-                <composerName>Weber,  Carl  Maria Von</composerName>
+                <composerName>Weber,  Carl  Maria von</composerName>
                 <workTitle>INVITATION TO THE DANCE (ARR. Berlioz)</workTitle>
                 <conductorName>Tovey, Bramwell</conductorName>
             </work>
