@@ -12,7 +12,7 @@ import os.path
 # BL 20190528: added some error handling to deal with bad soloist data; changed the xml directory for running with Python 3 in Ubuntu app for Windows
 
 # create xml element
-os.chdir('PerformanceHistory/Programs/xml')
+os.chdir('Programs/xml')
 
 files = [g for g in os.listdir('.') if os.path.isfile(g)]
 for g in files:

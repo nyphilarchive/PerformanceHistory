@@ -11,8 +11,12 @@ The metadata here is released under the Creative Commons Public Domain [CC0](htt
 * To see detailed information about our internal descriptive standards, please go to http://archives.nyphil.org/index.php/help-performancehistory.
 
 ## Repository Contents
-The data is currently available as both XML and JSON.  In the *Programs* directory, you will find two directories, `xml` and `json`, each with a series of XML. The file called `complete.xml` (and `complete.json) contains every concert from December 7, 1842 to the present (it's possible that it could take up to a week for the latest program to be included). To allow for easier downloading and use, also available are segmented files determined by date ranges (each segment contains about 1,000 records).
+The data is currently available as both XML and JSON. In the top‑level `Programs` directory you will find:
+- `Programs/xml` — canonical XML files (`complete.xml` and segmented ranges)
+- `Programs/json` — JSON equivalents of the XML
 
+Only these canonical data outputs are tracked in Git. Raw Solr export files in `pre-transform/` are ignored.
+For updating the dataset, see `MAINTAINERS.md`. All scripts and tools live under `Scripts/` and `tools/` to keep the repository root focused on the data.
 The XML is structured in the following way:
 
 ```

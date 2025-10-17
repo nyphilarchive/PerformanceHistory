@@ -1,1 +1,11 @@
+# Node modules (Script/XmlToJson)
 node_modules
+
+# Local virtualenvs
+.venv/
+
+# Raw Solr exports (not tracked)
+pre-transform/*.xml
+
+# Local env file
+.env
