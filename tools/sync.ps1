@@ -14,7 +14,8 @@ if (Test-Path .env) {
 }
 
 if (-not $Solr -or $Solr -eq "") {
-  $Solr = "http://192.168.198.156:9993/solr/assets/select"
+  Write-Host "SOLR_URL is not set. Define it in .env or pass -Solr." -ForegroundColor Red
+  exit 1
 }
 
 Write-Host "Running full Performance History pipeline..." -ForegroundColor Cyan

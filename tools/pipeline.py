@@ -4,7 +4,7 @@ import os
 import sys
 import subprocess
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 try:
     import requests
@@ -133,7 +133,7 @@ def ensure_dirs():
     PROGRAMS_JSON_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def run(cmd: List[str], cwd: Path | None = None):
+def run(cmd: List[str], cwd: Optional[Path] = None):
     print(f"$ {' '.join(cmd)}")
     proc = subprocess.run(cmd, cwd=str(cwd) if cwd else None)
     if proc.returncode != 0:
@@ -255,7 +255,7 @@ def xml_to_json():
 
 def main():
     parser = argparse.ArgumentParser(description="NY Phil Performance History automation pipeline")
-    sub = parser.add_subparsers(dest="cmd", required=True)
+    sub = parser.add_subparsers(dest="cmd")
 
     p_all = sub.add_parser("all", help="Run full pipeline: download → transform → reformat → json")
     p_all.add_argument("--solr", default=DEFAULT_SOLR, help="Solr select URL")
@@ -268,6 +268,9 @@ def main():
     sub.add_parser("json", help="Convert Programs/xml/* to Programs/json/*")
 
     args = parser.parse_args()
+    if getattr(args, "cmd", None) is None:
+        parser.print_help()
+        sys.exit(2)
     ensure_dirs()
 
     if args.cmd == "download":

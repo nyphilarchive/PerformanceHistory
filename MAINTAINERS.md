@@ -19,12 +19,14 @@ Windows PowerShell:
 macOS/Linux:
 
 ```
-./tools/sync.sh  # optionally set SOLR_URL env var or ./.env
+./tools/sync.sh  # prefers Python 3.8; auto-creates .venv if needed; uses SOLR_URL or ./.env
 ```
 
-By default, the pipeline targets the internal Solr endpoint used in legacy scripts. Override with `-Solr` (PowerShell) or `SOLR_URL` (POSIX) if needed.
+Set the Solr endpoint via `SOLR_URL` (in `.env` or your environment) or pass `-Solr` to the PowerShell script. There is no built‑in default.
 
-Note: The sync scripts do not auto‑install Python packages. Ensure `requests>=2.31.0` is available in your interpreter (recommended: create a virtualenv and `pip install -r requirements.txt`).
+Notes:
+- The POSIX sync script prefers Python 3.8 when available. If an existing `.venv` uses <3.8 and `python3.8` is present, it will recreate `.venv` with 3.8.
+- It auto‑creates `.venv` and installs minimal Python deps (from `requirements.txt`) if missing. The PowerShell variant does not auto‑create by default; use a venv if needed.
 
 ### Environment configuration
 
