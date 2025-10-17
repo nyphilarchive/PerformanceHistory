@@ -1429,7 +1429,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1940-12-09T05:00:00Z</Date>
             <Time>3:45PM</Time>
         </concertInfo>
@@ -1566,52 +1566,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a4471f87-6a93-44f5-8dfb-ec4c5f992379-0.1</id>
-        <programID>4798</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1940-41</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1940-12-14T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="1271*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>ABDUCTION FROM THE SERAGLIO, THE: OVERTURE, K.384 (ARR. Unspecified)</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="3252*">
-                <composerName>Elgar,  Sir  Edward</composerName>
-                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Corigliano, John, Sr.</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52830*2">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>KING LEAR: INCIDENTAL MUSIC (ARR. Roger-Ducasse)</workTitle>
-                <movement>II. Le sommeil de Lear [Lear Asleep]</movement>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>91c78d03-54cd-476a-b27e-1135ae417bc7-0.1</id>
         <programID>2490</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1664,6 +1618,52 @@
                 <workTitle>TANNHAUSER, WWV 70</workTitle>
                 <movement>Overture To <em>Tannhäuser</em></movement>
                 <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a4471f87-6a93-44f5-8dfb-ec4c5f992379-0.1</id>
+        <programID>4798</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1940-41</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1940-12-14T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="1271*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>ABDUCTION FROM THE SERAGLIO, THE: OVERTURE, K.384 (ARR. Unspecified)</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="3252*">
+                <composerName>Elgar,  Sir  Edward</composerName>
+                <workTitle>CONCERTO, VIOLIN, B MINOR, OP.61</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Corigliano, John, Sr.</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52830*2">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>KING LEAR: INCIDENTAL MUSIC (ARR. Roger-Ducasse)</workTitle>
+                <movement>II. Le sommeil de Lear [Lear Asleep]</movement>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -3472,7 +3472,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1941-02-17T05:00:00Z</Date>
             <Time>3:45PM</Time>
         </concertInfo>
@@ -3504,7 +3504,7 @@
                 <conductorName>Ganz, Rudolph</conductorName>
             </work>
             <work ID="5114*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1 (XYLOPHONE SOLO) (ARR. Russotto)</workTitle>
                 <conductorName>Ganz, Rudolph</conductorName>
                 <soloists>
@@ -6172,7 +6172,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Ross, Hugh</conductorName>
             </work>
@@ -8472,7 +8472,7 @@
                 <conductorName>Stewart, Reginald</conductorName>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Stewart, Reginald</conductorName>
             </work>
@@ -9679,7 +9679,7 @@
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
             <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
                 <soloists>
@@ -9846,7 +9846,7 @@
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
             <work ID="53450*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>MOTO PERPETUO, IN C MAJOR, OP. 11 (ORCH) (ARR. Molinari)</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
@@ -14956,46 +14956,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>480ac5b4-a1d8-4f49-b33f-2ae256add1d5-0.1</id>
-        <programID>6862</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1941-42</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1942-03-28T04:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50014*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-            <work ID="4073*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Barbirolli , John</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>1aaa7ea2-2225-4d16-92af-2850ecc6ae32-0.1</id>
         <programID>1020</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -15066,6 +15026,46 @@
                 <workTitle>AGE OF GOLD, THE, OP. 22A: SUITE</workTitle>
                 <movement>Polka (Allegretto)</movement>
                 <conductorName>Ganz, Rudolph</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>480ac5b4-a1d8-4f49-b33f-2ae256add1d5-0.1</id>
+        <programID>6862</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1941-42</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1942-03-28T04:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50014*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>NUTCRACKER, THE: SUITE, OP. 71A</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+            </work>
+            <work ID="4073*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.35</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Barbirolli , John</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -16114,7 +16114,7 @@
             </work>
             <work ID="9123*">
                 <composerName>Chopin,  Frédéric</composerName>
-                <workTitle>NOCTURNE, E-FLAT MAJOR (VIOLIN+PIANO) (ARR. Sarasate)</workTitle>
+                <workTitle>NOCTURNE, E-FLAT MAJOR (VIOLIN + PIANO) (ARR. Sarasate)</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>Spalding, Albert</soloistName>
@@ -19306,7 +19306,7 @@
                 <conductorName>Dixon, Dean</conductorName>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Dixon, Dean</conductorName>
             </work>
@@ -19425,7 +19425,7 @@
             </work>
             <work ID="5355*2">
                 <composerName>Quilter,  Roger</composerName>
-                <workTitle>THREE SONGS, OP. 3 (VOICE+PIANO)</workTitle>
+                <workTitle>THREE SONGS, OP. 3 (VOICE + PIANO)</workTitle>
                 <movement>Now sleeps the crimson petal</movement>
                 <soloists>
                     <soloist>
@@ -20617,7 +20617,7 @@
                 </soloists>
             </work>
             <work ID="5385*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>DANZA, LA (FOR FOUR PIANOS) (ARR. Liszt)</workTitle>
                 <soloists>
                     <soloist>
@@ -21793,7 +21793,7 @@
                 </soloists>
             </work>
             <work ID="4201*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN [ONE MOVEMENT, UNSPECIFIED] (ARR. Wilhelmj)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
                 <soloists>
@@ -24850,7 +24850,7 @@
             </work>
             <work ID="52594*">
                 <composerName>Debussy,  Claude</composerName>
-                <workTitle>FANTASIE FOR PIANO AND ORCHESTRA</workTitle>
+                <workTitle>FANTAISIE FOR PIANO AND ORCHESTRA</workTitle>
                 <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
@@ -26661,6 +26661,64 @@
         </worksInfo>
     </program>
     <program>
+        <id>d34e64cd-73ec-48be-beea-6bcaacc130e8-0.1</id>
+        <programID>6002</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1943-06-27T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53732*">
+                <composerName>Prokofiev,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 1, OP. 25 (CLASSICAL)</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work ID="1847*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 3, C MINOR, OP. 37</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Rubinstein, Artur</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="7162*1">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>TWO DANCES (ARR. Ravel)</workTitle>
+                <movement>Danse</movement>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work ID="50812*">
+                <composerName>Kennan,  Kent</composerName>
+                <workTitle>NIGHT SOLILOQUY</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Wummer, John</soloistName>
+                        <soloistInstrument>Flute</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="11775*">
+                <composerName>Falla,  Manuel  de</composerName>
+                <workTitle>THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>43bc0e76-c844-4758-8734-088d1509769e-0.1</id>
         <programID>10742</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -26730,64 +26788,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>d34e64cd-73ec-48be-beea-6bcaacc130e8-0.1</id>
-        <programID>6002</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1943-06-27T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53732*">
-                <composerName>Prokofiev,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 1, OP. 25 (CLASSICAL)</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work ID="1847*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 3, C MINOR, OP. 37</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Rubinstein, Artur</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="7162*1">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>TWO DANCES (ARR. Ravel)</workTitle>
-                <movement>Danse</movement>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work ID="50812*">
-                <composerName>Kennan,  Kent</composerName>
-                <workTitle>NIGHT SOLILOQUY</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Wummer, John</soloistName>
-                        <soloistInstrument>Flute</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="11775*">
-                <composerName>Falla,  Manuel  de</composerName>
-                <workTitle>THREE-CORNERED HAT (EL SOMBRERO DE TRES PICOS), SUITE NO. 2</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -29084,7 +29084,7 @@
                 </soloists>
             </work>
             <work ID="4032*3">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 2, B MINOR, OP.7</workTitle>
                 <movement>Rondo</movement>
                 <conductorName>Kurtz, Efrem</conductorName>
@@ -29725,7 +29725,7 @@
                 <conductorName>Cooper, Emil</conductorName>
             </work>
             <work ID="1895*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>MOTO PERPETUO, IN C MAJOR, OP. 11 (ORCH) (ARR. Cooper)</workTitle>
                 <conductorName>Cooper, Emil</conductorName>
             </work>
@@ -35642,6 +35642,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1</id>
+        <programID>10784</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1944-06-25T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3453*1">
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>GAZZA LADRA, LA</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="51461*">
+                <composerName>Bizet,  Georges</composerName>
+                <workTitle>L'ARLESIENNE: SUITE NO. 1</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="1907*">
+                <composerName>Moross,  Jerome</composerName>
+                <workTitle>SYMPHONY NO. 1</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="3093*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, G MINOR, OP. 22</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>811c0652-5d47-43e0-b088-6492a2831fe9-0.1</id>
         <programID>4570</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -35684,45 +35723,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1</id>
-        <programID>10784</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1944-06-25T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3453*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>GAZZA LADRA, LA</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="51461*">
-                <composerName>Bizet,  Georges</composerName>
-                <workTitle>L'ARLESIENNE: SUITE NO. 1</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="1907*">
-                <composerName>Moross,  Jerome</composerName>
-                <workTitle>SYMPHONY NO. 1</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3093*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 2, G MINOR, OP. 22</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -36325,6 +36325,44 @@
         </worksInfo>
     </program>
     <program>
+        <id>e47e9fb0-de27-4796-bff6-fbad0be58a47-0.1</id>
+        <programID>10796</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1944-07-09T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52361*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
+                <conductorName>Golschmann, Vladimir</conductorName>
+            </work>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Golschmann, Vladimir</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51938*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
+                <conductorName>Golschmann, Vladimir</conductorName>
+            </work>
+            <work ID="2316*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>BOLERO [BOLÉRO]</workTitle>
+                <conductorName>Golschmann, Vladimir</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4004f817-4e02-452a-b9dc-db756be20b52-0.1</id>
         <programID>4996</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -36377,44 +36415,6 @@
                 <composerName>Strauss,  Richard</composerName>
                 <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
                 <conductorName>Reiner, Fritz</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>e47e9fb0-de27-4796-bff6-fbad0be58a47-0.1</id>
-        <programID>10796</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1944-07-09T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52361*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CORIOLAN OVERTURE, OP. 62</workTitle>
-                <conductorName>Golschmann, Vladimir</conductorName>
-            </work>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Golschmann, Vladimir</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51938*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DEATH AND TRANSFIGURATION (TOD UND VERKLARUNG), OP. 24</workTitle>
-                <conductorName>Golschmann, Vladimir</conductorName>
-            </work>
-            <work ID="2316*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>BOLERO [BOLÉRO]</workTitle>
-                <conductorName>Golschmann, Vladimir</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -37590,39 +37590,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1</id>
-        <programID>5012</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1944-07-30T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="51291*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53988*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>9a6136e3-3b3f-4c30-9663-58ec69bb53e7-0.1</id>
         <programID>10834</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -37664,6 +37631,39 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1</id>
+        <programID>5012</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1944-07-30T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="51291*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53988*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -37911,6 +37911,40 @@
         </worksInfo>
     </program>
     <program>
+        <id>25eb96ce-9054-4915-8c24-62b815be2227-0.1</id>
+        <programID>10841</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1944-08-06T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52364*1">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>EGMONT, OP.84</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work ID="52429*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>062a7ffe-2515-420a-ac8f-fdd079016343-0.1</id>
         <programID>5444</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -37947,40 +37981,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>25eb96ce-9054-4915-8c24-62b815be2227-0.1</id>
-        <programID>10841</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1944-08-06T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52364*1">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>EGMONT, OP.84</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="52429*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 1 IN C MAJOR, OP.21</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -41863,7 +41863,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
                 <soloists>
@@ -41994,7 +41994,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
                 <soloists>
@@ -45412,45 +45412,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>71994e7a-fa1a-4e84-9d12-815546cce8c9-0.1</id>
-        <programID>667</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1945-07-01T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51289*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
-                <conductorName>Rodzinski, Artur</conductorName>
-            </work>
-            <work ID="9007*17">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
-                <movement>Prelude to Act I</movement>
-                <conductorName>Rodzinski, Artur</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Rodzinski, Artur</conductorName>
-            </work>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Rodzinski, Artur</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>f1f2eacf-5bfe-4f4e-9358-178f54c999f7-0.1</id>
         <programID>10894</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -45815,6 +45776,45 @@
                         <soloistRoles>A</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>71994e7a-fa1a-4e84-9d12-815546cce8c9-0.1</id>
+        <programID>667</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1945-07-01T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51289*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SERENADE NO. 13, G MAJOR, K.525, "EINE KLEINE NACHTMUSIK"</workTitle>
+                <conductorName>Rodzinski, Artur</conductorName>
+            </work>
+            <work ID="9007*17">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>MEISTERSINGER, DIE, WWV 96</workTitle>
+                <movement>Prelude to Act I</movement>
+                <conductorName>Rodzinski, Artur</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Rodzinski, Artur</conductorName>
+            </work>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Rodzinski, Artur</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -46189,6 +46189,56 @@
         </worksInfo>
     </program>
     <program>
+        <id>89607b6d-9608-4728-9b36-43d249f49c3f-0.1</id>
+        <programID>11112</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1945-07-08T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="402*">
+                <composerName>Shostakovich,  Dmitri</composerName>
+                <workTitle>SYMPHONY NO.  5, D MINOR, OP. 47</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="51415*">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>FANCY FREE, SUITE</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52345*3">
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>RODEO, FOUR DANCE EPISODES</workTitle>
+                <movement>Saturday Night Waltz</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52345*4">
+                <composerName>Copland,  Aaron</composerName>
+                <workTitle>RODEO, FOUR DANCE EPISODES</workTitle>
+                <movement>Hoe-Down</movement>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="52611*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>ADAGIO FOR STRINGS</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+            <work ID="2044*">
+                <composerName>Sousa,  John  Philip</composerName>
+                <workTitle>WASHINGTON POST</workTitle>
+                <conductorName>Bernstein, Leonard</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>ebeb4110-3a56-4f2d-8442-65321195df62-0.1</id>
         <programID>668</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -46237,56 +46287,6 @@
                 <composerName>Anthem,</composerName>
                 <workTitle>UNITED STATES</workTitle>
                 <conductorName>Szell, George</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>89607b6d-9608-4728-9b36-43d249f49c3f-0.1</id>
-        <programID>11112</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1945-07-08T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="402*">
-                <composerName>Shostakovich,  Dmitri</composerName>
-                <workTitle>SYMPHONY NO.  5, D MINOR, OP. 47</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="51415*">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>FANCY FREE, SUITE</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52345*3">
-                <composerName>Copland,  Aaron</composerName>
-                <workTitle>RODEO, FOUR DANCE EPISODES</workTitle>
-                <movement>Saturday Night Waltz</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52345*4">
-                <composerName>Copland,  Aaron</composerName>
-                <workTitle>RODEO, FOUR DANCE EPISODES</workTitle>
-                <movement>Hoe-Down</movement>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="52611*">
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>ADAGIO FOR STRINGS</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
-            </work>
-            <work ID="2044*">
-                <composerName>Sousa,  John  Philip</composerName>
-                <workTitle>WASHINGTON POST</workTitle>
-                <conductorName>Bernstein, Leonard</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -47187,44 +47187,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>0d4320e4-e41e-4d60-8481-52d6a7f75e5a-0.1</id>
-        <programID>675</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1945-07-29T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3610*">
-                <composerName>Bach,  Johann  Sebastian</composerName>
-                <workTitle>TOCCATA, C MAJOR, BWV 564 (ARR. Ormandy)</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work ID="51892*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52446*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Ormandy, Eugene</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>70040987-b506-41f4-bb1b-09afd76388ea-0.1</id>
         <programID>11251</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -47542,6 +47504,44 @@
         </worksInfo>
     </program>
     <program>
+        <id>0d4320e4-e41e-4d60-8481-52d6a7f75e5a-0.1</id>
+        <programID>675</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1945-07-29T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3610*">
+                <composerName>Bach,  Johann  Sebastian</composerName>
+                <workTitle>TOCCATA, C MAJOR, BWV 564 (ARR. Ormandy)</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work ID="51892*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52446*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 5 IN C MINOR, OP.67</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Ormandy, Eugene</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>dd217cc9-861f-4def-9fd5-c3b66c13b713-0.1</id>
         <programID>11253</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -47771,6 +47771,45 @@
         </worksInfo>
     </program>
     <program>
+        <id>b3586d17-6431-49a2-bcee-6fe208522028-0.1</id>
+        <programID>11259</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1945-08-05T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52453*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="3395*">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work ID="9004*14">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
+                <movement>Prelude and Liebestod (with or without soloist)</movement>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+            <work ID="51944*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>DON JUAN, OP. 20</workTitle>
+                <conductorName>Smallens, Alexander</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>d8c0299a-bda1-4225-b957-12d5036a48c9-0.1</id>
         <programID>1090</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -47817,45 +47856,6 @@
                 <composerName>Anthem,</composerName>
                 <workTitle>UNITED STATES</workTitle>
                 <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>b3586d17-6431-49a2-bcee-6fe208522028-0.1</id>
-        <programID>11259</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1945-08-05T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52453*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>SYMPHONY NO. 7 IN A MAJOR, OP.92</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3395*">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>ROMAN CARNIVAL OVERTURE (LE CARNAVAL ROMAIN)</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="9004*14">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>TRISTAN UND ISOLDE, WWV 90</workTitle>
-                <movement>Prelude and Liebestod (with or without soloist)</movement>
-                <conductorName>Smallens, Alexander</conductorName>
-            </work>
-            <work ID="51944*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>DON JUAN, OP. 20</workTitle>
-                <conductorName>Smallens, Alexander</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -48178,46 +48178,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>01682880-9566-4c2a-842a-cd37ae33319b-0.1</id>
-        <programID>1093</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1944-45</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1945-08-12T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50322*">
-                <composerName>Vaughan Williams,  Ralph</composerName>
-                <workTitle>SYMPHONY NO. 4 IN F MINOR</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="1108*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Sandor, Gyorgy</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>32084220-4fc5-45e7-9e6b-e1efb894bbf4-0.1</id>
         <programID>11265</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -48300,6 +48260,46 @@
                 <composerName>Franck,  César</composerName>
                 <workTitle>SYMPHONY IN D MINOR</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>01682880-9566-4c2a-842a-cd37ae33319b-0.1</id>
+        <programID>1093</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1944-45</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1945-08-12T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50322*">
+                <composerName>Vaughan Williams,  Ralph</composerName>
+                <workTitle>SYMPHONY NO. 4 IN F MINOR</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="1108*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, C MINOR, OP. 18</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Sandor, Gyorgy</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -51096,7 +51096,7 @@
             </work>
             <work ID="2616*">
                 <composerName>Purcell,  Henry</composerName>
-                <workTitle>DIDO'S LAMENT</workTitle>
+                <workTitle>DIDO'S LAMENT (VIOLA AND ORCHESTRA)</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
                 <soloists>
                     <soloist>
@@ -51242,7 +51242,7 @@
                 </soloists>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -51282,7 +51282,7 @@
                 </soloists>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Rodzinski, Artur</conductorName>
             </work>
@@ -53060,7 +53060,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Warnow, Mark</conductorName>
             </work>
@@ -53137,7 +53137,7 @@
                 </soloists>
             </work>
             <work ID="4032*3">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 2, B MINOR, OP.7</workTitle>
                 <movement>Rondo</movement>
                 <conductorName>Fendler, Edvard</conductorName>
@@ -56642,7 +56642,7 @@
                 <conductorName>Abravanel, Maurice</conductorName>
             </work>
             <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
                 <conductorName>Abravanel, Maurice</conductorName>
                 <soloists>
@@ -57728,7 +57728,7 @@
                 </soloists>
             </work>
             <work ID="9611*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>MOTO PERPETUO, IN C MAJOR, OP. 11 (VIOLIN/ORCH)</workTitle>
                 <conductorName>Broekman, David</conductorName>
                 <soloists>
@@ -58656,7 +58656,7 @@
             </work>
             <work ID="10533*">
                 <composerName>Rimsky-Korsakov,  Nikolai</composerName>
-                <workTitle>TALE OF TSAR SALTAN, THE, OP. 57: FLIGHT OF THE BUMBLEBEE ( FLUTE+ORCH) (ARR. Unspecified)</workTitle>
+                <workTitle>TALE OF TSAR SALTAN, THE, OP. 57: FLIGHT OF THE BUMBLEBEE (FLUTE + ORCH) (ARR. Unspecified)</workTitle>
                 <conductorName>Kreutz, Arthur</conductorName>
             </work>
             <work ID="0*">
@@ -59480,7 +59480,7 @@
         </concertInfo>
         <worksInfo>
             <work ID="50323*">
-                <composerName>Enesco,  Georges</composerName>
+                <composerName>Enescu,  Georges</composerName>
                 <workTitle>ROMANIAN RHAPSODY, OP. 11, NO. 1</workTitle>
                 <conductorName>Lavalle, Paul</conductorName>
             </work>
@@ -61174,7 +61174,7 @@
                 <interval>Intermission</interval>
             </work>
             <work ID="2237*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CAPRICE, A MINOR, VARIATIONS (FOUR PIANOS), OP. 1 (ARR. Unspecified)</workTitle>
                 <soloists>
                     <soloist>
@@ -72079,7 +72079,7 @@
                 <conductorName>Lavalle, Paul</conductorName>
             </work>
             <work ID="2881*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CONCERTO, VIOLIN, NO. 1, D MAJOR, OP. 6</workTitle>
                 <conductorName>Lavalle, Paul</conductorName>
                 <soloists>
@@ -72379,7 +72379,7 @@
                 <conductorName>Korn, Richard</conductorName>
             </work>
             <work ID="2541*">
-                <composerName>Paganini,  Nicolò</composerName>
+                <composerName>Paganini,  Niccolò</composerName>
                 <workTitle>CAPRICE NO. 24 (TWO PIANOS), OP. 1 (ARR. Whittemore and Lowe)</workTitle>
                 <conductorName>Korn, Richard</conductorName>
                 <soloists>
