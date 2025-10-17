@@ -27,35 +27,42 @@ let parser = new xml2js.Parser({
  *  a separate data structure instead.
  */
 function restructureNestedLists(result) {
-  result.programs = result.programs.program;
+  // Ensure programs is always an array
+  if (!result || !result.programs) {
+    result = { programs: [] };
+  } else if (result.programs && result.programs.program) {
+    result.programs = [].concat(result.programs.program);
+  } else if (Array.isArray(result.programs)) {
+    // already an array
+  } else {
+    result.programs = [];
+  }
 
-  for(var i = 0, l1 = result.programs.length; i < l1; i++) {
+  for (var i = 0, l1 = result.programs.length; i < l1; i++) {
     // Fix concerts
-    if(result.programs[i].concertInfo) {
+    if (result.programs[i].concertInfo) {
       result.programs[i].concerts = [].concat(result.programs[i].concertInfo);
-      delete result.programs[i].concertInfo;
     } else {
       result.programs[i].concerts = [];
-      delete result.programs[i].concertInfo;
     }
+    delete result.programs[i].concertInfo;
 
     // Fix works
-    if(result.programs[i].worksInfo.work) {
+    if (result.programs[i].worksInfo && result.programs[i].worksInfo.work) {
       result.programs[i].works = [].concat(result.programs[i].worksInfo.work);
-      delete result.programs[i].worksInfo;
-
-      if(result.programs[i].works) {
-        for(var j = 0, l2 = result.programs[i].works.length; j < l2; j++) {
-          if(result.programs[i].works[j].soloists) {
-            result.programs[i].works[j].soloists = [].concat(result.programs[i].works[j].soloists.soloist);
-          } else {
-            result.programs[i].works[j].soloists = [];
-          }
-        }
-      }
     } else {
       result.programs[i].works = [];
-      delete result.programs[i].worksInfo;
+    }
+    delete result.programs[i].worksInfo;
+
+    if (result.programs[i].works) {
+      for (var j = 0, l2 = result.programs[i].works.length; j < l2; j++) {
+        if (result.programs[i].works[j].soloists && result.programs[i].works[j].soloists.soloist) {
+          result.programs[i].works[j].soloists = [].concat(result.programs[i].works[j].soloists.soloist);
+        } else {
+          result.programs[i].works[j].soloists = [];
+        }
+      }
     }
   }
   return result;
@@ -85,4 +92,3 @@ glob('*.xml', {cwd: `${RELATIVE_PROGRAM_ROOT}/xml`}, function(err, data) {
     });
   });
 });
-
