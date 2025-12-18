@@ -27355,56 +27355,6 @@
       ]
     },
     {
-      "id": "e5219703-190d-4d61-844b-7d81300078d7-0.1",
-      "programID": "10823",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1949-50",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1950-06-20T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "8999*9",
-          "composerName": "Wagner,  Richard",
-          "workTitle": "LOHENGRIN",
-          "movement": "Act III: Introduction",
-          "conductorName": "Kurtz, Efrem",
-          "soloists": []
-        },
-        {
-          "ID": "2068*",
-          "composerName": "Beethoven,  Ludwig  van",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
-          "conductorName": "Kurtz, Efrem",
-          "soloists": [
-            {
-              "soloistName": "Spalding, Albert",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "50068*",
-          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
-          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
-          "conductorName": "Kurtz, Efrem",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "7b56ab6b-4844-40bc-b5a3-f23eaa594deb-0.1",
       "programID": "10824",
       "orchestra": "Stadium-NY Philharmonic",
@@ -27466,6 +27416,56 @@
           "composerName": "Berlioz,  Hector",
           "workTitle": "DAMNATION DE FAUST, LA, OP. 24",
           "movement": "Rakoczy March (Hungarian March)",
+          "conductorName": "Kurtz, Efrem",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "e5219703-190d-4d61-844b-7d81300078d7-0.1",
+      "programID": "10823",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1949-50",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1950-06-20T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "8999*9",
+          "composerName": "Wagner,  Richard",
+          "workTitle": "LOHENGRIN",
+          "movement": "Act III: Introduction",
+          "conductorName": "Kurtz, Efrem",
+          "soloists": []
+        },
+        {
+          "ID": "2068*",
+          "composerName": "Beethoven,  Ludwig  van",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+          "conductorName": "Kurtz, Efrem",
+          "soloists": [
+            {
+              "soloistName": "Spalding, Albert",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "50068*",
+          "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+          "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
           "conductorName": "Kurtz, Efrem",
           "soloists": []
         }
@@ -33581,7 +33581,7 @@
           "ID": "53976*45",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Recitative (Bass): Behold, I tell you a mystery",
+          "movement": "Recitative (Bass-Baritone): Behold, I tell you a mystery",
           "conductorName": "MacMillan, Ernest",
           "soloists": [
             {
@@ -33595,7 +33595,7 @@
           "ID": "53976*46",
           "composerName": "Handel,  George  Frideric",
           "workTitle": "MESSIAH",
-          "movement": "Air (Bass): The trumpet shall sound",
+          "movement": "Air (Bass-Baritone): The trumpet shall sound",
           "conductorName": "MacMillan, Ernest",
           "soloists": [
             {
@@ -43746,7 +43746,7 @@
         {
           "eventType": "Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Town Hall",
+          "Venue": "The Town Hall",
           "Date": "1951-12-15T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -64927,7 +64927,7 @@
         {
           "eventType": "Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Town Hall",
+          "Venue": "The Town Hall",
           "Date": "1953-12-26T05:00:00Z",
           "Time": "3:00PM"
         }
@@ -73568,7 +73568,7 @@
         {
           "eventType": "Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Town Hall",
+          "Venue": "The Town Hall",
           "Date": "1954-10-09T05:00:00Z",
           "Time": "3:00PM"
         }

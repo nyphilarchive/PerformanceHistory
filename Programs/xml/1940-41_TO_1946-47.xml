@@ -13419,7 +13419,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1942-01-19T05:00:00Z</Date>
             <Time>3:45PM</Time>
         </concertInfo>
@@ -19941,6 +19941,13 @@
                 <composerName>Khachaturian,  Aram</composerName>
                 <workTitle>CONCERTO, PIANO</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Kapell, William</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
             </work>
             <work ID="0*">
                 <interval>Intermission</interval>
@@ -28771,6 +28778,44 @@
         </worksInfo>
     </program>
     <program>
+        <id>673f96e4-4fd7-4d26-bf52-f0ac0042a310-0.1</id>
+        <programID>10762</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1942-43</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1943-07-25T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="52389*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
+                <conductorName>Horenstein, Jascha</conductorName>
+            </work>
+            <work ID="52618*">
+                <composerName>Barber,  Samuel</composerName>
+                <workTitle>ESSAY NO. 2, OP.17</workTitle>
+                <conductorName>Horenstein, Jascha</conductorName>
+            </work>
+            <work ID="715*">
+                <composerName>Ravel,  Maurice</composerName>
+                <workTitle>VALSE, LA</workTitle>
+                <conductorName>Horenstein, Jascha</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50070*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
+                <conductorName>Horenstein, Jascha</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>c54070c1-199e-4084-870f-62f73047fc0d-0.1</id>
         <programID>6395</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -28807,44 +28852,6 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>673f96e4-4fd7-4d26-bf52-f0ac0042a310-0.1</id>
-        <programID>10762</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1942-43</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1943-07-25T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="52389*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>LEONORE OVERTURE NO. 3, OP. 72B</workTitle>
-                <conductorName>Horenstein, Jascha</conductorName>
-            </work>
-            <work ID="52618*">
-                <composerName>Barber,  Samuel</composerName>
-                <workTitle>ESSAY NO. 2, OP.17</workTitle>
-                <conductorName>Horenstein, Jascha</conductorName>
-            </work>
-            <work ID="715*">
-                <composerName>Ravel,  Maurice</composerName>
-                <workTitle>VALSE, LA</workTitle>
-                <conductorName>Horenstein, Jascha</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50070*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
-                <conductorName>Horenstein, Jascha</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -35642,45 +35649,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1</id>
-        <programID>10784</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1944-06-25T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3453*1">
-                <composerName>Rossini,  Gioachino</composerName>
-                <workTitle>GAZZA LADRA, LA</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="51461*">
-                <composerName>Bizet,  Georges</composerName>
-                <workTitle>L'ARLESIENNE: SUITE NO. 1</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="1907*">
-                <composerName>Moross,  Jerome</composerName>
-                <workTitle>SYMPHONY NO. 1</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="3093*">
-                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
-                <workTitle>CONCERTO, PIANO, NO. 2, G MINOR, OP. 22</workTitle>
-                <conductorName>Beecham, Thomas</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>811c0652-5d47-43e0-b088-6492a2831fe9-0.1</id>
         <programID>4570</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -35723,6 +35691,45 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1</id>
+        <programID>10784</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1944-06-25T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3453*1">
+                <composerName>Rossini,  Gioachino</composerName>
+                <workTitle>GAZZA LADRA, LA</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="51461*">
+                <composerName>Bizet,  Georges</composerName>
+                <workTitle>L'ARLESIENNE: SUITE NO. 1</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="1907*">
+                <composerName>Moross,  Jerome</composerName>
+                <workTitle>SYMPHONY NO. 1</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="3093*">
+                <composerName>Saint-Saens [Saint-Saëns],  Camille</composerName>
+                <workTitle>CONCERTO, PIANO, NO. 2, G MINOR, OP. 22</workTitle>
+                <conductorName>Beecham, Thomas</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -37590,6 +37597,39 @@
         </worksInfo>
     </program>
     <program>
+        <id>8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1</id>
+        <programID>5012</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1943-44</season>
+        <concertInfo>
+            <eventType>Summer Broadcast Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1944-07-30T04:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="3965*">
+                <composerName>Anthem,</composerName>
+                <workTitle>UNITED STATES</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="51291*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="53988*">
+                <composerName>Rachmaninoff,  Sergei</composerName>
+                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
+                <conductorName>Mitropoulos, Dimitri</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>9a6136e3-3b3f-4c30-9663-58ec69bb53e7-0.1</id>
         <programID>10834</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -37631,39 +37671,6 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
                 <conductorName>Smallens, Alexander</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1</id>
-        <programID>5012</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1943-44</season>
-        <concertInfo>
-            <eventType>Summer Broadcast Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1944-07-30T04:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="3965*">
-                <composerName>Anthem,</composerName>
-                <workTitle>UNITED STATES</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="51291*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>ISLE OF THE DEAD, OP. 29</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="53988*">
-                <composerName>Rachmaninoff,  Sergei</composerName>
-                <workTitle>SYMPHONY NO. 2, E MINOR, OP. 27</workTitle>
-                <conductorName>Mitropoulos, Dimitri</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -55327,13 +55334,13 @@
             <work ID="51807*">
                 <composerName>Brahms,  Johannes</composerName>
                 <workTitle>ACADEMIC FESTIVAL OVERTURE, OP.80</workTitle>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
             </work>
             <work ID="150*3">
                 <composerName>Schubert,  Franz</composerName>
                 <workTitle>ELLENSGESANG I-III, D.837-839 (ARR. Unspecified)</workTitle>
                 <movement>Ave Maria</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Merriman, Nan</soloistName>
@@ -55346,7 +55353,7 @@
                 <composerName>Donizetti,  Gaetano</composerName>
                 <workTitle>LA FAVORITA</workTitle>
                 <movement>"O mio Fernando," Leonora di Gusman (aria)</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Merriman, Nan</soloistName>
@@ -55359,7 +55366,7 @@
                 <composerName>Bizet,  Georges</composerName>
                 <workTitle>CARMEN</workTitle>
                 <movement>Habañera ("Quand je vous aimerai?...L'amour est un oiseau rebelle")</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Merriman, Nan</soloistName>
@@ -55372,7 +55379,7 @@
                 <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
                 <workTitle>SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)</workTitle>
                 <movement>Allegro molto vivace</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
             </work>
             <work ID="0*">
                 <interval>Intermission</interval>
@@ -55381,12 +55388,12 @@
                 <composerName>Wolf-Ferrari,  Ermanno</composerName>
                 <workTitle>THE SECRET OF SUZANNE</workTitle>
                 <movement>Overture</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
             </work>
             <work ID="3281*">
                 <composerName>Rachmaninoff,  Sergei</composerName>
                 <workTitle>CONCERTO, PIANO, NO. 1, F SHARP MINOR, OP.1</workTitle>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Brenner, Vladimir</soloistName>
@@ -55402,13 +55409,13 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SLAVONIC DANCES [UNSPECIFIED]</workTitle>
                 <movement>Unspecified</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
             </work>
             <work ID="2856*6">
                 <composerName>Gounod,  Charles</composerName>
                 <workTitle>FAUST</workTitle>
                 <movement>"Avant de quitter ces lieux," Valentin (air)</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Raitt, John</soloistName>
@@ -55421,7 +55428,7 @@
                 <composerName>Rossini,  Gioachino</composerName>
                 <workTitle>BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)</workTitle>
                 <movement>"Largo al factotum," Figaro (aria)</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Raitt, John</soloistName>
@@ -55434,7 +55441,7 @@
                 <composerName>Rodgers,  Richard</composerName>
                 <workTitle>CAROUSEL</workTitle>
                 <movement>"If I Loved You"</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
                 <soloists>
                     <soloist>
                         <soloistName>Raitt, John</soloistName>
@@ -55447,7 +55454,7 @@
                 <composerName>Dvorak,  Antonín</composerName>
                 <workTitle>SYMPHONY NO. 5, F MAJOR, OP.76 (OLD NO. 3)</workTitle>
                 <movement>Finale. Allegro molto</movement>
-                <conductorName>Landau, Siefrried</conductorName>
+                <conductorName>Landau, Siegfried</conductorName>
             </work>
         </worksInfo>
     </program>

@@ -15758,7 +15758,7 @@
         {
           "eventType": "Young People's Concert",
           "Location": "Manhattan, NY",
-          "Venue": "Town Hall",
+          "Venue": "The Town Hall",
           "Date": "1942-01-19T05:00:00Z",
           "Time": "3:45PM"
         }
@@ -23167,7 +23167,13 @@
           "composerName": "Khachaturian,  Aram",
           "workTitle": "CONCERTO, PIANO",
           "conductorName": "Kurtz, Efrem",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Kapell, William",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         },
         {
           "ID": "0*",
@@ -33790,55 +33796,6 @@
       ]
     },
     {
-      "id": "c54070c1-199e-4084-870f-62f73047fc0d-0.1",
-      "programID": "6395",
-      "orchestra": "New York Philharmonic",
-      "season": "1942-43",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1943-07-25T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "2877*",
-          "composerName": "Dvorak,  Antonín",
-          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
-          "conductorName": "Iturbi, Jose",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "4186*",
-          "composerName": "Iturbi,  Jose",
-          "workTitle": "SOLILOQUY",
-          "conductorName": "Iturbi, Jose",
-          "soloists": []
-        },
-        {
-          "ID": "51046*",
-          "composerName": "Liszt,  Franz",
-          "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
-          "conductorName": "Iturbi, Jose",
-          "soloists": [
-            {
-              "soloistName": "Iturbi, Jose",
-              "soloistInstrument": "Piano",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "673f96e4-4fd7-4d26-bf52-f0ac0042a310-0.1",
       "programID": "10762",
       "orchestra": "Stadium-NY Philharmonic",
@@ -33885,6 +33842,55 @@
           "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
           "conductorName": "Horenstein, Jascha",
           "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "c54070c1-199e-4084-870f-62f73047fc0d-0.1",
+      "programID": "6395",
+      "orchestra": "New York Philharmonic",
+      "season": "1942-43",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1943-07-25T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "2877*",
+          "composerName": "Dvorak,  Antonín",
+          "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+          "conductorName": "Iturbi, Jose",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "4186*",
+          "composerName": "Iturbi,  Jose",
+          "workTitle": "SOLILOQUY",
+          "conductorName": "Iturbi, Jose",
+          "soloists": []
+        },
+        {
+          "ID": "51046*",
+          "composerName": "Liszt,  Franz",
+          "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
+          "conductorName": "Iturbi, Jose",
+          "soloists": [
+            {
+              "soloistName": "Iturbi, Jose",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "S"
+            }
+          ]
         }
       ]
     },
@@ -42154,57 +42160,6 @@
       ]
     },
     {
-      "id": "2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1",
-      "programID": "10784",
-      "orchestra": "Stadium-NY Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Stadium Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Lewisohn Stadium",
-          "Date": "1944-06-25T04:00:00Z",
-          "Time": "8:30PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3453*1",
-          "composerName": "Rossini,  Gioachino",
-          "workTitle": "GAZZA LADRA, LA",
-          "movement": "Overture",
-          "conductorName": "Beecham, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "51461*",
-          "composerName": "Bizet,  Georges",
-          "workTitle": "L'ARLESIENNE: SUITE NO. 1",
-          "conductorName": "Beecham, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "1907*",
-          "composerName": "Moross,  Jerome",
-          "workTitle": "SYMPHONY NO. 1",
-          "conductorName": "Beecham, Thomas",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "3093*",
-          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
-          "workTitle": "CONCERTO, PIANO, NO. 2, G MINOR, OP. 22",
-          "conductorName": "Beecham, Thomas",
-          "soloists": []
-        }
-      ]
-    },
-    {
       "id": "811c0652-5d47-43e0-b088-6492a2831fe9-0.1",
       "programID": "4570",
       "orchestra": "New York Philharmonic",
@@ -42258,6 +42213,57 @@
               "soloistRoles": "S"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "2b22630a-df55-4ff6-ae6a-0dfe6347694d-0.1",
+      "programID": "10784",
+      "orchestra": "Stadium-NY Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Stadium Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Lewisohn Stadium",
+          "Date": "1944-06-25T04:00:00Z",
+          "Time": "8:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3453*1",
+          "composerName": "Rossini,  Gioachino",
+          "workTitle": "GAZZA LADRA, LA",
+          "movement": "Overture",
+          "conductorName": "Beecham, Thomas",
+          "soloists": []
+        },
+        {
+          "ID": "51461*",
+          "composerName": "Bizet,  Georges",
+          "workTitle": "L'ARLESIENNE: SUITE NO. 1",
+          "conductorName": "Beecham, Thomas",
+          "soloists": []
+        },
+        {
+          "ID": "1907*",
+          "composerName": "Moross,  Jerome",
+          "workTitle": "SYMPHONY NO. 1",
+          "conductorName": "Beecham, Thomas",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "3093*",
+          "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+          "workTitle": "CONCERTO, PIANO, NO. 2, G MINOR, OP. 22",
+          "conductorName": "Beecham, Thomas",
+          "soloists": []
         }
       ]
     },
@@ -44534,6 +44540,49 @@
       ]
     },
     {
+      "id": "8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1",
+      "programID": "5012",
+      "orchestra": "New York Philharmonic",
+      "season": "1943-44",
+      "concerts": [
+        {
+          "eventType": "Summer Broadcast Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1944-07-30T04:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "3965*",
+          "composerName": "Anthem,",
+          "workTitle": "UNITED STATES",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "51291*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "ISLE OF THE DEAD, OP. 29",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "53988*",
+          "composerName": "Rachmaninoff,  Sergei",
+          "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
+          "conductorName": "Mitropoulos, Dimitri",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "9a6136e3-3b3f-4c30-9663-58ec69bb53e7-0.1",
       "programID": "10834",
       "orchestra": "Stadium-NY Philharmonic",
@@ -44588,49 +44637,6 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 5, E MINOR, OP. 64",
           "conductorName": "Smallens, Alexander",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "8a41cfd6-d0f2-4c90-bc13-f58eb44e2a69-0.1",
-      "programID": "5012",
-      "orchestra": "New York Philharmonic",
-      "season": "1943-44",
-      "concerts": [
-        {
-          "eventType": "Summer Broadcast Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1944-07-30T04:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "3965*",
-          "composerName": "Anthem,",
-          "workTitle": "UNITED STATES",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "51291*",
-          "composerName": "Rachmaninoff,  Sergei",
-          "workTitle": "ISLE OF THE DEAD, OP. 29",
-          "conductorName": "Mitropoulos, Dimitri",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "53988*",
-          "composerName": "Rachmaninoff,  Sergei",
-          "workTitle": "SYMPHONY NO. 2, E MINOR, OP. 27",
-          "conductorName": "Mitropoulos, Dimitri",
           "soloists": []
         }
       ]
@@ -65703,7 +65709,7 @@
           "ID": "51807*",
           "composerName": "Brahms,  Johannes",
           "workTitle": "ACADEMIC FESTIVAL OVERTURE, OP.80",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": []
         },
         {
@@ -65711,7 +65717,7 @@
           "composerName": "Schubert,  Franz",
           "workTitle": "ELLENSGESANG I-III, D.837-839 (ARR. Unspecified)",
           "movement": "Ave Maria",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Merriman, Nan",
@@ -65725,7 +65731,7 @@
           "composerName": "Donizetti,  Gaetano",
           "workTitle": "LA FAVORITA",
           "movement": "\"O mio Fernando,\" Leonora di Gusman (aria)",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Merriman, Nan",
@@ -65739,7 +65745,7 @@
           "composerName": "Bizet,  Georges",
           "workTitle": "CARMEN",
           "movement": "Habañera (\"Quand je vous aimerai?...L'amour est un oiseau rebelle\")",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Merriman, Nan",
@@ -65753,7 +65759,7 @@
           "composerName": "Tchaikovsky,  Pyotr  Ilyich",
           "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
           "movement": "Allegro molto vivace",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": []
         },
         {
@@ -65766,14 +65772,14 @@
           "composerName": "Wolf-Ferrari,  Ermanno",
           "workTitle": "THE SECRET OF SUZANNE",
           "movement": "Overture",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": []
         },
         {
           "ID": "3281*",
           "composerName": "Rachmaninoff,  Sergei",
           "workTitle": "CONCERTO, PIANO, NO. 1, F SHARP MINOR, OP.1",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Brenner, Vladimir",
@@ -65792,7 +65798,7 @@
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SLAVONIC DANCES [UNSPECIFIED]",
           "movement": "Unspecified",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": []
         },
         {
@@ -65800,7 +65806,7 @@
           "composerName": "Gounod,  Charles",
           "workTitle": "FAUST",
           "movement": "\"Avant de quitter ces lieux,\" Valentin (air)",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Raitt, John",
@@ -65814,7 +65820,7 @@
           "composerName": "Rossini,  Gioachino",
           "workTitle": "BARBIERE DI SIVIGLIA, IL (THE BARBER OF SEVILLE)",
           "movement": "\"Largo al factotum,\" Figaro (aria)",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Raitt, John",
@@ -65828,7 +65834,7 @@
           "composerName": "Rodgers,  Richard",
           "workTitle": "CAROUSEL",
           "movement": "\"If I Loved You\"",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": [
             {
               "soloistName": "Raitt, John",
@@ -65842,7 +65848,7 @@
           "composerName": "Dvorak,  Antonín",
           "workTitle": "SYMPHONY NO. 5, F MAJOR, OP.76 (OLD NO. 3)",
           "movement": "Finale. Allegro molto",
-          "conductorName": "Landau, Siefrried",
+          "conductorName": "Landau, Siegfried",
           "soloists": []
         }
       ]

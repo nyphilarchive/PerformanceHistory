@@ -20382,63 +20382,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>8b20b179-9d57-4b38-80f1-1d3defd3cabf-0.1</id>
-        <programID>9584</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2006-07</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2006-10-14T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="7599*1">
-                <composerName>Bernstein,  Leonard</composerName>
-                <workTitle>CANDIDE</workTitle>
-                <movement>Overture</movement>
-            </work>
-            <work ID="3650*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>CONCERTO, E FLAT (DUMBARTON OAKS)</workTitle>
-                <conductorName>Robertson, David</conductorName>
-            </work>
-            <work ID="51087*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>CONCERTO, VIOLIN NO. 2, D MAJOR, K.211</workTitle>
-                <conductorName>Robertson, David</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Shaham, Gil</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="1993*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR</workTitle>
-                <conductorName>Robertson, David</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Shaham, Gil</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51648*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
-                <conductorName>Robertson, David</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>640d0ccf-8bba-45d9-8e41-31e34f0a1397-0.1</id>
         <programID>9527</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -20520,6 +20463,63 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>8b20b179-9d57-4b38-80f1-1d3defd3cabf-0.1</id>
+        <programID>9584</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2006-07</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2006-10-14T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="7599*1">
+                <composerName>Bernstein,  Leonard</composerName>
+                <workTitle>CANDIDE</workTitle>
+                <movement>Overture</movement>
+            </work>
+            <work ID="3650*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>CONCERTO, E FLAT (DUMBARTON OAKS)</workTitle>
+                <conductorName>Robertson, David</conductorName>
+            </work>
+            <work ID="51087*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>CONCERTO, VIOLIN NO. 2, D MAJOR, K.211</workTitle>
+                <conductorName>Robertson, David</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Shaham, Gil</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="1993*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR</workTitle>
+                <conductorName>Robertson, David</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Shaham, Gil</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51648*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 36, C MAJOR, K.425, "LINZ"</workTitle>
+                <conductorName>Robertson, David</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -24621,7 +24621,7 @@
             <work ID="53976*3">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): Comfort ye my people</movement>
+                <movement>Accompagnato (Tenor): Comfort ye my people</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -24750,7 +24750,7 @@
             <work ID="53976*6">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Thus saith the Lord of Hosts</movement>
+                <movement>Accompagnato (Bass-Baritone): Thus saith the Lord of Hosts</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -24793,7 +24793,7 @@
             <work ID="53976*7">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): But who may abide the day of His coming?</movement>
+                <movement>Air (Countertenor): But who may abide the day of His coming</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -24879,7 +24879,7 @@
             <work ID="53976*9">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Behold, a virgin shall conceive</movement>
+                <movement>Accompagnato (Countertenor): Behold, a virgin shall conceive</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -24922,7 +24922,7 @@
             <work ID="53976*10">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto and Chorus): O thou that tellest</movement>
+                <movement>Air (Countertenor and Chorus): O thou that tellest</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -24970,7 +24970,7 @@
             <work ID="53976*11">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): For, behold, darkness shall cover the earth</movement>
+                <movement>Accompagnato (Bass-Baritone): For, behold, darkness shall cover the earth</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25013,7 +25013,7 @@
             <work ID="53976*12">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The people that walked in darkness</movement>
+                <movement>Air (Bass-Bartione): The people that walked in darkness</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25099,7 +25099,7 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25137,7 +25137,7 @@
             <work ID="53976*15">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): There were shepherds abiding in the field</movement>
+                <movement>Accompagnato (Soprano): There were shepherds abiding in the field</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25180,7 +25180,7 @@
             <work ID="53976*16">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And, lo, the angel of the Lord came upon them</movement>
+                <movement>Accompagnato (Soprano): And, lo, the angel of the Lord came upon them</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25266,7 +25266,7 @@
             <work ID="53976*18">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And suddenly there was with the angel</movement>
+                <movement>Accompagnato (Soprano): And suddenly there was with the angel</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25395,7 +25395,7 @@
             <work ID="53976*21">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Then shall the eyes of the blind</movement>
+                <movement>Recitative (Countertenor): Then shall the eyes of the blind</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25438,7 +25438,7 @@
             <work ID="53976*22">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Duet (Soprano and Contralto): He shall feed His flock</movement>
+                <movement>Duet (Soprano and Countenor): He shall feed His flock like a shepherd</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25486,7 +25486,7 @@
             <work ID="53976*23">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: His yoke is easy, His burthen is light</movement>
+                <movement>Chorus: His yoke is easy, His burden is light</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25635,7 +25635,7 @@
             <work ID="53976*26">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): He was despised</movement>
+                <movement>Air (Countertenor): He was despised</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -25807,7 +25807,7 @@
             <work ID="53976*30">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): All they that see Him laugh Him to scorn</movement>
+                <movement>Accompagnato (Tenor): All they that see Him laugh Him to scorn</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -26103,7 +26103,7 @@
             <work ID="53976*37">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): Why do the nations so furiously rage together?</movement>
+                <movement>Air (Bass-Baritone): Why do the nations so furiously rage together</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -26462,7 +26462,7 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -26505,7 +26505,7 @@
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>Bicket, Harry</conductorName>
                 <soloists>
                     <soloist>
@@ -40412,7 +40412,7 @@
             <work ID="53976*3">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): Comfort ye my people</movement>
+                <movement>Accompagnato (Tenor): Comfort ye my people</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40451,7 +40451,7 @@
             <work ID="53976*6">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Thus saith the Lord of Hosts</movement>
+                <movement>Accompagnato (Bass-Baritone): Thus saith the Lord of Hosts</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40464,7 +40464,7 @@
             <work ID="53976*7">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): But who may abide the day of His coming?</movement>
+                <movement>Air (Countertenor): But who may abide the day of His coming</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40490,7 +40490,7 @@
             <work ID="53976*9">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Behold, a virgin shall conceive</movement>
+                <movement>Accompagnato (Countertenor): Behold, a virgin shall conceive</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40503,7 +40503,7 @@
             <work ID="53976*10">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto and Chorus): O thou that tellest</movement>
+                <movement>Air (Countertenor and Chorus): O thou that tellest</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40516,7 +40516,7 @@
             <work ID="53976*11">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): For, behold, darkness shall cover the earth</movement>
+                <movement>Accompagnato (Bass-Baritone): For, behold, darkness shall cover the earth</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40529,7 +40529,7 @@
             <work ID="53976*12">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The people that walked in darkness</movement>
+                <movement>Air (Bass-Bartione): The people that walked in darkness</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40555,13 +40555,13 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
             </work>
             <work ID="53976*15">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): There were shepherds abiding in the field</movement>
+                <movement>Accompagnato (Soprano): There were shepherds abiding in the field</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40574,7 +40574,7 @@
             <work ID="53976*16">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And, lo, the angel of the Lord came upon them</movement>
+                <movement>Accompagnato (Soprano): And, lo, the angel of the Lord came upon them</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40613,7 +40613,7 @@
             <work ID="53976*18">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And suddenly there was with the angel</movement>
+                <movement>Accompagnato (Soprano): And suddenly there was with the angel</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40652,7 +40652,7 @@
             <work ID="53976*21">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Then shall the eyes of the blind</movement>
+                <movement>Recitative (Countertenor): Then shall the eyes of the blind</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40665,7 +40665,7 @@
             <work ID="53976*22">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Duet (Soprano and Contralto): He shall feed His flock</movement>
+                <movement>Duet (Soprano and Countenor): He shall feed His flock like a shepherd</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40683,7 +40683,7 @@
             <work ID="53976*23">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: His yoke is easy, His burthen is light</movement>
+                <movement>Chorus: His yoke is easy, His burden is light</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40772,7 +40772,7 @@
             <work ID="53976*26">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): He was despised</movement>
+                <movement>Air (Countertenor): He was despised</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40824,7 +40824,7 @@
             <work ID="53976*30">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): All they that see Him laugh Him to scorn</movement>
+                <movement>Accompagnato (Tenor): All they that see Him laugh Him to scorn</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40850,7 +40850,7 @@
             <work ID="53976*65">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Tenor): They rebuke hath broken His heart</movement>
+                <movement>Recitative (Tenor): They rebuke hath broken His heart</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -40928,7 +40928,7 @@
             <work ID="53976*37">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): Why do the nations so furiously rage together?</movement>
+                <movement>Air (Bass-Baritone): Why do the nations so furiously rage together</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -41082,7 +41082,7 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -41095,7 +41095,7 @@
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>McGegan, Nicholas</conductorName>
                 <soloists>
                     <soloist>
@@ -48552,7 +48552,7 @@
                 </soloists>
             </work>
             <work ID="9864*">
-                <composerName>Richard,  Douglas  A.</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Richard)</workTitle>
                 <conductorName>Holtan, Timothy J.</conductorName>
                 <soloists>
@@ -48679,7 +48679,7 @@
                 </soloists>
             </work>
             <work ID="9864*">
-                <composerName>Richard,  Douglas  A.</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Richard)</workTitle>
                 <conductorName>Holtan, Timothy J.</conductorName>
                 <soloists>
@@ -54379,7 +54379,7 @@
             <work ID="53976*3">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): Comfort ye my people</movement>
+                <movement>Accompagnato (Tenor): Comfort ye my people</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54418,7 +54418,7 @@
             <work ID="53976*6">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Thus saith the Lord of Hosts</movement>
+                <movement>Accompagnato (Bass-Baritone): Thus saith the Lord of Hosts</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54431,7 +54431,7 @@
             <work ID="53976*7">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): But who may abide the day of His coming?</movement>
+                <movement>Air (Countertenor): But who may abide the day of His coming</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54457,7 +54457,7 @@
             <work ID="53976*9">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Behold, a virgin shall conceive</movement>
+                <movement>Accompagnato (Countertenor): Behold, a virgin shall conceive</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54470,7 +54470,7 @@
             <work ID="53976*10">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto and Chorus): O thou that tellest</movement>
+                <movement>Air (Countertenor and Chorus): O thou that tellest</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54488,7 +54488,7 @@
             <work ID="53976*11">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): For, behold, darkness shall cover the earth</movement>
+                <movement>Accompagnato (Bass-Baritone): For, behold, darkness shall cover the earth</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54501,7 +54501,7 @@
             <work ID="53976*12">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The people that walked in darkness</movement>
+                <movement>Air (Bass-Bartione): The people that walked in darkness</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54527,13 +54527,13 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>Koopman, Ton</conductorName>
             </work>
             <work ID="53976*15">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): There were shepherds abiding in the field</movement>
+                <movement>Accompagnato (Soprano): There were shepherds abiding in the field</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54546,7 +54546,7 @@
             <work ID="53976*16">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And, lo, the angel of the Lord came upon them</movement>
+                <movement>Accompagnato (Soprano): And, lo, the angel of the Lord came upon them</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54585,7 +54585,7 @@
             <work ID="53976*18">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And suddenly there was with the angel</movement>
+                <movement>Accompagnato (Soprano): And suddenly there was with the angel</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54624,7 +54624,7 @@
             <work ID="53976*21">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Then shall the eyes of the blind</movement>
+                <movement>Recitative (Countertenor): Then shall the eyes of the blind</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54637,7 +54637,7 @@
             <work ID="53976*22">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Duet (Soprano and Contralto): He shall feed His flock</movement>
+                <movement>Duet (Soprano and Countenor): He shall feed His flock like a shepherd</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54650,7 +54650,7 @@
             <work ID="53976*23">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: His yoke is easy, His burthen is light</movement>
+                <movement>Chorus: His yoke is easy, His burden is light</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54679,7 +54679,7 @@
             <work ID="53976*26">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): He was despised</movement>
+                <movement>Air (Countertenor): He was despised</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54731,7 +54731,7 @@
             <work ID="53976*30">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): All they that see Him laugh Him to scorn</movement>
+                <movement>Accompagnato (Tenor): All they that see Him laugh Him to scorn</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54757,7 +54757,7 @@
             <work ID="53976*65">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Tenor): They rebuke hath broken His heart</movement>
+                <movement>Recitative (Tenor): They rebuke hath broken His heart</movement>
                 <conductorName>Koopman, Ton</conductorName>
             </work>
             <work ID="53976*31">
@@ -54821,7 +54821,7 @@
             <work ID="53976*37">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): Why do the nations so furiously rage together?</movement>
+                <movement>Air (Bass-Baritone): Why do the nations so furiously rage together</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54912,7 +54912,7 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -54925,7 +54925,7 @@
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>Koopman, Ton</conductorName>
                 <soloists>
                     <soloist>
@@ -55269,7 +55269,7 @@
         <worksInfo>
             <work ID="10105*">
                 <composerName>Schumann,  Robert</composerName>
-                <workTitle>FANTASIESTUECKE, OP. 73</workTitle>
+                <workTitle>FANTASIESTUCKE, OP. 73</workTitle>
                 <soloists>
                     <soloist>
                         <soloistName>Drucker, Stanley</soloistName>
@@ -65741,7 +65741,7 @@
             <work ID="53976*3">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): Comfort ye my people</movement>
+                <movement>Accompagnato (Tenor): Comfort ye my people</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*4">
@@ -65759,13 +65759,13 @@
             <work ID="53976*6">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Thus saith the Lord of Hosts</movement>
+                <movement>Accompagnato (Bass-Baritone): Thus saith the Lord of Hosts</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*7">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): But who may abide the day of His coming?</movement>
+                <movement>Air (Countertenor): But who may abide the day of His coming</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*8">
@@ -65777,13 +65777,13 @@
             <work ID="53976*11">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): For, behold, darkness shall cover the earth</movement>
+                <movement>Accompagnato (Bass-Baritone): For, behold, darkness shall cover the earth</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*12">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The people that walked in darkness</movement>
+                <movement>Air (Bass-Bartione): The people that walked in darkness</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*13">
@@ -65795,13 +65795,13 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*15">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): There were shepherds abiding in the field</movement>
+                <movement>Accompagnato (Soprano): There were shepherds abiding in the field</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*19">
@@ -65819,19 +65819,19 @@
             <work ID="53976*21">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Then shall the eyes of the blind</movement>
+                <movement>Recitative (Countertenor): Then shall the eyes of the blind</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*22">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Duet (Soprano and Contralto): He shall feed His flock</movement>
+                <movement>Duet (Soprano and Countenor): He shall feed His flock like a shepherd</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*23">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: His yoke is easy, His burthen is light</movement>
+                <movement>Chorus: His yoke is easy, His burden is light</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*62">
@@ -65849,7 +65849,7 @@
             <work ID="53976*26">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): He was despised</movement>
+                <movement>Air (Countertenor): He was despised</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*27">
@@ -65873,7 +65873,7 @@
             <work ID="53976*30">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): All they that see Him laugh Him to scorn</movement>
+                <movement>Accompagnato (Tenor): All they that see Him laugh Him to scorn</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*64">
@@ -65885,7 +65885,7 @@
             <work ID="53976*65">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Tenor): They rebuke hath broken His heart</movement>
+                <movement>Recitative (Tenor): They rebuke hath broken His heart</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*31">
@@ -65927,13 +65927,13 @@
             <work ID="53976*36">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: Their sound is gone out into all lands</movement>
+                <movement>Chorus: Their sound is gone out</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*37">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): Why do the nations so furiously rage together?</movement>
+                <movement>Air (Bass-Baritone): Why do the nations so furiously rage together</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*38">
@@ -65981,13 +65981,13 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>Rilling, Helmuth</conductorName>
             </work>
             <work ID="53976*47">
@@ -71027,6 +71027,71 @@
         </worksInfo>
     </program>
     <program>
+        <id>eed60d43-2e0f-4967-a406-c4e6ef836888-0.1</id>
+        <programID>11215</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>2009-10</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Avery Fisher Hall</Venue>
+            <Date>2010-05-01T04:00:00Z</Date>
+            <Time>8:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53680*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>ORPHEUS, BALLET IN THREE SCENES</workTitle>
+                <conductorName>Gergiev, Valery</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="52004*">
+                <composerName>Stravinsky,  Igor</composerName>
+                <workTitle>OEDIPUS REX</workTitle>
+                <conductorName>Gergiev, Valery</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Irons, Jeremy</soloistName>
+                        <soloistInstrument>Narrator</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Meier, Waltraud</soloistName>
+                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Griffey, Anthony Dean</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Timchenko, Alexander</soloistName>
+                        <soloistInstrument>Tenor</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Petrenko, Mikhail</soloistName>
+                        <soloistInstrument>Bass</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bannik, Ilya</soloistName>
+                        <soloistInstrument>Bass</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Chorus of the Mariinsky Theatre</soloistName>
+                        <soloistInstrument>Chorus</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>00170e2f-58fd-4e9e-877a-56b936037dab-0.1</id>
         <programID>11018</programID>
         <orchestra>NYP Presentation</orchestra>
@@ -71227,71 +71292,6 @@
                         <soloistName>Mangum, John</soloistName>
                         <soloistInstrument>Host</soloistInstrument>
                         <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>eed60d43-2e0f-4967-a406-c4e6ef836888-0.1</id>
-        <programID>11215</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>2009-10</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Avery Fisher Hall</Venue>
-            <Date>2010-05-01T04:00:00Z</Date>
-            <Time>8:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53680*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>ORPHEUS, BALLET IN THREE SCENES</workTitle>
-                <conductorName>Gergiev, Valery</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="52004*">
-                <composerName>Stravinsky,  Igor</composerName>
-                <workTitle>OEDIPUS REX</workTitle>
-                <conductorName>Gergiev, Valery</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Irons, Jeremy</soloistName>
-                        <soloistInstrument>Narrator</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Meier, Waltraud</soloistName>
-                        <soloistInstrument>Mezzo-Soprano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Griffey, Anthony Dean</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Timchenko, Alexander</soloistName>
-                        <soloistInstrument>Tenor</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Petrenko, Mikhail</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bannik, Ilya</soloistName>
-                        <soloistInstrument>Bass</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Chorus of the Mariinsky Theatre</soloistName>
-                        <soloistInstrument>Chorus</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
             </work>
@@ -73630,7 +73630,7 @@
                 </soloists>
             </work>
             <work ID="9864*">
-                <composerName>Richard,  Douglas  A.</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Richard)</workTitle>
                 <conductorName>Holtan, Timothy J.</conductorName>
                 <soloists>
@@ -73748,7 +73748,7 @@
                 </soloists>
             </work>
             <work ID="9864*">
-                <composerName>Richard,  Douglas  A.</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Richard)</workTitle>
                 <conductorName>Holtan, Timothy J.</conductorName>
                 <soloists>
@@ -79669,7 +79669,7 @@
             <work ID="53976*3">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): Comfort ye my people</movement>
+                <movement>Accompagnato (Tenor): Comfort ye my people</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*4">
@@ -79687,13 +79687,13 @@
             <work ID="53976*6">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Thus saith the Lord of Hosts</movement>
+                <movement>Accompagnato (Bass-Baritone): Thus saith the Lord of Hosts</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*7">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): But who may abide the day of His coming?</movement>
+                <movement>Air (Countertenor): But who may abide the day of His coming</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*8">
@@ -79705,25 +79705,25 @@
             <work ID="53976*9">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Behold, a virgin shall conceive</movement>
+                <movement>Accompagnato (Countertenor): Behold, a virgin shall conceive</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*10">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto and Chorus): O thou that tellest</movement>
+                <movement>Air (Countertenor and Chorus): O thou that tellest</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*11">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): For, behold, darkness shall cover the earth</movement>
+                <movement>Accompagnato (Bass-Baritone): For, behold, darkness shall cover the earth</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*12">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The people that walked in darkness</movement>
+                <movement>Air (Bass-Bartione): The people that walked in darkness</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*13">
@@ -79735,19 +79735,19 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*15">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): There were shepherds abiding in the field</movement>
+                <movement>Accompagnato (Soprano): There were shepherds abiding in the field</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*16">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And, lo, the angel of the Lord came upon them</movement>
+                <movement>Accompagnato (Soprano): And, lo, the angel of the Lord came upon them</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*53">
@@ -79765,7 +79765,7 @@
             <work ID="53976*18">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Soprano): And suddenly there was with the angel</movement>
+                <movement>Accompagnato (Soprano): And suddenly there was with the angel</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*19">
@@ -79783,19 +79783,19 @@
             <work ID="53976*21">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Contralto): Then shall the eyes of the blind</movement>
+                <movement>Recitative (Countertenor): Then shall the eyes of the blind</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*22">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Duet (Soprano and Contralto): He shall feed His flock</movement>
+                <movement>Duet (Soprano and Countenor): He shall feed His flock like a shepherd</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*23">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Chorus: His yoke is easy, His burthen is light</movement>
+                <movement>Chorus: His yoke is easy, His burden is light</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="0*">
@@ -79816,7 +79816,7 @@
             <work ID="53976*26">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Contralto): He was despised</movement>
+                <movement>Air (Countertenor): He was despised</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*27">
@@ -79840,7 +79840,7 @@
             <work ID="53976*30">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Tenor): All they that see Him laugh Him to scorn</movement>
+                <movement>Accompagnato (Tenor): All they that see Him laugh Him to scorn</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*64">
@@ -79852,7 +79852,7 @@
             <work ID="53976*65">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Tenor): They rebuke hath broken His heart</movement>
+                <movement>Recitative (Tenor): They rebuke hath broken His heart</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*31">
@@ -79888,7 +79888,7 @@
             <work ID="53976*37">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): Why do the nations so furiously rage together?</movement>
+                <movement>Air (Bass-Baritone): Why do the nations so furiously rage together</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*38">
@@ -79930,13 +79930,13 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>Labadie, Bernard</conductorName>
             </work>
             <work ID="53976*47">
@@ -87553,7 +87553,7 @@
                 </soloists>
             </work>
             <work ID="6515*">
-                <composerName>Bulla,  Stephen</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Bulla)</workTitle>
                 <conductorName>Dix, Brian</conductorName>
                 <soloists>
@@ -87788,7 +87788,7 @@
                 </soloists>
             </work>
             <work ID="6515*">
-                <composerName>Bulla,  Stephen</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Bulla)</workTitle>
                 <conductorName>Dix, Brian</conductorName>
                 <soloists>
@@ -88161,7 +88161,7 @@
                 </soloists>
             </work>
             <work ID="6515*">
-                <composerName>Bulla,  Stephen</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Bulla)</workTitle>
                 <conductorName>Dix, Brian</conductorName>
                 <soloists>
@@ -88504,7 +88504,7 @@
                 </soloists>
             </work>
             <work ID="6515*">
-                <composerName>Bulla,  Stephen</composerName>
+                <composerName>VARIOUS,</composerName>
                 <workTitle>ARMED FORCES SALUTE (ARR. Bulla)</workTitle>
                 <conductorName>Dix, Brian</conductorName>
                 <soloists>

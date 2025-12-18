@@ -22768,47 +22768,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>e5219703-190d-4d61-844b-7d81300078d7-0.1</id>
-        <programID>10823</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1949-50</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1950-06-20T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="8999*9">
-                <composerName>Wagner,  Richard</composerName>
-                <workTitle>LOHENGRIN</workTitle>
-                <movement>Act III: Introduction</movement>
-                <conductorName>Kurtz, Efrem</conductorName>
-            </work>
-            <work ID="2068*">
-                <composerName>Beethoven,  Ludwig  van</composerName>
-                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.61</workTitle>
-                <conductorName>Kurtz, Efrem</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Spalding, Albert</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Kurtz, Efrem</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>7b56ab6b-4844-40bc-b5a3-f23eaa594deb-0.1</id>
         <programID>10824</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -22855,6 +22814,47 @@
                 <composerName>Berlioz,  Hector</composerName>
                 <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
                 <movement>Rakoczy March (Hungarian March)</movement>
+                <conductorName>Kurtz, Efrem</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>e5219703-190d-4d61-844b-7d81300078d7-0.1</id>
+        <programID>10823</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1949-50</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1950-06-20T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="8999*9">
+                <composerName>Wagner,  Richard</composerName>
+                <workTitle>LOHENGRIN</workTitle>
+                <movement>Act III: Introduction</movement>
+                <conductorName>Kurtz, Efrem</conductorName>
+            </work>
+            <work ID="2068*">
+                <composerName>Beethoven,  Ludwig  van</composerName>
+                <workTitle>CONCERTO, VIOLIN, D MAJOR, OP.61</workTitle>
+                <conductorName>Kurtz, Efrem</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Spalding, Albert</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
                 <conductorName>Kurtz, Efrem</conductorName>
             </work>
         </worksInfo>
@@ -28138,7 +28138,7 @@
             <work ID="53976*45">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Recitative (Bass): Behold, I tell you a mystery</movement>
+                <movement>Recitative (Bass-Baritone): Behold, I tell you a mystery</movement>
                 <conductorName>MacMillan, Ernest</conductorName>
                 <soloists>
                     <soloist>
@@ -28151,7 +28151,7 @@
             <work ID="53976*46">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Air (Bass): The trumpet shall sound</movement>
+                <movement>Air (Bass-Baritone): The trumpet shall sound</movement>
                 <conductorName>MacMillan, Ernest</conductorName>
                 <soloists>
                     <soloist>
@@ -36758,7 +36758,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1951-12-15T05:00:00Z</Date>
             <Time>3:00PM</Time>
         </concertInfo>
@@ -54871,7 +54871,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1953-12-26T05:00:00Z</Date>
             <Time>3:00PM</Time>
         </concertInfo>
@@ -62141,7 +62141,7 @@
         <concertInfo>
             <eventType>Young People's Concert</eventType>
             <Location>Manhattan, NY</Location>
-            <Venue>Town Hall</Venue>
+            <Venue>The Town Hall</Venue>
             <Date>1954-10-09T05:00:00Z</Date>
             <Time>3:00PM</Time>
         </concertInfo>

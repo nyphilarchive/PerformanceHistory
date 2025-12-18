@@ -1086,63 +1086,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
-        <programID>6732</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1932-12-03T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="53935*">
-                <composerName>Handel,  George  Frideric</composerName>
-                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Piastro, Mishel</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Bolognini, Remo</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                    <soloist>
-                        <soloistName>Wallenstein, Alfred</soloistName>
-                        <soloistInstrument>Cello</soloistInstrument>
-                        <soloistRoles>A</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="551*">
-                <composerName>Schumann,  Robert</composerName>
-                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Norton, Eunice</soloistName>
-                        <soloistInstrument>Piano</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="50068*">
-                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
-                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
-                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>e41a6cdb-e19c-49ec-af51-6dc665783cf2-0.1</id>
         <programID>1145</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -1202,6 +1145,63 @@
                 <workTitle>SCHEHERAZADE, OP. 35</workTitle>
                 <movement>Allegro molto</movement>
                 <conductorName>Schelling, Ernest</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>a987de97-d81a-4b00-8e71-52db42df01f7-0.1</id>
+        <programID>6732</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1932-12-03T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="53935*">
+                <composerName>Handel,  George  Frideric</composerName>
+                <workTitle>CONCERTO GROSSO, OP. 6, NO. 10, D MINOR</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Piastro, Mishel</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Bolognini, Remo</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                    <soloist>
+                        <soloistName>Wallenstein, Alfred</soloistName>
+                        <soloistInstrument>Cello</soloistInstrument>
+                        <soloistRoles>A</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="551*">
+                <composerName>Schumann,  Robert</composerName>
+                <workTitle>CONCERTO, PIANO, A MINOR, OP. 54</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Norton, Eunice</soloistName>
+                        <soloistInstrument>Piano</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="50068*">
+                <composerName>Tchaikovsky,  Pyotr  Ilyich</composerName>
+                <workTitle>SYMPHONY NO. 5, E MINOR, OP. 64</workTitle>
+                <conductorName>Dobroven [Dobrowen], Issay Alexandrovich</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -11985,7 +11985,7 @@
             <work ID="53976*14">
                 <composerName>Handel,  George  Frideric</composerName>
                 <workTitle>MESSIAH</workTitle>
-                <movement>Pifa ("Pastoral Symphony")</movement>
+                <movement>Pifa (Pastoral Symphony)</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="53976*20">
@@ -26981,63 +26981,6 @@
         </worksInfo>
     </program>
     <program>
-        <id>729f9d58-9d36-4240-a5ea-b024f711f945-0.1</id>
-        <programID>12305</programID>
-        <orchestra>Stadium-NY Philharmonic</orchestra>
-        <season>1934-35</season>
-        <concertInfo>
-            <eventType>Stadium Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Lewisohn Stadium</Venue>
-            <Date>1935-08-07T04:00:00Z</Date>
-            <Time>8:30PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="50168*1">
-                <composerName>Thomas,  Ambroise</composerName>
-                <workTitle>MIGNON</workTitle>
-                <movement>Overture</movement>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="9276*">
-                <composerName>Weber,  Carl  Maria von</composerName>
-                <workTitle>INVITATION TO THE DANCE (ARR. Weingartner)</workTitle>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="51892*">
-                <composerName>Brahms,  Johannes</composerName>
-                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="51306*9">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Menuet de Follets (Minuet of the Will-o'-the-Wisps)</movement>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="51306*7">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Ballet Des Sylphes</movement>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="51306*10">
-                <composerName>Berlioz,  Hector</composerName>
-                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
-                <movement>Rakoczy March (Hungarian March)</movement>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2877*">
-                <composerName>Dvorak,  Antonín</composerName>
-                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
-                <conductorName>Hoogstraten, Willem van</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
         <id>6e62dddb-b70b-4347-b87f-b9e97950d6e2-0.1</id>
         <programID>12258</programID>
         <orchestra>Stadium-NY Philharmonic</orchestra>
@@ -27111,6 +27054,63 @@
                         <soloistRoles>S</soloistRoles>
                     </soloist>
                 </soloists>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
+        <id>729f9d58-9d36-4240-a5ea-b024f711f945-0.1</id>
+        <programID>12305</programID>
+        <orchestra>Stadium-NY Philharmonic</orchestra>
+        <season>1934-35</season>
+        <concertInfo>
+            <eventType>Stadium Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Lewisohn Stadium</Venue>
+            <Date>1935-08-07T04:00:00Z</Date>
+            <Time>8:30PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="50168*1">
+                <composerName>Thomas,  Ambroise</composerName>
+                <workTitle>MIGNON</workTitle>
+                <movement>Overture</movement>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="9276*">
+                <composerName>Weber,  Carl  Maria von</composerName>
+                <workTitle>INVITATION TO THE DANCE (ARR. Weingartner)</workTitle>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="51892*">
+                <composerName>Brahms,  Johannes</composerName>
+                <workTitle>VARIATIONS ON A THEME BY HAYDN, OP. 56A</workTitle>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="51306*9">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Menuet de Follets (Minuet of the Will-o'-the-Wisps)</movement>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="51306*7">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Ballet Des Sylphes</movement>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="51306*10">
+                <composerName>Berlioz,  Hector</composerName>
+                <workTitle>DAMNATION DE FAUST, LA, OP. 24</workTitle>
+                <movement>Rakoczy March (Hungarian March)</movement>
+                <conductorName>Hoogstraten, Willem van</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="2877*">
+                <composerName>Dvorak,  Antonín</composerName>
+                <workTitle>SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)</workTitle>
+                <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -36809,6 +36809,7 @@
             <work ID="8948*7">
                 <composerName>Mozart,  Wolfgang  Amadeus</composerName>
                 <workTitle>COSI FAN TUTTE, K.588</workTitle>
+                <movement>"Soave sia il vento," Fiordiligi, Dorabella, Don Alfonso, Act I, scene vi</movement>
                 <conductorName>Barbirolli , John</conductorName>
                 <soloists>
                     <soloist>
@@ -47585,7 +47586,7 @@
         <orchestra>New York Philharmonic</orchestra>
         <season>1937-38</season>
         <concertInfo>
-            <eventType>Subscription Season</eventType>
+            <eventType>Student Concert</eventType>
             <Location>Manhattan, NY</Location>
             <Venue>Carnegie Hall</Venue>
             <Date>1938-01-08T05:00:00Z</Date>
@@ -61331,9 +61332,10 @@
                 <movement>No. 3 in C major, "Sleighride"</movement>
                 <conductorName>Weissmann, Frieder</conductorName>
             </work>
-            <work ID="6911*">
-                <composerName>Gomes,  Antonio  Carlos</composerName>
-                <workTitle>SUITE ANDALUZA</workTitle>
+            <work ID="9194*1">
+                <composerName>Smetana,  Bedrich</composerName>
+                <workTitle>BARTERED BRIDE, THE</workTitle>
+                <movement>Overture ("Overture to a Comedy")</movement>
                 <conductorName>Weissmann, Frieder</conductorName>
             </work>
             <work ID="2769*">
@@ -61374,9 +61376,10 @@
                 <workTitle>GIULETTA E ROMEO: SYMPHONIC EPISODE</workTitle>
                 <conductorName>Weissmann, Frieder</conductorName>
             </work>
-            <work ID="6945*">
-                <composerName>Janssen,  Werner</composerName>
-                <workTitle>DIXIE FUGUE</workTitle>
+            <work ID="6709*16">
+                <composerName>Weber,  Carl  Maria von</composerName>
+                <workTitle>FREISCHUTZ, DER</workTitle>
+                <movement>Overture</movement>
                 <conductorName>Weissmann, Frieder</conductorName>
             </work>
             <work ID="52644*">
