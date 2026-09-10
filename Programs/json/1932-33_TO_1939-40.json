@@ -3355,6 +3355,69 @@
       ]
     },
     {
+      "id": "1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1",
+      "programID": "2399",
+      "orchestra": "New York Philharmonic",
+      "season": "1932-33",
+      "concerts": [
+        {
+          "eventType": "Student Concert",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1933-02-04T05:00:00Z",
+          "Time": "8:45PM"
+        },
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Carnegie Hall",
+          "Date": "1933-02-05T05:00:00Z",
+          "Time": "3:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "51642*",
+          "composerName": "Mozart,  Wolfgang  Amadeus",
+          "workTitle": "SYMPHONY NO. 35, D MAJOR, K.385, \"HAFFNER\"",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "2005*",
+          "composerName": "Debussy,  Claude",
+          "workTitle": "IMAGES: IBÉRIA, NO. 2",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "2246*",
+          "composerName": "Goldmark,  Karl",
+          "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 28",
+          "conductorName": "Walter, Bruno",
+          "soloists": [
+            {
+              "soloistName": "Milstein, Nathan",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        },
+        {
+          "ID": "51965*",
+          "composerName": "Strauss,  Richard",
+          "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
+          "conductorName": "Walter, Bruno",
+          "soloists": []
+        }
+      ]
+    },
+    {
       "id": "4a5f9bcb-3944-4e00-b5f0-f933cd6645c4-0.1",
       "programID": "1832",
       "orchestra": "New York Philharmonic",
@@ -3472,69 +3535,6 @@
           "workTitle": "COUPERIN DANCE SUITE",
           "movement": "Wirbeltanz (Whirling Dance) (Le Turbulent)",
           "conductorName": "Schelling, Ernest",
-          "soloists": []
-        }
-      ]
-    },
-    {
-      "id": "1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1",
-      "programID": "2399",
-      "orchestra": "New York Philharmonic",
-      "season": "1932-33",
-      "concerts": [
-        {
-          "eventType": "Student Concert",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1933-02-04T05:00:00Z",
-          "Time": "8:45PM"
-        },
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Carnegie Hall",
-          "Date": "1933-02-05T05:00:00Z",
-          "Time": "3:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "51642*",
-          "composerName": "Mozart,  Wolfgang  Amadeus",
-          "workTitle": "SYMPHONY NO. 35, D MAJOR, K.385, \"HAFFNER\"",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "2005*",
-          "composerName": "Debussy,  Claude",
-          "workTitle": "IMAGES: IBÉRIA, NO. 2",
-          "conductorName": "Walter, Bruno",
-          "soloists": []
-        },
-        {
-          "ID": "0*",
-          "interval": "Intermission",
-          "soloists": []
-        },
-        {
-          "ID": "2246*",
-          "composerName": "Goldmark,  Karl",
-          "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 28",
-          "conductorName": "Walter, Bruno",
-          "soloists": [
-            {
-              "soloistName": "Milstein, Nathan",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        },
-        {
-          "ID": "51965*",
-          "composerName": "Strauss,  Richard",
-          "workTitle": "TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28",
-          "conductorName": "Walter, Bruno",
           "soloists": []
         }
       ]
@@ -3936,7 +3936,7 @@
         {
           "ID": "52827*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  2 IN C MINOR (RESURRECTION)",
+          "workTitle": "SYMPHONY NO. 2 IN C MINOR (RESURRECTION)",
           "conductorName": "Walter, Bruno",
           "soloists": [
             {
@@ -10640,7 +10640,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Hoogstraten, Willem van",
           "soloists": []
         },
@@ -12214,7 +12214,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Walter, Bruno",
           "soloists": []
         }
@@ -12273,7 +12273,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Walter, Bruno",
           "soloists": []
         }
@@ -12297,7 +12297,7 @@
         {
           "ID": "52826*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  1 IN D MAJOR (TITAN)",
+          "workTitle": "SYMPHONY NO. 1 IN D MAJOR (TITAN)",
           "conductorName": "Walter, Bruno",
           "soloists": []
         },
@@ -33864,7 +33864,7 @@
           "ID": "12019*1",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Three-Part Fantasia in G, Z. 732",
+          "movement": "Three-Part Fantasia in D minor, Z. 732",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -33872,7 +33872,7 @@
           "ID": "12019*9",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in E, Z. 740",
+          "movement": "Four-Part Fantasia in A minor, Z. 740",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -33880,7 +33880,7 @@
           "ID": "12019*4",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in C, Z. 735",
+          "movement": "Four-Part Fantasia in G minor, Z. 735",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -34850,7 +34850,7 @@
         {
           "ID": "52827*",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  2 IN C MINOR (RESURRECTION)",
+          "workTitle": "SYMPHONY NO. 2 IN C MINOR (RESURRECTION)",
           "conductorName": "Klemperer, Otto",
           "soloists": [
             {
@@ -37923,7 +37923,7 @@
           "ID": "12019*1",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Three-Part Fantasia in G, Z. 732",
+          "movement": "Three-Part Fantasia in D minor, Z. 732",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -37931,7 +37931,7 @@
           "ID": "12019*9",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in E, Z. 740",
+          "movement": "Four-Part Fantasia in A minor, Z. 740",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -37939,7 +37939,7 @@
           "ID": "12019*4",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in C, Z. 735",
+          "movement": "Four-Part Fantasia in G minor, Z. 735",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -38017,7 +38017,7 @@
           "ID": "12019*1",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Three-Part Fantasia in G, Z. 732",
+          "movement": "Three-Part Fantasia in D minor, Z. 732",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -38025,7 +38025,7 @@
           "ID": "12019*9",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in E, Z. 740",
+          "movement": "Four-Part Fantasia in A minor, Z. 740",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -38033,7 +38033,7 @@
           "ID": "12019*4",
           "composerName": "Purcell,  Henry",
           "workTitle": "FANTASIAS FOR STRINGS",
-          "movement": "Four-Part Fantasia in C, Z. 735",
+          "movement": "Four-Part Fantasia in G minor, Z. 735",
           "conductorName": "Lange, Hans",
           "soloists": []
         },
@@ -51326,7 +51326,7 @@
         {
           "ID": "52827*2",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  2 IN C MINOR (RESURRECTION)",
+          "workTitle": "SYMPHONY NO. 2 IN C MINOR (RESURRECTION)",
           "movement": "Andante moderato",
           "conductorName": "Reiner, Fritz",
           "soloists": []
@@ -74688,7 +74688,7 @@
           "ID": "8864*7",
           "composerName": "Musorgsky,  Modest",
           "workTitle": "KHOVANSHCHINA (ARR. Rimsky-Korsakov)",
-          "movement": "Dance of the Persian Maidens, Act IV, scene i",
+          "movement": "Dance of the Persian Slaves, Act IV, scene i",
           "conductorName": "Smallens, Alexander",
           "soloists": []
         },
@@ -75644,7 +75644,7 @@
         {
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
+          "workTitle": "SYMPHONY NO. 5 IN C SHARP MINOR",
           "movement": "Adagietto: Very slow",
           "conductorName": "Barbirolli , John",
           "soloists": []
@@ -77616,7 +77616,7 @@
         {
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
+          "workTitle": "SYMPHONY NO. 5 IN C SHARP MINOR",
           "movement": "Adagietto: Very slow",
           "conductorName": "Barbirolli , John",
           "soloists": []
@@ -77681,7 +77681,7 @@
         {
           "ID": "52863*4",
           "composerName": "Mahler,  Gustav",
-          "workTitle": "SYMPHONY NO.  5 IN C SHARP MINOR",
+          "workTitle": "SYMPHONY NO. 5 IN C SHARP MINOR",
           "movement": "Adagietto: Very slow",
           "conductorName": "Barbirolli , John",
           "soloists": []

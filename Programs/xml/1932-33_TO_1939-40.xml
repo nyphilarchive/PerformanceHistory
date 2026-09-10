@@ -2779,6 +2779,58 @@
         </worksInfo>
     </program>
     <program>
+        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
+        <programID>2399</programID>
+        <orchestra>New York Philharmonic</orchestra>
+        <season>1932-33</season>
+        <concertInfo>
+            <eventType>Student Concert</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-04T05:00:00Z</Date>
+            <Time>8:45PM</Time>
+        </concertInfo>
+        <concertInfo>
+            <eventType>Subscription Season</eventType>
+            <Location>Manhattan, NY</Location>
+            <Venue>Carnegie Hall</Venue>
+            <Date>1933-02-05T05:00:00Z</Date>
+            <Time>3:00PM</Time>
+        </concertInfo>
+        <worksInfo>
+            <work ID="51642*">
+                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
+                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="2005*">
+                <composerName>Debussy,  Claude</composerName>
+                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+            <work ID="0*">
+                <interval>Intermission</interval>
+            </work>
+            <work ID="2246*">
+                <composerName>Goldmark,  Karl</composerName>
+                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+                <soloists>
+                    <soloist>
+                        <soloistName>Milstein, Nathan</soloistName>
+                        <soloistInstrument>Violin</soloistInstrument>
+                        <soloistRoles>S</soloistRoles>
+                    </soloist>
+                </soloists>
+            </work>
+            <work ID="51965*">
+                <composerName>Strauss,  Richard</composerName>
+                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
+                <conductorName>Walter, Bruno</conductorName>
+            </work>
+        </worksInfo>
+    </program>
+    <program>
         <id>4a5f9bcb-3944-4e00-b5f0-f933cd6645c4-0.1</id>
         <programID>1832</programID>
         <orchestra>New York Philharmonic</orchestra>
@@ -2880,58 +2932,6 @@
                 <workTitle>COUPERIN DANCE SUITE</workTitle>
                 <movement>Wirbeltanz (Whirling Dance) (Le Turbulent)</movement>
                 <conductorName>Schelling, Ernest</conductorName>
-            </work>
-        </worksInfo>
-    </program>
-    <program>
-        <id>1dfc8c40-702f-4f06-b194-0056d7d99e1e-0.1</id>
-        <programID>2399</programID>
-        <orchestra>New York Philharmonic</orchestra>
-        <season>1932-33</season>
-        <concertInfo>
-            <eventType>Student Concert</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-04T05:00:00Z</Date>
-            <Time>8:45PM</Time>
-        </concertInfo>
-        <concertInfo>
-            <eventType>Subscription Season</eventType>
-            <Location>Manhattan, NY</Location>
-            <Venue>Carnegie Hall</Venue>
-            <Date>1933-02-05T05:00:00Z</Date>
-            <Time>3:00PM</Time>
-        </concertInfo>
-        <worksInfo>
-            <work ID="51642*">
-                <composerName>Mozart,  Wolfgang  Amadeus</composerName>
-                <workTitle>SYMPHONY NO. 35, D MAJOR, K.385, "HAFFNER"</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="2005*">
-                <composerName>Debussy,  Claude</composerName>
-                <workTitle>IMAGES: IBÉRIA, NO. 2</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-            </work>
-            <work ID="0*">
-                <interval>Intermission</interval>
-            </work>
-            <work ID="2246*">
-                <composerName>Goldmark,  Karl</composerName>
-                <workTitle>CONCERTO, VIOLIN, A MINOR, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
-                <soloists>
-                    <soloist>
-                        <soloistName>Milstein, Nathan</soloistName>
-                        <soloistInstrument>Violin</soloistInstrument>
-                        <soloistRoles>S</soloistRoles>
-                    </soloist>
-                </soloists>
-            </work>
-            <work ID="51965*">
-                <composerName>Strauss,  Richard</composerName>
-                <workTitle>TILL EULENSPIEGELS LUSTIGE STREICHE, OP. 28</workTitle>
-                <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
     </program>
@@ -3268,7 +3268,7 @@
             </work>
             <work ID="52827*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  2 IN C MINOR (RESURRECTION)</workTitle>
+                <workTitle>SYMPHONY NO. 2 IN C MINOR (RESURRECTION)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
                 <soloists>
                     <soloist>
@@ -8983,7 +8983,7 @@
         <worksInfo>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Hoogstraten, Willem van</conductorName>
             </work>
             <work ID="0*">
@@ -10338,7 +10338,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
@@ -10388,7 +10388,7 @@
             </work>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
         </worksInfo>
@@ -10408,7 +10408,7 @@
         <worksInfo>
             <work ID="52826*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  1 IN D MAJOR (TITAN)</workTitle>
+                <workTitle>SYMPHONY NO. 1 IN D MAJOR (TITAN)</workTitle>
                 <conductorName>Walter, Bruno</conductorName>
             </work>
             <work ID="0*">
@@ -29047,19 +29047,19 @@
             <work ID="12019*1">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Three-Part Fantasia in G, Z. 732</movement>
+                <movement>Three-Part Fantasia in D minor, Z. 732</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*9">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in E, Z. 740</movement>
+                <movement>Four-Part Fantasia in A minor, Z. 740</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*4">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in C, Z. 735</movement>
+                <movement>Four-Part Fantasia in G minor, Z. 735</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*10">
@@ -29877,7 +29877,7 @@
         <worksInfo>
             <work ID="52827*">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  2 IN C MINOR (RESURRECTION)</workTitle>
+                <workTitle>SYMPHONY NO. 2 IN C MINOR (RESURRECTION)</workTitle>
                 <conductorName>Klemperer, Otto</conductorName>
                 <soloists>
                     <soloist>
@@ -32373,19 +32373,19 @@
             <work ID="12019*1">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Three-Part Fantasia in G, Z. 732</movement>
+                <movement>Three-Part Fantasia in D minor, Z. 732</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*9">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in E, Z. 740</movement>
+                <movement>Four-Part Fantasia in A minor, Z. 740</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*4">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in C, Z. 735</movement>
+                <movement>Four-Part Fantasia in G minor, Z. 735</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*10">
@@ -32451,19 +32451,19 @@
             <work ID="12019*1">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Three-Part Fantasia in G, Z. 732</movement>
+                <movement>Three-Part Fantasia in D minor, Z. 732</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*9">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in E, Z. 740</movement>
+                <movement>Four-Part Fantasia in A minor, Z. 740</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*4">
                 <composerName>Purcell,  Henry</composerName>
                 <workTitle>FANTASIAS FOR STRINGS</workTitle>
-                <movement>Four-Part Fantasia in C, Z. 735</movement>
+                <movement>Four-Part Fantasia in G minor, Z. 735</movement>
                 <conductorName>Lange, Hans</conductorName>
             </work>
             <work ID="12019*10">
@@ -43833,7 +43833,7 @@
             </work>
             <work ID="52827*2">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  2 IN C MINOR (RESURRECTION)</workTitle>
+                <workTitle>SYMPHONY NO. 2 IN C MINOR (RESURRECTION)</workTitle>
                 <movement>Andante moderato</movement>
                 <conductorName>Reiner, Fritz</conductorName>
             </work>
@@ -63066,7 +63066,7 @@
             <work ID="8864*7">
                 <composerName>Musorgsky,  Modest</composerName>
                 <workTitle>KHOVANSHCHINA (ARR. Rimsky-Korsakov)</workTitle>
-                <movement>Dance of the Persian Maidens, Act IV, scene i</movement>
+                <movement>Dance of the Persian Slaves, Act IV, scene i</movement>
                 <conductorName>Smallens, Alexander</conductorName>
             </work>
             <work ID="8839*2">
@@ -63840,7 +63840,7 @@
             </work>
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
+                <workTitle>SYMPHONY NO. 5 IN C SHARP MINOR</workTitle>
                 <movement>Adagietto: Very slow</movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
@@ -65413,7 +65413,7 @@
             </work>
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
+                <workTitle>SYMPHONY NO. 5 IN C SHARP MINOR</workTitle>
                 <movement>Adagietto: Very slow</movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
@@ -65465,7 +65465,7 @@
             </work>
             <work ID="52863*4">
                 <composerName>Mahler,  Gustav</composerName>
-                <workTitle>SYMPHONY NO.  5 IN C SHARP MINOR</workTitle>
+                <workTitle>SYMPHONY NO. 5 IN C SHARP MINOR</workTitle>
                 <movement>Adagietto: Very slow</movement>
                 <conductorName>Barbirolli , John</conductorName>
             </work>
