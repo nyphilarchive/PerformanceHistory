@@ -34,7 +34,7 @@ Programs are sorted by the date and time of their first concert.
     <program>
         <id/>                  // legacy Digital Archives ID (see Identifiers)
         <programID/>           // New York Philharmonic program ID
-        <damRecordID/>         // Digital Archives record ID (see Identifiers)
+        <damRecordID/>         // Digital Archives record of the printed program
         <orchestra/>
         <season/>
         <concertInfo>          // repeated for each concert of the program
@@ -76,7 +76,7 @@ The JSON has the same fields, with `concertInfo` as a `concerts` array and `work
     {
       "id": "00646b9f-fec7-4ffb-9fb1-faae410bd9dc-0.1",
       "programID": "3853",
-      "damRecordID": "2TTUGPLIOHA2",
+      "damRecordID": "2TTUGP9KD2P5",
       "orchestra": "New York Philharmonic",
       "season": "1842-43",
       "concerts": [
@@ -121,7 +121,7 @@ The JSON has the same fields, with `concertInfo` as a `concerts` array and `work
 | **Program** | Applies to the entire program |
 | `id` | Legacy Digital Archives ID. See [Identifiers](#identifiers). |
 | `programID` | New York Philharmonic program ID. Use this to identify programs. |
-| `damRecordID` | Digital Archives record ID. See [Identifiers](#identifiers). |
+| `damRecordID` | Digital Archives record of the printed program. See [Identifiers](#identifiers). |
 | `orchestra` | Full orchestra name. See [About the data](https://data.nyphil.org/performance-history/about/). |
 | `season` | September 1 to August 31, written "1842-43" |
 | **Concerts** | Repeated for each performance of the program |
@@ -142,14 +142,14 @@ The JSON has the same fields, with `concertInfo` as a `concerts` array and `work
 ## Identifiers
 
 - **`programID`** is the New York Philharmonic's own ID for each program. It's always present and never changes, so use it to identify and join programs.
-- **`damRecordID`** is the program's record in the Digital Archives: `https://archives.nyphil.org/asset-management/<damRecordID>`. A newly added program may have none for a day or two.
-- **`id`** is the ID the earlier Digital Archives assigned to each program. It's kept unchanged for programs that have one, and links using it continue to redirect to the Digital Archives. New programs are no longer given one, so it's empty for them.
+- **`damRecordID`** is the printed program's record in the Digital Archives: `https://archives.nyphil.org/asset-management/<damRecordID>`. A newly added program may have none for a day or two.
+- **`id`** is the ID the earlier Digital Archives assigned to each program. It's kept unchanged for programs that have one, and links using it continue to redirect to the same record as `damRecordID`. New programs are no longer given one, so it's empty for them.
 
 ## Changes in October 2026
 
 The dataset is now generated directly from the Archives' catalog instead of from the Digital Archives' search index. Along with the usual catalog updates, this release:
 
-- adds `damRecordID` to every program;
+- adds `damRecordID`, the printed program's Digital Archives record, to every program;
 - leaves values empty when they are unknown, instead of the text "None" (most often in `Time`);
 - puts every composer of a co-written work in `composerName`, where previously the second composer appeared in `workTitle`;
 - removes repeated spaces in work titles: "SYMPHONY NO.  4" is now "SYMPHONY NO. 4";
