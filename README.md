@@ -80,7 +80,7 @@ The JSON has the same fields, with `concertInfo` as a `concerts` array and `work
       "programID": "3853",
       "damRecordID": "2TTUGPLIOHA2",
       "printedProgramRecordID": "2TTUGP9KD2P5",
-      "printedProgramManifest": "https://cortex.nyphil.org/IIIF3/Presentation/Manifest/2TTUGP9KD2P5",
+      "printedProgramManifest": "https://archives.nyphil.org/IIIF3/Presentation/Manifest/2TTUGP9KD2P5",
       "orchestra": "New York Philharmonic",
       "season": "1842-43",
       "concerts": [
