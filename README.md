@@ -150,7 +150,7 @@ The JSON has the same fields, with `concertInfo` as a `concerts` array and `work
 - **`programID`** is the New York Philharmonic's own ID for each program. It's always present and never changes, so use it to identify and join programs.
 - **`damRecordID`** is the program's record in the Digital Archives: `https://archives.nyphil.org/asset-management/<damRecordID>`. Every program has one, though a newly added program may have none for a day or two.
 - **`printedProgramRecordID`** is the record of the printed program, with its scanned pages: `https://archives.nyphil.org/asset-management/<printedProgramRecordID>`. It's empty for programs with no printed program in the Archives' collection, usually because none survives or none was ever printed. New programs are born-digital. `printedProgramManifest` gives the same printed program as a IIIF manifest.
-- **`id`** is the ID the earlier Digital Archives assigned to each program. It's kept unchanged for programs that have one, and links using it, of the form `https://archives.nyphil.org/index.php/artifact/<id>/fullview`, continue to redirect to the printed program's record. New programs are no longer given one, so it's empty for them.
+- **`id`** is the ID the earlier Digital Archives assigned to each program. It's kept unchanged for programs that have one, and links using it, of the form `https://archives.nyphil.org/index.php/artifact/<id>` (with or without `/fullview`), continue to redirect to the printed program's record. New programs are no longer given one, so it's empty for them.
 
 ## Changes in October 2026
 
