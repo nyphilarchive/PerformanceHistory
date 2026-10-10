@@ -1,83 +1,101 @@
 # New York Philharmonic Performance History
-The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This [Performance History database](http://archives.nyphil.org/performancehistory) documents all known concerts of all of these organizations, amounting to more than 20,000 performances. The [New York Philharmonic Leon Levy Digital Archives](http://archives.nyphil.org) provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
+The New York Philharmonic played its first concert on December 7, 1842. Since then, it has merged with the New York Symphony, the New/National Symphony, and had a long-running summer season at New York's Lewisohn Stadium. This Performance History dataset documents all known concerts of all of these organizations, amounting to more than 23,000 performances. You can also search it in the [Data Explorer](https://data.nyphil.org/performance-history/). The [New York Philharmonic Leon Levy Digital Archives](https://archives.nyphil.org) provides an additional interface for searching printed programs alongside other digitized items such as marked music scores, marked orchestral parts, business records, and photos.
 
-In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the <a href="http://www.cooperhewitt.org/">Cooper-Hewitt Smithsonian National Design Museum</a> in making its own contribution to the Open Data movement.
+In an effort to make this data available for study, analysis, and reuse, the New York Philharmonic joins organizations like [The Tate](https://github.com/tategallery/collection) and the [Cooper-Hewitt Smithsonian National Design Museum](https://www.cooperhewitt.org/) in making its own contribution to the Open Data movement.
 
-The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) license. Please see the enclosed LICENSE file for more detail.
+The metadata here is released under the Creative Commons Public Domain [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license. Please see the enclosed LICENSE file for more detail.
+
+## Updates
+
+The data is generated from the Archives' catalog every night, and any changes are committed here. Each commit message summarizes how many programs were added, removed, or changed. To follow updates, watch this repository or check its commit history.
 
 ## Considerations
-* A **program** is defined as one or more performances or presentations in which the same **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, locations may vary within). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
-* ~~Only complete titles are included. If an excerpt or movement is performed, this will not be indicated in the database at this time. We are working to include this in the near future.~~ Movements are now included as cataloged by NYP. Keep in mind that we do not necessarily catalog every movement in the work, only movements that we have ever performed.
-* To see detailed information about our internal descriptive standards, please go to http://archives.nyphil.org/index.php/help-performancehistory.
 
-## Repository Contents
-The data is currently available as both XML and JSON. In the top‑level `Programs` directory you will find:
-- `Programs/xml` — canonical XML files (`complete.xml` and segmented ranges)
-- `Programs/json` — JSON equivalents of the XML
+* A **program** is one or more performances or presentations in which the **repertoire**, **conductors**, and **soloists** are EXACTLY the same (dates, times, and locations may vary). For example, if a soloist plays an encore one night but not another, the concert with the encore becomes a different program.
+* Movements are included as cataloged by the New York Philharmonic. We don't necessarily catalog every movement of a work, only movements that we have performed.
+* Recording sessions are not included.
+* Definitions of the orchestras and event types are on the Data Explorer's [About the data](https://data.nyphil.org/performance-history/about/) page.
 
-Only these canonical data outputs are tracked in Git. Raw Solr export files in `pre-transform/` are ignored.
-For updating the dataset, see `MAINTAINERS.md`. All scripts and tools live under `Scripts/` and `tools/` to keep the repository root focused on the data.
-The XML is structured in the following way:
+## Files
+
+The data is available as both XML and JSON, with the same content in each:
+
+- `Programs/xml/complete.xml` and `Programs/json/complete.json`: every program.
+- The same data split by season, for example `1842-43_TO_1910-11.json`. The last file, `2024-25_TO_NOW`, includes the current season.
+
+Programs are sorted by the date and time of their first concert.
+
+## Structure
+
+### XML
 
 ```
 <programs>
-   <program>
-      <id/> // GUID
-      <programID/> // NYP Local ID
-      <orchestra/>
-      <season/>  
-      <concertInfo> // A program can have multiple concerts
-         <eventType/>
-         <Location/>
-         <Venue/>
-         <Date/>
-         <Time/>
-      </concertInfo>
-      <worksInfo> // a program will usually have multiple works 
-         <work ID=""> // e.g. "1234*1" - first part is the Work ID, second part is the NYP Movement ID
-             <composerName/>
-             <workTitle/>
-             <movement/>
-             <conductorName/>     
-             <soloists> // included only if there are listed soloists
-                <soloist>
-                    <soloistName/>
-                    <soloistInstrument/> 
-                    <soloistRole/>   		 
-                </soloist>
-             </soloists>
-             <interval/> // intermissions are listed among works, but with a distinct interval tag
-         </work>
-      </worksInfo>
-   </program>
+    <program>
+        <id/>                  // legacy Digital Archives ID (see Identifiers)
+        <programID/>           // New York Philharmonic program ID
+        <damRecordID/>         // Digital Archives record of the program (see Identifiers)
+        <printedProgramRecordID/>  // Digital Archives record of the printed program, if the Archives has one
+        <printedProgramManifest/>  // IIIF manifest of the printed program, if the Archives has one
+        <orchestra/>
+        <season/>
+        <concertInfo>          // repeated for each concert of the program
+            <eventType/>
+            <Location/>
+            <Venue/>
+            <Date/>
+            <Time/>
+        </concertInfo>
+        <worksInfo>            // a program usually has several works
+            <work ID="">       // e.g. "8834*4": work ID, then movement ID
+                <composerName/>
+                <workTitle/>
+                <movement/>
+                <conductorName/>
+                <soloists>     // only if the work has soloists
+                    <soloist>
+                        <soloistName/>
+                        <soloistInstrument/>
+                        <soloistRoles/>
+                    </soloist>
+                </soloists>
+                <interval/>    // intermissions appear among the works, with an interval element instead
+            </work>
+        </worksInfo>
+    </program>
 </programs>
 ```
 
-The JSON is formatted almost the same, with a few small differences in
-naming:
+Elements with no value are left out of a work. A program with no works cataloged has an empty `<worksInfo>`.
 
-```
+### JSON
+
+The JSON has the same fields, with `concertInfo` as a `concerts` array and `worksInfo` as a `works` array. `soloists` is always an array, empty when a work has no soloists. Here is the first program, shortened to two of its works:
+
+```json
 {
   "programs": [
     {
-      "id": "38e072a7-8fc9-4f9a-8eac-3957905c0002", // GUID
-      "programID": "3853", // NYP Local ID
+      "id": "00646b9f-fec7-4ffb-9fb1-faae410bd9dc-0.1",
+      "programID": "3853",
+      "damRecordID": "2TTUGPLIOHA2",
+      "printedProgramRecordID": "2TTUGP9KD2P5",
+      "printedProgramManifest": "https://cortex.nyphil.org/IIIF3/Presentation/Manifest/2TTUGP9KD2P5",
       "orchestra": "New York Philharmonic",
       "season": "1842-43",
       "concerts": [
         {
-           "eventType": "Subscription Season",
-           "Location": "Manhattan, NY",
-           "Venue": "Apollo Rooms",
-           "Date": "1842-12-07T05:00:00Z",
-           "Time": "8:00PM"
-        },
-        /* A program can have multiple concerts */
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Apollo Rooms",
+          "Date": "1842-12-07T05:00:00Z",
+          "Time": "8:00PM"
+        }
       ],
       "works": [
         {
-          "ID": "8834*4", // e.g. "1234*1" - first part is the Work ID, second part is the NYP Movement ID
-          "composerName": "Weber,  Carl  Maria Von",
+          "ID": "8834*4",
+          "composerName": "Weber,  Carl  Maria von",
           "workTitle": "OBERON",
           "movement": "\"Ozean, du Ungeheuer\" (Ocean, thou mighty monster), Reiza (Scene and Aria), Act II",
           "conductorName": "Timm, Henry C.",
@@ -86,90 +104,71 @@ naming:
               "soloistName": "Otto, Antoinette",
               "soloistInstrument": "Soprano",
               "soloistRoles": "S"
-            },
-            /* more soloists, if applicable. If no soloists, this will be an empty array */
+            }
           ]
         },
-        /* a program will usually have multiple works */
         {
           "ID": "0*",
           "interval": "Intermission",
           "soloists": []
-        },
-        /* Intermissions will also appear in the works array */
+        }
       ]
-    },
-    /* more programs */
+    }
   ]
 }
 ```
 
-<table>
-	<tr>
-		<th>Field</th><th>Description</th>
-	</tr>
-	<tr>
-		<td colspan=2><strong>General Info: Info that applies to entire program</strong></td>
-	</tr>
-	<tr>
-		<td>id</td><td>GUID (To view program: archives.nyphil.org/index.php/artifact/<strong>GUID</strong>/fullview)</td>
-	</tr>
-	<tr>
-		<td>ProgramID</td><td>Local NYP ID</td>
-	</tr>
-	<tr>
-		<td>Orchestra</td><td>Full orchestra name <a href="http://archives.nyphil.org/index.php/help-performancehistory">Learn more...</a></td>
-	</tr>
-	<tr>
-		<td>Season</td><td>Defined as Sep 1 - Aug 31, displayed "1842-43"</td>
-	</tr>
-	<tr>
-		<td colspan=2><strong>Concert Info: Repeated for each individual performance within a program</strong></td>
-	</tr>
-	<tr>
-		<td>eventType</td><td><a href="http://archives.nyphil.org/index.php/help-performancehistory">See term definitions</a></td>
-	</tr>
-	<tr>
-		<td>Location</td><td>Geographic location of concert (Countries are identified by their current name. For example, even though the orchestra played in Czechoslovakia, it is now identified in the data as the Czech Republic)</td>
-	</tr>
-	<tr>
-		<td>Venue</td><td>Name of hall, theater, or building where the concert took place</td>
-	</tr>
-	<tr>
-		<td>Date</td><td>Full ISO date used, but ignore TIME part (1842-12-07T05:00:00Z = Dec. 7, 1842)</td>
-	</tr>
-	<tr>
-		<td>Time</td><td>Actual time of concert, e.g. "8:00PM"</td>
-	</tr>
-	<tr>
-		<td colspan=2><strong>Works Info: the fields below are repeated for each work performed on a program. By matching the index number of each field, you can tell which soloist(s) and conductor(s) performed a specific work on each of the concerts listed above.</strong></td>
-	</tr>
-	<tr>
-		<td>worksConductorName</td><td>Last name, first name</td>
-	</tr>
-	<tr>
-		<td>worksComposerTitle</td><td>Composer Last name, first / TITLE (NYP short titles used)</td>
-	</tr>
-	<tr>
-		<td>movement</td><td>Movement title as cataloged by NYP</td>
-	</tr>
-	<tr>
-		<td>worksSoloistName</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
-	</tr>
-	<tr>
-		<td>worksSoloistInstrument</td><td>Last name, first name (if multiple soloists on a single work, delimited by semicolon)</td>
-	</tr>
-		<tr>
-		<td>worksSoloistRole</td><td>"S" means "Soloist"; "A" means "Assisting Artist" (if multiple soloists on a single work, delimited by semicolon)</td>
-	</tr>	
-</table>
+## Fields
 
+| Field | Description |
+|---|---|
+| **Program** | Applies to the entire program |
+| `id` | Legacy Digital Archives ID. See [Identifiers](#identifiers). |
+| `programID` | New York Philharmonic program ID. Use this to identify programs. |
+| `damRecordID` | Digital Archives record of the program. See [Identifiers](#identifiers). |
+| `printedProgramRecordID` | Digital Archives record of the printed program, if the Archives has one. See [Identifiers](#identifiers). |
+| `printedProgramManifest` | [IIIF](https://iiif.io/) Presentation 3 manifest of the printed program's scanned pages, for use in any IIIF viewer. Empty when `printedProgramRecordID` is. |
+| `orchestra` | Full orchestra name. See [About the data](https://data.nyphil.org/performance-history/about/). |
+| `season` | September 1 to August 31, written "1842-43" |
+| **Concerts** | Repeated for each performance of the program |
+| `eventType` | See [About the data](https://data.nyphil.org/performance-history/about/) for definitions |
+| `Location` | Geographic location of the concert. Countries are given by their current name: concerts in Czechoslovakia, for example, are listed under the Czech Republic. |
+| `Venue` | Hall, theater, or building where the concert took place |
+| `Date` | Date of the concert, written as midnight in New York expressed in UTC: `1842-12-07T05:00:00Z` is December 7, 1842 (`T04:00:00Z` during daylight saving time). Ignore the time part. |
+| `Time` | Start time of the concert, for example "8:00PM". Empty if unknown. |
+| **Works** | Repeated for each work on the program |
+| `ID` | Work ID and movement ID, separated by `*`: "8834*4" is movement 4 of work 8834, and "52446*" is the complete work 52446. Intermissions are "0*". |
+| `composerName` | Last name, first name. Works by more than one composer list them separated by ` / `. |
+| `workTitle` | Short title as cataloged by the New York Philharmonic, including the arranger when there is one, for example "REQUIEM, K.626 (ARR. Sussmayr)" |
+| `movement` | Movement or excerpt, as cataloged. Titles of larger works appear in angle brackets, for example "Overture To &lt;Tannhäuser&gt;". |
+| `conductorName` | Last name, first name. More than one conductor is separated by `;`. |
+| `soloists` | One entry per soloist, with `soloistName` (last name, first name), `soloistInstrument`, and `soloistRoles`: "S" for soloist, "A" for assisting artist |
+| `interval` | "Intermission", in place of the fields above |
+
+## Identifiers
+
+- **`programID`** is the New York Philharmonic's own ID for each program. It's always present and never changes, so use it to identify and join programs.
+- **`damRecordID`** is the program's record in the Digital Archives: `https://archives.nyphil.org/asset-management/<damRecordID>`. Every program has one, though a newly added program may have none for a day or two.
+- **`printedProgramRecordID`** is the record of the printed program, with its scanned pages: `https://archives.nyphil.org/asset-management/<printedProgramRecordID>`. It's empty for programs with no printed program in the Archives' collection, usually because none survives or none was ever printed. New programs are born-digital. `printedProgramManifest` gives the same printed program as a IIIF manifest.
+- **`id`** is the ID the earlier Digital Archives assigned to each program. It's kept unchanged for programs that have one, and links using it, of the form `https://archives.nyphil.org/index.php/artifact/<id>` (with or without `/fullview`), continue to redirect to the printed program's record. New programs are no longer given one, so it's empty for them.
+
+## Changes in October 2026
+
+The dataset is now generated directly from the Archives' catalog instead of from the Digital Archives' search index. Along with the usual catalog updates, this release:
+
+- adds `damRecordID`, each program's Digital Archives record, `printedProgramRecordID`, the record of its printed program when the Archives has one, and `printedProgramManifest`, that printed program's IIIF manifest;
+- leaves values empty when they are unknown, instead of the text "None" (most often in `Time`);
+- puts every composer of a co-written work in `composerName`, where previously the second composer appeared in `workTitle`;
+- removes repeated spaces in work titles: "SYMPHONY NO.  4" is now "SYMPHONY NO. 4";
+- writes titles inside movement and work titles in angle brackets, for example "Overture To &lt;Tannhäuser&gt;". Previously these were `<em>` elements in the XML, which made the JSON value an object instead of a string;
+- removes empty soloist entries;
+- orders programs that start on the same day by the time of their first concert.
 
 ## Usage Guidelines
 
 These usage guidelines are based on goodwill, they are not a legal contract but the New York Philharmonic requests that you follow these guidelines if you use Metadata from our Performance History dataset.
 
-The Metadata published by the New York Philharmonic is available free of restrictions under the Creative Commons Zero Public Domain Dedication http://creativecommons.org/publicdomain/zero/1.0/
+The Metadata published by the New York Philharmonic is available free of restrictions under the Creative Commons Zero Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0/
 
 This means that you can use it for any purpose without having to give attribution. However, the New York Philharmonic requests that you actively acknowledge and give attribution to the New York Philharmonic. Attribution supports future efforts to release other data.
 
@@ -177,7 +176,7 @@ This means that you can use it for any purpose without having to give attributio
 
 **Give attribution to the New York Philharmonic.**
 
-Make sure that others are aware of the rights status of the the New York Philharmonic Metadata and are aware of these guidelines by keeping intact links to the CC0 Public Domain Dedication.
+Make sure that others are aware of the rights status of the New York Philharmonic Metadata and are aware of these guidelines by keeping intact links to the CC0 Public Domain Dedication.
 
 If for technical or other reasons you cannot include all the links to all sources of the Metadata and rights information directly with the Metadata, you should consider including them separately, for example in a separate document that is distributed with the Metadata or dataset.
 
@@ -203,4 +202,4 @@ Ensure that your use of the Metadata does not breach any national legislation ba
 
 The New York Philharmonic offers the Metadata as-is and makes no representations or warranties of any kind concerning any Metadata published by the New York Philharmonic.
 
-The writers of these guidelines are deeply indebted to the [Tate](http://www.tate.org.uk), the [Cooper-Hewitt Smithsonian National Design Museum](http://www.cooperhewitt.org/), and [Europeana](http://europeana.eu/).
+The writers of these guidelines are deeply indebted to the [Tate](https://www.tate.org.uk), the [Cooper-Hewitt Smithsonian National Design Museum](https://www.cooperhewitt.org/), and [Europeana](https://www.europeana.eu/).
