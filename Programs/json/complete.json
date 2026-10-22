@@ -1297062,6 +1297062,24 @@
       ]
     },
     {
+      "id": "",
+      "programID": "15371",
+      "damRecordID": "2TTUGPG0OLVKB",
+      "printedProgramRecordID": "",
+      "orchestra": "NYP Presentation",
+      "season": "2026-27",
+      "concerts": [
+        {
+          "eventType": "Special",
+          "Location": "Manhattan, NY",
+          "Venue": "David Geffen Hall",
+          "Date": "2025-10-03T04:00:00Z",
+          "Time": "2:00PM"
+        }
+      ],
+      "works": []
+    },
+    {
       "id": "524f7594-cfd5-4f03-8137-3e86118528b8-0.1",
       "programID": "15066",
       "damRecordID": "2TTUGPGGA60SC",
@@ -1302369,7 +1302387,18 @@
           "ID": "14378*",
           "composerName": "Traditional,",
           "workTitle": "PAJARILLO",
-          "soloists": []
+          "soloists": [
+            {
+              "soloistName": "Bandola, Mafer",
+              "soloistInstrument": "Bandola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Bandola, Mafer",
+              "soloistInstrument": "Voice",
+              "soloistRoles": "A"
+            }
+          ]
         }
       ]
     },
@@ -1308613,6 +1308642,44 @@
           "composerName": "Bernstein,  Leonard",
           "workTitle": "DIVERTIMENTO FOR ORCHESTRA",
           "movement": "Waltz",
+          "conductorName": "Dudamel, Gustavo",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "",
+      "programID": "15250",
+      "damRecordID": "2TTUGPGDM11EE",
+      "printedProgramRecordID": "",
+      "orchestra": "New York Philharmonic",
+      "season": "2026-27",
+      "concerts": [
+        {
+          "eventType": "Tour",
+          "Location": "Vienna, AUSTRIA",
+          "Venue": "Musikverein",
+          "Date": "2026-10-21T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "14125*",
+          "composerName": "Leon [León],  Tania",
+          "workTitle": "IMÁGENES MESTIZAS",
+          "conductorName": "Dudamel, Gustavo",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        },
+        {
+          "ID": "52863*",
+          "composerName": "Mahler,  Gustav",
+          "workTitle": "SYMPHONY NO. 5 IN C SHARP MINOR",
           "conductorName": "Dudamel, Gustavo",
           "soloists": []
         }
